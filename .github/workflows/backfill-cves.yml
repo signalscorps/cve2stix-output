@@ -1,0 +1,34 @@
+name: backfill-cves
+on: 
+  workflow_dispatch:
+
+jobs:
+  backfill-cves-till-2015:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        python-version: ["3.7"]
+    
+    steps:
+      - uses: actions/checkout@v3
+      - name: Run download-cves.yml workflow for each year
+        run: |
+          gh workflow run .github/workflows/download-cves.yml -f start-date=1990-01-01 -f end-date=2015-01-01
+          sleep 1.5h
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} 
+  
+  backfill-cves-after-2015:
+    needs: backfill-cves-till-2015
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        python-version: ["3.7"]
+    
+    steps:
+      - uses: actions/checkout@v3
+      - name: Run download-cves.yml workflow for each year
+      run: |
+          gh workflow run .github/workflows/download-cves.yml -f start-date=2015-01-01 -f end-date=$(printf '%(%Y-%m-%d)T\n' -1)
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} 
