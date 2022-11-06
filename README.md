@@ -1,4 +1,4 @@
-# cve2stix-data
+# cve2stix-output
 
 This script houses the STIX 2.1 output from [cve2stix script](https://github.com/signalscorps/cve2stix).
 
