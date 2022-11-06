@@ -29,8 +29,8 @@ STIX2_OBJECTS_FOLDER = REPO_FOLDER / "stix2_objects"
 STIX2_BUNDLES_FOLDER = REPO_FOLDER / "stix2_bundles"
 
 repo = git.Repo(REPO_FOLDER)
-repo.config_writer().set_value("user", "name", "cve2stix").release()
-repo.config_writer().set_value("user", "email", "cve2stix@example.com").release()
+repo.config_writer().set_value("user", "name", "Signals Corps Bot").release()
+repo.config_writer().set_value("user", "email", "github-actions@signalscorps.com").release()
 
 
 api_key = None

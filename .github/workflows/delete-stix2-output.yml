@@ -1,8 +1,8 @@
-name: delete-stix2-folder
+name: delete-stix2-output
 on: workflow_dispatch
 
 jobs:
-  delete-stix2-folder:
+  delete-stix2-output:
     runs-on: ubuntu-latest
     strategy:
       matrix:
@@ -13,8 +13,8 @@ jobs:
       - name: Delete stix2-objects and commit
         run: |
           rm -rf stix2_objects stix2_bundles
-          git config user.name cve2stix
-          git config user.email cve2stix@example.com
+          git config user.name "Signals Corps Bot"
+          git config user.email github-actions@signalscorps.com
           git add .
           git commit -m "Delete stix2-objects"
           git push origin
