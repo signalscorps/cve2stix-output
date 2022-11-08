@@ -34,7 +34,11 @@ jobs:
           pip install -r requirements.txt
       - name: Run cve2stix
         run: |
+          touch credentials.yml
+          echo "$NVD_API_KEY" > credentials.yml
           python examples/update-cves.py "${{ github.event.inputs.start-date }}" "${{ github.event.inputs.end-date }}"
+        env:
+          NVD_API_KEY: ${{ secrets.NVD_API_KEY }}
       - name: Push commits to repo
         run: |
           git push origin
