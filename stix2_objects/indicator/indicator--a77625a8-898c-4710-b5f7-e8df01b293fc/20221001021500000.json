@@ -1,0 +1,38 @@
+{
+    "type": "indicator",
+    "spec_version": "2.1",
+    "id": "indicator--a77625a8-898c-4710-b5f7-e8df01b293fc",
+    "created_by_ref": "identity--748e6444-f073-4c50-b558-f49be8897a81",
+    "created": "2022-09-13T19:15:00.000Z",
+    "modified": "2022-10-01T02:15:00.000Z",
+    "name": "CVE-2022-39206",
+    "description": "Onedev is an open source, self-hosted Git Server with CI/CD and Kanban. When using Docker-based job executors, the Docker socket (e.g. /var/run/docker.sock on Linux) is mounted into each Docker step. Users that can define and trigger CI/CD jobs on a project could use this to control the Docker daemon on the host machine. This is a known dangerous pattern, as it can be used to break out of Docker containers and, in most cases, gain root privileges on the host system. This issue allows regular (non-admin) users to potentially take over the build infrastructure of a OneDev instance. Attackers need to have an account (or be able to register one) and need permission to create a project. Since code.onedev.io has the right preconditions for this to be exploited by remote attackers, it could have been used to hijack builds of OneDev itself, e.g. by injecting malware into the docker images that are built and pushed to Docker Hub. The impact is increased by this as described before. Users are advised to upgrade to 7.3.0 or higher. There are no known workarounds for this issue.",
+    "indicator_types": [
+        "compromised"
+    ],
+    "pattern": "[(software:cpe='cpe:2.3:a:onedev_project:onedev:*:*:*:*:*:*:*:*')]",
+    "pattern_type": "stix",
+    "pattern_version": "2.1",
+    "valid_from": "2022-09-13T19:15:00Z",
+    "external_references": [
+        {
+            "source_name": "cve2stix",
+            "description": "This object was created using cve2stix from the Signals Corps.",
+            "url": "https://github.com/signalscorps/cve2stix"
+        }
+    ],
+    "object_marking_refs": [
+        "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
+    ],
+    "extensions": {
+        "extension-definition--b463c449-d022-48b7-b464-3e9c7ec5cf16": {
+            "all_cpe23uris": [
+                "cpe:2.3:a:onedev_project:onedev:*:*:*:*:*:*:*:*"
+            ],
+            "extension_type": "property-extension",
+            "vulnerable_cpeid": [
+                "cpe:2.3:a:onedev_project:onedev:*:*:*:*:*:*:*:*"
+            ]
+        }
+    }
+}

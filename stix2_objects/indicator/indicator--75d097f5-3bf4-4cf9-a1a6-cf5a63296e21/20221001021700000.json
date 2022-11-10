@@ -1,0 +1,38 @@
+{
+    "type": "indicator",
+    "spec_version": "2.1",
+    "id": "indicator--75d097f5-3bf4-4cf9-a1a6-cf5a63296e21",
+    "created_by_ref": "identity--748e6444-f073-4c50-b558-f49be8897a81",
+    "created": "2022-09-13T19:15:00.000Z",
+    "modified": "2022-10-01T02:17:00.000Z",
+    "name": "CVE-2022-39207",
+    "description": "Onedev is an open source, self-hosted Git Server with CI/CD and Kanban. During CI/CD builds, it is possible to save build artifacts for later retrieval. They can be accessed through OneDev's web UI after the successful run of a build. These artifact files are served by the webserver in the same context as the UI without any further restrictions. This leads to Cross-Site Scripting (XSS) when a user creates a build artifact that contains HTML. When accessing the artifact, the content is rendered by the browser, including any JavaScript that it contains. Since all cookies (except for the rememberMe one) do not set the HttpOnly flag, an attacker could steal the session of a victim and use it to impersonate them. To exploit this issue, attackers need to be able to modify the content of artifacts, which usually means they need to be able to modify a project's build spec. The exploitation requires the victim to click on an attacker's link. It can be used to elevate privileges by targeting admins of a OneDev instance. In the worst case, this can lead to arbitrary code execution on the server, because admins can create Server Shell Executors and use them to run any command on the server. This issue has been patched in version 7.3.0. Users are advised to upgrade. There are no known workarounds for this issue.",
+    "indicator_types": [
+        "compromised"
+    ],
+    "pattern": "[(software:cpe='cpe:2.3:a:onedev_project:onedev:*:*:*:*:*:*:*:*')]",
+    "pattern_type": "stix",
+    "pattern_version": "2.1",
+    "valid_from": "2022-09-13T19:15:00Z",
+    "external_references": [
+        {
+            "source_name": "cve2stix",
+            "description": "This object was created using cve2stix from the Signals Corps.",
+            "url": "https://github.com/signalscorps/cve2stix"
+        }
+    ],
+    "object_marking_refs": [
+        "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
+    ],
+    "extensions": {
+        "extension-definition--b463c449-d022-48b7-b464-3e9c7ec5cf16": {
+            "all_cpe23uris": [
+                "cpe:2.3:a:onedev_project:onedev:*:*:*:*:*:*:*:*"
+            ],
+            "extension_type": "property-extension",
+            "vulnerable_cpeid": [
+                "cpe:2.3:a:onedev_project:onedev:*:*:*:*:*:*:*:*"
+            ]
+        }
+    }
+}

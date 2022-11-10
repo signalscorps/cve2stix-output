@@ -1,0 +1,38 @@
+{
+    "type": "indicator",
+    "spec_version": "2.1",
+    "id": "indicator--5e708a62-4eff-45b8-8876-68b0deb7b16a",
+    "created_by_ref": "identity--748e6444-f073-4c50-b558-f49be8897a81",
+    "created": "2022-07-23T03:15:00.000Z",
+    "modified": "2022-08-02T15:53:00.000Z",
+    "name": "CVE-2022-36414",
+    "description": "There is an elevation of privilege breakout vulnerability in the Windows EXE installer in Scooter Beyond Compare 4.2.0 through 4.4.2 before 4.4.3. Affected versions allow a logged-in user to run applications with elevated privileges via the Clipboard Compare tray app after installation.",
+    "indicator_types": [
+        "compromised"
+    ],
+    "pattern": "[(software:cpe='cpe:2.3:a:scootersoftware:beyond_compare:*:*:*:*:*:*:*:*')]",
+    "pattern_type": "stix",
+    "pattern_version": "2.1",
+    "valid_from": "2022-07-23T03:15:00Z",
+    "external_references": [
+        {
+            "source_name": "cve2stix",
+            "description": "This object was created using cve2stix from the Signals Corps.",
+            "url": "https://github.com/signalscorps/cve2stix"
+        }
+    ],
+    "object_marking_refs": [
+        "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
+    ],
+    "extensions": {
+        "extension-definition--b463c449-d022-48b7-b464-3e9c7ec5cf16": {
+            "all_cpe23uris": [
+                "cpe:2.3:a:scootersoftware:beyond_compare:*:*:*:*:*:*:*:*"
+            ],
+            "extension_type": "property-extension",
+            "vulnerable_cpeid": [
+                "cpe:2.3:a:scootersoftware:beyond_compare:*:*:*:*:*:*:*:*"
+            ]
+        }
+    }
+}

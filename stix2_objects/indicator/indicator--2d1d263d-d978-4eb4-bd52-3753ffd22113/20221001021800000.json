@@ -1,0 +1,42 @@
+{
+    "type": "indicator",
+    "spec_version": "2.1",
+    "id": "indicator--2d1d263d-d978-4eb4-bd52-3753ffd22113",
+    "created_by_ref": "identity--748e6444-f073-4c50-b558-f49be8897a81",
+    "created": "2022-09-05T17:15:00.000Z",
+    "modified": "2022-10-01T02:18:00.000Z",
+    "name": "CVE-2021-28398",
+    "description": "A privileged attacker in GeoNetwork before 3.12.0 and 4.x before 4.0.4 can use the directory harvester before-script to execute arbitrary OS commands remotely on the hosting infrastructure. A User Administrator or Administrator account is required to perform this. This occurs in the runBeforeScript method in harvesters/src/main/java/org/fao/geonet/kernel/harvest/harvester/localfilesystem/LocalFilesystemHarvester.java. The earliest affected version is 3.4.0.",
+    "indicator_types": [
+        "compromised"
+    ],
+    "pattern": "[(software:cpe='cpe:2.3:a:osgeo:geonetwork:*:*:*:*:*:*:*:*' OR software:cpe='cpe:2.3:a:osgeo:geonetwork:*:*:*:*:*:*:*:*' OR software:cpe='cpe:2.3:a:osgeo:geonetwork:4.0.0:alpha2:*:*:*:*:*:*' OR software:cpe='cpe:2.3:a:osgeo:geonetwork:4.0.0:alpha1:*:*:*:*:*:*')]",
+    "pattern_type": "stix",
+    "pattern_version": "2.1",
+    "valid_from": "2022-09-05T17:15:00Z",
+    "external_references": [
+        {
+            "source_name": "cve2stix",
+            "description": "This object was created using cve2stix from the Signals Corps.",
+            "url": "https://github.com/signalscorps/cve2stix"
+        }
+    ],
+    "object_marking_refs": [
+        "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
+    ],
+    "extensions": {
+        "extension-definition--b463c449-d022-48b7-b464-3e9c7ec5cf16": {
+            "all_cpe23uris": [
+                "cpe:2.3:a:osgeo:geonetwork:*:*:*:*:*:*:*:*",
+                "cpe:2.3:a:osgeo:geonetwork:4.0.0:alpha2:*:*:*:*:*:*",
+                "cpe:2.3:a:osgeo:geonetwork:4.0.0:alpha1:*:*:*:*:*:*"
+            ],
+            "extension_type": "property-extension",
+            "vulnerable_cpeid": [
+                "cpe:2.3:a:osgeo:geonetwork:*:*:*:*:*:*:*:*",
+                "cpe:2.3:a:osgeo:geonetwork:4.0.0:alpha2:*:*:*:*:*:*",
+                "cpe:2.3:a:osgeo:geonetwork:4.0.0:alpha1:*:*:*:*:*:*"
+            ]
+        }
+    }
+}

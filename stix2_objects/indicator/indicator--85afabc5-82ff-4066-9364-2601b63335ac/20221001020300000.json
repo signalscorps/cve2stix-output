@@ -1,0 +1,44 @@
+{
+    "type": "indicator",
+    "spec_version": "2.1",
+    "id": "indicator--85afabc5-82ff-4066-9364-2601b63335ac",
+    "created_by_ref": "identity--748e6444-f073-4c50-b558-f49be8897a81",
+    "created": "2020-12-09T21:15:00.000Z",
+    "modified": "2022-10-01T02:03:00.000Z",
+    "name": "CVE-2020-16592",
+    "description": "A use after free issue exists in the Binary File Descriptor (BFD) library (aka libbfd) in GNU Binutils 2.34 in bfd_hash_lookup, as demonstrated in nm-new, that can cause a denial of service via a crafted file.",
+    "indicator_types": [
+        "compromised"
+    ],
+    "pattern": "[(software:cpe='cpe:2.3:a:gnu:binutils:2.34:*:*:*:*:*:*:*') OR (software:cpe='cpe:2.3:a:netapp:ontap_select_deploy_administration_utility:-:*:*:*:*:*:*:*') OR (software:cpe='cpe:2.3:o:fedoraproject:fedora:32:*:*:*:*:*:*:*' OR software:cpe='cpe:2.3:o:fedoraproject:fedora:33:*:*:*:*:*:*:*')]",
+    "pattern_type": "stix",
+    "pattern_version": "2.1",
+    "valid_from": "2020-12-09T21:15:00Z",
+    "external_references": [
+        {
+            "source_name": "cve2stix",
+            "description": "This object was created using cve2stix from the Signals Corps.",
+            "url": "https://github.com/signalscorps/cve2stix"
+        }
+    ],
+    "object_marking_refs": [
+        "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
+    ],
+    "extensions": {
+        "extension-definition--b463c449-d022-48b7-b464-3e9c7ec5cf16": {
+            "all_cpe23uris": [
+                "cpe:2.3:o:fedoraproject:fedora:33:*:*:*:*:*:*:*",
+                "cpe:2.3:a:netapp:ontap_select_deploy_administration_utility:-:*:*:*:*:*:*:*",
+                "cpe:2.3:a:gnu:binutils:2.34:*:*:*:*:*:*:*",
+                "cpe:2.3:o:fedoraproject:fedora:32:*:*:*:*:*:*:*"
+            ],
+            "extension_type": "property-extension",
+            "vulnerable_cpeid": [
+                "cpe:2.3:o:fedoraproject:fedora:33:*:*:*:*:*:*:*",
+                "cpe:2.3:a:netapp:ontap_select_deploy_administration_utility:-:*:*:*:*:*:*:*",
+                "cpe:2.3:a:gnu:binutils:2.34:*:*:*:*:*:*:*",
+                "cpe:2.3:o:fedoraproject:fedora:32:*:*:*:*:*:*:*"
+            ]
+        }
+    }
+}
