@@ -36,7 +36,7 @@ jobs:
         run: |
           touch credentials.yml
           echo "$NVD_API_KEY" > credentials.yml
-          python scripts/update-cves.py "${{ github.event.inputs.start-date }}" "${{ github.event.inputs.end-date }}"
+          python scripts/update-cves.py ${{ github.event.inputs.start-date || 'yesterday' }} ${{ github.event.inputs.end-date || 'today' }}
         env:
           NVD_API_KEY: ${{ secrets.NVD_API_KEY }}
       - name: Push commits to repo
