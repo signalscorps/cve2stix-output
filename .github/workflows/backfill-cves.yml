@@ -8,7 +8,6 @@ jobs:
     strategy:
       matrix:
         python-version: ["3.7"]
-    
     steps:
       - uses: actions/checkout@v3
       - name: Run download-cves.yml workflow for each year
@@ -24,11 +23,10 @@ jobs:
     strategy:
       matrix:
         python-version: ["3.7"]
-    
     steps:
       - uses: actions/checkout@v3
       - name: Run download-cves.yml workflow for each year
-      run: |
+        run: |
           gh workflow run .github/workflows/download-cves.yml -f start-date=2015-01-01 -f end-date=$(printf '%(%Y-%m-%d)T\n' -1)
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} 
