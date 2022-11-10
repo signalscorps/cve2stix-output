@@ -1,0 +1,44 @@
+{
+    "type": "indicator",
+    "spec_version": "2.1",
+    "id": "indicator--f5e5b2d3-ac2c-442c-8bc3-735408959a5c",
+    "created_by_ref": "identity--748e6444-f073-4c50-b558-f49be8897a81",
+    "created": "2022-11-01T20:15:00.000Z",
+    "modified": "2022-11-03T12:52:00.000Z",
+    "name": "CVE-2022-42817",
+    "description": "A logic issue was addressed with improved state management. This issue is fixed in iOS 15.7.1 and iPadOS 15.7.1, iOS 16.1 and iPadOS 16, watchOS 9.1. Visiting a maliciously crafted website may leak sensitive data.",
+    "indicator_types": [
+        "compromised"
+    ],
+    "pattern": "[(software:cpe='cpe:2.3:o:apple:iphone_os:16.0:*:*:*:*:*:*:*' OR software:cpe='cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*' OR software:cpe='cpe:2.3:o:apple:iphone_os:*:*:*:*:*:*:*:*' OR software:cpe='cpe:2.3:o:apple:ipados:*:*:*:*:*:*:*:*')]",
+    "pattern_type": "stix",
+    "pattern_version": "2.1",
+    "valid_from": "2022-11-01T20:15:00Z",
+    "external_references": [
+        {
+            "source_name": "cve2stix",
+            "description": "This object was created using cve2stix from the Signals Corps.",
+            "url": "https://github.com/signalscorps/cve2stix"
+        }
+    ],
+    "object_marking_refs": [
+        "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
+    ],
+    "extensions": {
+        "extension-definition--b463c449-d022-48b7-b464-3e9c7ec5cf16": {
+            "all_cpe23uris": [
+                "cpe:2.3:o:apple:ipados:*:*:*:*:*:*:*:*",
+                "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
+                "cpe:2.3:o:apple:iphone_os:*:*:*:*:*:*:*:*",
+                "cpe:2.3:o:apple:iphone_os:16.0:*:*:*:*:*:*:*"
+            ],
+            "extension_type": "property-extension",
+            "vulnerable_cpeid": [
+                "cpe:2.3:o:apple:ipados:*:*:*:*:*:*:*:*",
+                "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
+                "cpe:2.3:o:apple:iphone_os:*:*:*:*:*:*:*:*",
+                "cpe:2.3:o:apple:iphone_os:16.0:*:*:*:*:*:*:*"
+            ]
+        }
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "type": "indicator",
+    "spec_version": "2.1",
+    "id": "indicator--839bee4d-aff1-4dc2-a417-b4e508de3d6a",
+    "created_by_ref": "identity--748e6444-f073-4c50-b558-f49be8897a81",
+    "created": "2022-11-01T19:15:00.000Z",
+    "modified": "2022-11-02T15:38:00.000Z",
+    "name": "CVE-2022-43362",
+    "description": "Senayan Library Management System v9.4.2 was discovered to contain a SQL injection vulnerability via the collType parameter at loan_by_class.php.",
+    "indicator_types": [
+        "compromised"
+    ],
+    "pattern": "[(software:cpe='cpe:2.3:a:slims:senayan_library_management_system:9.4.2:*:*:*:*:*:*:*')]",
+    "pattern_type": "stix",
+    "pattern_version": "2.1",
+    "valid_from": "2022-11-01T19:15:00Z",
+    "external_references": [
+        {
+            "source_name": "cve2stix",
+            "description": "This object was created using cve2stix from the Signals Corps.",
+            "url": "https://github.com/signalscorps/cve2stix"
+        }
+    ],
+    "object_marking_refs": [
+        "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
+    ],
+    "extensions": {
+        "extension-definition--b463c449-d022-48b7-b464-3e9c7ec5cf16": {
+            "all_cpe23uris": [
+                "cpe:2.3:a:slims:senayan_library_management_system:9.4.2:*:*:*:*:*:*:*"
+            ],
+            "extension_type": "property-extension",
+            "vulnerable_cpeid": [
+                "cpe:2.3:a:slims:senayan_library_management_system:9.4.2:*:*:*:*:*:*:*"
+            ]
+        }
+    }
+}

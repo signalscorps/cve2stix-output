@@ -1,0 +1,57 @@
+{
+    "type": "indicator",
+    "spec_version": "2.1",
+    "id": "indicator--ca002349-b2d7-4822-b823-f9179026a28a",
+    "created_by_ref": "identity--748e6444-f073-4c50-b558-f49be8897a81",
+    "created": "2022-11-01T21:15:00.000Z",
+    "modified": "2022-11-03T16:23:00.000Z",
+    "name": "CVE-2022-27582",
+    "description": "Password recovery vulnerability in SICK SICK SIM4000 (PPC) Partnumber 1078787 allows an unprivileged remote attacker to gain access to the userlevel defined as RecoverableUserLevel by invocating the password recovery mechanism method. This leads to a increase in their privileges on the system and thereby affecting the confidentiality integrity and availability of the system. An attacker can expect repeatable success by exploiting the vulnerability. Please make sure that you apply general security practices when operating the SIM4000. The following general security practices could mitigate the associated security risk. A fix is planned but not yet scheduled.",
+    "indicator_types": [
+        "compromised"
+    ],
+    "pattern": "[((software:cpe='cpe:2.3:o:sick:sim2000_firmware:*:*:*:*:*:*:*:*') AND (software:cpe='cpe:2.3:h:sick:sim2000:-:*:*:*:*:*:*:*')) OR ((software:cpe='cpe:2.3:o:sick:sim2000st_firmware:*:*:*:*:*:*:*:*') AND (software:cpe='cpe:2.3:h:sick:sim2000st:-:*:*:*:*:*:*:*')) OR ((software:cpe='cpe:2.3:o:sick:sim2500_firmware:*:*:*:*:*:*:*:*') AND (software:cpe='cpe:2.3:h:sick:sim2500:-:*:*:*:*:*:*:*')) OR ((software:cpe='cpe:2.3:o:sick:sim1012_firmware:*:*:*:*:*:*:*:*') AND (software:cpe='cpe:2.3:h:sick:sim1012:-:*:*:*:*:*:*:*')) OR ((software:cpe='cpe:2.3:o:sick:sim1004_firmware:*:*:*:*:*:*:*:*') AND (software:cpe='cpe:2.3:h:sick:sim1004:-:*:*:*:*:*:*:*')) OR ((software:cpe='cpe:2.3:o:sick:sim1000_fx_firmware:*:*:*:*:*:*:*:*') AND (software:cpe='cpe:2.3:h:sick:sim1000_fx:-:*:*:*:*:*:*:*')) OR ((software:cpe='cpe:2.3:o:sick:sim4000_firmware:*:*:*:*:*:*:*:*') AND (software:cpe='cpe:2.3:h:sick:sim4000:-:*:*:*:*:*:*:*'))]",
+    "pattern_type": "stix",
+    "pattern_version": "2.1",
+    "valid_from": "2022-11-01T21:15:00Z",
+    "external_references": [
+        {
+            "source_name": "cve2stix",
+            "description": "This object was created using cve2stix from the Signals Corps.",
+            "url": "https://github.com/signalscorps/cve2stix"
+        }
+    ],
+    "object_marking_refs": [
+        "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
+    ],
+    "extensions": {
+        "extension-definition--b463c449-d022-48b7-b464-3e9c7ec5cf16": {
+            "all_cpe23uris": [
+                "cpe:2.3:h:sick:sim1004:-:*:*:*:*:*:*:*",
+                "cpe:2.3:h:sick:sim2000st:-:*:*:*:*:*:*:*",
+                "cpe:2.3:h:sick:sim1000_fx:-:*:*:*:*:*:*:*",
+                "cpe:2.3:h:sick:sim1012:-:*:*:*:*:*:*:*",
+                "cpe:2.3:h:sick:sim4000:-:*:*:*:*:*:*:*",
+                "cpe:2.3:h:sick:sim2000:-:*:*:*:*:*:*:*",
+                "cpe:2.3:o:sick:sim1004_firmware:*:*:*:*:*:*:*:*",
+                "cpe:2.3:o:sick:sim2000st_firmware:*:*:*:*:*:*:*:*",
+                "cpe:2.3:o:sick:sim2000_firmware:*:*:*:*:*:*:*:*",
+                "cpe:2.3:o:sick:sim1000_fx_firmware:*:*:*:*:*:*:*:*",
+                "cpe:2.3:o:sick:sim1012_firmware:*:*:*:*:*:*:*:*",
+                "cpe:2.3:o:sick:sim4000_firmware:*:*:*:*:*:*:*:*",
+                "cpe:2.3:o:sick:sim2500_firmware:*:*:*:*:*:*:*:*",
+                "cpe:2.3:h:sick:sim2500:-:*:*:*:*:*:*:*"
+            ],
+            "extension_type": "property-extension",
+            "vulnerable_cpeid": [
+                "cpe:2.3:o:sick:sim1004_firmware:*:*:*:*:*:*:*:*",
+                "cpe:2.3:o:sick:sim2000st_firmware:*:*:*:*:*:*:*:*",
+                "cpe:2.3:o:sick:sim2000_firmware:*:*:*:*:*:*:*:*",
+                "cpe:2.3:o:sick:sim1000_fx_firmware:*:*:*:*:*:*:*:*",
+                "cpe:2.3:o:sick:sim1012_firmware:*:*:*:*:*:*:*:*",
+                "cpe:2.3:o:sick:sim4000_firmware:*:*:*:*:*:*:*:*",
+                "cpe:2.3:o:sick:sim2500_firmware:*:*:*:*:*:*:*:*"
+            ]
+        }
+    }
+}
