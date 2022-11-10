@@ -1,0 +1,81 @@
+{
+    "type": "indicator",
+    "spec_version": "2.1",
+    "id": "indicator--c9114354-f628-40f9-8ba7-ce8983262e52",
+    "created_by_ref": "identity--748e6444-f073-4c50-b558-f49be8897a81",
+    "created": "2022-07-12T10:15:00.000Z",
+    "modified": "2022-08-10T12:25:00.000Z",
+    "name": "CVE-2022-34821",
+    "description": "A vulnerability has been identified in SIMATIC CP 1242-7 V2 (All versions < V3.3.46), SIMATIC CP 1243-1 (All versions < V3.3.46), SIMATIC CP 1243-7 LTE EU (All versions < V3.3.46), SIMATIC CP 1243-7 LTE US (All versions < V3.3.46), SIMATIC CP 1243-8 IRC (All versions < V3.3.46), SIMATIC CP 1542SP-1 IRC (All versions >= V2.0), SIMATIC CP 1543-1 (All versions < V3.0.22), SIMATIC CP 1543SP-1 (All versions >= V2.0), SIPLUS ET 200SP CP 1542SP-1 IRC TX RAIL (All versions >= V2.0), SIPLUS ET 200SP CP 1543SP-1 ISEC (All versions >= V2.0), SIPLUS ET 200SP CP 1543SP-1 ISEC TX RAIL (All versions >= V2.0), SIPLUS NET CP 1242-7 V2 (All versions < V3.3.46), SIPLUS NET CP 1543-1 (All versions < V3.0.22), SIPLUS S7-1200 CP 1243-1 (All versions < V3.3.46), SIPLUS S7-1200 CP 1243-1 RAIL (All versions < V3.3.46). By injecting code to specific configuration options for OpenVPN, an attacker could execute arbitrary code with elevated privileges.",
+    "indicator_types": [
+        "compromised"
+    ],
+    "pattern": "[((software:cpe='cpe:2.3:o:siemens:simatic_cp_1242-7_v2_firmware:*:*:*:*:*:*:*:*') AND (software:cpe='cpe:2.3:h:siemens:simatic_cp_1242-7_v2:-:*:*:*:*:*:*:*')) OR ((software:cpe='cpe:2.3:o:siemens:simatic_cp_1243-1_firmware:*:*:*:*:*:*:*:*') AND (software:cpe='cpe:2.3:h:siemens:simatic_cp_1243-1:-:*:*:*:*:*:*:*')) OR ((software:cpe='cpe:2.3:o:siemens:simatic_cp_1243-7_lte_eu_firmware:*:*:*:*:*:*:*:*') AND (software:cpe='cpe:2.3:h:siemens:simatic_cp_1243-7_lte_eu:-:*:*:*:*:*:*:*')) OR ((software:cpe='cpe:2.3:o:siemens:simatic_cp_1243-7_lte_us_firmware:*:*:*:*:*:*:*:*') AND (software:cpe='cpe:2.3:h:siemens:simatic_cp_1243-7_lte_us:-:*:*:*:*:*:*:*')) OR ((software:cpe='cpe:2.3:o:siemens:simatic_cp_1243-8_irc_firmware:*:*:*:*:*:*:*:*') AND (software:cpe='cpe:2.3:h:siemens:simatic_cp_1243-8_irc:-:*:*:*:*:*:*:*')) OR ((software:cpe='cpe:2.3:o:siemens:simatic_cp_1542sp-1_irc_firmware:*:*:*:*:*:*:*:*') AND (software:cpe='cpe:2.3:h:siemens:simatic_cp_1542sp-1_irc:-:*:*:*:*:*:*:*')) OR ((software:cpe='cpe:2.3:o:siemens:simatic_cp_1543-1_firmware:*:*:*:*:*:*:*:*') AND (software:cpe='cpe:2.3:h:siemens:simatic_cp_1543-1:-:*:*:*:*:*:*:*')) OR ((software:cpe='cpe:2.3:o:siemens:simatic_cp_1543sp-1_firmware:*:*:*:*:*:*:*:*') AND (software:cpe='cpe:2.3:h:siemens:simatic_cp_1543sp-1:-:*:*:*:*:*:*:*')) OR ((software:cpe='cpe:2.3:o:siemens:siplus_et_200sp_cp_1542sp-1_irc_tx_rail_firmware:*:*:*:*:*:*:*:*') AND (software:cpe='cpe:2.3:h:siemens:siplus_et_200sp_cp_1542sp-1_irc_tx_rail:-:*:*:*:*:*:*:*')) OR ((software:cpe='cpe:2.3:o:siemens:siplus_et_200sp_cp_1543sp-1_isec_firmware:*:*:*:*:*:*:*:*') AND (software:cpe='cpe:2.3:h:siemens:siplus_et_200sp_cp_1543sp-1_isec:-:*:*:*:*:*:*:*')) OR ((software:cpe='cpe:2.3:o:siemens:siplus_et_200sp_cp_1543sp-1_isec_tx_rail_firmware:*:*:*:*:*:*:*:*') AND (software:cpe='cpe:2.3:h:siemens:siplus_et_200sp_cp_1543sp-1_isec_tx_rail:-:*:*:*:*:*:*:*')) OR ((software:cpe='cpe:2.3:o:siemens:siplus_net_cp_1242-7_v2_firmware:*:*:*:*:*:*:*:*') AND (software:cpe='cpe:2.3:h:siemens:siplus_net_cp_1242-7_v2:-:*:*:*:*:*:*:*')) OR ((software:cpe='cpe:2.3:o:siemens:siplus_net_cp_1543-1_firmware:*:*:*:*:*:*:*:*') AND (software:cpe='cpe:2.3:h:siemens:siplus_net_cp_1543-1:-:*:*:*:*:*:*:*')) OR ((software:cpe='cpe:2.3:o:siemens:siplus_s7-1200_cp_1243-1_firmware:*:*:*:*:*:*:*:*') AND (software:cpe='cpe:2.3:h:siemens:siplus_s7-1200_cp_1243-1:-:*:*:*:*:*:*:*')) OR ((software:cpe='cpe:2.3:o:siemens:siplus_s7-1200_cp_1243-1_rail_firmware:*:*:*:*:*:*:*:*') AND (software:cpe='cpe:2.3:h:siemens:siplus_s7-1200_cp_1243-1_rail:-:*:*:*:*:*:*:*'))]",
+    "pattern_type": "stix",
+    "pattern_version": "2.1",
+    "valid_from": "2022-07-12T10:15:00Z",
+    "external_references": [
+        {
+            "source_name": "cve2stix",
+            "description": "This object was created using cve2stix from the Signals Corps.",
+            "url": "https://github.com/signalscorps/cve2stix"
+        }
+    ],
+    "object_marking_refs": [
+        "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
+    ],
+    "extensions": {
+        "extension-definition--b463c449-d022-48b7-b464-3e9c7ec5cf16": {
+            "all_cpe23uris": [
+                "cpe:2.3:o:siemens:simatic_cp_1543-1_firmware:*:*:*:*:*:*:*:*",
+                "cpe:2.3:o:siemens:siplus_et_200sp_cp_1543sp-1_isec_firmware:*:*:*:*:*:*:*:*",
+                "cpe:2.3:h:siemens:siplus_et_200sp_cp_1543sp-1_isec_tx_rail:-:*:*:*:*:*:*:*",
+                "cpe:2.3:h:siemens:siplus_net_cp_1543-1:-:*:*:*:*:*:*:*",
+                "cpe:2.3:o:siemens:siplus_et_200sp_cp_1542sp-1_irc_tx_rail_firmware:*:*:*:*:*:*:*:*",
+                "cpe:2.3:o:siemens:simatic_cp_1243-1_firmware:*:*:*:*:*:*:*:*",
+                "cpe:2.3:o:siemens:siplus_et_200sp_cp_1543sp-1_isec_tx_rail_firmware:*:*:*:*:*:*:*:*",
+                "cpe:2.3:o:siemens:simatic_cp_1243-8_irc_firmware:*:*:*:*:*:*:*:*",
+                "cpe:2.3:h:siemens:simatic_cp_1243-7_lte_eu:-:*:*:*:*:*:*:*",
+                "cpe:2.3:h:siemens:siplus_s7-1200_cp_1243-1:-:*:*:*:*:*:*:*",
+                "cpe:2.3:h:siemens:simatic_cp_1543sp-1:-:*:*:*:*:*:*:*",
+                "cpe:2.3:o:siemens:simatic_cp_1242-7_v2_firmware:*:*:*:*:*:*:*:*",
+                "cpe:2.3:h:siemens:siplus_net_cp_1242-7_v2:-:*:*:*:*:*:*:*",
+                "cpe:2.3:o:siemens:simatic_cp_1542sp-1_irc_firmware:*:*:*:*:*:*:*:*",
+                "cpe:2.3:h:siemens:siplus_s7-1200_cp_1243-1_rail:-:*:*:*:*:*:*:*",
+                "cpe:2.3:o:siemens:siplus_s7-1200_cp_1243-1_firmware:*:*:*:*:*:*:*:*",
+                "cpe:2.3:o:siemens:simatic_cp_1543sp-1_firmware:*:*:*:*:*:*:*:*",
+                "cpe:2.3:h:siemens:simatic_cp_1242-7_v2:-:*:*:*:*:*:*:*",
+                "cpe:2.3:o:siemens:siplus_net_cp_1242-7_v2_firmware:*:*:*:*:*:*:*:*",
+                "cpe:2.3:h:siemens:simatic_cp_1543-1:-:*:*:*:*:*:*:*",
+                "cpe:2.3:h:siemens:siplus_et_200sp_cp_1543sp-1_isec:-:*:*:*:*:*:*:*",
+                "cpe:2.3:o:siemens:simatic_cp_1243-7_lte_eu_firmware:*:*:*:*:*:*:*:*",
+                "cpe:2.3:h:siemens:siplus_et_200sp_cp_1542sp-1_irc_tx_rail:-:*:*:*:*:*:*:*",
+                "cpe:2.3:h:siemens:simatic_cp_1243-1:-:*:*:*:*:*:*:*",
+                "cpe:2.3:h:siemens:simatic_cp_1542sp-1_irc:-:*:*:*:*:*:*:*",
+                "cpe:2.3:o:siemens:siplus_s7-1200_cp_1243-1_rail_firmware:*:*:*:*:*:*:*:*",
+                "cpe:2.3:o:siemens:simatic_cp_1243-7_lte_us_firmware:*:*:*:*:*:*:*:*",
+                "cpe:2.3:o:siemens:siplus_net_cp_1543-1_firmware:*:*:*:*:*:*:*:*",
+                "cpe:2.3:h:siemens:simatic_cp_1243-8_irc:-:*:*:*:*:*:*:*",
+                "cpe:2.3:h:siemens:simatic_cp_1243-7_lte_us:-:*:*:*:*:*:*:*"
+            ],
+            "extension_type": "property-extension",
+            "vulnerable_cpeid": [
+                "cpe:2.3:o:siemens:simatic_cp_1543-1_firmware:*:*:*:*:*:*:*:*",
+                "cpe:2.3:o:siemens:siplus_et_200sp_cp_1543sp-1_isec_firmware:*:*:*:*:*:*:*:*",
+                "cpe:2.3:o:siemens:siplus_s7-1200_cp_1243-1_rail_firmware:*:*:*:*:*:*:*:*",
+                "cpe:2.3:o:siemens:simatic_cp_1243-7_lte_us_firmware:*:*:*:*:*:*:*:*",
+                "cpe:2.3:o:siemens:siplus_net_cp_1242-7_v2_firmware:*:*:*:*:*:*:*:*",
+                "cpe:2.3:o:siemens:simatic_cp_1242-7_v2_firmware:*:*:*:*:*:*:*:*",
+                "cpe:2.3:o:siemens:siplus_et_200sp_cp_1542sp-1_irc_tx_rail_firmware:*:*:*:*:*:*:*:*",
+                "cpe:2.3:o:siemens:siplus_net_cp_1543-1_firmware:*:*:*:*:*:*:*:*",
+                "cpe:2.3:o:siemens:simatic_cp_1542sp-1_irc_firmware:*:*:*:*:*:*:*:*",
+                "cpe:2.3:o:siemens:simatic_cp_1243-1_firmware:*:*:*:*:*:*:*:*",
+                "cpe:2.3:o:siemens:siplus_et_200sp_cp_1543sp-1_isec_tx_rail_firmware:*:*:*:*:*:*:*:*",
+                "cpe:2.3:o:siemens:simatic_cp_1243-8_irc_firmware:*:*:*:*:*:*:*:*",
+                "cpe:2.3:o:siemens:siplus_s7-1200_cp_1243-1_firmware:*:*:*:*:*:*:*:*",
+                "cpe:2.3:o:siemens:simatic_cp_1243-7_lte_eu_firmware:*:*:*:*:*:*:*:*",
+                "cpe:2.3:o:siemens:simatic_cp_1543sp-1_firmware:*:*:*:*:*:*:*:*"
+            ]
+        }
+    }
+}

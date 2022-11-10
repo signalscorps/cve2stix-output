@@ -1,0 +1,48 @@
+{
+    "type": "indicator",
+    "spec_version": "2.1",
+    "id": "indicator--ace17c45-d077-4540-a478-6799b5eca2df",
+    "created_by_ref": "identity--748e6444-f073-4c50-b558-f49be8897a81",
+    "created": "2021-07-28T10:15:00.000Z",
+    "modified": "2022-11-09T15:15:00.000Z",
+    "name": "CVE-2021-32001",
+    "description": "K3s in SUSE Rancher allows any user with direct access to the datastore, or a copy of a datastore backup, to extract the cluster's confidential keying material (cluster certificate authority private keys, secrets encryption configuration passphrase, etc.) and decrypt it, without having to know the token value. This issue affects: SUSE Rancher K3s version v1.19.12+k3s1, v1.20.8+k3s1, v1.21.2+k3s1 and prior versions; RKE2 version v1.19.12+rke2r1, v1.20.8+rke2r1, v1.21.2+rke2r1 and prior versions.",
+    "indicator_types": [
+        "compromised"
+    ],
+    "pattern": "[(software:cpe='cpe:2.3:a:suse:rancher_rke2:1.20.8:*:*:*:*:*:*:*' OR software:cpe='cpe:2.3:a:suse:rancher_rke2:1.21.2:*:*:*:*:*:*:*' OR software:cpe='cpe:2.3:a:suse:rancher_rke2:1.19.12:*:*:*:*:*:*:*' OR software:cpe='cpe:2.3:a:suse:rancher_k3s:1.20.8:*:*:*:*:*:*:*' OR software:cpe='cpe:2.3:a:suse:rancher_k3s:1.21.2:*:*:*:*:*:*:*' OR software:cpe='cpe:2.3:a:suse:rancher_k3s:1.19.12:*:*:*:*:*:*:*')]",
+    "pattern_type": "stix",
+    "pattern_version": "2.1",
+    "valid_from": "2021-07-28T10:15:00Z",
+    "external_references": [
+        {
+            "source_name": "cve2stix",
+            "description": "This object was created using cve2stix from the Signals Corps.",
+            "url": "https://github.com/signalscorps/cve2stix"
+        }
+    ],
+    "object_marking_refs": [
+        "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
+    ],
+    "extensions": {
+        "extension-definition--b463c449-d022-48b7-b464-3e9c7ec5cf16": {
+            "all_cpe23uris": [
+                "cpe:2.3:a:suse:rancher_k3s:1.19.12:*:*:*:*:*:*:*",
+                "cpe:2.3:a:suse:rancher_k3s:1.21.2:*:*:*:*:*:*:*",
+                "cpe:2.3:a:suse:rancher_rke2:1.21.2:*:*:*:*:*:*:*",
+                "cpe:2.3:a:suse:rancher_k3s:1.20.8:*:*:*:*:*:*:*",
+                "cpe:2.3:a:suse:rancher_rke2:1.19.12:*:*:*:*:*:*:*",
+                "cpe:2.3:a:suse:rancher_rke2:1.20.8:*:*:*:*:*:*:*"
+            ],
+            "extension_type": "property-extension",
+            "vulnerable_cpeid": [
+                "cpe:2.3:a:suse:rancher_k3s:1.19.12:*:*:*:*:*:*:*",
+                "cpe:2.3:a:suse:rancher_k3s:1.21.2:*:*:*:*:*:*:*",
+                "cpe:2.3:a:suse:rancher_rke2:1.21.2:*:*:*:*:*:*:*",
+                "cpe:2.3:a:suse:rancher_k3s:1.20.8:*:*:*:*:*:*:*",
+                "cpe:2.3:a:suse:rancher_rke2:1.19.12:*:*:*:*:*:*:*",
+                "cpe:2.3:a:suse:rancher_rke2:1.20.8:*:*:*:*:*:*:*"
+            ]
+        }
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "type": "indicator",
+    "spec_version": "2.1",
+    "id": "indicator--123daa0f-7a3d-4e6f-ba55-87133b725e11",
+    "created_by_ref": "identity--748e6444-f073-4c50-b558-f49be8897a81",
+    "created": "2022-03-17T12:15:00.000Z",
+    "modified": "2022-03-24T01:57:00.000Z",
+    "name": "CVE-2021-44908",
+    "description": "SailsJS Sails.js <=1.4.0 is vulnerable to Prototype Pollution via controller/load-action-modules.js, function loadActionModules().",
+    "indicator_types": [
+        "compromised"
+    ],
+    "pattern": "[(software:cpe='cpe:2.3:a:sailsjs:sails:*:*:*:*:*:node.js:*:*')]",
+    "pattern_type": "stix",
+    "pattern_version": "2.1",
+    "valid_from": "2022-03-17T12:15:00Z",
+    "external_references": [
+        {
+            "source_name": "cve2stix",
+            "description": "This object was created using cve2stix from the Signals Corps.",
+            "url": "https://github.com/signalscorps/cve2stix"
+        }
+    ],
+    "object_marking_refs": [
+        "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
+    ],
+    "extensions": {
+        "extension-definition--b463c449-d022-48b7-b464-3e9c7ec5cf16": {
+            "all_cpe23uris": [
+                "cpe:2.3:a:sailsjs:sails:*:*:*:*:*:node.js:*:*"
+            ],
+            "extension_type": "property-extension",
+            "vulnerable_cpeid": [
+                "cpe:2.3:a:sailsjs:sails:*:*:*:*:*:node.js:*:*"
+            ]
+        }
+    }
+}

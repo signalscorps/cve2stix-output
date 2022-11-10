@@ -1,0 +1,45 @@
+{
+    "type": "indicator",
+    "spec_version": "2.1",
+    "id": "indicator--9af7ca1d-0619-4097-be72-bf9fab2b53b5",
+    "created_by_ref": "identity--748e6444-f073-4c50-b558-f49be8897a81",
+    "created": "2022-09-29T01:15:00.000Z",
+    "modified": "2022-10-03T13:47:00.000Z",
+    "name": "CVE-2022-35888",
+    "description": "Ampere Altra and Ampere Altra Max devices through 2022-07-15 allow attacks via Hertzbleed, which is a power side-channel attack that extracts secret information from the CPU by correlating the power consumption with data being processed on the system.",
+    "indicator_types": [
+        "compromised"
+    ],
+    "pattern": "[((software:cpe='cpe:2.3:o:amperecomputing:ampere_altra_max_firmware:*:*:*:*:*:*:*:*') AND (software:cpe='cpe:2.3:h:amperecomputing:ampere_altra_max:-:*:*:*:*:*:*:*')) OR ((software:cpe='cpe:2.3:o:amperecomputing:ampere_altra_firmware:*:*:*:*:*:*:*:*') AND (software:cpe='cpe:2.3:h:amperecomputing:ampere_altra:-:*:*:*:*:*:*:*')) OR ((software:cpe='cpe:2.3:o:amperecomputing:ampereone_firmware:*:*:*:*:*:*:*:*') AND (software:cpe='cpe:2.3:h:amperecomputing:ampereone:-:*:*:*:*:*:*:*'))]",
+    "pattern_type": "stix",
+    "pattern_version": "2.1",
+    "valid_from": "2022-09-29T01:15:00Z",
+    "external_references": [
+        {
+            "source_name": "cve2stix",
+            "description": "This object was created using cve2stix from the Signals Corps.",
+            "url": "https://github.com/signalscorps/cve2stix"
+        }
+    ],
+    "object_marking_refs": [
+        "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
+    ],
+    "extensions": {
+        "extension-definition--b463c449-d022-48b7-b464-3e9c7ec5cf16": {
+            "all_cpe23uris": [
+                "cpe:2.3:o:amperecomputing:ampere_altra_firmware:*:*:*:*:*:*:*:*",
+                "cpe:2.3:o:amperecomputing:ampereone_firmware:*:*:*:*:*:*:*:*",
+                "cpe:2.3:h:amperecomputing:ampereone:-:*:*:*:*:*:*:*",
+                "cpe:2.3:h:amperecomputing:ampere_altra:-:*:*:*:*:*:*:*",
+                "cpe:2.3:h:amperecomputing:ampere_altra_max:-:*:*:*:*:*:*:*",
+                "cpe:2.3:o:amperecomputing:ampere_altra_max_firmware:*:*:*:*:*:*:*:*"
+            ],
+            "extension_type": "property-extension",
+            "vulnerable_cpeid": [
+                "cpe:2.3:o:amperecomputing:ampere_altra_firmware:*:*:*:*:*:*:*:*",
+                "cpe:2.3:o:amperecomputing:ampereone_firmware:*:*:*:*:*:*:*:*",
+                "cpe:2.3:o:amperecomputing:ampere_altra_max_firmware:*:*:*:*:*:*:*:*"
+            ]
+        }
+    }
+}

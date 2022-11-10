@@ -1,0 +1,38 @@
+{
+    "type": "indicator",
+    "spec_version": "2.1",
+    "id": "indicator--870fb052-9c28-4abd-acab-4d3ddb689d1d",
+    "created_by_ref": "identity--748e6444-f073-4c50-b558-f49be8897a81",
+    "created": "2022-05-16T15:15:00.000Z",
+    "modified": "2022-05-26T13:34:00.000Z",
+    "name": "CVE-2022-0873",
+    "description": "The Gmedia Photo Gallery WordPress plugin before 1.20.0 does not sanitise and escape the Album's name before outputting it in pages/posts with a media embed, which could allow high privilege users such as admin to perform Cross-Site Scripting attacks even when the unfiltered-html capability is disallowed",
+    "indicator_types": [
+        "compromised"
+    ],
+    "pattern": "[(software:cpe='cpe:2.3:a:codeasily:gmedia_gallery:*:*:*:*:*:wordpress:*:*')]",
+    "pattern_type": "stix",
+    "pattern_version": "2.1",
+    "valid_from": "2022-05-16T15:15:00Z",
+    "external_references": [
+        {
+            "source_name": "cve2stix",
+            "description": "This object was created using cve2stix from the Signals Corps.",
+            "url": "https://github.com/signalscorps/cve2stix"
+        }
+    ],
+    "object_marking_refs": [
+        "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
+    ],
+    "extensions": {
+        "extension-definition--b463c449-d022-48b7-b464-3e9c7ec5cf16": {
+            "all_cpe23uris": [
+                "cpe:2.3:a:codeasily:gmedia_gallery:*:*:*:*:*:wordpress:*:*"
+            ],
+            "extension_type": "property-extension",
+            "vulnerable_cpeid": [
+                "cpe:2.3:a:codeasily:gmedia_gallery:*:*:*:*:*:wordpress:*:*"
+            ]
+        }
+    }
+}

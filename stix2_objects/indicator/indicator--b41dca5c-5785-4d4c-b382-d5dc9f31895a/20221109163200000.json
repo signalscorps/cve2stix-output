@@ -1,0 +1,40 @@
+{
+    "type": "indicator",
+    "spec_version": "2.1",
+    "id": "indicator--b41dca5c-5785-4d4c-b382-d5dc9f31895a",
+    "created_by_ref": "identity--748e6444-f073-4c50-b558-f49be8897a81",
+    "created": "2022-11-08T23:15:00.000Z",
+    "modified": "2022-11-09T16:32:00.000Z",
+    "name": "CVE-2022-30515",
+    "description": "ZKTeco BioTime 8.5.4 is missing authentication on folders containing employee photos, allowing an attacker to view them through filename enumeration.",
+    "indicator_types": [
+        "compromised"
+    ],
+    "pattern": "[(software:cpe='cpe:2.3:a:zkteco:biotime:8.5.4:*:*:*:*:*:*:*' OR software:cpe='cpe:2.3:a:zkteco:biotime:8.5.5:*:*:*:*:*:*:*')]",
+    "pattern_type": "stix",
+    "pattern_version": "2.1",
+    "valid_from": "2022-11-08T23:15:00Z",
+    "external_references": [
+        {
+            "source_name": "cve2stix",
+            "description": "This object was created using cve2stix from the Signals Corps.",
+            "url": "https://github.com/signalscorps/cve2stix"
+        }
+    ],
+    "object_marking_refs": [
+        "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
+    ],
+    "extensions": {
+        "extension-definition--b463c449-d022-48b7-b464-3e9c7ec5cf16": {
+            "all_cpe23uris": [
+                "cpe:2.3:a:zkteco:biotime:8.5.4:*:*:*:*:*:*:*",
+                "cpe:2.3:a:zkteco:biotime:8.5.5:*:*:*:*:*:*:*"
+            ],
+            "extension_type": "property-extension",
+            "vulnerable_cpeid": [
+                "cpe:2.3:a:zkteco:biotime:8.5.4:*:*:*:*:*:*:*",
+                "cpe:2.3:a:zkteco:biotime:8.5.5:*:*:*:*:*:*:*"
+            ]
+        }
+    }
+}

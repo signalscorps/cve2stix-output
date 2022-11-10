@@ -1,0 +1,64 @@
+{
+    "type": "indicator",
+    "spec_version": "2.1",
+    "id": "indicator--1dd16d2a-e022-4870-9460-36df2332419e",
+    "created_by_ref": "identity--748e6444-f073-4c50-b558-f49be8897a81",
+    "created": "2022-08-23T01:15:00.000Z",
+    "modified": "2022-11-09T14:15:00.000Z",
+    "name": "CVE-2021-28861",
+    "description": "** DISPUTED ** Python 3.x through 3.10 has an open redirection vulnerability in lib/http/server.py due to no protection against multiple (/) at the beginning of URI path which may leads to information disclosure. NOTE: this is disputed by a third party because the http.server.html documentation page states \"Warning: http.server is not recommended for production. It only implements basic security checks.\"",
+    "indicator_types": [
+        "compromised"
+    ],
+    "pattern": "[(software:cpe='cpe:2.3:a:python:python:3.11.0:alpha2:*:*:*:*:*:*' OR software:cpe='cpe:2.3:a:python:python:3.11.0:alpha3:*:*:*:*:*:*' OR software:cpe='cpe:2.3:a:python:python:3.11.0:alpha4:*:*:*:*:*:*' OR software:cpe='cpe:2.3:a:python:python:3.11.0:alpha5:*:*:*:*:*:*' OR software:cpe='cpe:2.3:a:python:python:3.11.0:alpha6:*:*:*:*:*:*' OR software:cpe='cpe:2.3:a:python:python:3.11.0:alpha1:*:*:*:*:*:*' OR software:cpe='cpe:2.3:a:python:python:*:*:*:*:*:*:*:*' OR software:cpe='cpe:2.3:a:python:python:3.11.0:beta2:*:*:*:*:*:*' OR software:cpe='cpe:2.3:a:python:python:3.11.0:beta3:*:*:*:*:*:*' OR software:cpe='cpe:2.3:a:python:python:*:*:*:*:*:*:*:*' OR software:cpe='cpe:2.3:a:python:python:3.11.0:alpha7:*:*:*:*:*:*' OR software:cpe='cpe:2.3:a:python:python:3.11.0:beta1:*:*:*:*:*:*' OR software:cpe='cpe:2.3:a:python:python:*:*:*:*:*:*:*:*' OR software:cpe='cpe:2.3:a:python:python:*:*:*:*:*:*:*:*') OR (software:cpe='cpe:2.3:o:fedoraproject:fedora:35:*:*:*:*:*:*:*' OR software:cpe='cpe:2.3:o:fedoraproject:fedora:36:*:*:*:*:*:*:*' OR software:cpe='cpe:2.3:o:fedoraproject:fedora:37:*:*:*:*:*:*:*')]",
+    "pattern_type": "stix",
+    "pattern_version": "2.1",
+    "valid_from": "2022-08-23T01:15:00Z",
+    "external_references": [
+        {
+            "source_name": "cve2stix",
+            "description": "This object was created using cve2stix from the Signals Corps.",
+            "url": "https://github.com/signalscorps/cve2stix"
+        }
+    ],
+    "object_marking_refs": [
+        "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
+    ],
+    "extensions": {
+        "extension-definition--b463c449-d022-48b7-b464-3e9c7ec5cf16": {
+            "all_cpe23uris": [
+                "cpe:2.3:a:python:python:3.11.0:alpha4:*:*:*:*:*:*",
+                "cpe:2.3:a:python:python:3.11.0:alpha3:*:*:*:*:*:*",
+                "cpe:2.3:a:python:python:3.11.0:alpha7:*:*:*:*:*:*",
+                "cpe:2.3:a:python:python:*:*:*:*:*:*:*:*",
+                "cpe:2.3:a:python:python:3.11.0:alpha2:*:*:*:*:*:*",
+                "cpe:2.3:a:python:python:3.11.0:beta2:*:*:*:*:*:*",
+                "cpe:2.3:a:python:python:3.11.0:beta3:*:*:*:*:*:*",
+                "cpe:2.3:a:python:python:3.11.0:beta1:*:*:*:*:*:*",
+                "cpe:2.3:a:python:python:3.11.0:alpha1:*:*:*:*:*:*",
+                "cpe:2.3:o:fedoraproject:fedora:36:*:*:*:*:*:*:*",
+                "cpe:2.3:o:fedoraproject:fedora:37:*:*:*:*:*:*:*",
+                "cpe:2.3:a:python:python:3.11.0:alpha6:*:*:*:*:*:*",
+                "cpe:2.3:a:python:python:3.11.0:alpha5:*:*:*:*:*:*",
+                "cpe:2.3:o:fedoraproject:fedora:35:*:*:*:*:*:*:*"
+            ],
+            "extension_type": "property-extension",
+            "vulnerable_cpeid": [
+                "cpe:2.3:a:python:python:3.11.0:alpha4:*:*:*:*:*:*",
+                "cpe:2.3:a:python:python:3.11.0:alpha3:*:*:*:*:*:*",
+                "cpe:2.3:a:python:python:3.11.0:alpha7:*:*:*:*:*:*",
+                "cpe:2.3:a:python:python:*:*:*:*:*:*:*:*",
+                "cpe:2.3:a:python:python:3.11.0:alpha2:*:*:*:*:*:*",
+                "cpe:2.3:a:python:python:3.11.0:beta2:*:*:*:*:*:*",
+                "cpe:2.3:a:python:python:3.11.0:beta3:*:*:*:*:*:*",
+                "cpe:2.3:a:python:python:3.11.0:beta1:*:*:*:*:*:*",
+                "cpe:2.3:a:python:python:3.11.0:alpha1:*:*:*:*:*:*",
+                "cpe:2.3:o:fedoraproject:fedora:36:*:*:*:*:*:*:*",
+                "cpe:2.3:o:fedoraproject:fedora:37:*:*:*:*:*:*:*",
+                "cpe:2.3:a:python:python:3.11.0:alpha6:*:*:*:*:*:*",
+                "cpe:2.3:a:python:python:3.11.0:alpha5:*:*:*:*:*:*",
+                "cpe:2.3:o:fedoraproject:fedora:35:*:*:*:*:*:*:*"
+            ]
+        }
+    }
+}

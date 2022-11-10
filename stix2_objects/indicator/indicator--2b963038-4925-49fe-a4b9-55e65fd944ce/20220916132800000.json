@@ -1,0 +1,38 @@
+{
+    "type": "indicator",
+    "spec_version": "2.1",
+    "id": "indicator--2b963038-4925-49fe-a4b9-55e65fd944ce",
+    "created_by_ref": "identity--748e6444-f073-4c50-b558-f49be8897a81",
+    "created": "2022-09-13T18:15:00.000Z",
+    "modified": "2022-09-16T13:28:00.000Z",
+    "name": "CVE-2022-36105",
+    "description": "TYPO3 is an open source PHP based web content management system released under the GNU GPL. It has been discovered that observing response time during user authentication (backend and frontend) can be used to distinguish between existing and non-existing user accounts. Extension authors of 3rd party TYPO3 extensions providing a custom authentication service should check if the extension is affected by the described problem. Affected extensions must implement new `MimicServiceInterface::mimicAuthUser`, which simulates corresponding times regular processing would usually take. Update to TYPO3 version 7.6.58 ELTS, 8.7.48 ELTS, 9.5.37 ELTS, 10.4.32 or 11.5.16 that fix this problem. There are no known workarounds for this issue.",
+    "indicator_types": [
+        "compromised"
+    ],
+    "pattern": "[(software:cpe='cpe:2.3:a:typo3:typo3:*:*:*:*:*:*:*:*' OR software:cpe='cpe:2.3:a:typo3:typo3:*:*:*:*:*:*:*:*' OR software:cpe='cpe:2.3:a:typo3:typo3:*:*:*:*:*:*:*:*' OR software:cpe='cpe:2.3:a:typo3:typo3:*:*:*:*:*:*:*:*' OR software:cpe='cpe:2.3:a:typo3:typo3:*:*:*:*:*:*:*:*')]",
+    "pattern_type": "stix",
+    "pattern_version": "2.1",
+    "valid_from": "2022-09-13T18:15:00Z",
+    "external_references": [
+        {
+            "source_name": "cve2stix",
+            "description": "This object was created using cve2stix from the Signals Corps.",
+            "url": "https://github.com/signalscorps/cve2stix"
+        }
+    ],
+    "object_marking_refs": [
+        "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
+    ],
+    "extensions": {
+        "extension-definition--b463c449-d022-48b7-b464-3e9c7ec5cf16": {
+            "all_cpe23uris": [
+                "cpe:2.3:a:typo3:typo3:*:*:*:*:*:*:*:*"
+            ],
+            "extension_type": "property-extension",
+            "vulnerable_cpeid": [
+                "cpe:2.3:a:typo3:typo3:*:*:*:*:*:*:*:*"
+            ]
+        }
+    }
+}

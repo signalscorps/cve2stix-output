@@ -1,0 +1,48 @@
+{
+    "type": "indicator",
+    "spec_version": "2.1",
+    "id": "indicator--80a92d5e-06a4-439b-a463-4ffb0b786281",
+    "created_by_ref": "identity--748e6444-f073-4c50-b558-f49be8897a81",
+    "created": "2020-09-16T16:15:00.000Z",
+    "modified": "2021-02-03T14:04:00.000Z",
+    "name": "CVE-2020-10758",
+    "description": "A vulnerability was found in Keycloak before 11.0.1 where DoS attack is possible by sending twenty requests simultaneously to the specified keycloak server, all with a Content-Length header value that exceeds the actual byte count of the request body.",
+    "indicator_types": [
+        "compromised"
+    ],
+    "pattern": "[(software:cpe='cpe:2.3:a:redhat:single_sign-on:-:*:*:*:text-only:*:*:*' OR software:cpe='cpe:2.3:a:redhat:single_sign-on:7.0:*:*:*:*:*:*:*' OR software:cpe='cpe:2.3:a:redhat:openshift_application_runtimes:1.0:*:*:*:*:*:*:*' OR software:cpe='cpe:2.3:a:redhat:keycloak:*:*:*:*:*:*:*:*' OR software:cpe='cpe:2.3:a:redhat:single_sign-on:7.4:*:*:*:*:*:*:*' OR software:cpe='cpe:2.3:a:redhat:openshift_application_runtimes:-:*:*:*:text-only:*:*:*')]",
+    "pattern_type": "stix",
+    "pattern_version": "2.1",
+    "valid_from": "2020-09-16T16:15:00Z",
+    "external_references": [
+        {
+            "source_name": "cve2stix",
+            "description": "This object was created using cve2stix from the Signals Corps.",
+            "url": "https://github.com/signalscorps/cve2stix"
+        }
+    ],
+    "object_marking_refs": [
+        "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
+    ],
+    "extensions": {
+        "extension-definition--b463c449-d022-48b7-b464-3e9c7ec5cf16": {
+            "all_cpe23uris": [
+                "cpe:2.3:a:redhat:single_sign-on:7.0:*:*:*:*:*:*:*",
+                "cpe:2.3:a:redhat:single_sign-on:-:*:*:*:text-only:*:*:*",
+                "cpe:2.3:a:redhat:openshift_application_runtimes:1.0:*:*:*:*:*:*:*",
+                "cpe:2.3:a:redhat:openshift_application_runtimes:-:*:*:*:text-only:*:*:*",
+                "cpe:2.3:a:redhat:keycloak:*:*:*:*:*:*:*:*",
+                "cpe:2.3:a:redhat:single_sign-on:7.4:*:*:*:*:*:*:*"
+            ],
+            "extension_type": "property-extension",
+            "vulnerable_cpeid": [
+                "cpe:2.3:a:redhat:single_sign-on:7.0:*:*:*:*:*:*:*",
+                "cpe:2.3:a:redhat:single_sign-on:-:*:*:*:text-only:*:*:*",
+                "cpe:2.3:a:redhat:openshift_application_runtimes:1.0:*:*:*:*:*:*:*",
+                "cpe:2.3:a:redhat:openshift_application_runtimes:-:*:*:*:text-only:*:*:*",
+                "cpe:2.3:a:redhat:keycloak:*:*:*:*:*:*:*:*",
+                "cpe:2.3:a:redhat:single_sign-on:7.4:*:*:*:*:*:*:*"
+            ]
+        }
+    }
+}

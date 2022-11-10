@@ -1,0 +1,38 @@
+{
+    "type": "indicator",
+    "spec_version": "2.1",
+    "id": "indicator--1193ff2b-ea7f-4cce-bc28-c2ad6b31f511",
+    "created_by_ref": "identity--748e6444-f073-4c50-b558-f49be8897a81",
+    "created": "2022-09-20T18:15:00.000Z",
+    "modified": "2022-10-01T02:33:00.000Z",
+    "name": "CVE-2017-20147",
+    "description": "In the ebuild package through smokeping-2.7.3-r1 for SmokePing on Gentoo, the initscript uses a PID file that is writable by the smokeping user. By writing arbitrary PIDs to that file, the smokeping user can cause a denial of service to arbitrary PIDs when the service is stopped.",
+    "indicator_types": [
+        "compromised"
+    ],
+    "pattern": "[(software:cpe='cpe:2.3:a:smokeping:smokeping:*:*:*:*:*:*:*:*')]",
+    "pattern_type": "stix",
+    "pattern_version": "2.1",
+    "valid_from": "2022-09-20T18:15:00Z",
+    "external_references": [
+        {
+            "source_name": "cve2stix",
+            "description": "This object was created using cve2stix from the Signals Corps.",
+            "url": "https://github.com/signalscorps/cve2stix"
+        }
+    ],
+    "object_marking_refs": [
+        "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
+    ],
+    "extensions": {
+        "extension-definition--b463c449-d022-48b7-b464-3e9c7ec5cf16": {
+            "all_cpe23uris": [
+                "cpe:2.3:a:smokeping:smokeping:*:*:*:*:*:*:*:*"
+            ],
+            "extension_type": "property-extension",
+            "vulnerable_cpeid": [
+                "cpe:2.3:a:smokeping:smokeping:*:*:*:*:*:*:*:*"
+            ]
+        }
+    }
+}

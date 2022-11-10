@@ -1,0 +1,83 @@
+{
+    "type": "indicator",
+    "spec_version": "2.1",
+    "id": "indicator--51bbe246-67aa-4ba6-b9cf-e9f90ecf8044",
+    "created_by_ref": "identity--748e6444-f073-4c50-b558-f49be8897a81",
+    "created": "2010-04-23T14:30:00.000Z",
+    "modified": "2010-04-26T04:00:00.000Z",
+    "name": "CVE-2009-4802",
+    "description": "SQL injection vulnerability in the Flat Manager (flatmgr) extension before 1.9.16 for TYPO3 allows remote attackers to execute arbitrary SQL commands via unspecified vectors.",
+    "indicator_types": [
+        "compromised"
+    ],
+    "pattern": "[((software:cpe='cpe:2.3:a:joachim_ruhs:flat_manager:1.8.8:*:*:*:*:*:*:*' OR software:cpe='cpe:2.3:a:joachim_ruhs:flat_manager:1.9.10:*:*:*:*:*:*:*' OR software:cpe='cpe:2.3:a:joachim_ruhs:flat_manager:1.6.2:*:*:*:*:*:*:*' OR software:cpe='cpe:2.3:a:joachim_ruhs:flat_manager:1.9.8:*:*:*:*:*:*:*' OR software:cpe='cpe:2.3:a:joachim_ruhs:flat_manager:*:*:*:*:*:*:*:*' OR software:cpe='cpe:2.3:a:joachim_ruhs:flat_manager:1.9.4:*:*:*:*:*:*:*' OR software:cpe='cpe:2.3:a:joachim_ruhs:flat_manager:1.8.0:*:*:*:*:*:*:*' OR software:cpe='cpe:2.3:a:joachim_ruhs:flat_manager:1.6.0:*:*:*:*:*:*:*' OR software:cpe='cpe:2.3:a:joachim_ruhs:flat_manager:1.9.12:*:*:*:*:*:*:*' OR software:cpe='cpe:2.3:a:joachim_ruhs:flat_manager:1.9.14:*:*:*:*:*:*:*' OR software:cpe='cpe:2.3:a:joachim_ruhs:flat_manager:1.7.1:*:*:*:*:*:*:*' OR software:cpe='cpe:2.3:a:joachim_ruhs:flat_manager:1.7.0:*:*:*:*:*:*:*' OR software:cpe='cpe:2.3:a:joachim_ruhs:flat_manager:1.9.2:*:*:*:*:*:*:*' OR software:cpe='cpe:2.3:a:joachim_ruhs:flat_manager:1.9.1:*:*:*:*:*:*:*' OR software:cpe='cpe:2.3:a:joachim_ruhs:flat_manager:1.9.0:*:*:*:*:*:*:*' OR software:cpe='cpe:2.3:a:joachim_ruhs:flat_manager:1.8.9:*:*:*:*:*:*:*' OR software:cpe='cpe:2.3:a:joachim_ruhs:flat_manager:1.8.6:*:*:*:*:*:*:*' OR software:cpe='cpe:2.3:a:joachim_ruhs:flat_manager:1.7.2:*:*:*:*:*:*:*' OR software:cpe='cpe:2.3:a:joachim_ruhs:flat_manager:1.5.0:*:*:*:*:*:*:*' OR software:cpe='cpe:2.3:a:joachim_ruhs:flat_manager:1.9.9:*:*:*:*:*:*:*' OR software:cpe='cpe:2.3:a:joachim_ruhs:flat_manager:1.9.7:*:*:*:*:*:*:*' OR software:cpe='cpe:2.3:a:joachim_ruhs:flat_manager:1.9.3:*:*:*:*:*:*:*' OR software:cpe='cpe:2.3:a:joachim_ruhs:flat_manager:1.4.0:*:*:*:*:*:*:*') AND (software:cpe='cpe:2.3:a:typo3:typo3:*:*:*:*:*:*:*:*'))]",
+    "pattern_type": "stix",
+    "pattern_version": "2.1",
+    "valid_from": "2010-04-23T14:30:00Z",
+    "external_references": [
+        {
+            "source_name": "cve2stix",
+            "description": "This object was created using cve2stix from the Signals Corps.",
+            "url": "https://github.com/signalscorps/cve2stix"
+        }
+    ],
+    "object_marking_refs": [
+        "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
+    ],
+    "extensions": {
+        "extension-definition--b463c449-d022-48b7-b464-3e9c7ec5cf16": {
+            "all_cpe23uris": [
+                "cpe:2.3:a:joachim_ruhs:flat_manager:1.9.14:*:*:*:*:*:*:*",
+                "cpe:2.3:a:joachim_ruhs:flat_manager:1.9.10:*:*:*:*:*:*:*",
+                "cpe:2.3:a:joachim_ruhs:flat_manager:1.9.3:*:*:*:*:*:*:*",
+                "cpe:2.3:a:joachim_ruhs:flat_manager:1.7.0:*:*:*:*:*:*:*",
+                "cpe:2.3:a:joachim_ruhs:flat_manager:1.8.0:*:*:*:*:*:*:*",
+                "cpe:2.3:a:joachim_ruhs:flat_manager:1.9.2:*:*:*:*:*:*:*",
+                "cpe:2.3:a:joachim_ruhs:flat_manager:1.8.6:*:*:*:*:*:*:*",
+                "cpe:2.3:a:joachim_ruhs:flat_manager:1.9.1:*:*:*:*:*:*:*",
+                "cpe:2.3:a:joachim_ruhs:flat_manager:1.5.0:*:*:*:*:*:*:*",
+                "cpe:2.3:a:joachim_ruhs:flat_manager:1.8.9:*:*:*:*:*:*:*",
+                "cpe:2.3:a:joachim_ruhs:flat_manager:1.6.0:*:*:*:*:*:*:*",
+                "cpe:2.3:a:joachim_ruhs:flat_manager:*:*:*:*:*:*:*:*",
+                "cpe:2.3:a:joachim_ruhs:flat_manager:1.7.2:*:*:*:*:*:*:*",
+                "cpe:2.3:a:joachim_ruhs:flat_manager:1.9.4:*:*:*:*:*:*:*",
+                "cpe:2.3:a:joachim_ruhs:flat_manager:1.9.8:*:*:*:*:*:*:*",
+                "cpe:2.3:a:joachim_ruhs:flat_manager:1.7.1:*:*:*:*:*:*:*",
+                "cpe:2.3:a:joachim_ruhs:flat_manager:1.6.2:*:*:*:*:*:*:*",
+                "cpe:2.3:a:joachim_ruhs:flat_manager:1.8.8:*:*:*:*:*:*:*",
+                "cpe:2.3:a:joachim_ruhs:flat_manager:1.4.0:*:*:*:*:*:*:*",
+                "cpe:2.3:a:typo3:typo3:*:*:*:*:*:*:*:*",
+                "cpe:2.3:a:joachim_ruhs:flat_manager:1.9.7:*:*:*:*:*:*:*",
+                "cpe:2.3:a:joachim_ruhs:flat_manager:1.9.12:*:*:*:*:*:*:*",
+                "cpe:2.3:a:joachim_ruhs:flat_manager:1.9.0:*:*:*:*:*:*:*",
+                "cpe:2.3:a:joachim_ruhs:flat_manager:1.9.9:*:*:*:*:*:*:*"
+            ],
+            "extension_type": "property-extension",
+            "vulnerable_cpeid": [
+                "cpe:2.3:a:joachim_ruhs:flat_manager:1.9.14:*:*:*:*:*:*:*",
+                "cpe:2.3:a:joachim_ruhs:flat_manager:1.9.10:*:*:*:*:*:*:*",
+                "cpe:2.3:a:joachim_ruhs:flat_manager:1.9.3:*:*:*:*:*:*:*",
+                "cpe:2.3:a:joachim_ruhs:flat_manager:1.7.0:*:*:*:*:*:*:*",
+                "cpe:2.3:a:joachim_ruhs:flat_manager:1.8.0:*:*:*:*:*:*:*",
+                "cpe:2.3:a:joachim_ruhs:flat_manager:1.9.2:*:*:*:*:*:*:*",
+                "cpe:2.3:a:joachim_ruhs:flat_manager:1.8.6:*:*:*:*:*:*:*",
+                "cpe:2.3:a:joachim_ruhs:flat_manager:1.9.1:*:*:*:*:*:*:*",
+                "cpe:2.3:a:joachim_ruhs:flat_manager:1.5.0:*:*:*:*:*:*:*",
+                "cpe:2.3:a:joachim_ruhs:flat_manager:1.8.9:*:*:*:*:*:*:*",
+                "cpe:2.3:a:joachim_ruhs:flat_manager:1.6.0:*:*:*:*:*:*:*",
+                "cpe:2.3:a:joachim_ruhs:flat_manager:*:*:*:*:*:*:*:*",
+                "cpe:2.3:a:joachim_ruhs:flat_manager:1.7.2:*:*:*:*:*:*:*",
+                "cpe:2.3:a:joachim_ruhs:flat_manager:1.9.4:*:*:*:*:*:*:*",
+                "cpe:2.3:a:joachim_ruhs:flat_manager:1.9.8:*:*:*:*:*:*:*",
+                "cpe:2.3:a:joachim_ruhs:flat_manager:1.7.1:*:*:*:*:*:*:*",
+                "cpe:2.3:a:joachim_ruhs:flat_manager:1.6.2:*:*:*:*:*:*:*",
+                "cpe:2.3:a:joachim_ruhs:flat_manager:1.8.8:*:*:*:*:*:*:*",
+                "cpe:2.3:a:joachim_ruhs:flat_manager:1.4.0:*:*:*:*:*:*:*",
+                "cpe:2.3:a:joachim_ruhs:flat_manager:1.9.7:*:*:*:*:*:*:*",
+                "cpe:2.3:a:joachim_ruhs:flat_manager:1.9.12:*:*:*:*:*:*:*",
+                "cpe:2.3:a:joachim_ruhs:flat_manager:1.9.0:*:*:*:*:*:*:*",
+                "cpe:2.3:a:joachim_ruhs:flat_manager:1.9.9:*:*:*:*:*:*:*"
+            ]
+        }
+    }
+}

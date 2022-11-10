@@ -1,0 +1,48 @@
+{
+    "type": "indicator",
+    "spec_version": "2.1",
+    "id": "indicator--cdc82433-053f-4acd-9d7c-ae71321ced8e",
+    "created_by_ref": "identity--748e6444-f073-4c50-b558-f49be8897a81",
+    "created": "2022-08-17T21:15:00.000Z",
+    "modified": "2022-08-19T01:07:00.000Z",
+    "name": "CVE-2022-1069",
+    "description": "A crafted HTTP packet with a large content-length header can create a denial-of-service condition in Softing Secure Integration Server V1.22.",
+    "indicator_types": [
+        "compromised"
+    ],
+    "pattern": "[(software:cpe='cpe:2.3:a:softing:edgeaggregator:3.1:*:*:*:*:*:*:*' OR software:cpe='cpe:2.3:a:softing:secure_integration_server:1.22:*:*:*:*:*:*:*' OR software:cpe='cpe:2.3:a:softing:edgeconnector:3.1:*:*:*:*:*:*:*' OR software:cpe='cpe:2.3:a:softing:opc:5.2:*:*:*:*:*:*:*' OR software:cpe='cpe:2.3:a:softing:opc_ua_c\\\\+\\\\+_software_development_kit:6:*:*:*:*:*:*:*' OR software:cpe='cpe:2.3:a:softing:uagates:1.74:*:*:*:*:*:*:*')]",
+    "pattern_type": "stix",
+    "pattern_version": "2.1",
+    "valid_from": "2022-08-17T21:15:00Z",
+    "external_references": [
+        {
+            "source_name": "cve2stix",
+            "description": "This object was created using cve2stix from the Signals Corps.",
+            "url": "https://github.com/signalscorps/cve2stix"
+        }
+    ],
+    "object_marking_refs": [
+        "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
+    ],
+    "extensions": {
+        "extension-definition--b463c449-d022-48b7-b464-3e9c7ec5cf16": {
+            "all_cpe23uris": [
+                "cpe:2.3:a:softing:opc:5.2:*:*:*:*:*:*:*",
+                "cpe:2.3:a:softing:edgeconnector:3.1:*:*:*:*:*:*:*",
+                "cpe:2.3:a:softing:edgeaggregator:3.1:*:*:*:*:*:*:*",
+                "cpe:2.3:a:softing:uagates:1.74:*:*:*:*:*:*:*",
+                "cpe:2.3:a:softing:opc_ua_c\\+\\+_software_development_kit:6:*:*:*:*:*:*:*",
+                "cpe:2.3:a:softing:secure_integration_server:1.22:*:*:*:*:*:*:*"
+            ],
+            "extension_type": "property-extension",
+            "vulnerable_cpeid": [
+                "cpe:2.3:a:softing:opc:5.2:*:*:*:*:*:*:*",
+                "cpe:2.3:a:softing:edgeconnector:3.1:*:*:*:*:*:*:*",
+                "cpe:2.3:a:softing:edgeaggregator:3.1:*:*:*:*:*:*:*",
+                "cpe:2.3:a:softing:uagates:1.74:*:*:*:*:*:*:*",
+                "cpe:2.3:a:softing:opc_ua_c\\+\\+_software_development_kit:6:*:*:*:*:*:*:*",
+                "cpe:2.3:a:softing:secure_integration_server:1.22:*:*:*:*:*:*:*"
+            ]
+        }
+    }
+}

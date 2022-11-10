@@ -1,0 +1,38 @@
+{
+    "type": "indicator",
+    "spec_version": "2.1",
+    "id": "indicator--d76588cf-5cf9-487c-8ab7-14fc138bb50a",
+    "created_by_ref": "identity--748e6444-f073-4c50-b558-f49be8897a81",
+    "created": "2015-01-23T15:59:00.000Z",
+    "modified": "2018-10-09T19:55:00.000Z",
+    "name": "CVE-2015-1176",
+    "description": "Cross-site scripting (XSS) vulnerability in upload/scp/tickets.php in osTicket before 1.9.5 allows remote attackers to inject arbitrary web script or HTML via the status parameter in a search action.",
+    "indicator_types": [
+        "compromised"
+    ],
+    "pattern": "[(software:cpe='cpe:2.3:a:osticket:osticket:*:*:*:*:*:*:*:*')]",
+    "pattern_type": "stix",
+    "pattern_version": "2.1",
+    "valid_from": "2015-01-23T15:59:00Z",
+    "external_references": [
+        {
+            "source_name": "cve2stix",
+            "description": "This object was created using cve2stix from the Signals Corps.",
+            "url": "https://github.com/signalscorps/cve2stix"
+        }
+    ],
+    "object_marking_refs": [
+        "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
+    ],
+    "extensions": {
+        "extension-definition--b463c449-d022-48b7-b464-3e9c7ec5cf16": {
+            "all_cpe23uris": [
+                "cpe:2.3:a:osticket:osticket:*:*:*:*:*:*:*:*"
+            ],
+            "extension_type": "property-extension",
+            "vulnerable_cpeid": [
+                "cpe:2.3:a:osticket:osticket:*:*:*:*:*:*:*:*"
+            ]
+        }
+    }
+}

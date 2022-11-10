@@ -1,0 +1,38 @@
+{
+    "type": "indicator",
+    "spec_version": "2.1",
+    "id": "indicator--44a3b000-c334-4921-bda7-ba83c7c8e11c",
+    "created_by_ref": "identity--748e6444-f073-4c50-b558-f49be8897a81",
+    "created": "2019-08-07T17:15:00.000Z",
+    "modified": "2020-08-24T17:37:00.000Z",
+    "name": "CVE-2019-14749",
+    "description": "An issue was discovered in osTicket before 1.10.7 and 1.12.x before 1.12.1. CSV (aka Formula) injection exists in the export spreadsheets functionality. These spreadsheets are generated dynamically from unvalidated or unfiltered user input in the Name and Internal Notes fields in the Users tab, and the Issue Summary field in the tickets tab. This allows other agents to download data in a .csv file format or .xls file format. This is used as input for spreadsheet applications such as Excel and OpenOffice Calc, resulting in a situation where cells in the spreadsheets can contain input from an untrusted source. As a result, the end user who is accessing the exported spreadsheet can be affected.",
+    "indicator_types": [
+        "compromised"
+    ],
+    "pattern": "[(software:cpe='cpe:2.3:a:osticket:osticket:*:*:*:*:*:*:*:*' OR software:cpe='cpe:2.3:a:osticket:osticket:*:*:*:*:*:*:*:*')]",
+    "pattern_type": "stix",
+    "pattern_version": "2.1",
+    "valid_from": "2019-08-07T17:15:00Z",
+    "external_references": [
+        {
+            "source_name": "cve2stix",
+            "description": "This object was created using cve2stix from the Signals Corps.",
+            "url": "https://github.com/signalscorps/cve2stix"
+        }
+    ],
+    "object_marking_refs": [
+        "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
+    ],
+    "extensions": {
+        "extension-definition--b463c449-d022-48b7-b464-3e9c7ec5cf16": {
+            "all_cpe23uris": [
+                "cpe:2.3:a:osticket:osticket:*:*:*:*:*:*:*:*"
+            ],
+            "extension_type": "property-extension",
+            "vulnerable_cpeid": [
+                "cpe:2.3:a:osticket:osticket:*:*:*:*:*:*:*:*"
+            ]
+        }
+    }
+}

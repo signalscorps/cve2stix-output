@@ -1,0 +1,38 @@
+{
+    "type": "indicator",
+    "spec_version": "2.1",
+    "id": "indicator--f83b62b9-799c-4372-b727-3e6805a7ac15",
+    "created_by_ref": "identity--748e6444-f073-4c50-b558-f49be8897a81",
+    "created": "2022-11-08T19:15:00.000Z",
+    "modified": "2022-11-09T13:54:00.000Z",
+    "name": "CVE-2022-43481",
+    "description": "Cross-Site Request Forgery (CSRF) vulnerability in Advanced Coupons for WooCommerce Coupons plugin <= 4.5 on WordPress leading to notice dismissal.",
+    "indicator_types": [
+        "compromised"
+    ],
+    "pattern": "[(software:cpe='cpe:2.3:a:rymera:advanced_coupons:*:*:*:*:*:wordpress:*:*')]",
+    "pattern_type": "stix",
+    "pattern_version": "2.1",
+    "valid_from": "2022-11-08T19:15:00Z",
+    "external_references": [
+        {
+            "source_name": "cve2stix",
+            "description": "This object was created using cve2stix from the Signals Corps.",
+            "url": "https://github.com/signalscorps/cve2stix"
+        }
+    ],
+    "object_marking_refs": [
+        "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
+    ],
+    "extensions": {
+        "extension-definition--b463c449-d022-48b7-b464-3e9c7ec5cf16": {
+            "all_cpe23uris": [
+                "cpe:2.3:a:rymera:advanced_coupons:*:*:*:*:*:wordpress:*:*"
+            ],
+            "extension_type": "property-extension",
+            "vulnerable_cpeid": [
+                "cpe:2.3:a:rymera:advanced_coupons:*:*:*:*:*:wordpress:*:*"
+            ]
+        }
+    }
+}

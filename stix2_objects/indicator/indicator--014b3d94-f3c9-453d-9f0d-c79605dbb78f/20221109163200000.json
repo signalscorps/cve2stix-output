@@ -1,0 +1,42 @@
+{
+    "type": "indicator",
+    "spec_version": "2.1",
+    "id": "indicator--014b3d94-f3c9-453d-9f0d-c79605dbb78f",
+    "created_by_ref": "identity--748e6444-f073-4c50-b558-f49be8897a81",
+    "created": "2022-11-08T11:15:00.000Z",
+    "modified": "2022-11-09T16:32:00.000Z",
+    "name": "CVE-2022-43398",
+    "description": "A vulnerability has been identified in POWER METER SICAM Q100 (All versions < V2.50), POWER METER SICAM Q100 (All versions < V2.50). Affected devices do not renew the session cookie after login/logout and also accept user defined session cookies. An attacker could overwrite the stored session cookie of a user. After the victim logged in, the attacker is given access to the user's account through the activated session.",
+    "indicator_types": [
+        "compromised"
+    ],
+    "pattern": "[((software:cpe='cpe:2.3:o:siemens:7kg9501-0aa01-2aa1_firmware:*:*:*:*:*:*:*:*') AND (software:cpe='cpe:2.3:h:siemens:7kg9501-0aa01-2aa1:-:*:*:*:*:*:*:*')) OR ((software:cpe='cpe:2.3:o:siemens:7kg9501-0aa31-2aa1_firmware:*:*:*:*:*:*:*:*') AND (software:cpe='cpe:2.3:h:siemens:7kg9501-0aa31-2aa1:-:*:*:*:*:*:*:*'))]",
+    "pattern_type": "stix",
+    "pattern_version": "2.1",
+    "valid_from": "2022-11-08T11:15:00Z",
+    "external_references": [
+        {
+            "source_name": "cve2stix",
+            "description": "This object was created using cve2stix from the Signals Corps.",
+            "url": "https://github.com/signalscorps/cve2stix"
+        }
+    ],
+    "object_marking_refs": [
+        "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
+    ],
+    "extensions": {
+        "extension-definition--b463c449-d022-48b7-b464-3e9c7ec5cf16": {
+            "all_cpe23uris": [
+                "cpe:2.3:o:siemens:7kg9501-0aa31-2aa1_firmware:*:*:*:*:*:*:*:*",
+                "cpe:2.3:h:siemens:7kg9501-0aa01-2aa1:-:*:*:*:*:*:*:*",
+                "cpe:2.3:o:siemens:7kg9501-0aa01-2aa1_firmware:*:*:*:*:*:*:*:*",
+                "cpe:2.3:h:siemens:7kg9501-0aa31-2aa1:-:*:*:*:*:*:*:*"
+            ],
+            "extension_type": "property-extension",
+            "vulnerable_cpeid": [
+                "cpe:2.3:o:siemens:7kg9501-0aa31-2aa1_firmware:*:*:*:*:*:*:*:*",
+                "cpe:2.3:o:siemens:7kg9501-0aa01-2aa1_firmware:*:*:*:*:*:*:*:*"
+            ]
+        }
+    }
+}

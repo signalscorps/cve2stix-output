@@ -1,0 +1,48 @@
+{
+    "type": "indicator",
+    "spec_version": "2.1",
+    "id": "indicator--28674e5a-64e0-4266-a956-a31a45a43b2d",
+    "created_by_ref": "identity--748e6444-f073-4c50-b558-f49be8897a81",
+    "created": "2022-02-11T01:15:00.000Z",
+    "modified": "2022-11-09T21:25:00.000Z",
+    "name": "CVE-2022-23806",
+    "description": "Curve.IsOnCurve in crypto/elliptic in Go before 1.16.14 and 1.17.x before 1.17.7 can incorrectly return true in situations with a big.Int value that is not a valid field element.",
+    "indicator_types": [
+        "compromised"
+    ],
+    "pattern": "[(software:cpe='cpe:2.3:a:golang:go:*:*:*:*:*:*:*:*' OR software:cpe='cpe:2.3:a:golang:go:*:*:*:*:*:*:*:*') OR (software:cpe='cpe:2.3:a:netapp:storagegrid:-:*:*:*:*:*:*:*' OR software:cpe='cpe:2.3:a:netapp:cloud_insights_telegraf_agent:-:*:*:*:*:*:*:*' OR software:cpe='cpe:2.3:a:netapp:kubernetes_monitoring_operator:-:*:*:*:*:*:*:*' OR software:cpe='cpe:2.3:a:netapp:beegfs_csi_driver:-:*:*:*:*:*:*:*') OR (software:cpe='cpe:2.3:o:debian:debian_linux:9.0:*:*:*:*:*:*:*')]",
+    "pattern_type": "stix",
+    "pattern_version": "2.1",
+    "valid_from": "2022-02-11T01:15:00Z",
+    "external_references": [
+        {
+            "source_name": "cve2stix",
+            "description": "This object was created using cve2stix from the Signals Corps.",
+            "url": "https://github.com/signalscorps/cve2stix"
+        }
+    ],
+    "object_marking_refs": [
+        "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
+    ],
+    "extensions": {
+        "extension-definition--b463c449-d022-48b7-b464-3e9c7ec5cf16": {
+            "all_cpe23uris": [
+                "cpe:2.3:a:netapp:beegfs_csi_driver:-:*:*:*:*:*:*:*",
+                "cpe:2.3:o:debian:debian_linux:9.0:*:*:*:*:*:*:*",
+                "cpe:2.3:a:netapp:storagegrid:-:*:*:*:*:*:*:*",
+                "cpe:2.3:a:netapp:kubernetes_monitoring_operator:-:*:*:*:*:*:*:*",
+                "cpe:2.3:a:golang:go:*:*:*:*:*:*:*:*",
+                "cpe:2.3:a:netapp:cloud_insights_telegraf_agent:-:*:*:*:*:*:*:*"
+            ],
+            "extension_type": "property-extension",
+            "vulnerable_cpeid": [
+                "cpe:2.3:a:netapp:beegfs_csi_driver:-:*:*:*:*:*:*:*",
+                "cpe:2.3:o:debian:debian_linux:9.0:*:*:*:*:*:*:*",
+                "cpe:2.3:a:netapp:storagegrid:-:*:*:*:*:*:*:*",
+                "cpe:2.3:a:netapp:kubernetes_monitoring_operator:-:*:*:*:*:*:*:*",
+                "cpe:2.3:a:golang:go:*:*:*:*:*:*:*:*",
+                "cpe:2.3:a:netapp:cloud_insights_telegraf_agent:-:*:*:*:*:*:*:*"
+            ]
+        }
+    }
+}

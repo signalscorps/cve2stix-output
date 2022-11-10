@@ -1,0 +1,40 @@
+{
+    "type": "indicator",
+    "spec_version": "2.1",
+    "id": "indicator--74a92620-6e67-4ff8-8e8d-7fa13eaf0795",
+    "created_by_ref": "identity--748e6444-f073-4c50-b558-f49be8897a81",
+    "created": "2021-10-21T16:15:00.000Z",
+    "modified": "2022-06-14T11:15:00.000Z",
+    "name": "CVE-2020-27304",
+    "description": "The CivetWeb web library does not validate uploaded filepaths when running on an OS other than Windows, when using the built-in HTTP form-based file upload mechanism, via the mg_handle_form_request API. Web applications that use the file upload form handler, and use parts of the user-controlled filename in the output path, are susceptible to directory traversal",
+    "indicator_types": [
+        "compromised"
+    ],
+    "pattern": "[(software:cpe='cpe:2.3:a:civetweb_project:civetweb:*:*:*:*:*:*:*:*') OR (software:cpe='cpe:2.3:a:siemens:sinec_infrastructure_network_services:*:*:*:*:*:*:*:*')]",
+    "pattern_type": "stix",
+    "pattern_version": "2.1",
+    "valid_from": "2021-10-21T16:15:00Z",
+    "external_references": [
+        {
+            "source_name": "cve2stix",
+            "description": "This object was created using cve2stix from the Signals Corps.",
+            "url": "https://github.com/signalscorps/cve2stix"
+        }
+    ],
+    "object_marking_refs": [
+        "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
+    ],
+    "extensions": {
+        "extension-definition--b463c449-d022-48b7-b464-3e9c7ec5cf16": {
+            "all_cpe23uris": [
+                "cpe:2.3:a:civetweb_project:civetweb:*:*:*:*:*:*:*:*",
+                "cpe:2.3:a:siemens:sinec_infrastructure_network_services:*:*:*:*:*:*:*:*"
+            ],
+            "extension_type": "property-extension",
+            "vulnerable_cpeid": [
+                "cpe:2.3:a:civetweb_project:civetweb:*:*:*:*:*:*:*:*",
+                "cpe:2.3:a:siemens:sinec_infrastructure_network_services:*:*:*:*:*:*:*:*"
+            ]
+        }
+    }
+}

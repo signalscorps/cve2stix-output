@@ -1,0 +1,38 @@
+{
+    "type": "indicator",
+    "spec_version": "2.1",
+    "id": "indicator--67bffe1a-3aba-4c36-8a15-b9dc13c7d683",
+    "created_by_ref": "identity--748e6444-f073-4c50-b558-f49be8897a81",
+    "created": "2018-05-31T20:29:00.000Z",
+    "modified": "2019-10-09T23:16:00.000Z",
+    "name": "CVE-2016-10549",
+    "description": "Sails is an MVC style framework for building realtime web applications. Version 0.12.7 and lower have an issue with the CORS configuration where the value of the origin header is reflected as the value for the Access-Control-Allow-Origin header. This would allow an attacker to make AJAX requests to vulnerable hosts through cross site scripting or a malicious HTML Document, effectively bypassing the Same Origin Policy. Note that this is only an issue when `allRoutes` is set to `true` and `origin` is set to `*` or left commented out in the sails CORS config file. The problem can be compounded when the cors `credentials` setting is not provided. At that point authenticated cross domain requests are possible.",
+    "indicator_types": [
+        "compromised"
+    ],
+    "pattern": "[(software:cpe='cpe:2.3:a:sailsjs:sails:*:*:*:*:*:node.js:*:*')]",
+    "pattern_type": "stix",
+    "pattern_version": "2.1",
+    "valid_from": "2018-05-31T20:29:00Z",
+    "external_references": [
+        {
+            "source_name": "cve2stix",
+            "description": "This object was created using cve2stix from the Signals Corps.",
+            "url": "https://github.com/signalscorps/cve2stix"
+        }
+    ],
+    "object_marking_refs": [
+        "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
+    ],
+    "extensions": {
+        "extension-definition--b463c449-d022-48b7-b464-3e9c7ec5cf16": {
+            "all_cpe23uris": [
+                "cpe:2.3:a:sailsjs:sails:*:*:*:*:*:node.js:*:*"
+            ],
+            "extension_type": "property-extension",
+            "vulnerable_cpeid": [
+                "cpe:2.3:a:sailsjs:sails:*:*:*:*:*:node.js:*:*"
+            ]
+        }
+    }
+}

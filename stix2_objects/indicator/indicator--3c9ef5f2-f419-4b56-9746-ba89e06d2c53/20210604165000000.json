@@ -1,0 +1,44 @@
+{
+    "type": "indicator",
+    "spec_version": "2.1",
+    "id": "indicator--3c9ef5f2-f419-4b56-9746-ba89e06d2c53",
+    "created_by_ref": "identity--748e6444-f073-4c50-b558-f49be8897a81",
+    "created": "2021-05-28T11:15:00.000Z",
+    "modified": "2021-06-04T16:50:00.000Z",
+    "name": "CVE-2020-27826",
+    "description": "A flaw was found in Keycloak before version 12.0.0 where it is possible to update the user's metadata attributes using Account REST API. This flaw allows an attacker to change its own NameID attribute to impersonate the admin user for any particular application.",
+    "indicator_types": [
+        "compromised"
+    ],
+    "pattern": "[(software:cpe='cpe:2.3:a:redhat:keycloak:*:*:*:*:*:*:*:*') OR (software:cpe='cpe:2.3:a:redhat:single_sign-on:-:*:*:*:text-only:*:*:*' OR software:cpe='cpe:2.3:a:redhat:single_sign-on:7.4:*:*:*:*:*:*:*' OR software:cpe='cpe:2.3:a:redhat:single_sign-on:7.4.4:*:*:*:*:*:*:*')]",
+    "pattern_type": "stix",
+    "pattern_version": "2.1",
+    "valid_from": "2021-05-28T11:15:00Z",
+    "external_references": [
+        {
+            "source_name": "cve2stix",
+            "description": "This object was created using cve2stix from the Signals Corps.",
+            "url": "https://github.com/signalscorps/cve2stix"
+        }
+    ],
+    "object_marking_refs": [
+        "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
+    ],
+    "extensions": {
+        "extension-definition--b463c449-d022-48b7-b464-3e9c7ec5cf16": {
+            "all_cpe23uris": [
+                "cpe:2.3:a:redhat:single_sign-on:7.4:*:*:*:*:*:*:*",
+                "cpe:2.3:a:redhat:keycloak:*:*:*:*:*:*:*:*",
+                "cpe:2.3:a:redhat:single_sign-on:7.4.4:*:*:*:*:*:*:*",
+                "cpe:2.3:a:redhat:single_sign-on:-:*:*:*:text-only:*:*:*"
+            ],
+            "extension_type": "property-extension",
+            "vulnerable_cpeid": [
+                "cpe:2.3:a:redhat:single_sign-on:7.4:*:*:*:*:*:*:*",
+                "cpe:2.3:a:redhat:keycloak:*:*:*:*:*:*:*:*",
+                "cpe:2.3:a:redhat:single_sign-on:7.4.4:*:*:*:*:*:*:*",
+                "cpe:2.3:a:redhat:single_sign-on:-:*:*:*:text-only:*:*:*"
+            ]
+        }
+    }
+}

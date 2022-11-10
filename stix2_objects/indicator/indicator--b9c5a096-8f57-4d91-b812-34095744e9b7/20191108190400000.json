@@ -1,0 +1,46 @@
+{
+    "type": "indicator",
+    "spec_version": "2.1",
+    "id": "indicator--b9c5a096-8f57-4d91-b812-34095744e9b7",
+    "created_by_ref": "identity--748e6444-f073-4c50-b558-f49be8897a81",
+    "created": "2019-11-05T19:15:00.000Z",
+    "modified": "2019-11-08T19:04:00.000Z",
+    "name": "CVE-2013-5661",
+    "description": "Cache Poisoning issue exists in DNS Response Rate Limiting.",
+    "indicator_types": [
+        "compromised"
+    ],
+    "pattern": "[(software:cpe='cpe:2.3:a:isc:bind:*:*:*:*:*:*:*:*') OR (software:cpe='cpe:2.3:a:nlnetlabs:nsd:3.2.15:*:*:*:*:*:*:*') OR (software:cpe='cpe:2.3:a:nic:knot_resolver:*:*:*:*:*:*:*:*') OR (software:cpe='cpe:2.3:o:redhat:enterprise_linux:7.0:*:*:*:*:*:*:*' OR software:cpe='cpe:2.3:o:redhat:enterprise_linux:6.0:*:*:*:*:*:*:*')]",
+    "pattern_type": "stix",
+    "pattern_version": "2.1",
+    "valid_from": "2019-11-05T19:15:00Z",
+    "external_references": [
+        {
+            "source_name": "cve2stix",
+            "description": "This object was created using cve2stix from the Signals Corps.",
+            "url": "https://github.com/signalscorps/cve2stix"
+        }
+    ],
+    "object_marking_refs": [
+        "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
+    ],
+    "extensions": {
+        "extension-definition--b463c449-d022-48b7-b464-3e9c7ec5cf16": {
+            "all_cpe23uris": [
+                "cpe:2.3:a:nlnetlabs:nsd:3.2.15:*:*:*:*:*:*:*",
+                "cpe:2.3:a:isc:bind:*:*:*:*:*:*:*:*",
+                "cpe:2.3:a:nic:knot_resolver:*:*:*:*:*:*:*:*",
+                "cpe:2.3:o:redhat:enterprise_linux:7.0:*:*:*:*:*:*:*",
+                "cpe:2.3:o:redhat:enterprise_linux:6.0:*:*:*:*:*:*:*"
+            ],
+            "extension_type": "property-extension",
+            "vulnerable_cpeid": [
+                "cpe:2.3:a:nlnetlabs:nsd:3.2.15:*:*:*:*:*:*:*",
+                "cpe:2.3:a:isc:bind:*:*:*:*:*:*:*:*",
+                "cpe:2.3:a:nic:knot_resolver:*:*:*:*:*:*:*:*",
+                "cpe:2.3:o:redhat:enterprise_linux:7.0:*:*:*:*:*:*:*",
+                "cpe:2.3:o:redhat:enterprise_linux:6.0:*:*:*:*:*:*:*"
+            ]
+        }
+    }
+}

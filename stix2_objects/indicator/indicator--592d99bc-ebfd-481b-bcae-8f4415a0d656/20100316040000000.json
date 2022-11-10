@@ -1,0 +1,43 @@
+{
+    "type": "indicator",
+    "spec_version": "2.1",
+    "id": "indicator--592d99bc-ebfd-481b-bcae-8f4415a0d656",
+    "created_by_ref": "identity--748e6444-f073-4c50-b558-f49be8897a81",
+    "created": "2010-03-15T21:30:00.000Z",
+    "modified": "2010-03-16T04:00:00.000Z",
+    "name": "CVE-2009-4705",
+    "description": "Cross-site scripting (XSS) vulnerability in the Twitter Search (twittersearch) extension before 0.1.1 for TYPO3 allows remote attackers to inject arbitrary web script or HTML via unspecified vectors.",
+    "indicator_types": [
+        "compromised"
+    ],
+    "pattern": "[((software:cpe='cpe:2.3:a:thomas_loeffler:twittersearch:*:*:*:*:*:*:*:*' OR software:cpe='cpe:2.3:a:thomas_loeffler:twittersearch:0.0.1:*:*:*:*:*:*:*' OR software:cpe='cpe:2.3:a:thomas_loeffler:twittersearch:0.0.2:*:*:*:*:*:*:*') AND (software:cpe='cpe:2.3:a:typo3:typo3:*:*:*:*:*:*:*:*'))]",
+    "pattern_type": "stix",
+    "pattern_version": "2.1",
+    "valid_from": "2010-03-15T21:30:00Z",
+    "external_references": [
+        {
+            "source_name": "cve2stix",
+            "description": "This object was created using cve2stix from the Signals Corps.",
+            "url": "https://github.com/signalscorps/cve2stix"
+        }
+    ],
+    "object_marking_refs": [
+        "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
+    ],
+    "extensions": {
+        "extension-definition--b463c449-d022-48b7-b464-3e9c7ec5cf16": {
+            "all_cpe23uris": [
+                "cpe:2.3:a:thomas_loeffler:twittersearch:*:*:*:*:*:*:*:*",
+                "cpe:2.3:a:thomas_loeffler:twittersearch:0.0.1:*:*:*:*:*:*:*",
+                "cpe:2.3:a:typo3:typo3:*:*:*:*:*:*:*:*",
+                "cpe:2.3:a:thomas_loeffler:twittersearch:0.0.2:*:*:*:*:*:*:*"
+            ],
+            "extension_type": "property-extension",
+            "vulnerable_cpeid": [
+                "cpe:2.3:a:thomas_loeffler:twittersearch:*:*:*:*:*:*:*:*",
+                "cpe:2.3:a:thomas_loeffler:twittersearch:0.0.1:*:*:*:*:*:*:*",
+                "cpe:2.3:a:thomas_loeffler:twittersearch:0.0.2:*:*:*:*:*:*:*"
+            ]
+        }
+    }
+}

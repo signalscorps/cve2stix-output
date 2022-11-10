@@ -1,0 +1,40 @@
+{
+    "type": "indicator",
+    "spec_version": "2.1",
+    "id": "indicator--b67412e8-114e-4102-b5d9-85aa1a98f7c1",
+    "created_by_ref": "identity--748e6444-f073-4c50-b558-f49be8897a81",
+    "created": "2022-11-08T22:15:00.000Z",
+    "modified": "2022-11-09T16:14:00.000Z",
+    "name": "CVE-2022-39386",
+    "description": "@fastify/websocket provides WebSocket support for Fastify. Any application using @fastify/websocket could crash if a specific, malformed packet is sent. All versions of fastify-websocket are also impacted. That module is deprecated, so it will not be patched. This has been patched in version 7.1.1 (fastify v4) and version 5.0.1 (fastify v3). There are currently no known workarounds. However, it should be possible to attach the error handler manually. The recommended path is upgrading to the patched versions.",
+    "indicator_types": [
+        "compromised"
+    ],
+    "pattern": "[(software:cpe='cpe:2.3:a:fastify:websocket:*:*:*:*:*:node.js:*:*' OR software:cpe='cpe:2.3:a:fastify:websocket:5.0.0:*:*:*:*:node.js:*:*')]",
+    "pattern_type": "stix",
+    "pattern_version": "2.1",
+    "valid_from": "2022-11-08T22:15:00Z",
+    "external_references": [
+        {
+            "source_name": "cve2stix",
+            "description": "This object was created using cve2stix from the Signals Corps.",
+            "url": "https://github.com/signalscorps/cve2stix"
+        }
+    ],
+    "object_marking_refs": [
+        "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
+    ],
+    "extensions": {
+        "extension-definition--b463c449-d022-48b7-b464-3e9c7ec5cf16": {
+            "all_cpe23uris": [
+                "cpe:2.3:a:fastify:websocket:5.0.0:*:*:*:*:node.js:*:*",
+                "cpe:2.3:a:fastify:websocket:*:*:*:*:*:node.js:*:*"
+            ],
+            "extension_type": "property-extension",
+            "vulnerable_cpeid": [
+                "cpe:2.3:a:fastify:websocket:5.0.0:*:*:*:*:node.js:*:*",
+                "cpe:2.3:a:fastify:websocket:*:*:*:*:*:node.js:*:*"
+            ]
+        }
+    }
+}

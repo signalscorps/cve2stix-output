@@ -1,0 +1,39 @@
+{
+    "type": "indicator",
+    "spec_version": "2.1",
+    "id": "indicator--36b994d3-beba-4eb8-b653-9a91b17270db",
+    "created_by_ref": "identity--748e6444-f073-4c50-b558-f49be8897a81",
+    "created": "2010-03-19T19:00:00.000Z",
+    "modified": "2017-08-17T01:32:00.000Z",
+    "name": "CVE-2010-1027",
+    "description": "SQL injection vulnerability in the Meet Travelmates (travelmate) extension 0.1.1 and earlier for TYPO3 allows remote attackers to execute arbitrary SQL commands via unspecified vectors.",
+    "indicator_types": [
+        "compromised"
+    ],
+    "pattern": "[((software:cpe='cpe:2.3:a:dietmar_schffer:travelmate:*:*:*:*:*:*:*:*') AND (software:cpe='cpe:2.3:a:typo3:typo3:*:*:*:*:*:*:*:*'))]",
+    "pattern_type": "stix",
+    "pattern_version": "2.1",
+    "valid_from": "2010-03-19T19:00:00Z",
+    "external_references": [
+        {
+            "source_name": "cve2stix",
+            "description": "This object was created using cve2stix from the Signals Corps.",
+            "url": "https://github.com/signalscorps/cve2stix"
+        }
+    ],
+    "object_marking_refs": [
+        "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
+    ],
+    "extensions": {
+        "extension-definition--b463c449-d022-48b7-b464-3e9c7ec5cf16": {
+            "all_cpe23uris": [
+                "cpe:2.3:a:dietmar_schffer:travelmate:*:*:*:*:*:*:*:*",
+                "cpe:2.3:a:typo3:typo3:*:*:*:*:*:*:*:*"
+            ],
+            "extension_type": "property-extension",
+            "vulnerable_cpeid": [
+                "cpe:2.3:a:dietmar_schffer:travelmate:*:*:*:*:*:*:*:*"
+            ]
+        }
+    }
+}

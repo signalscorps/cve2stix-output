@@ -1,0 +1,45 @@
+{
+    "type": "indicator",
+    "spec_version": "2.1",
+    "id": "indicator--dd74be69-aaa8-427f-bc44-87f8b493da93",
+    "created_by_ref": "identity--748e6444-f073-4c50-b558-f49be8897a81",
+    "created": "2021-08-31T17:15:00.000Z",
+    "modified": "2022-08-12T17:49:00.000Z",
+    "name": "CVE-2021-39134",
+    "description": "`@npmcli/arborist`, the library that calculates dependency trees and manages the `node_modules` folder hierarchy for the npm command line interface, aims to guarantee that package dependency contracts will be met, and the extraction of package contents will always be performed into the expected folder. This is, in part, accomplished by resolving dependency specifiers defined in `package.json` manifests for dependencies with a specific name, and nesting folders to resolve conflicting dependencies. When multiple dependencies differ only in the case of their name, Arborist's internal data structure saw them as separate items that could coexist within the same level in the `node_modules` hierarchy. However, on case-insensitive file systems (such as macOS and Windows), this is not the case. Combined with a symlink dependency such as `file:/some/path`, this allowed an attacker to create a situation in which arbitrary contents could be written to any location on the filesystem. For example, a package `pwn-a` could define a dependency in their `package.json` file such as `\"foo\": \"file:/some/path\"`. Another package, `pwn-b` could define a dependency such as `FOO: \"file:foo.tgz\"`. On case-insensitive file systems, if `pwn-a` was installed, and then `pwn-b` was installed afterwards, the contents of `foo.tgz` would be written to `/some/path`, and any existing contents of `/some/path` would be removed. Anyone using npm v7.20.6 or earlier on a case-insensitive filesystem is potentially affected. This is patched in @npmcli/arborist 2.8.2 which is included in npm v7.20.7 and above.",
+    "indicator_types": [
+        "compromised"
+    ],
+    "pattern": "[((software:cpe='cpe:2.3:a:npmjs:arborist:*:*:*:*:*:node.js:*:*') AND (software:cpe='cpe:2.3:a:npmjs:npm:*:*:*:*:*:*:*:*')) OR (software:cpe='cpe:2.3:a:oracle:graalvm:20.3.3:*:*:*:enterprise:*:*:*' OR software:cpe='cpe:2.3:a:oracle:graalvm:21.2.0:*:*:*:enterprise:*:*:*') OR (software:cpe='cpe:2.3:a:siemens:sinec_infrastructure_network_services:*:*:*:*:*:*:*:*')]",
+    "pattern_type": "stix",
+    "pattern_version": "2.1",
+    "valid_from": "2021-08-31T17:15:00Z",
+    "external_references": [
+        {
+            "source_name": "cve2stix",
+            "description": "This object was created using cve2stix from the Signals Corps.",
+            "url": "https://github.com/signalscorps/cve2stix"
+        }
+    ],
+    "object_marking_refs": [
+        "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
+    ],
+    "extensions": {
+        "extension-definition--b463c449-d022-48b7-b464-3e9c7ec5cf16": {
+            "all_cpe23uris": [
+                "cpe:2.3:a:npmjs:arborist:*:*:*:*:*:node.js:*:*",
+                "cpe:2.3:a:oracle:graalvm:20.3.3:*:*:*:enterprise:*:*:*",
+                "cpe:2.3:a:siemens:sinec_infrastructure_network_services:*:*:*:*:*:*:*:*",
+                "cpe:2.3:a:oracle:graalvm:21.2.0:*:*:*:enterprise:*:*:*",
+                "cpe:2.3:a:npmjs:npm:*:*:*:*:*:*:*:*"
+            ],
+            "extension_type": "property-extension",
+            "vulnerable_cpeid": [
+                "cpe:2.3:a:npmjs:arborist:*:*:*:*:*:node.js:*:*",
+                "cpe:2.3:a:oracle:graalvm:20.3.3:*:*:*:enterprise:*:*:*",
+                "cpe:2.3:a:siemens:sinec_infrastructure_network_services:*:*:*:*:*:*:*:*",
+                "cpe:2.3:a:oracle:graalvm:21.2.0:*:*:*:enterprise:*:*:*"
+            ]
+        }
+    }
+}

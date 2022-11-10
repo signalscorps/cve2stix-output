@@ -1,0 +1,38 @@
+{
+    "type": "indicator",
+    "spec_version": "2.1",
+    "id": "indicator--46fb46c6-1ddb-486e-85ce-7df1d5c0d5a5",
+    "created_by_ref": "identity--748e6444-f073-4c50-b558-f49be8897a81",
+    "created": "2022-10-19T19:15:00.000Z",
+    "modified": "2022-10-21T17:59:00.000Z",
+    "name": "CVE-2022-41708",
+    "description": "Relatedcode's Messenger version 7bcd20b allows an authenticated external attacker to access existing chats in the workspaces of any user of the application. This is possible because the application does not validate permissions correctly.",
+    "indicator_types": [
+        "compromised"
+    ],
+    "pattern": "[(software:cpe='cpe:2.3:a:relatedcode:messenger:-:*:*:*:*:*:*:*')]",
+    "pattern_type": "stix",
+    "pattern_version": "2.1",
+    "valid_from": "2022-10-19T19:15:00Z",
+    "external_references": [
+        {
+            "source_name": "cve2stix",
+            "description": "This object was created using cve2stix from the Signals Corps.",
+            "url": "https://github.com/signalscorps/cve2stix"
+        }
+    ],
+    "object_marking_refs": [
+        "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
+    ],
+    "extensions": {
+        "extension-definition--b463c449-d022-48b7-b464-3e9c7ec5cf16": {
+            "all_cpe23uris": [
+                "cpe:2.3:a:relatedcode:messenger:-:*:*:*:*:*:*:*"
+            ],
+            "extension_type": "property-extension",
+            "vulnerable_cpeid": [
+                "cpe:2.3:a:relatedcode:messenger:-:*:*:*:*:*:*:*"
+            ]
+        }
+    }
+}

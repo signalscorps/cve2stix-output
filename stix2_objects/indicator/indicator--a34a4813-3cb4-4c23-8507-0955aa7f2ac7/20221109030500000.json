@@ -1,0 +1,42 @@
+{
+    "type": "indicator",
+    "spec_version": "2.1",
+    "id": "indicator--a34a4813-3cb4-4c23-8507-0955aa7f2ac7",
+    "created_by_ref": "identity--748e6444-f073-4c50-b558-f49be8897a81",
+    "created": "2014-07-09T11:07:00.000Z",
+    "modified": "2022-11-09T03:05:00.000Z",
+    "name": "CVE-2014-3515",
+    "description": "The SPL component in PHP before 5.4.30 and 5.5.x before 5.5.14 incorrectly anticipates that certain data structures will have the array data type after unserialization, which allows remote attackers to execute arbitrary code via a crafted string that triggers use of a Hashtable destructor, related to \"type confusion\" issues in (1) ArrayObject and (2) SPLObjectStorage.",
+    "indicator_types": [
+        "compromised"
+    ],
+    "pattern": "[(software:cpe='cpe:2.3:a:php:php:*:*:*:*:*:*:*:*' OR software:cpe='cpe:2.3:a:php:php:*:*:*:*:*:*:*:*' OR software:cpe='cpe:2.3:a:php:php:*:*:*:*:*:*:*:*') OR (software:cpe='cpe:2.3:o:debian:debian_linux:8.0:*:*:*:*:*:*:*' OR software:cpe='cpe:2.3:o:debian:debian_linux:7.0:*:*:*:*:*:*:*')]",
+    "pattern_type": "stix",
+    "pattern_version": "2.1",
+    "valid_from": "2014-07-09T11:07:00Z",
+    "external_references": [
+        {
+            "source_name": "cve2stix",
+            "description": "This object was created using cve2stix from the Signals Corps.",
+            "url": "https://github.com/signalscorps/cve2stix"
+        }
+    ],
+    "object_marking_refs": [
+        "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
+    ],
+    "extensions": {
+        "extension-definition--b463c449-d022-48b7-b464-3e9c7ec5cf16": {
+            "all_cpe23uris": [
+                "cpe:2.3:o:debian:debian_linux:8.0:*:*:*:*:*:*:*",
+                "cpe:2.3:o:debian:debian_linux:7.0:*:*:*:*:*:*:*",
+                "cpe:2.3:a:php:php:*:*:*:*:*:*:*:*"
+            ],
+            "extension_type": "property-extension",
+            "vulnerable_cpeid": [
+                "cpe:2.3:o:debian:debian_linux:8.0:*:*:*:*:*:*:*",
+                "cpe:2.3:o:debian:debian_linux:7.0:*:*:*:*:*:*:*",
+                "cpe:2.3:a:php:php:*:*:*:*:*:*:*:*"
+            ]
+        }
+    }
+}

@@ -1,0 +1,85 @@
+{
+    "type": "indicator",
+    "spec_version": "2.1",
+    "id": "indicator--20131c8d-3bbf-4cb0-baa7-253b6d9cf3f9",
+    "created_by_ref": "identity--748e6444-f073-4c50-b558-f49be8897a81",
+    "created": "2009-10-28T10:30:00.000Z",
+    "modified": "2009-10-28T10:30:00.000Z",
+    "name": "CVE-2009-3818",
+    "description": "Unspecified vulnerability in the session handling feature in freeCap CAPTCHA (sr_freecap) extension 1.2.0 and earlier for TYPO3 has unknown impact and attack vectors.",
+    "indicator_types": [
+        "compromised"
+    ],
+    "pattern": "[((software:cpe='cpe:2.3:a:typo3:typo3:*:*:*:*:*:*:*:*') AND (software:cpe='cpe:2.3:a:stanislas_rolland:sr_freecap:0.3.0:*:*:*:*:*:*:*' OR software:cpe='cpe:2.3:a:stanislas_rolland:sr_freecap:0.3.1:*:*:*:*:*:*:*' OR software:cpe='cpe:2.3:a:stanislas_rolland:sr_freecap:1.0.0:*:*:*:*:*:*:*' OR software:cpe='cpe:2.3:a:stanislas_rolland:sr_freecap:0.2.3:*:*:*:*:*:*:*' OR software:cpe='cpe:2.3:a:stanislas_rolland:sr_freecap:0.4.5:*:*:*:*:*:*:*' OR software:cpe='cpe:2.3:a:stanislas_rolland:sr_freecap:0.4.4:*:*:*:*:*:*:*' OR software:cpe='cpe:2.3:a:stanislas_rolland:sr_freecap:1.0.4:*:*:*:*:*:*:*' OR software:cpe='cpe:2.3:a:stanislas_rolland:sr_freecap:1.0.1:*:*:*:*:*:*:*' OR software:cpe='cpe:2.3:a:stanislas_rolland:sr_freecap:0.2.2:*:*:*:*:*:*:*' OR software:cpe='cpe:2.3:a:stanislas_rolland:sr_freecap:1.1.2:*:*:*:*:*:*:*' OR software:cpe='cpe:2.3:a:stanislas_rolland:sr_freecap:1.1.1:*:*:*:*:*:*:*' OR software:cpe='cpe:2.3:a:stanislas_rolland:sr_freecap:1.1.0:*:*:*:*:*:*:*' OR software:cpe='cpe:2.3:a:stanislas_rolland:sr_freecap:1.0.3:*:*:*:*:*:*:*' OR software:cpe='cpe:2.3:a:stanislas_rolland:sr_freecap:0.4.6:*:*:*:*:*:*:*' OR software:cpe='cpe:2.3:a:stanislas_rolland:sr_freecap:0.4.1:*:*:*:*:*:*:*' OR software:cpe='cpe:2.3:a:stanislas_rolland:sr_freecap:0.3.3:*:*:*:*:*:*:*' OR software:cpe='cpe:2.3:a:stanislas_rolland:sr_freecap:0.1.0:*:*:*:*:*:*:*' OR software:cpe='cpe:2.3:a:stanislas_rolland:sr_freecap:0.4.3:*:*:*:*:*:*:*' OR software:cpe='cpe:2.3:a:stanislas_rolland:sr_freecap:0.4.2:*:*:*:*:*:*:*' OR software:cpe='cpe:2.3:a:stanislas_rolland:sr_freecap:1.0.2:*:*:*:*:*:*:*' OR software:cpe='cpe:2.3:a:stanislas_rolland:sr_freecap:0.4.0:*:*:*:*:*:*:*' OR software:cpe='cpe:2.3:a:stanislas_rolland:sr_freecap:0.3.2:*:*:*:*:*:*:*' OR software:cpe='cpe:2.3:a:stanislas_rolland:sr_freecap:0.2.0:*:*:*:*:*:*:*' OR software:cpe='cpe:2.3:a:stanislas_rolland:sr_freecap:*:*:*:*:*:*:*:*'))]",
+    "pattern_type": "stix",
+    "pattern_version": "2.1",
+    "valid_from": "2009-10-28T10:30:00Z",
+    "external_references": [
+        {
+            "source_name": "cve2stix",
+            "description": "This object was created using cve2stix from the Signals Corps.",
+            "url": "https://github.com/signalscorps/cve2stix"
+        }
+    ],
+    "object_marking_refs": [
+        "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
+    ],
+    "extensions": {
+        "extension-definition--b463c449-d022-48b7-b464-3e9c7ec5cf16": {
+            "all_cpe23uris": [
+                "cpe:2.3:a:stanislas_rolland:sr_freecap:1.0.4:*:*:*:*:*:*:*",
+                "cpe:2.3:a:stanislas_rolland:sr_freecap:0.3.2:*:*:*:*:*:*:*",
+                "cpe:2.3:a:stanislas_rolland:sr_freecap:1.1.0:*:*:*:*:*:*:*",
+                "cpe:2.3:a:stanislas_rolland:sr_freecap:0.3.0:*:*:*:*:*:*:*",
+                "cpe:2.3:a:stanislas_rolland:sr_freecap:1.0.2:*:*:*:*:*:*:*",
+                "cpe:2.3:a:stanislas_rolland:sr_freecap:1.1.1:*:*:*:*:*:*:*",
+                "cpe:2.3:a:stanislas_rolland:sr_freecap:0.4.5:*:*:*:*:*:*:*",
+                "cpe:2.3:a:stanislas_rolland:sr_freecap:0.2.0:*:*:*:*:*:*:*",
+                "cpe:2.3:a:stanislas_rolland:sr_freecap:0.2.2:*:*:*:*:*:*:*",
+                "cpe:2.3:a:stanislas_rolland:sr_freecap:0.4.6:*:*:*:*:*:*:*",
+                "cpe:2.3:a:stanislas_rolland:sr_freecap:0.4.3:*:*:*:*:*:*:*",
+                "cpe:2.3:a:stanislas_rolland:sr_freecap:0.4.4:*:*:*:*:*:*:*",
+                "cpe:2.3:a:stanislas_rolland:sr_freecap:0.4.2:*:*:*:*:*:*:*",
+                "cpe:2.3:a:stanislas_rolland:sr_freecap:1.1.2:*:*:*:*:*:*:*",
+                "cpe:2.3:a:stanislas_rolland:sr_freecap:0.4.1:*:*:*:*:*:*:*",
+                "cpe:2.3:a:stanislas_rolland:sr_freecap:0.4.0:*:*:*:*:*:*:*",
+                "cpe:2.3:a:stanislas_rolland:sr_freecap:0.2.3:*:*:*:*:*:*:*",
+                "cpe:2.3:a:stanislas_rolland:sr_freecap:1.0.1:*:*:*:*:*:*:*",
+                "cpe:2.3:a:typo3:typo3:*:*:*:*:*:*:*:*",
+                "cpe:2.3:a:stanislas_rolland:sr_freecap:0.1.0:*:*:*:*:*:*:*",
+                "cpe:2.3:a:stanislas_rolland:sr_freecap:0.3.3:*:*:*:*:*:*:*",
+                "cpe:2.3:a:stanislas_rolland:sr_freecap:1.0.0:*:*:*:*:*:*:*",
+                "cpe:2.3:a:stanislas_rolland:sr_freecap:0.3.1:*:*:*:*:*:*:*",
+                "cpe:2.3:a:stanislas_rolland:sr_freecap:*:*:*:*:*:*:*:*",
+                "cpe:2.3:a:stanislas_rolland:sr_freecap:1.0.3:*:*:*:*:*:*:*"
+            ],
+            "extension_type": "property-extension",
+            "vulnerable_cpeid": [
+                "cpe:2.3:a:stanislas_rolland:sr_freecap:1.0.4:*:*:*:*:*:*:*",
+                "cpe:2.3:a:stanislas_rolland:sr_freecap:0.3.2:*:*:*:*:*:*:*",
+                "cpe:2.3:a:stanislas_rolland:sr_freecap:1.1.0:*:*:*:*:*:*:*",
+                "cpe:2.3:a:stanislas_rolland:sr_freecap:0.3.0:*:*:*:*:*:*:*",
+                "cpe:2.3:a:stanislas_rolland:sr_freecap:1.0.2:*:*:*:*:*:*:*",
+                "cpe:2.3:a:stanislas_rolland:sr_freecap:1.1.1:*:*:*:*:*:*:*",
+                "cpe:2.3:a:stanislas_rolland:sr_freecap:0.4.5:*:*:*:*:*:*:*",
+                "cpe:2.3:a:stanislas_rolland:sr_freecap:0.2.0:*:*:*:*:*:*:*",
+                "cpe:2.3:a:stanislas_rolland:sr_freecap:0.2.2:*:*:*:*:*:*:*",
+                "cpe:2.3:a:stanislas_rolland:sr_freecap:0.4.6:*:*:*:*:*:*:*",
+                "cpe:2.3:a:stanislas_rolland:sr_freecap:0.4.3:*:*:*:*:*:*:*",
+                "cpe:2.3:a:stanislas_rolland:sr_freecap:0.4.2:*:*:*:*:*:*:*",
+                "cpe:2.3:a:stanislas_rolland:sr_freecap:0.4.4:*:*:*:*:*:*:*",
+                "cpe:2.3:a:stanislas_rolland:sr_freecap:1.1.2:*:*:*:*:*:*:*",
+                "cpe:2.3:a:stanislas_rolland:sr_freecap:0.4.1:*:*:*:*:*:*:*",
+                "cpe:2.3:a:stanislas_rolland:sr_freecap:0.4.0:*:*:*:*:*:*:*",
+                "cpe:2.3:a:stanislas_rolland:sr_freecap:0.2.3:*:*:*:*:*:*:*",
+                "cpe:2.3:a:stanislas_rolland:sr_freecap:1.0.1:*:*:*:*:*:*:*",
+                "cpe:2.3:a:stanislas_rolland:sr_freecap:0.1.0:*:*:*:*:*:*:*",
+                "cpe:2.3:a:stanislas_rolland:sr_freecap:0.3.3:*:*:*:*:*:*:*",
+                "cpe:2.3:a:stanislas_rolland:sr_freecap:1.0.0:*:*:*:*:*:*:*",
+                "cpe:2.3:a:stanislas_rolland:sr_freecap:0.3.1:*:*:*:*:*:*:*",
+                "cpe:2.3:a:stanislas_rolland:sr_freecap:*:*:*:*:*:*:*:*",
+                "cpe:2.3:a:stanislas_rolland:sr_freecap:1.0.3:*:*:*:*:*:*:*"
+            ]
+        }
+    }
+}

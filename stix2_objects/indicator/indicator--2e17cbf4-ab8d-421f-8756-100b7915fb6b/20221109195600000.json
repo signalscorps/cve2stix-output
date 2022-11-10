@@ -1,0 +1,38 @@
+{
+    "type": "indicator",
+    "spec_version": "2.1",
+    "id": "indicator--2e17cbf4-ab8d-421f-8756-100b7915fb6b",
+    "created_by_ref": "identity--748e6444-f073-4c50-b558-f49be8897a81",
+    "created": "2022-11-09T07:15:00.000Z",
+    "modified": "2022-11-09T19:56:00.000Z",
+    "name": "CVE-2022-40797",
+    "description": "Roxy Fileman 1.4.6 allows Remote Code Execution via a .phar upload, because the default FORBIDDEN_UPLOADS value in conf.json only blocks .php, .php4, and .php5 files. (Visiting any .phar file invokes the PHP interpreter in some realistic web-server configurations.)",
+    "indicator_types": [
+        "compromised"
+    ],
+    "pattern": "[(software:cpe='cpe:2.3:a:roxyfileman:roxy_fileman:1.4.6:*:*:*:*:*:*:*')]",
+    "pattern_type": "stix",
+    "pattern_version": "2.1",
+    "valid_from": "2022-11-09T07:15:00Z",
+    "external_references": [
+        {
+            "source_name": "cve2stix",
+            "description": "This object was created using cve2stix from the Signals Corps.",
+            "url": "https://github.com/signalscorps/cve2stix"
+        }
+    ],
+    "object_marking_refs": [
+        "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
+    ],
+    "extensions": {
+        "extension-definition--b463c449-d022-48b7-b464-3e9c7ec5cf16": {
+            "all_cpe23uris": [
+                "cpe:2.3:a:roxyfileman:roxy_fileman:1.4.6:*:*:*:*:*:*:*"
+            ],
+            "extension_type": "property-extension",
+            "vulnerable_cpeid": [
+                "cpe:2.3:a:roxyfileman:roxy_fileman:1.4.6:*:*:*:*:*:*:*"
+            ]
+        }
+    }
+}
