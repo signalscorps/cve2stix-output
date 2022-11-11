@@ -1,0 +1,54 @@
+{
+    "type": "indicator",
+    "spec_version": "2.1",
+    "id": "indicator--040d9440-e5ea-40fe-baac-cbd3db53e18f",
+    "created_by_ref": "identity--748e6444-f073-4c50-b558-f49be8897a81",
+    "created": "2016-09-14T18:59:00.000Z",
+    "modified": "2022-11-10T20:26:00.000Z",
+    "name": "CVE-2016-4281",
+    "description": "Adobe Flash Player before 18.0.0.375 and 19.x through 23.x before 23.0.0.162 on Windows and OS X and before 11.2.202.635 on Linux allows attackers to execute arbitrary code or cause a denial of service (memory corruption) via unspecified vectors, a different vulnerability than CVE-2016-4274, CVE-2016-4275, CVE-2016-4276, CVE-2016-4280, CVE-2016-4282, CVE-2016-4283, CVE-2016-4284, CVE-2016-4285, CVE-2016-6922, and CVE-2016-6924.",
+    "indicator_types": [
+        "compromised"
+    ],
+    "pattern": "[((software:cpe='cpe:2.3:a:adobe:flash_player:*:*:*:*:*:*:*:*') AND (software:cpe='cpe:2.3:o:linux:linux_kernel:-:*:*:*:*:*:*:*')) OR ((software:cpe='cpe:2.3:o:microsoft:windows_8.1:-:*:*:*:*:*:*:*' OR software:cpe='cpe:2.3:o:microsoft:windows_10:-:*:*:*:*:*:*:*') AND (software:cpe='cpe:2.3:a:adobe:flash_player:*:*:*:*:*:edge:*:*' OR software:cpe='cpe:2.3:a:adobe:flash_player:*:*:*:*:*:internet_explorer:*:*')) OR ((software:cpe='cpe:2.3:o:microsoft:windows:-:*:*:*:*:*:*:*' OR software:cpe='cpe:2.3:o:apple:mac_os_x:-:*:*:*:*:*:*:*') AND (software:cpe='cpe:2.3:a:adobe:flash_player_desktop_runtime:*:*:*:*:*:*:*:*')) OR ((software:cpe='cpe:2.3:a:adobe:flash_player:*:*:*:*:esr:*:*:*') AND (software:cpe='cpe:2.3:o:microsoft:windows:-:*:*:*:*:*:*:*' OR software:cpe='cpe:2.3:o:apple:mac_os_x:-:*:*:*:*:*:*:*')) OR ((software:cpe='cpe:2.3:a:adobe:flash_player:*:*:*:*:*:chrome:*:*') AND (software:cpe='cpe:2.3:o:microsoft:windows:-:*:*:*:*:*:*:*' OR software:cpe='cpe:2.3:o:apple:mac_os_x:-:*:*:*:*:*:*:*' OR software:cpe='cpe:2.3:o:google:chrome_os:-:*:*:*:*:*:*:*' OR software:cpe='cpe:2.3:o:linux:linux_kernel:-:*:*:*:*:*:*:*'))]",
+    "pattern_type": "stix",
+    "pattern_version": "2.1",
+    "valid_from": "2016-09-14T18:59:00Z",
+    "external_references": [
+        {
+            "source_name": "cve2stix",
+            "description": "This object was created using cve2stix from the Signals Corps.",
+            "url": "https://github.com/signalscorps/cve2stix"
+        }
+    ],
+    "object_marking_refs": [
+        "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
+    ],
+    "extensions": {
+        "extension-definition--b463c449-d022-48b7-b464-3e9c7ec5cf16": {
+            "all_cpe23uris": [
+                "cpe:2.3:a:adobe:flash_player_desktop_runtime:*:*:*:*:*:*:*:*",
+                "cpe:2.3:o:linux:linux_kernel:-:*:*:*:*:*:*:*",
+                "cpe:2.3:a:adobe:flash_player:*:*:*:*:*:*:*:*",
+                "cpe:2.3:o:google:chrome_os:-:*:*:*:*:*:*:*",
+                "cpe:2.3:a:adobe:flash_player:*:*:*:*:*:edge:*:*",
+                "cpe:2.3:o:apple:mac_os_x:-:*:*:*:*:*:*:*",
+                "cpe:2.3:o:microsoft:windows_8.1:-:*:*:*:*:*:*:*",
+                "cpe:2.3:o:microsoft:windows_10:-:*:*:*:*:*:*:*",
+                "cpe:2.3:a:adobe:flash_player:*:*:*:*:esr:*:*:*",
+                "cpe:2.3:a:adobe:flash_player:*:*:*:*:*:internet_explorer:*:*",
+                "cpe:2.3:a:adobe:flash_player:*:*:*:*:*:chrome:*:*",
+                "cpe:2.3:o:microsoft:windows:-:*:*:*:*:*:*:*"
+            ],
+            "extension_type": "property-extension",
+            "vulnerable_cpeid": [
+                "cpe:2.3:a:adobe:flash_player_desktop_runtime:*:*:*:*:*:*:*:*",
+                "cpe:2.3:a:adobe:flash_player:*:*:*:*:*:*:*:*",
+                "cpe:2.3:a:adobe:flash_player:*:*:*:*:*:edge:*:*",
+                "cpe:2.3:a:adobe:flash_player:*:*:*:*:esr:*:*:*",
+                "cpe:2.3:a:adobe:flash_player:*:*:*:*:*:internet_explorer:*:*",
+                "cpe:2.3:a:adobe:flash_player:*:*:*:*:*:chrome:*:*"
+            ]
+        }
+    }
+}

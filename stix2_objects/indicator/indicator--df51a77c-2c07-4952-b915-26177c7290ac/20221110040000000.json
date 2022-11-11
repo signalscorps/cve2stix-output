@@ -1,0 +1,66 @@
+{
+    "type": "indicator",
+    "spec_version": "2.1",
+    "id": "indicator--df51a77c-2c07-4952-b915-26177c7290ac",
+    "created_by_ref": "identity--748e6444-f073-4c50-b558-f49be8897a81",
+    "created": "2022-09-28T14:15:00.000Z",
+    "modified": "2022-11-10T04:00:00.000Z",
+    "name": "CVE-2021-43980",
+    "description": "The simplified implementation of blocking reads and writes introduced in Tomcat 10 and back-ported to Tomcat 9.0.47 onwards exposed a long standing (but extremely hard to trigger) concurrency bug in Apache Tomcat 10.1.0 to 10.1.0-M12, 10.0.0-M1 to 10.0.18, 9.0.0-M1 to 9.0.60 and 8.5.0 to 8.5.77 that could cause client connections to share an Http11Processor instance resulting in responses, or part responses, to be received by the wrong client.",
+    "indicator_types": [
+        "compromised"
+    ],
+    "pattern": "[(software:cpe='cpe:2.3:a:apache:tomcat:10.1.0:milestone3:*:*:*:*:*:*' OR software:cpe='cpe:2.3:a:apache:tomcat:10.1.0:milestone4:*:*:*:*:*:*' OR software:cpe='cpe:2.3:a:apache:tomcat:10.1.0:milestone5:*:*:*:*:*:*' OR software:cpe='cpe:2.3:a:apache:tomcat:10.1.0:milestone1:*:*:*:*:*:*' OR software:cpe='cpe:2.3:a:apache:tomcat:10.1.0:milestone2:*:*:*:*:*:*' OR software:cpe='cpe:2.3:a:apache:tomcat:10.1.0:milestone7:*:*:*:*:*:*' OR software:cpe='cpe:2.3:a:apache:tomcat:10.1.0:milestone8:*:*:*:*:*:*' OR software:cpe='cpe:2.3:a:apache:tomcat:10.1.0:milestone9:*:*:*:*:*:*' OR software:cpe='cpe:2.3:a:apache:tomcat:10.1.0:milestone6:*:*:*:*:*:*' OR software:cpe='cpe:2.3:a:apache:tomcat:*:*:*:*:*:*:*:*' OR software:cpe='cpe:2.3:a:apache:tomcat:*:*:*:*:*:*:*:*' OR software:cpe='cpe:2.3:a:apache:tomcat:*:*:*:*:*:*:*:*' OR software:cpe='cpe:2.3:a:apache:tomcat:10.1.0:milestone10:*:*:*:*:*:*' OR software:cpe='cpe:2.3:a:apache:tomcat:10.1.0:milestone11:*:*:*:*:*:*' OR software:cpe='cpe:2.3:a:apache:tomcat:10.1.0:milestone12:*:*:*:*:*:*') OR (software:cpe='cpe:2.3:o:debian:debian_linux:10.0:*:*:*:*:*:*:*' OR software:cpe='cpe:2.3:o:debian:debian_linux:11.0:*:*:*:*:*:*:*')]",
+    "pattern_type": "stix",
+    "pattern_version": "2.1",
+    "valid_from": "2022-09-28T14:15:00Z",
+    "external_references": [
+        {
+            "source_name": "cve2stix",
+            "description": "This object was created using cve2stix from the Signals Corps.",
+            "url": "https://github.com/signalscorps/cve2stix"
+        }
+    ],
+    "object_marking_refs": [
+        "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
+    ],
+    "extensions": {
+        "extension-definition--b463c449-d022-48b7-b464-3e9c7ec5cf16": {
+            "all_cpe23uris": [
+                "cpe:2.3:a:apache:tomcat:10.1.0:milestone9:*:*:*:*:*:*",
+                "cpe:2.3:a:apache:tomcat:10.1.0:milestone8:*:*:*:*:*:*",
+                "cpe:2.3:a:apache:tomcat:10.1.0:milestone1:*:*:*:*:*:*",
+                "cpe:2.3:a:apache:tomcat:10.1.0:milestone10:*:*:*:*:*:*",
+                "cpe:2.3:a:apache:tomcat:10.1.0:milestone5:*:*:*:*:*:*",
+                "cpe:2.3:a:apache:tomcat:10.1.0:milestone4:*:*:*:*:*:*",
+                "cpe:2.3:o:debian:debian_linux:11.0:*:*:*:*:*:*:*",
+                "cpe:2.3:a:apache:tomcat:10.1.0:milestone11:*:*:*:*:*:*",
+                "cpe:2.3:a:apache:tomcat:10.1.0:milestone6:*:*:*:*:*:*",
+                "cpe:2.3:a:apache:tomcat:10.1.0:milestone12:*:*:*:*:*:*",
+                "cpe:2.3:a:apache:tomcat:10.1.0:milestone2:*:*:*:*:*:*",
+                "cpe:2.3:a:apache:tomcat:10.1.0:milestone7:*:*:*:*:*:*",
+                "cpe:2.3:a:apache:tomcat:10.1.0:milestone3:*:*:*:*:*:*",
+                "cpe:2.3:a:apache:tomcat:*:*:*:*:*:*:*:*",
+                "cpe:2.3:o:debian:debian_linux:10.0:*:*:*:*:*:*:*"
+            ],
+            "extension_type": "property-extension",
+            "vulnerable_cpeid": [
+                "cpe:2.3:a:apache:tomcat:10.1.0:milestone9:*:*:*:*:*:*",
+                "cpe:2.3:a:apache:tomcat:10.1.0:milestone8:*:*:*:*:*:*",
+                "cpe:2.3:a:apache:tomcat:10.1.0:milestone1:*:*:*:*:*:*",
+                "cpe:2.3:a:apache:tomcat:10.1.0:milestone10:*:*:*:*:*:*",
+                "cpe:2.3:a:apache:tomcat:10.1.0:milestone5:*:*:*:*:*:*",
+                "cpe:2.3:a:apache:tomcat:10.1.0:milestone4:*:*:*:*:*:*",
+                "cpe:2.3:o:debian:debian_linux:11.0:*:*:*:*:*:*:*",
+                "cpe:2.3:a:apache:tomcat:10.1.0:milestone11:*:*:*:*:*:*",
+                "cpe:2.3:a:apache:tomcat:10.1.0:milestone6:*:*:*:*:*:*",
+                "cpe:2.3:a:apache:tomcat:10.1.0:milestone12:*:*:*:*:*:*",
+                "cpe:2.3:a:apache:tomcat:10.1.0:milestone2:*:*:*:*:*:*",
+                "cpe:2.3:a:apache:tomcat:10.1.0:milestone7:*:*:*:*:*:*",
+                "cpe:2.3:a:apache:tomcat:10.1.0:milestone3:*:*:*:*:*:*",
+                "cpe:2.3:a:apache:tomcat:*:*:*:*:*:*:*:*",
+                "cpe:2.3:o:debian:debian_linux:10.0:*:*:*:*:*:*:*"
+            ]
+        }
+    }
+}

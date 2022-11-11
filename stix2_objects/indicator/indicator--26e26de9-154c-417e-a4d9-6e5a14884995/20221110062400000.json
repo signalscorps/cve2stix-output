@@ -1,0 +1,40 @@
+{
+    "type": "indicator",
+    "spec_version": "2.1",
+    "id": "indicator--26e26de9-154c-417e-a4d9-6e5a14884995",
+    "created_by_ref": "identity--748e6444-f073-4c50-b558-f49be8897a81",
+    "created": "2022-11-07T10:15:00.000Z",
+    "modified": "2022-11-10T06:24:00.000Z",
+    "name": "CVE-2022-3494",
+    "description": "The Complianz WordPress plugin before 6.3.4, and Complianz Premium WordPress plugin before 6.3.6 allow a translators to inject arbitrary SQL through an unsanitized translation. SQL can be injected through an infected translation file, or by a user with a translator role through translation plugins such as Loco Translate or WPML.",
+    "indicator_types": [
+        "compromised"
+    ],
+    "pattern": "[(software:cpe='cpe:2.3:a:really-simple-plugins:complianz:*:*:*:*:premium:wordpress:*:*' OR software:cpe='cpe:2.3:a:really-simple-plugins:complianz:*:*:*:*:-:wordpress:*:*')]",
+    "pattern_type": "stix",
+    "pattern_version": "2.1",
+    "valid_from": "2022-11-07T10:15:00Z",
+    "external_references": [
+        {
+            "source_name": "cve2stix",
+            "description": "This object was created using cve2stix from the Signals Corps.",
+            "url": "https://github.com/signalscorps/cve2stix"
+        }
+    ],
+    "object_marking_refs": [
+        "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
+    ],
+    "extensions": {
+        "extension-definition--b463c449-d022-48b7-b464-3e9c7ec5cf16": {
+            "all_cpe23uris": [
+                "cpe:2.3:a:really-simple-plugins:complianz:*:*:*:*:-:wordpress:*:*",
+                "cpe:2.3:a:really-simple-plugins:complianz:*:*:*:*:premium:wordpress:*:*"
+            ],
+            "extension_type": "property-extension",
+            "vulnerable_cpeid": [
+                "cpe:2.3:a:really-simple-plugins:complianz:*:*:*:*:-:wordpress:*:*",
+                "cpe:2.3:a:really-simple-plugins:complianz:*:*:*:*:premium:wordpress:*:*"
+            ]
+        }
+    }
+}

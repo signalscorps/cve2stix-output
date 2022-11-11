@@ -1,0 +1,38 @@
+{
+    "type": "indicator",
+    "spec_version": "2.1",
+    "id": "indicator--88a24878-d591-4014-98db-ef20dc019a12",
+    "created_by_ref": "identity--748e6444-f073-4c50-b558-f49be8897a81",
+    "created": "2022-09-07T21:15:00.000Z",
+    "modified": "2022-09-12T18:24:00.000Z",
+    "name": "CVE-2022-36081",
+    "description": "Wikmd is a file based wiki that uses markdown. Prior to version 1.7.1, Wikmd is vulnerable to path traversal when accessing `/list/<path:folderpath>` and discloses lists of files located on the server including sensitive data. Version 1.7.1 fixes this issue.",
+    "indicator_types": [
+        "compromised"
+    ],
+    "pattern": "[(software:cpe='cpe:2.3:a:wikmd_project:wikmd:*:*:*:*:*:*:*:*')]",
+    "pattern_type": "stix",
+    "pattern_version": "2.1",
+    "valid_from": "2022-09-07T21:15:00Z",
+    "external_references": [
+        {
+            "source_name": "cve2stix",
+            "description": "This object was created using cve2stix from the Signals Corps.",
+            "url": "https://github.com/signalscorps/cve2stix"
+        }
+    ],
+    "object_marking_refs": [
+        "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
+    ],
+    "extensions": {
+        "extension-definition--b463c449-d022-48b7-b464-3e9c7ec5cf16": {
+            "all_cpe23uris": [
+                "cpe:2.3:a:wikmd_project:wikmd:*:*:*:*:*:*:*:*"
+            ],
+            "extension_type": "property-extension",
+            "vulnerable_cpeid": [
+                "cpe:2.3:a:wikmd_project:wikmd:*:*:*:*:*:*:*:*"
+            ]
+        }
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "type": "indicator",
+    "spec_version": "2.1",
+    "id": "indicator--4ab3f963-e2ed-4fa4-a9a7-bfc45f0f861c",
+    "created_by_ref": "identity--748e6444-f073-4c50-b558-f49be8897a81",
+    "created": "2014-03-16T14:06:00.000Z",
+    "modified": "2022-11-10T16:50:00.000Z",
+    "name": "CVE-2014-1713",
+    "description": "Use-after-free vulnerability in the AttributeSetter function in bindings/templates/attributes.cpp in the bindings in Blink, as used in Google Chrome before 33.0.1750.152 on OS X and Linux and before 33.0.1750.154 on Windows, allows remote attackers to cause a denial of service or possibly have unspecified other impact via vectors involving the document.location value.",
+    "indicator_types": [
+        "compromised"
+    ],
+    "pattern": "[((software:cpe='cpe:2.3:a:google:chrome:*:*:*:*:*:*:*:*') AND (software:cpe='cpe:2.3:o:apple:mac_os_x:-:*:*:*:*:*:*:*' OR software:cpe='cpe:2.3:o:linux:linux_kernel:-:*:*:*:*:*:*:*')) OR ((software:cpe='cpe:2.3:a:google:chrome:*:*:*:*:*:*:*:*') AND (software:cpe='cpe:2.3:o:microsoft:windows:-:*:*:*:*:*:*:*'))]",
+    "pattern_type": "stix",
+    "pattern_version": "2.1",
+    "valid_from": "2014-03-16T14:06:00Z",
+    "external_references": [
+        {
+            "source_name": "cve2stix",
+            "description": "This object was created using cve2stix from the Signals Corps.",
+            "url": "https://github.com/signalscorps/cve2stix"
+        }
+    ],
+    "object_marking_refs": [
+        "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
+    ],
+    "extensions": {
+        "extension-definition--b463c449-d022-48b7-b464-3e9c7ec5cf16": {
+            "all_cpe23uris": [
+                "cpe:2.3:a:google:chrome:*:*:*:*:*:*:*:*",
+                "cpe:2.3:o:microsoft:windows:-:*:*:*:*:*:*:*",
+                "cpe:2.3:o:apple:mac_os_x:-:*:*:*:*:*:*:*",
+                "cpe:2.3:o:linux:linux_kernel:-:*:*:*:*:*:*:*"
+            ],
+            "extension_type": "property-extension",
+            "vulnerable_cpeid": [
+                "cpe:2.3:a:google:chrome:*:*:*:*:*:*:*:*"
+            ]
+        }
+    }
+}
