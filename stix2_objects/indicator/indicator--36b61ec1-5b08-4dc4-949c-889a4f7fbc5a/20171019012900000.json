@@ -1,0 +1,44 @@
+{
+    "type": "indicator",
+    "spec_version": "2.1",
+    "id": "indicator--36b61ec1-5b08-4dc4-949c-889a4f7fbc5a",
+    "created_by_ref": "identity--748e6444-f073-4c50-b558-f49be8897a81",
+    "created": "2006-08-18T20:04:00.000Z",
+    "modified": "2017-10-19T01:29:00.000Z",
+    "name": "CVE-2006-4234",
+    "description": "PHP remote file inclusion vulnerability in classes/query.class.php in dotProject 2.0.4 and earlier allows remote attackers to execute arbitrary PHP code via a URL in the baseDir parameter.",
+    "indicator_types": [
+        "compromised"
+    ],
+    "pattern": "[(software:cpe='cpe:2.3:a:dotproject:dotproject:2.0.4:*:*:*:*:*:*:*' OR software:cpe='cpe:2.3:a:dotproject:dotproject:2.0:*:*:*:*:*:*:*' OR software:cpe='cpe:2.3:a:dotproject:dotproject:2.0.2:*:*:*:*:*:*:*' OR software:cpe='cpe:2.3:a:dotproject:dotproject:2.0.1:*:*:*:*:*:*:*')]",
+    "pattern_type": "stix",
+    "pattern_version": "2.1",
+    "valid_from": "2006-08-18T20:04:00Z",
+    "external_references": [
+        {
+            "source_name": "cve2stix",
+            "description": "This object was created using cve2stix from the Signals Corps.",
+            "url": "https://github.com/signalscorps/cve2stix"
+        }
+    ],
+    "object_marking_refs": [
+        "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
+    ],
+    "extensions": {
+        "extension-definition--b463c449-d022-48b7-b464-3e9c7ec5cf16": {
+            "all_cpe23uris": [
+                "cpe:2.3:a:dotproject:dotproject:2.0.4:*:*:*:*:*:*:*",
+                "cpe:2.3:a:dotproject:dotproject:2.0:*:*:*:*:*:*:*",
+                "cpe:2.3:a:dotproject:dotproject:2.0.2:*:*:*:*:*:*:*",
+                "cpe:2.3:a:dotproject:dotproject:2.0.1:*:*:*:*:*:*:*"
+            ],
+            "extension_type": "property-extension",
+            "vulnerable_cpeid": [
+                "cpe:2.3:a:dotproject:dotproject:2.0.4:*:*:*:*:*:*:*",
+                "cpe:2.3:a:dotproject:dotproject:2.0:*:*:*:*:*:*:*",
+                "cpe:2.3:a:dotproject:dotproject:2.0.2:*:*:*:*:*:*:*",
+                "cpe:2.3:a:dotproject:dotproject:2.0.1:*:*:*:*:*:*:*"
+            ]
+        }
+    }
+}

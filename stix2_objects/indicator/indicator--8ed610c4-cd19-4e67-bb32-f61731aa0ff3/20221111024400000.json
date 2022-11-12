@@ -1,0 +1,38 @@
+{
+    "type": "indicator",
+    "spec_version": "2.1",
+    "id": "indicator--8ed610c4-cd19-4e67-bb32-f61731aa0ff3",
+    "created_by_ref": "identity--748e6444-f073-4c50-b558-f49be8897a81",
+    "created": "2022-05-17T15:15:00.000Z",
+    "modified": "2022-11-11T02:44:00.000Z",
+    "name": "CVE-2022-30952",
+    "description": "Jenkins Pipeline SCM API for Blue Ocean Plugin 1.25.3 and earlier allows attackers with Job/Configure permission to access credentials with attacker-specified IDs stored in the private per-user credentials stores of any attacker-specified user in Jenkins.",
+    "indicator_types": [
+        "compromised"
+    ],
+    "pattern": "[(software:cpe='cpe:2.3:a:jenkins:blue_ocean:*:*:*:*:*:jenkins:*:*')]",
+    "pattern_type": "stix",
+    "pattern_version": "2.1",
+    "valid_from": "2022-05-17T15:15:00Z",
+    "external_references": [
+        {
+            "source_name": "cve2stix",
+            "description": "This object was created using cve2stix from the Signals Corps.",
+            "url": "https://github.com/signalscorps/cve2stix"
+        }
+    ],
+    "object_marking_refs": [
+        "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
+    ],
+    "extensions": {
+        "extension-definition--b463c449-d022-48b7-b464-3e9c7ec5cf16": {
+            "all_cpe23uris": [
+                "cpe:2.3:a:jenkins:blue_ocean:*:*:*:*:*:jenkins:*:*"
+            ],
+            "extension_type": "property-extension",
+            "vulnerable_cpeid": [
+                "cpe:2.3:a:jenkins:blue_ocean:*:*:*:*:*:jenkins:*:*"
+            ]
+        }
+    }
+}

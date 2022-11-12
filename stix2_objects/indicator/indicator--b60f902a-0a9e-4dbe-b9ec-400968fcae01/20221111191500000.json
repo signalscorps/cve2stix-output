@@ -1,0 +1,40 @@
+{
+    "type": "indicator",
+    "spec_version": "2.1",
+    "id": "indicator--b60f902a-0a9e-4dbe-b9ec-400968fcae01",
+    "created_by_ref": "identity--748e6444-f073-4c50-b558-f49be8897a81",
+    "created": "2022-06-15T17:15:00.000Z",
+    "modified": "2022-11-11T19:15:00.000Z",
+    "name": "CVE-2022-32156",
+    "description": "In Splunk Enterprise and Universal Forwarder versions before 9.0, the Splunk command-line interface (CLI) did not validate TLS certificates while connecting to a remote Splunk platform instance by default. After updating to version 9.0, see Configure TLS host name validation for the Splunk CLI https://docs.splunk.com/Documentation/Splunk/9.0.0/Security/EnableTLSCertHostnameValidation#Configure_TLS_host_name_validation_for_the_Splunk_CLI to enable the remediation. The vulnerability does not affect the Splunk Cloud Platform. At the time of publishing, we have no evidence of exploitation of this vulnerability by external parties. The issue requires conditions beyond the control of a potential bad actor such as a machine-in-the-middle attack. Hence, Splunk rates the complexity of the attack as High.",
+    "indicator_types": [
+        "compromised"
+    ],
+    "pattern": "[(software:cpe='cpe:2.3:a:splunk:splunk:*:*:*:*:enterprise:*:*:*' OR software:cpe='cpe:2.3:a:splunk:universal_forwarder:*:*:*:*:*:*:*:*')]",
+    "pattern_type": "stix",
+    "pattern_version": "2.1",
+    "valid_from": "2022-06-15T17:15:00Z",
+    "external_references": [
+        {
+            "source_name": "cve2stix",
+            "description": "This object was created using cve2stix from the Signals Corps.",
+            "url": "https://github.com/signalscorps/cve2stix"
+        }
+    ],
+    "object_marking_refs": [
+        "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
+    ],
+    "extensions": {
+        "extension-definition--b463c449-d022-48b7-b464-3e9c7ec5cf16": {
+            "all_cpe23uris": [
+                "cpe:2.3:a:splunk:splunk:*:*:*:*:enterprise:*:*:*",
+                "cpe:2.3:a:splunk:universal_forwarder:*:*:*:*:*:*:*:*"
+            ],
+            "extension_type": "property-extension",
+            "vulnerable_cpeid": [
+                "cpe:2.3:a:splunk:splunk:*:*:*:*:enterprise:*:*:*",
+                "cpe:2.3:a:splunk:universal_forwarder:*:*:*:*:*:*:*:*"
+            ]
+        }
+    }
+}

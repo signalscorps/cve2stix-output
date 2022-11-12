@@ -1,0 +1,18 @@
+{
+    "type": "relationship",
+    "spec_version": "2.1",
+    "id": "relationship--1abdcb0c-9345-48df-8c35-66ac00fc12ec",
+    "created_by_ref": "identity--748e6444-f073-4c50-b558-f49be8897a81",
+    "created": "2019-11-14T19:15:00.000Z",
+    "modified": "2022-11-11T02:39:00.000Z",
+    "relationship_type": "identifies",
+    "source_ref": "indicator--91965647-f2bd-4543-931f-a773920bd774",
+    "target_ref": "vulnerability--7cd14aaf-b694-46e4-8ccc-60fedffb228b",
+    "external_references": [
+        {
+            "source_name": "cve2stix",
+            "description": "This object was created using cve2stix from the Signals Corps.",
+            "url": "https://github.com/signalscorps/cve2stix"
+        }
+    ]
+}
