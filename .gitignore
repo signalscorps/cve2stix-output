@@ -2,3 +2,5 @@
 .DS_Store
 
 credentials.yml
+
+stix2_enrichments
