@@ -55,12 +55,13 @@ while start_date < cve_end_date:
     end_date = min(start_date + relativedelta(months=1), cve_end_date)
 
     config = Config(
-        cve_start_date=start_date,
-        cve_end_date=end_date,
+        type="cve",
+        start_date=start_date,
+        end_date=end_date,
         stix2_objects_folder=STIX2_OBJECTS_FOLDER,
         stix2_bundles_folder=STIX2_BUNDLES_FOLDER,
+        cve_run_mode="download",
         api_key=api_key,
-        run_mode="download",
     )
 
     main(config)

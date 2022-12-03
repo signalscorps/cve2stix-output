@@ -55,12 +55,13 @@ else:
     cve_end_date = datetime.strptime(sys.argv[2], "%Y-%m-%d")
 
 config = Config(
-    cve_start_date=cve_start_date,
-    cve_end_date=cve_end_date,
+    type="cve",
+    start_date=cve_start_date,
+    end_date=cve_end_date,
     stix2_objects_folder=STIX2_OBJECTS_FOLDER,
     stix2_bundles_folder=STIX2_BUNDLES_FOLDER,
+    cve_run_mode="update",
     api_key=api_key,
-    run_mode="update",
 )
 
 main(config)
