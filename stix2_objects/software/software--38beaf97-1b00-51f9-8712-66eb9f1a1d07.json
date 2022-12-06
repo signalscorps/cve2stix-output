@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--38beaf97-1b00-51f9-8712-66eb9f1a1d07", "name": "Linux Kernel 3.10.7 on ARM64 architecture", "cpe": "cpe:2.3:o:linux:linux_kernel:3.10.7:*:*:*:*:*:arm64:*", "languages": ["en_US"], "vendor": "linux", "version": "3.10.7"}

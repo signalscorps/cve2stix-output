@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--f4004589-d35a-5285-bc17-15aecf0a7c11", "name": "pcre Perl-Compatible Regular Expression Library 7.3", "cpe": "cpe:2.3:a:pcre:perl-compatible_regular_expression_library:7.3:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "pcre", "version": "7.3"}

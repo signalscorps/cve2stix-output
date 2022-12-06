@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--4c31f094-82b3-5c57-99a4-2f0e17e71bea", "name": "F5 Big-IP Access Policy Manager (APM) Standalone Appliance 10.1.0", "cpe": "cpe:2.3:h:f5:big-ip_access_policy_manager:10.1.0:*:*:*:*:*:*:standalone", "languages": ["en_US"], "vendor": "f5", "version": "10.1.0"}

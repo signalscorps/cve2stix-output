@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--2040df55-9261-5850-bc6e-6c1bad25cf89", "name": "Linux Kernel 3.9.4 on ARM64 architecture", "cpe": "cpe:2.3:o:linux:linux_kernel:3.9.4:*:*:*:*:*:arm64:*", "languages": ["en_US"], "vendor": "linux", "version": "3.9.4"}

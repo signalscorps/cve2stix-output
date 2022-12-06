@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--1e43b0e8-ef67-5fc7-8811-e9e97d082fd9", "name": "RedHat Enterprise Linux Load Balancer 6.0 (v6)", "cpe": "cpe:2.3:a:redhat:enterprise_linux_load_balancer:6.0:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "redhat", "version": "6.0"}

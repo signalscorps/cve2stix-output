@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--ce68bcde-aa54-50db-ade2-b42b9b053215", "name": "National Instruments LabVIEW", "cpe": "cpe:2.3:a:ni:labview:-:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "ni", "version": "-"}

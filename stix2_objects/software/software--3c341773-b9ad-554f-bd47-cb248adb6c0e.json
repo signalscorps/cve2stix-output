@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--3c341773-b9ad-554f-bd47-cb248adb6c0e", "name": "OpenStack Object Storage (swift) 1.9.1", "cpe": "cpe:2.3:a:openstack:swift:1.9.1:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "openstack", "version": "1.9.1"}

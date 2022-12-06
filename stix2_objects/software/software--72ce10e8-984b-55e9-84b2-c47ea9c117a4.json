@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--72ce10e8-984b-55e9-84b2-c47ea9c117a4", "name": "EMC RSA Authentication Agent 7.0.0 for PAM", "cpe": "cpe:2.3:a:emc:rsa_authentication_agent:7.0.0:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "emc", "version": "7.0.0"}
