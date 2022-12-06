@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--acfc6888-a44d-5018-aabb-682c14c06dac", "name": "IBM Db2 Connect 10.5", "cpe": "cpe:2.3:a:ibm:db2_connect:10.5:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "ibm", "version": "10.5"}

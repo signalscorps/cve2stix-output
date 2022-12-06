@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--bdc6223c-9775-5b4a-af06-104abe160a2f", "name": "OpenStack Keystone 2012.1.2", "cpe": "cpe:2.3:a:openstack:keystone:2012.1.2:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "openstack", "version": "2012.1.2"}

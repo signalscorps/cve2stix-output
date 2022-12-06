@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--116366f5-35ee-5467-82e4-6cf2a5cd71a7", "name": "Openstack Python Glanceclient 0.10.0", "cpe": "cpe:2.3:a:openstack:python_glanceclient:0.10.0:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "openstack", "version": "0.10.0"}
