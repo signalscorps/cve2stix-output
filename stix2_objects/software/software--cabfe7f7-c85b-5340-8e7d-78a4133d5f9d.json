@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--cabfe7f7-c85b-5340-8e7d-78a4133d5f9d", "name": "EMC RSA Data Protection Manager Appliance 3.5", "cpe": "cpe:2.3:h:emc:rsa_data_protection_manager_appliance:3.5:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "emc", "version": "3.5"}

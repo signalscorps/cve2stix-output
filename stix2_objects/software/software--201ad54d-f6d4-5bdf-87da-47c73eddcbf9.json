@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--201ad54d-f6d4-5bdf-87da-47c73eddcbf9", "name": "EMC Document Sciences xPression 4.2 Enterprise Edition Publish Engine", "cpe": "cpe:2.3:a:emc:document_sciences_xpression:4.2:-:-:*:enterprise:-:-:publish_engine", "languages": ["en_US"], "vendor": "emc", "version": "4.2"}

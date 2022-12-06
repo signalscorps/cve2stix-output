@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--14107940-13a7-576e-9e90-a7667f6c804d", "name": "jenkins-ci Build Failure Analyzer 1.5.1 for Cloudbees Jenkins", "cpe": "cpe:2.3:a:jenkins-ci:build_failure_analyzer:1.5.1:-:*:*:*:cloudbees_jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins-ci", "version": "1.5.1"}

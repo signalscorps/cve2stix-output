@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--024ae666-eb35-5ff2-b2a1-3a8a3aa67b59", "name": "jenkins-ci Exclusion 0.6 for Cloudbees Jenkins", "cpe": "cpe:2.3:a:jenkins-ci:exclusion:0.6:-:*:*:*:cloudbees_jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins-ci", "version": "0.6"}

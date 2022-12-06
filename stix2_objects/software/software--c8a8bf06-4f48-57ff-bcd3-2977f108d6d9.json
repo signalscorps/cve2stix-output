@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--c8a8bf06-4f48-57ff-bcd3-2977f108d6d9", "name": "SaltStack Salt 0.16.0", "cpe": "cpe:2.3:a:saltstack:salt:0.16.0:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "saltstack", "version": "0.16.0"}

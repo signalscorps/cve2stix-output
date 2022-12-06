@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--b634c7b7-e73a-51d3-b440-dadbd3a8a905", "name": "OpenVZ VZKernel 2.6.32", "cpe": "cpe:2.3:o:openvz:vzkernel:2.6.32:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "openvz", "version": "2.6.32"}

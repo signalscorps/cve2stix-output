@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--51dcf04d-5998-5df9-860a-59081a14d52e", "name": "Cisco Nexus 1000v 4.2(1)SV1(5.1a)", "cpe": "cpe:2.3:h:cisco:nexus_1000v:4.2\\(1\\)sv1\\(5.1a\\):-:*:*:*:vmware_vsphere:*:*", "languages": ["en_US"], "vendor": "cisco", "version": "4.2\\(1\\)sv1\\(5.1a\\)"}

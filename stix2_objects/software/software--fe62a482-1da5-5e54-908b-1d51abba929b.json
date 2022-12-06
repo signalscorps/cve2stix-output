@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--fe62a482-1da5-5e54-908b-1d51abba929b", "name": "LDAP Account Manager (LAM) 4.2.1", "cpe": "cpe:2.3:a:ldap-account-manager:ldap_account_manager:4.2.1:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "ldap-account-manager", "version": "4.2.1"}
