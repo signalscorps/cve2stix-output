@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--dfcbf71a-f2bf-56a1-a495-2acd9bd070fb", "name": "Digium Certified Asterisk 11.6 Cert15 Long Term Support", "cpe": "cpe:2.3:a:digium:certified_asterisk:11.6:cert15:*:*:lts:*:*:*", "languages": ["en_US"], "vendor": "digium", "version": "11.6"}

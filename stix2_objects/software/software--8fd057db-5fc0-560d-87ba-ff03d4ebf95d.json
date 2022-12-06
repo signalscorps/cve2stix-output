@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--8fd057db-5fc0-560d-87ba-ff03d4ebf95d", "name": "GStreamer Project GStreamer 0.10.16", "cpe": "cpe:2.3:a:gstreamer_project:gstreamer:0.10.16:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "gstreamer_project", "version": "0.10.16"}

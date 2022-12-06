@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--d539d5a2-334b-5ac2-8f16-51ab6a05d5ef", "name": "SchedMD Slurm 17.02.0 Pre-Release 3", "cpe": "cpe:2.3:a:schedmd:slurm:17.02.0:pre3:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "schedmd", "version": "17.02.0"}
