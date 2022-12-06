@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--64ec5b9f-798c-5f84-9325-2c17b9ce5e8c", "name": "EMC RSA Data Loss Prevention 9.6.1", "cpe": "cpe:2.3:a:emc:rsa_data_loss_prevention:9.6.1:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "emc", "version": "9.6.1"}

@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--bd11bdd8-40fd-57fe-8897-f8ce0f7bf743", "name": "Linux Kernel 3.12.21", "cpe": "cpe:2.3:o:linux:linux_kernel:3.12.21:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "linux", "version": "3.12.21"}
