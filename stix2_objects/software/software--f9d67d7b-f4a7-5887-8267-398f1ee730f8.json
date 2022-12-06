@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--f9d67d7b-f4a7-5887-8267-398f1ee730f8", "name": "Symantec Endpoint Protection 12.1.6 Maintenance Patch 4 for Linux", "cpe": "cpe:2.3:a:symantec:endpoint_protection:12.1.6:mp4:*:*:*:linux:*:*", "languages": ["en_US"], "vendor": "symantec", "version": "12.1.6"}

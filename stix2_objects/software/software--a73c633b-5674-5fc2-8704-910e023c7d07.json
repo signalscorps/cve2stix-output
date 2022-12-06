@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--a73c633b-5674-5fc2-8704-910e023c7d07", "name": "Pivotal Software Cloud Foundry (PCF) Ops Manager 1.7.4", "cpe": "cpe:2.3:a:pivotal_software:cloud_foundry_ops_manager:1.7.4:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "pivotal_software", "version": "1.7.4"}

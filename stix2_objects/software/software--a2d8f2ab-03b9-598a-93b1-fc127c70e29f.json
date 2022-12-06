@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--a2d8f2ab-03b9-598a-93b1-fc127c70e29f", "name": "Pivotal Software Cloud Foundry (PCF) Elastic Runtime 1.6.17", "cpe": "cpe:2.3:a:pivotal_software:cloud_foundry_elastic_runtime:1.6.17:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "pivotal_software", "version": "1.6.17"}
