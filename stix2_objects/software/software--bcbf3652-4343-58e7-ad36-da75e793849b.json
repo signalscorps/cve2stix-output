@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--bcbf3652-4343-58e7-ad36-da75e793849b", "name": "Debian dpkg 1.4.1.2", "cpe": "cpe:2.3:a:debian:dpkg:1.4.1.2:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "debian", "version": "1.4.1.2"}

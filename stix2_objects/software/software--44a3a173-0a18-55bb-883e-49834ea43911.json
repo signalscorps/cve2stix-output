@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--44a3a173-0a18-55bb-883e-49834ea43911", "name": "PostgreSQL 9.5.5", "cpe": "cpe:2.3:a:postgresql:postgresql:9.5.5:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "postgresql", "version": "9.5.5"}
