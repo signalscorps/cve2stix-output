@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--bb4fc43d-e000-55b7-97a5-b72b628acb18", "name": "Sendmail Sendmail 9.2.20", "cpe": "cpe:2.3:a:sendmail:sendmail:9.2.20:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "sendmail", "version": "9.2.20"}
