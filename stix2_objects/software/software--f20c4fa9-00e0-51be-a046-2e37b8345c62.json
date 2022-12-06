@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--f20c4fa9-00e0-51be-a046-2e37b8345c62", "name": "X.Org xorg-server 1.10.2", "cpe": "cpe:2.3:a:x.org:xorg-server:1.10.2:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "x.org", "version": "1.10.2"}

@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--de90af8c-a36e-5d48-850a-bc1f77c57680", "name": "SAP SAP Kernel for x64 7.40", "cpe": "cpe:2.3:a:sap:sap_kernel:7.40:*:*:*:*:*:x64:*", "languages": ["en_US"], "vendor": "sap", "version": "7.40"}

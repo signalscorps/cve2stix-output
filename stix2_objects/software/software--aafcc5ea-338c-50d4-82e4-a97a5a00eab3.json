@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--aafcc5ea-338c-50d4-82e4-a97a5a00eab3", "name": "OpenStack Compute 2014.2.1", "cpe": "cpe:2.3:a:openstack:compute:2014.2.1:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "openstack", "version": "2014.2.1"}

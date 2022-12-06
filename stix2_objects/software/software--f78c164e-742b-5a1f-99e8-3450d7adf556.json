@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--f78c164e-742b-5a1f-99e8-3450d7adf556", "name": "IBM Java SDK Technology Edition 6.1.8.2 (6R1 Service Refresh 8, FixPack 2)", "cpe": "cpe:2.3:a:ibm:java_sdk:6.1.8.2:*:*:*:technology:*:*:*", "languages": ["en_US"], "vendor": "ibm", "version": "6.1.8.2"}

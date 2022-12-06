@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--a3f93804-c041-5ab0-b2f6-5c04e36ad3fa", "name": "Apache Software Foundation Cassandra 2.0.8", "cpe": "cpe:2.3:a:apache:cassandra:2.0.8:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "apache", "version": "2.0.8"}

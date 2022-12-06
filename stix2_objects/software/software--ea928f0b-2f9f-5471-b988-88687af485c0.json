@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--ea928f0b-2f9f-5471-b988-88687af485c0", "name": "SAP Sybase SQL Anywhere 11.0", "cpe": "cpe:2.3:a:sap:sql_anywhere:11.0:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "sap", "version": "11.0"}

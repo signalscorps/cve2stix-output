@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--485513d3-3fbe-545f-8946-dc841689c0c1", "name": "Debian dpkg 1.17.13", "cpe": "cpe:2.3:a:debian:dpkg:1.17.13:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "debian", "version": "1.17.13"}
