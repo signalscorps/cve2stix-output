@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--bad0b00d-614d-5981-af49-5be7da0931f9", "name": "RSS Reader extension for MediaWiki 0.2.1", "cpe": "cpe:2.3:a:mediawiki:rssreader:0.2.1:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "mediawiki", "version": "0.2.1"}

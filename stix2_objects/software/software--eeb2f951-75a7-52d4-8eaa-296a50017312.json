@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--eeb2f951-75a7-52d4-8eaa-296a50017312", "name": "IBM WebSphere Application Server (WAS) for z/OS", "cpe": "cpe:2.3:a:ibm:websphere_application_server:-:-:*:*:*:z\\/os:*:*", "languages": ["en_US"], "vendor": "ibm", "version": "-"}

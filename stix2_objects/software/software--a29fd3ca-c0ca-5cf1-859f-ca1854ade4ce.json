@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--a29fd3ca-c0ca-5cf1-859f-ca1854ade4ce", "name": "Fail2Ban 0.5.5", "cpe": "cpe:2.3:a:fail2ban:fail2ban:0.5.5:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "fail2ban", "version": "0.5.5"}

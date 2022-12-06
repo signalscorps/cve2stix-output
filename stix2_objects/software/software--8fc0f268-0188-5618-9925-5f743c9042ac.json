@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--8fc0f268-0188-5618-9925-5f743c9042ac", "name": "Red Hat Enterprise Virtualization Manager (aka RHEV-M) 2.2.4", "cpe": "cpe:2.3:o:redhat:enterprise_virtualization_manager:2.2.4:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "redhat", "version": "2.2.4"}

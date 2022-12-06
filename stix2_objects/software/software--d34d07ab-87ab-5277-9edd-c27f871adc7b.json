@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--d34d07ab-87ab-5277-9edd-c27f871adc7b", "name": "tinymce PHP Spellchecker (aka Google Spellchecker) 2.0b2", "cpe": "cpe:2.3:a:tinymce:spellchecker_php:2.0:b2:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "tinymce", "version": "2.0"}
