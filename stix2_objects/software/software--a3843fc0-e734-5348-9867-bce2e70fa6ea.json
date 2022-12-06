@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--a3843fc0-e734-5348-9867-bce2e70fa6ea", "name": "Citrix NetScaler Application Delivery Controller (ADC) firmware 10.5", "cpe": "cpe:2.3:o:citrix:netscaler_application_delivery_controller_firmware:10.5:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "citrix", "version": "10.5"}

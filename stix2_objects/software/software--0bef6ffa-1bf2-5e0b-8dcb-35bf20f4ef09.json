@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--0bef6ffa-1bf2-5e0b-8dcb-35bf20f4ef09", "name": "SAP SQL Anywhere", "cpe": "cpe:2.3:a:sap:sql_anywhere:-:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "sap", "version": "-"}

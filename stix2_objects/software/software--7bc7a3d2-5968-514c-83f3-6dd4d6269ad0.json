@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--7bc7a3d2-5968-514c-83f3-6dd4d6269ad0", "name": "LumoNet PHP Include (lumophpinclude) extension for TYPO3 1.2.0", "cpe": "cpe:2.3:a:lumonet_php_include_project:lumonet_php_include:1.2.0:*:*:*:*:typo3:*:*", "languages": ["en_US"], "vendor": "lumonet_php_include_project", "version": "1.2.0"}

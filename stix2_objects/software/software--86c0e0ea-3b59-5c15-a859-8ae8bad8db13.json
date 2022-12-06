@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--86c0e0ea-3b59-5c15-a859-8ae8bad8db13", "name": "Jenkins-CI Monitoring Plugin for Cloudbees Jenkins 1.51.0", "cpe": "cpe:2.3:a:jenkins-ci:monitoring_plugin:1.51.0:*:*:*:*:cloudbees_jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins-ci", "version": "1.51.0"}

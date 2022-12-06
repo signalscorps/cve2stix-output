@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--2c011cb3-e29c-5cca-a19f-db18934a9400", "name": "LDAP (eu_ldap) extension for TYPO3 2.8.17", "cpe": "cpe:2.3:a:ldap_project:ldap:2.8.17:*:*:*:*:typo3:*:*", "languages": ["en_US"], "vendor": "ldap_project", "version": "2.8.17"}
