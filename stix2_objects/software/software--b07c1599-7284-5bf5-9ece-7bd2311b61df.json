@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--b07c1599-7284-5bf5-9ece-7bd2311b61df", "name": "GNU Bourne-Again SHellbash (GNU Bash) 1.14.3", "cpe": "cpe:2.3:a:gnu:bash:1.14.3:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "gnu", "version": "1.14.3"}

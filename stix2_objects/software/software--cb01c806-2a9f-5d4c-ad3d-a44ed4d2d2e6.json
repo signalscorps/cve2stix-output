@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--cb01c806-2a9f-5d4c-ad3d-a44ed4d2d2e6", "name": "Erlang Crypto application 1.5.3", "cpe": "cpe:2.3:a:erlang:crypto:1.5.3:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "erlang", "version": "1.5.3"}
