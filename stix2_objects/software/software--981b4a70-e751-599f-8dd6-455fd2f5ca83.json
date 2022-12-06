@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--981b4a70-e751-599f-8dd6-455fd2f5ca83", "name": "OpenStack OpenStack Dashboard (Horizon) 2014.2.1", "cpe": "cpe:2.3:a:openstack:horizon:2014.2.1:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "openstack", "version": "2014.2.1"}

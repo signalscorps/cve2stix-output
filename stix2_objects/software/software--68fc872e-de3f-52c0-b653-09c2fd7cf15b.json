@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--68fc872e-de3f-52c0-b653-09c2fd7cf15b", "name": "NIIF Shibboleth Authentication for Drupal 6.x-4.2 Release Candidate 1", "cpe": "cpe:2.3:a:niif:shibboleth_authentication:6.x-4.2rc1:*:*:*:*:drupal:*:*", "languages": ["en_US"], "vendor": "niif", "version": "6.x-4.2rc1"}
