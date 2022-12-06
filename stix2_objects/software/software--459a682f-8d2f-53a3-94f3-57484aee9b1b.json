@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--459a682f-8d2f-53a3-94f3-57484aee9b1b", "name": "OpenVZ vzkernel", "cpe": "cpe:2.3:o:openvz:vzkernel:-:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "openvz", "version": "-"}

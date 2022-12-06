@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--ee58d9ee-121c-528c-9c02-df8b014a6c10", "name": "Linux Containers LXC 0.7.4.1", "cpe": "cpe:2.3:a:linuxcontainers:lxc:0.7.4.1:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "linuxcontainers", "version": "0.7.4.1"}
