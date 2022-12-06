@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--e6722c66-b3ae-5f84-991b-4f2f3a97dfd1", "name": "IBM DB2 Express Edition 9.5", "cpe": "cpe:2.3:a:ibm:db2:9.5:*:*:*:express:*:*:*", "languages": ["en_US"], "vendor": "ibm", "version": "9.5"}
