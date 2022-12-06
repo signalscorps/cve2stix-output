@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--d32924d5-db45-547d-90e0-3e61e699b756", "name": "Siemens SIMATIC S7-400 CPU firmware 6.0.1", "cpe": "cpe:2.3:o:siemens:simatic_s7-400_cpu_firmware:6.0.1:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "siemens", "version": "6.0.1"}

@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--a2b3a6cb-a1c7-5acb-a16a-84d5c2b497a7", "name": "Wireshark 1.6.3 (SPARC)", "cpe": "cpe:2.3:a:wireshark:wireshark:1.6.3:*:*:*:*:*:sparc:*", "languages": ["en_US"], "vendor": "wireshark", "version": "1.6.3"}

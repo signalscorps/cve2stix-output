@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--96cdca4e-e9d4-5f06-9bfb-49f53a79af16", "name": "SMC8024L2 TigerSwitch 10/100/1000 firmware 2.5.1.5", "cpe": "cpe:2.3:o:smc:smc8024l2_switch_firmware:2.5.1.5:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "smc", "version": "2.5.1.5"}

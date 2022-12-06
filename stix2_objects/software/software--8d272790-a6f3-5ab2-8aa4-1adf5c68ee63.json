@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--8d272790-a6f3-5ab2-8aa4-1adf5c68ee63", "name": "Postgresql Psqlodbc 8.3.400", "cpe": "cpe:2.3:a:postgresql:psqlodbc:8.3.400:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "postgresql", "version": "8.3.400"}

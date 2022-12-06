@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--7f11dc7b-5cfc-5a2c-822a-6c6abc964688", "name": "Siemens SIMATIC STEP 7 5.5 Service Pack 1", "cpe": "cpe:2.3:a:siemens:simatic_step_7:5.5:sp1:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "siemens", "version": "5.5"}

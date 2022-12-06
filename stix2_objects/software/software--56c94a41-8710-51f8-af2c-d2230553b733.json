@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--56c94a41-8710-51f8-af2c-d2230553b733", "name": "Wireshark 1.4.3 (Itanium)", "cpe": "cpe:2.3:a:wireshark:wireshark:1.4.3:*:*:*:*:*:itanium:*", "languages": ["en_US"], "vendor": "wireshark", "version": "1.4.3"}
