@@ -3,14 +3,36 @@ on:
   workflow_dispatch:
 
 jobs:
-  backfill-cpes-from-2007-to-2018:
+  backfill-cpes:
     runs-on: ubuntu-latest
     strategy:
         matrix:
           python-version: ["3.7"]
+          dates: [ 
+            {start-date: "2007-01-01", end-date: "2019-01-01"},
+            {start-date: "2019-01-01", end-date: "2021-01-01"},
+            {start-date: "2021-01-01", end-date: "2023-01-01"},
+          ]
 
     steps:
-      - uses: actions/backfill-cpes-and-cves@v1
-        with:
-          start-date: "2007-01-01"
-          end-date: "2019-01-01"
+    - uses: actions/checkout@v3
+    - name: Set up Python ${{ matrix.python-version }}
+      uses: actions/setup-python@v4
+      with:
+        python-version: ${{ matrix.python-version }}
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+        apt-get install git-lfs
+        git lfs install
+    - name: Run cve2stix to download CPEs
+      run: |
+        touch credentials.yml
+        echo "$NVD_API_KEY" > credentials.yml
+        python scripts/download-cpes.py "${{ matrix.dates.start-date }}" "${{ github.dates.end-date }}"
+      env:
+        NVD_API_KEY: ${{ secrets.NVD_API_KEY }}
+    - name: Push commits to repo
+      run: |
+        git push origin
