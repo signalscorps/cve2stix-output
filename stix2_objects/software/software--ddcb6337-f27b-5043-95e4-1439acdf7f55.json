@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--ddcb6337-f27b-5043-95e4-1439acdf7f55", "name": "IBM DB2 10.5.0.4 Advanced Workgroup", "cpe": "cpe:2.3:a:ibm:db2:10.5.0.4:*:*:*:advanced_workgroup:*:*:*", "languages": ["en_US"], "vendor": "ibm", "version": "10.5.0.4"}

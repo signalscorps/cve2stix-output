@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--146d05d0-a61d-54f9-8c54-5729b0319b52", "name": "IBM DB2 Connect 9.8 Application Server", "cpe": "cpe:2.3:a:ibm:db2_connect:9.8:*:*:*:application_server:*:*:*", "languages": ["en_US"], "vendor": "ibm", "version": "9.8"}

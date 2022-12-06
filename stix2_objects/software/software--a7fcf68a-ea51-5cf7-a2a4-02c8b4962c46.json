@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--a7fcf68a-ea51-5cf7-a2a4-02c8b4962c46", "name": "IBM Financial Transaction Manager (FTM) 3.0.0.15 Check Services", "cpe": "cpe:2.3:a:ibm:financial_transaction_manager:3.0.0.15:*:*:*:*:check_services:*:*", "languages": ["en_US"], "vendor": "ibm", "version": "3.0.0.15"}

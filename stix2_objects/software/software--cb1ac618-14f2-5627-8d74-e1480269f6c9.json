@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--cb1ac618-14f2-5627-8d74-e1480269f6c9", "name": "Cloudera CDH 5.5.3", "cpe": "cpe:2.3:a:cloudera:cdh:5.5.3:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "cloudera", "version": "5.5.3"}
