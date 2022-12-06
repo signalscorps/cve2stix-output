@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--baf1a9fd-0f1c-51fc-9888-a2896c728e5a", "name": "Red Hat Enterprise Linux Server release 5.4 64 bit", "cpe": "cpe:2.3:o:redhat:enterprise_linux:5.4:*:server_x64:*:*:*:*:*", "languages": ["en_US"], "vendor": "redhat", "version": "5.4"}
