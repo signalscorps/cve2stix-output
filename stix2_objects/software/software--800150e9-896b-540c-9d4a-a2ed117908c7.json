@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--800150e9-896b-540c-9d4a-a2ed117908c7", "name": "ZeroMQ ZeroMQ 4.1.0 RC1", "cpe": "cpe:2.3:a:zeromq:zeromq:4.1.0:rc1:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "zeromq", "version": "4.1.0"}

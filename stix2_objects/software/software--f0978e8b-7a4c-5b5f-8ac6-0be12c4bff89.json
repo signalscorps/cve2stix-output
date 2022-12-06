@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--f0978e8b-7a4c-5b5f-8ac6-0be12c4bff89", "name": "Ceph ceph-deploy 1.5.22", "cpe": "cpe:2.3:a:ceph:ceph-deploy:1.5.22:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "ceph", "version": "1.5.22"}

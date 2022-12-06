@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--a061ef36-0dd5-5cce-9f08-4a7218cbee21", "name": "RRDtool project AG RRDtool for Python 1.4.7", "cpe": "cpe:2.3:a:rrdtool_project:rrdtool:1.4.7:*:*:*:*:python:*:*", "languages": ["en_US"], "vendor": "rrdtool_project", "version": "1.4.7"}
