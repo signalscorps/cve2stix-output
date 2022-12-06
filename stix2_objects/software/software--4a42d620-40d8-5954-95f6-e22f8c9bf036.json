@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--4a42d620-40d8-5954-95f6-e22f8c9bf036", "name": "Nagios Remote Plug-In Executor (NRPE) 2.10", "cpe": "cpe:2.3:a:nagios:remote_plug_in_executor:2.10:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "nagios", "version": "2.10"}

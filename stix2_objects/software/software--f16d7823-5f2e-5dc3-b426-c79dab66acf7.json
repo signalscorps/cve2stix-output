@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--f16d7823-5f2e-5dc3-b426-c79dab66acf7", "name": "Sun SunOS (Solaris 10) 5.11 on AMD64", "cpe": "cpe:2.3:o:sun:sunos:5.11:-:*:*:*:*:amd64:*", "languages": ["en_US"], "vendor": "sun", "version": "5.11"}
