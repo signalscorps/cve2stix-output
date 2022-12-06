@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--cce1a770-7adb-5a5e-be7d-20438ea52b06", "name": "netfilter ipset 6.32", "cpe": "cpe:2.3:a:netfilter:ipset:6.32:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "netfilter", "version": "6.32"}
