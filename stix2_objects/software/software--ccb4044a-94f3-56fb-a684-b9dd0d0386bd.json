@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--ccb4044a-94f3-56fb-a684-b9dd0d0386bd", "name": "Lightbend Akka HTTP 10.0.9", "cpe": "cpe:2.3:a:lightbend:akka_http:10.0.9:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "lightbend", "version": "10.0.9"}

@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--da9f9df1-6b60-52ce-a62e-2afe1f12c711", "name": "OpenStack Nova 2013.1", "cpe": "cpe:2.3:a:openstack:nova:2013.1:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "openstack", "version": "2013.1"}

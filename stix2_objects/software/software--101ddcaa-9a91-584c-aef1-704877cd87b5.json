@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--101ddcaa-9a91-584c-aef1-704877cd87b5", "name": "Elastic Elasticsearch X-pack 5.6.7", "cpe": "cpe:2.3:a:elastic:elasticsearch_x-pack:5.6.7:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "elastic", "version": "5.6.7"}

@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--af2b5dc3-9823-51e3-9b5d-b2672e9e9c0e", "name": "IBM DataPower 7.7.1.2 Continuous Delivery Edition", "cpe": "cpe:2.3:a:ibm:datapower_gateway:7.7.1.2:*:*:*:continuous_delivery:*:*:*", "languages": ["en_US"], "vendor": "ibm", "version": "7.7.1.2"}

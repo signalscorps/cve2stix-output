@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--0aeb71f3-460d-5739-98ea-b6639d5ead9a", "name": "Elastic Elasticsearch 5.5.3", "cpe": "cpe:2.3:a:elastic:elasticsearch:5.5.3:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "elastic", "version": "5.5.3"}

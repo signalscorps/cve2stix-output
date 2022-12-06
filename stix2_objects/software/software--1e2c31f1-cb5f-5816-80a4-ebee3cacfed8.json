@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--1e2c31f1-cb5f-5816-80a4-ebee3cacfed8", "name": "Red Hat ManageIQ Enterprise Virtualization Manager (EVM)", "cpe": "cpe:2.3:a:redhat:manageiq_enterprise_virtualization_manager:-:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "redhat", "version": "-"}

@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--69a5aedb-1e72-5c41-894e-871bda3fd36c", "name": "Red Hat OpenShift 3.4 Enterprise Edition", "cpe": "cpe:2.3:a:redhat:openshift:3.4:*:*:*:enterprise:*:*:*", "languages": ["en_US"], "vendor": "redhat", "version": "3.4"}

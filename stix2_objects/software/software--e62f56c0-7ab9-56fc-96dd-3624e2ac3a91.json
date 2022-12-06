@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--e62f56c0-7ab9-56fc-96dd-3624e2ac3a91", "name": "Red Hat Gluster Storage 3.13", "cpe": "cpe:2.3:a:redhat:gluster_storage:3.13:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "redhat", "version": "3.13"}

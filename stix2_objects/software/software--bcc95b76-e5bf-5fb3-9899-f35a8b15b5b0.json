@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--bcc95b76-e5bf-5fb3-9899-f35a8b15b5b0", "name": "OpenStack Folsom 1.6.0", "cpe": "cpe:2.3:a:openstack:folsom:1.6.0:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "openstack", "version": "1.6.0"}

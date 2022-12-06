@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--eda706d6-eea4-5cb8-b858-9b82876e02a7", "name": "F5 BIG-IP Access Policy Manager (APM) Client 7.1.6.1", "cpe": "cpe:2.3:a:f5:big-ip_access_policy_manager_client:7.1.6.1:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "f5", "version": "7.1.6.1"}

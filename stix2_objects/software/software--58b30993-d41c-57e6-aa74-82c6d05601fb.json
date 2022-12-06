@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--58b30993-d41c-57e6-aa74-82c6d05601fb", "name": "Microsoft Azure IoT C-SDK 2015-12-17", "cpe": "cpe:2.3:a:microsoft:azure-iot-sdk-c:2015-12-17:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "microsoft", "version": "2015-12-17"}

@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--d1b02f5e-3fac-5146-b69c-9e3b291f99b4", "name": "Wordfence Security 1.2 for Wordpress", "cpe": "cpe:2.3:a:wordfence:wordfence_security:1.2:*:*:*:*:wordpress:*:*", "languages": ["en_US"], "vendor": "wordfence", "version": "1.2"}

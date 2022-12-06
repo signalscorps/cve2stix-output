@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--a999a201-fa4a-5612-9c0a-96503f294cc3", "name": "Rust-lang Rust 1.28.0", "cpe": "cpe:2.3:a:rust-lang:rust:1.28.0:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "rust-lang", "version": "1.28.0"}

@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--5cc25517-2526-51d6-9c73-1150c6736fde", "name": "Intel Trusted Execution Engine", "cpe": "cpe:2.3:o:intel:trusted_execution_engine_firmware:-:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "intel", "version": "-"}

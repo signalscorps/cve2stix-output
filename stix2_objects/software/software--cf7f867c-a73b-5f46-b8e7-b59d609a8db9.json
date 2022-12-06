@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--cf7f867c-a73b-5f46-b8e7-b59d609a8db9", "name": "Auth0 ASP.NET OWIN", "cpe": "cpe:2.3:a:auth0:aspnet-owin:-:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "auth0", "version": "-"}

@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--0dbc8f61-e235-563a-b61b-ec7d40b9ba61", "name": "Red Hat Enterprise Linux Server Extended Update Support (EUS) 7.3", "cpe": "cpe:2.3:o:redhat:enterprise_linux_server_eus:7.3:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "redhat", "version": "7.3"}
