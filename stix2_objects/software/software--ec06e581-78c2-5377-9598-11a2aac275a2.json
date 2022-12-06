@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--ec06e581-78c2-5377-9598-11a2aac275a2", "name": "pocoo Jinja2 2.4.1", "cpe": "cpe:2.3:a:pocoo:jinja2:2.4.1:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "pocoo", "version": "2.4.1"}

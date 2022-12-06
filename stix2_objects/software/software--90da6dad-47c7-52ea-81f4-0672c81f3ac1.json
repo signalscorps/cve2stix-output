@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--90da6dad-47c7-52ea-81f4-0672c81f3ac1", "name": "Red Hat Enterprise Virtualization reports package (rhevm-reports) 3.0", "cpe": "cpe:2.3:a:redhat:rhevm-reports:3.0:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "redhat", "version": "3.0"}

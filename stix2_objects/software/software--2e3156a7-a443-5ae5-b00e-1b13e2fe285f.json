@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--2e3156a7-a443-5ae5-b00e-1b13e2fe285f", "name": "IBM WebSphere Application Server 8.5.5.1 Liberty Profile", "cpe": "cpe:2.3:a:ibm:websphere_application_server:8.5.5.1:-:liberty_profile:*:*:*:*:*", "languages": ["en_US"], "vendor": "ibm", "version": "8.5.5.1"}

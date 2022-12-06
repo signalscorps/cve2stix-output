@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--c8414302-8d6b-568c-9520-9ff91ab950f2", "name": "drupalauth module for simpleSAMLphp 1.2.2", "cpe": "cpe:2.3:a:drupalauth_project:drupalauth:1.2.2:-:-:*:-:simplesamlphp:*:*", "languages": ["en_US"], "vendor": "drupalauth_project", "version": "1.2.2"}

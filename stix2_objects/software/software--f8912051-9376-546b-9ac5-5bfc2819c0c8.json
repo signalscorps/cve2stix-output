@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--f8912051-9376-546b-9ac5-5bfc2819c0c8", "name": "OpenBSD OpenSMTPD 5.4.1", "cpe": "cpe:2.3:a:openbsd:opensmtpd:5.4.1:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "openbsd", "version": "5.4.1"}

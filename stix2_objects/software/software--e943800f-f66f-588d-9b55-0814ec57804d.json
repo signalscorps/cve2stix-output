@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--e943800f-f66f-588d-9b55-0814ec57804d", "name": "Debian StrongSwan 5.1.2", "cpe": "cpe:2.3:a:debian:strongswan:5.1.2:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "debian", "version": "5.1.2"}

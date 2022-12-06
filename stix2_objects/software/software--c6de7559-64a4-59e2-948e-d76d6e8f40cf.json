@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--c6de7559-64a4-59e2-948e-d76d6e8f40cf", "name": "JBoss Overlord Run Time Governance (RTGov) 1.0 for JBossAS", "cpe": "cpe:2.3:a:redhat:jboss_overlord_run_time_governance:1.0:*:*:*:*:jbossas:*:*", "languages": ["en_US"], "vendor": "redhat", "version": "1.0"}

@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--1c108ec0-8221-5edb-a84e-0e132be1c409", "name": "Schneider Electric Modbus Serial Driver 1.10", "cpe": "cpe:2.3:a:schneider-electric:modbus_serial_driver:1.10:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "schneider-electric", "version": "1.10"}

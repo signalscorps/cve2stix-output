@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--6ebcf263-70ef-5e7d-ac0e-8ffb5d80ea24", "name": "Linux Kernel 3.14", "cpe": "cpe:2.3:o:linux:linux_kernel:3.14:-:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "linux", "version": "3.14"}
