@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--23c5b872-0a98-535f-9109-f4e4ff01daee", "name": "PowerDNS dnsdist 1.2.1", "cpe": "cpe:2.3:a:powerdns:dnsdist:1.2.1:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "powerdns", "version": "1.2.1"}

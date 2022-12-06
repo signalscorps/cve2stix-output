@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--b1135c02-2e88-5428-8908-67e8d1cbbf5d", "name": "FFmpeg libswresample 3.0.101", "cpe": "cpe:2.3:a:ffmpeg:libswresample:3.0.101:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "ffmpeg", "version": "3.0.101"}

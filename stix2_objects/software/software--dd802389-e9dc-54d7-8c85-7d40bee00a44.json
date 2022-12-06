@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--dd802389-e9dc-54d7-8c85-7d40bee00a44", "name": "Sensu Core 0.22.0", "cpe": "cpe:2.3:a:sensu:sensu_core:0.22.0:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "sensu", "version": "0.22.0"}

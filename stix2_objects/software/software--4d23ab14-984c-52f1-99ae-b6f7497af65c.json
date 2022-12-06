@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--4d23ab14-984c-52f1-99ae-b6f7497af65c", "name": "Microsoft Windows Server 2008 R2 on x64", "cpe": "cpe:2.3:o:microsoft:windows_server_2008:r2:*:*:*:*:*:x64:*", "languages": ["en_US"], "vendor": "microsoft", "version": "r2"}

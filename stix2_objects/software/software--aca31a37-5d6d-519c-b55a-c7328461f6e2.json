@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--aca31a37-5d6d-519c-b55a-c7328461f6e2", "name": "Apache Software Foundation Kafka 0.8.1.1", "cpe": "cpe:2.3:a:apache:kafka:0.8.1.1:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "apache", "version": "0.8.1.1"}

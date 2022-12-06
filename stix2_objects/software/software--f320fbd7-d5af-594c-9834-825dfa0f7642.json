@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--f320fbd7-d5af-594c-9834-825dfa0f7642", "name": "PowerDNS Recursor 3.1.1", "cpe": "cpe:2.3:a:powerdns:recursor:3.1.1:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "powerdns", "version": "3.1.1"}
