@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--ce276143-379f-554d-92c3-70ce47b55677", "name": "Boehm-Demers-Weiser Garbace Collector (libgc) 5.2", "cpe": "cpe:2.3:a:boehm-demers-weiser:garbage_collector:5.2:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "boehm-demers-weiser", "version": "5.2"}

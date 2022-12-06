@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--b8d11f8c-9488-5284-9f78-d8af8633647a", "name": "Intel SINIT Authenticated Code Module (ACM) GM45_GS45_PM45_SINIT_51.BIN", "cpe": "cpe:2.3:o:intel:sinit_authenticated_code_module:gm45_gs45_pm45_sinit_51.bin:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "intel", "version": "gm45_gs45_pm45_sinit_51.bin"}

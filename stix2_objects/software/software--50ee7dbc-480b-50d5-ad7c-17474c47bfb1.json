@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--50ee7dbc-480b-50d5-ad7c-17474c47bfb1", "name": "Siemens WinCC 7.0 Service Pack 2", "cpe": "cpe:2.3:a:siemens:wincc:7.0:sp2:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "siemens", "version": "7.0"}

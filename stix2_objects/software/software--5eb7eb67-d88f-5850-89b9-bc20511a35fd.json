@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--5eb7eb67-d88f-5850-89b9-bc20511a35fd", "name": "Thomas Eibner reverse proxy add forward module (mod_rpaf) 0.6", "cpe": "cpe:2.3:a:thomas_eibner:mod_rpaf:0.6:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "thomas_eibner", "version": "0.6"}
