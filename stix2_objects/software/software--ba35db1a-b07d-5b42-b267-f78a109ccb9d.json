@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--ba35db1a-b07d-5b42-b267-f78a109ccb9d", "name": "General Electric Intelligent Platforms Proficy HMI/SCADA CIMPLICITY 8.2 SIM 24", "cpe": "cpe:2.3:a:ge:intelligent_platforms_proficy_hmi\\%2fscada_cimplicity:8.2:sim24:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "ge", "version": "8.2"}

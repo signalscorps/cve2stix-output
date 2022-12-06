@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--fd5c3aff-0142-5410-ac98-bdabe915fab7", "name": "IBM Tivoli Federated Identity Manager (TFIM) 6.2.2.5 (FixPack 5)", "cpe": "cpe:2.3:a:ibm:tivoli_federated_identity_manager:6.2.2.5:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "ibm", "version": "6.2.2.5"}
