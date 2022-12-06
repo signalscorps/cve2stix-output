@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--80d44729-131b-5250-a7e9-81a083039f6b", "name": "Red Hat OpenShift Container Platform 3.8", "cpe": "cpe:2.3:a:redhat:openshift_container_platform:3.8:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "redhat", "version": "3.8"}

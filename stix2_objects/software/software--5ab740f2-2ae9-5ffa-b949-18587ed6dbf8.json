@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--5ab740f2-2ae9-5ffa-b949-18587ed6dbf8", "name": "Redis Labs Redis 2.6.17", "cpe": "cpe:2.3:a:redislabs:redis:2.6.17:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "redislabs", "version": "2.6.17"}

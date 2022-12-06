@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--3008cd07-eab7-5e77-a731-02785cb2a1a3", "name": "Red Hat Hibernate Validator 5.2.0 Alpha 1", "cpe": "cpe:2.3:a:redhat:hibernate_validator:5.2.0:alpha1:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "redhat", "version": "5.2.0"}

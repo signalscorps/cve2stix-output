@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--dcec47d6-6b2c-5034-b047-2814e740dd37", "name": "Pivotal Software Cloud Foundry PHP Buildpack 1.7.1", "cpe": "cpe:2.3:a:pivotal_software:cloud_foundry_php_buildpack:1.7.1:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "pivotal_software", "version": "1.7.1"}
