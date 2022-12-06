@@ -44,6 +44,7 @@ jobs:
         git push origin
 
   backfill-cves:
+    needs: backfill-cpes
     runs-on: ubuntu-latest
     strategy:
         matrix:
