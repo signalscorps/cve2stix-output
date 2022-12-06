@@ -1,0 +1,20 @@
+name: "Backfill CPEs and CVEs"
+on:
+  workflow_dispatch:
+
+defaults:
+  
+
+
+jobs:
+  backfill-cpes-from-2007-to-2018:
+    runs-on: ubuntu-latest
+    strategy:
+        matrix:
+          python-version: ["3.7"]
+
+    steps:
+      - uses: actions/backfill-cpes-and-cves@v1
+        with:
+          start-date: "2007-01-01"
+          end-date: "2019-01-01"
