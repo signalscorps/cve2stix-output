@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--430b2154-d097-5b74-9858-0bab8450a13a", "name": "IBM WebSphere Application Server 6.1.0.27 (Fix Pack 27)", "cpe": "cpe:2.3:a:ibm:websphere_application_server:6.1.0.27:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "ibm", "version": "6.1.0.27"}

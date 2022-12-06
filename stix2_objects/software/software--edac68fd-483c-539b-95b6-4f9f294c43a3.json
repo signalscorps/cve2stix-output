@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--edac68fd-483c-539b-95b6-4f9f294c43a3", "name": "IBM WebSphere Application Server 6.1.0.19 (Fix Pack 19)", "cpe": "cpe:2.3:a:ibm:websphere_application_server:6.1.0.19:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "ibm", "version": "6.1.0.19"}

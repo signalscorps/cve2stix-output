@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--ee1ef543-53da-5a6d-b65e-acc954b41c0b", "name": "IBM P8 FileNet P8 Application Engine (P8AE) 3.5.1-012 (Fix Pack 012)", "cpe": "cpe:2.3:a:ibm:filenet_p8_application_engine:3.5.1:012:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "ibm", "version": "3.5.1"}

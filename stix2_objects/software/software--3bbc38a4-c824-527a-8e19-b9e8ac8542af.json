@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--3bbc38a4-c824-527a-8e19-b9e8ac8542af", "name": "OpenFabrics Alliance Enterprise Distribution (OFED) 1.5", "cpe": "cpe:2.3:a:openfabrics:enterprise_distribution:1.5:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "openfabrics", "version": "1.5"}

@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--4bd355e4-f93b-5410-8751-2d6d122fc848", "name": "LTTng Userspace Tracer (aka UST) 0.3", "cpe": "cpe:2.3:a:lttng:ust:0.3:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "lttng", "version": "0.3"}

@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--9dd20039-3a69-5abf-82c2-b73ad148fd7d", "name": "IBM WebSphere Application Server 6.1.0.15 (Fix Pack 15)", "cpe": "cpe:2.3:a:ibm:websphere_application_server:6.1.0.15:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "ibm", "version": "6.1.0.15"}
