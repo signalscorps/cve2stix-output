@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--dc7b4156-93bb-5132-8509-db00a3d9c0ff", "name": "Blue Coat Systems SG510-20 (510 series) Acceleration Edition", "cpe": "cpe:2.3:h:bluecoat:proxysg_sg510-25:-:-:acceleration:*:*:*:*:*", "languages": ["en_US"], "vendor": "bluecoat", "version": "-"}

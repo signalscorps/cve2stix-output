@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--dd1e83e1-ca36-5d95-8c1f-319e35fcaf7e", "name": "Blue Coat Systems SG210-10 (210 series) Acceleration Edition", "cpe": "cpe:2.3:h:bluecoat:proxysg_sg210-10:-:-:acceleration:*:*:*:*:*", "languages": ["en_US"], "vendor": "bluecoat", "version": "-"}

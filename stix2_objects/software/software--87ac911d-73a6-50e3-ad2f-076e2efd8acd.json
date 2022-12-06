@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--87ac911d-73a6-50e3-ad2f-076e2efd8acd", "name": "Blue Coat Systems SG9000-10 (9000 series) Acceleration Edition", "cpe": "cpe:2.3:h:bluecoat:proxysg_sg9000-10:-:-:acceleration:*:*:*:*:*", "languages": ["en_US"], "vendor": "bluecoat", "version": "-"}

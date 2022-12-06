@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--b0a598bf-f434-5531-b83e-c21e88ec2dad", "name": "Microsoft SQL Server 2005 Service Pack 2", "cpe": "cpe:2.3:a:microsoft:sql_server:2005:sp2:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "microsoft", "version": "2005"}

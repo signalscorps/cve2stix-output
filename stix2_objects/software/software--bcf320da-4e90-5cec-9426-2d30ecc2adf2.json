@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--bcf320da-4e90-5cec-9426-2d30ecc2adf2", "name": "BSD Perimeter LLC pfSense 1.2 release candidate 2", "cpe": "cpe:2.3:a:bsdperimeter:pfsense:1.2:rc2:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "bsdperimeter", "version": "1.2"}

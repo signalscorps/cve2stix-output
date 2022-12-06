@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--52c6faa1-3288-5342-b4b4-8042e01c8ca3", "name": "HP Integrated Lights-Out (iLO) firmware 1.16a", "cpe": "cpe:2.3:o:hp:integrated_lights-out_firmware:1.16a:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "hp", "version": "1.16a"}

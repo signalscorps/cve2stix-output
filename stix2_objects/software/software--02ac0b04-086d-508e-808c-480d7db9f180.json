@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--02ac0b04-086d-508e-808c-480d7db9f180", "name": "Blue Coat Systems SG810-25 (810 series) Acceleration Edition", "cpe": "cpe:2.3:h:bluecoat:proxysg_sg810-25:-:-:acceleration:*:*:*:*:*", "languages": ["en_US"], "vendor": "bluecoat", "version": "-"}

@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--a71b061c-56a0-5703-b1ce-5538fcfb20f7", "name": "Blue Coat Systems SG810-10 (810 series) Full Proxy Edition", "cpe": "cpe:2.3:h:bluecoat:proxysg_sg810-10:-:-:full_proxy:*:*:*:*:*", "languages": ["en_US"], "vendor": "bluecoat", "version": "-"}

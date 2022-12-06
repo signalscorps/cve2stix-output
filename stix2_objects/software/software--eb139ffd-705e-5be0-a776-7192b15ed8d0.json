@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--eb139ffd-705e-5be0-a776-7192b15ed8d0", "name": "Blue Coat Systems SG210-25 (210 series) Full Proxy Edition", "cpe": "cpe:2.3:h:bluecoat:proxysg_sg210-25:-:-:full_proxy:*:*:*:*:*", "languages": ["en_US"], "vendor": "bluecoat", "version": "-"}

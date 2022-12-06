@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--bab96eaa-507b-5d4d-b4ad-041c79a80d11", "name": "Blue Coat Systems SG510-20 (510 series) Full Proxy Edition", "cpe": "cpe:2.3:h:bluecoat:proxysg_sg510-20:-:-:full_proxy:*:*:*:*:*", "languages": ["en_US"], "vendor": "bluecoat", "version": "-"}
