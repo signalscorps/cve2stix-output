@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--fb3db167-e701-5cb8-b8bb-a662ee205e1b", "name": "Red Hat JBoss WildFly Application Server 11.0.0 Beta1", "cpe": "cpe:2.3:a:redhat:jboss_wildfly_application_server:11.0.0:beta1:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "redhat", "version": "11.0.0"}

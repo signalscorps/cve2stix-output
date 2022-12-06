@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--8da583de-3f4e-5594-a0c0-81cfcffa909b", "name": "Apache Software Foundation AMQP 0-x JMS Client 6.0.3", "cpe": "cpe:2.3:a:apache:amqp_0-x_jms_client:6.0.3:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "apache", "version": "6.0.3"}

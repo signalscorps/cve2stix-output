@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--9b5d2f4c-5517-583f-b83d-7a89ab46c46a", "name": "Apache Software Foundation Tomcat JK Connector 1.2.33", "cpe": "cpe:2.3:a:apache:tomcat_jk_connector:1.2.33:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "apache", "version": "1.2.33"}

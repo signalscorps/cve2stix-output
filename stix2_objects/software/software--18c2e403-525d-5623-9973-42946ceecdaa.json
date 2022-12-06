@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--18c2e403-525d-5623-9973-42946ceecdaa", "name": "Linux Kernel 4.16 Release Candidate 4", "cpe": "cpe:2.3:o:linux:linux_kernel:4.16:rc4:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "linux", "version": "4.16"}

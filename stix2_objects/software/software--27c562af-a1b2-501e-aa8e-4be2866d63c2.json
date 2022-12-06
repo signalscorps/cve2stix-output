@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--27c562af-a1b2-501e-aa8e-4be2866d63c2", "name": "GnuPG Libgcrypt 1.0.0", "cpe": "cpe:2.3:a:gnupg:libgcrypt:1.0.0:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "gnupg", "version": "1.0.0"}

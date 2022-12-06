@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--41a722e4-b133-55da-aa07-7c20f409743d", "name": "Linux Kernel 4.13 Release Candidate 1", "cpe": "cpe:2.3:o:linux:linux_kernel:4.13:rc1:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "linux", "version": "4.13"}

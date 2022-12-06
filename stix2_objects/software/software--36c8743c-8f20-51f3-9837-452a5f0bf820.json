@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--36c8743c-8f20-51f3-9837-452a5f0bf820", "name": "RSYSLOG libfastjson 0.99.3", "cpe": "cpe:2.3:a:rsyslog:libfastjson:0.99.3:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "rsyslog", "version": "0.99.3"}
