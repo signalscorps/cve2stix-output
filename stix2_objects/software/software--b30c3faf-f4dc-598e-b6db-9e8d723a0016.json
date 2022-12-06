@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--b30c3faf-f4dc-598e-b6db-9e8d723a0016", "name": "Microsoft SQL Server 2014 Service Pack 1", "cpe": "cpe:2.3:a:microsoft:sql_server:2014:sp1:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "microsoft", "version": "2014"}

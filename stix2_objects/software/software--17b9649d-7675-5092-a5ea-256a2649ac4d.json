@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--17b9649d-7675-5092-a5ea-256a2649ac4d", "name": "Microsoft SQL Server 2012 Service Pack 3", "cpe": "cpe:2.3:a:microsoft:sql_server:2012:sp3:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "microsoft", "version": "2012"}
