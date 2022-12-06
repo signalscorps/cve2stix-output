@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--7c189bba-98c0-5250-bf5e-420ee2abb1dd", "name": "VMWare VirtualCenter 2.0 Server", "cpe": "cpe:2.3:a:vmware:virtualcenter:2.0:unknown:client:*:*:*:*:*", "languages": ["en_US"], "vendor": "vmware", "version": "2.0"}
