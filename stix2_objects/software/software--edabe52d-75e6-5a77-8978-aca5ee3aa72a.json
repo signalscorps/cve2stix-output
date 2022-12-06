@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--edabe52d-75e6-5a77-8978-aca5ee3aa72a", "name": "IBM TS3100 Tape Library", "cpe": "cpe:2.3:h:ibm:ts3100:-:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "ibm", "version": "-"}
