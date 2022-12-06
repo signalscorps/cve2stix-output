@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--06c2c88b-6941-54dc-81ff-4bd906ce8167", "name": "OpenStack Swift 2.5.0", "cpe": "cpe:2.3:a:openstack:swift:2.5.0:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "openstack", "version": "2.5.0"}

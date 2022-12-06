@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--f30c9640-6bb9-5c6e-b852-96dc29d3fa2d", "name": "IBM Financial Transaction Manager 3.0.0.10 Check Services", "cpe": "cpe:2.3:a:ibm:financial_transaction_manager:3.0.0.10:*:*:*:*:check_services:*:*", "languages": ["en_US"], "vendor": "ibm", "version": "3.0.0.10"}

@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--cd605fa1-7628-5267-8387-44cbe5edcf53", "name": "Openstack Keystone (Liberty) 8.0.1", "cpe": "cpe:2.3:a:openstack:keystone:8.0.1:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "openstack", "version": "8.0.1"}

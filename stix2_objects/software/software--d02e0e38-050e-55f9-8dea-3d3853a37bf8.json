@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--d02e0e38-050e-55f9-8dea-3d3853a37bf8", "name": "Cisco NX-OS Software Cisco Nexus 1000V Switch for VMware vSphere 4.0(4)SV1(3c)", "cpe": "cpe:2.3:o:cisco:nx-os_1000v_switch:4.0\\(4\\)sv1\\(3c\\):*:*:*:*:vmware_vsphere:*:*", "languages": ["en_US"], "vendor": "cisco", "version": "4.0\\(4\\)sv1\\(3c\\)"}
