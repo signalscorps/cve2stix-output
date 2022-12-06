@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--9e0bbe86-8ef0-57ef-8c41-3aad039904be", "name": "Microsoft .NET Framework Version 1.1, Included with Windows Server 2003 32-bit Service Pack 1", "cpe": "cpe:2.3:a:microsoft:.net_framework:1.1:2003sp1:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "microsoft", "version": "1.1"}

@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--fceb8906-b46e-5e23-ac20-eb1679f8abf5", "name": "Debian MIT Kerberos krb4", "cpe": "cpe:2.3:a:debian:mit_kerberos:4:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "debian", "version": "4"}

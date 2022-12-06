@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--c7cffe64-6d2a-5a99-9620-2b202b198d30", "name": "IBM Informix Client Software Development Kit", "cpe": "cpe:2.3:a:ibm:informix_client_sdk:-:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "ibm", "version": "-"}

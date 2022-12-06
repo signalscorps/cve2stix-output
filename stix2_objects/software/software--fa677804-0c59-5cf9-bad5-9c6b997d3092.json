@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--fa677804-0c59-5cf9-bad5-9c6b997d3092", "name": "Red Hat Cluster 5", "cpe": "cpe:2.3:a:redhat:rhel_cluster:5:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "redhat", "version": "5"}

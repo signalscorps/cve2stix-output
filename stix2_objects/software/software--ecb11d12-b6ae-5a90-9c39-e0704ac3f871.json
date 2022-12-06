@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--ecb11d12-b6ae-5a90-9c39-e0704ac3f871", "name": "Red Hat Enterprise Linux 2.1 Enterprise Server IA64", "cpe": "cpe:2.3:o:redhat:enterprise_linux:2.1:*:ia64-es:*:*:*:*:*", "languages": ["en_US"], "vendor": "redhat", "version": "2.1"}

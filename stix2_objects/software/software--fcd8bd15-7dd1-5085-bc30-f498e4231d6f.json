@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--fcd8bd15-7dd1-5085-bc30-f498e4231d6f", "name": "Red Hat Enterprise Linux 4 Update4 Workstation Server", "cpe": "cpe:2.3:o:redhat:enterprise_linux:4:update4:ws:*:*:*:*:*", "languages": ["en_US"], "vendor": "redhat", "version": "4"}

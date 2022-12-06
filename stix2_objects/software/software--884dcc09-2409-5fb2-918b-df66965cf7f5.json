@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--884dcc09-2409-5fb2-918b-df66965cf7f5", "name": "Veritas Backup Exec Windows Servers 9.1.0 rev4691 SP2", "cpe": "cpe:2.3:a:veritas:backup_exec_remote_agent:9.1.4691:sp2:windows_servers:*:*:*:*:*", "languages": ["en_US"], "vendor": "veritas", "version": "9.1.4691"}

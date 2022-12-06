@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--6bc4fb56-ad96-5083-be22-d6cca4c44623", "name": "MySQL MySQL Community Server 5.0.45", "cpe": "cpe:2.3:a:mysql:community_server:5.0.45:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "mysql", "version": "5.0.45"}

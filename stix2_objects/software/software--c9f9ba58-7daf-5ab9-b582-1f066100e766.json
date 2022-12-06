@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--c9f9ba58-7daf-5ab9-b582-1f066100e766", "name": "Red Hat rhel_certificate_server 7.2", "cpe": "cpe:2.3:a:redhat:certificate_server:7.2:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "redhat", "version": "7.2"}

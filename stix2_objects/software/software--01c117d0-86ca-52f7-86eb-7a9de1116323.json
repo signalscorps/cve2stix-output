@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--01c117d0-86ca-52f7-86eb-7a9de1116323", "name": "Red Hat rhel_virtualization 5", "cpe": "cpe:2.3:o:redhat:enterprise_linux_virtualization:5.0:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "redhat", "version": "5.0"}

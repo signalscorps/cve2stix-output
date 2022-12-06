@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--d3a59d81-e761-5c7b-b5d0-0f9fbd80d168", "name": "Sendmail Sendmail Advanced Message Server 1.2", "cpe": "cpe:2.3:a:sendmail:advanced_message_server:1.2:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "sendmail", "version": "1.2"}

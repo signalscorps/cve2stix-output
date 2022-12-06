@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--b9f35890-ebea-5827-ba65-6523bb09ef20", "name": "Zone Labs Check Point Integrity Client", "cpe": "cpe:2.3:a:checkpoint:check_point_integrity_client:-:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "checkpoint", "version": "-"}

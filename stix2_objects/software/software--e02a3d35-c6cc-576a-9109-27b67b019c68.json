@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--e02a3d35-c6cc-576a-9109-27b67b019c68", "name": "AMD chipset", "cpe": "cpe:2.3:a:amd:catalyst_driver:-:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "amd", "version": "-"}

@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--95fc3825-59dd-5523-9d7b-e76586859338", "name": "Linux RSBAC", "cpe": "cpe:2.3:a:rsbac:rule_set_based_access_control:-:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "rsbac", "version": "-"}

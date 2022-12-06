@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--32dc1e1e-f195-5847-aa3b-61c585547c07", "name": "Microsoft SQL Server 7.0 Service Pack 4", "cpe": "cpe:2.3:a:microsoft:sql_server:7.0:sp4:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "microsoft", "version": "7.0"}

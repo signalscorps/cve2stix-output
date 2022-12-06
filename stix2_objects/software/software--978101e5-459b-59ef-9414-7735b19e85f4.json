@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--978101e5-459b-59ef-9414-7735b19e85f4", "name": "Red Hat kernel_bigmem", "cpe": "cpe:2.3:a:redhat:bigmem_kernel:-:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "redhat", "version": "-"}

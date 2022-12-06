@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--fa75c917-c0cc-595e-ab91-216ab134d80a", "name": "Linux libc 5.2.18", "cpe": "cpe:2.3:a:gnu:libc:5.2.18:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "gnu", "version": "5.2.18"}

@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--ef937155-ca09-5590-8e34-6c67d3752f33", "name": "Microsoft SQLServer 2000 Service Pack 1", "cpe": "cpe:2.3:a:microsoft:sql_server:2000:sp1:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "microsoft", "version": "2000"}

@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--54510429-89fa-5564-9371-dcf4b5b1c903", "name": "SSH Communications Security SSH daemon 1.2.12", "cpe": "cpe:2.3:a:ssh:ssh:1.2.12:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "ssh", "version": "1.2.12"}

@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--b9ba5081-f7e5-53ea-bfe4-70064a0a7f63", "name": "Red Hat openssl 0.9.6b3", "cpe": "cpe:2.3:a:redhat:openssl:0.9.6b-3:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "redhat", "version": "0.9.6b-3"}

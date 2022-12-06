@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--55be4203-fc24-545f-be24-c81dca75e0b5", "name": "FreeBSD Heimdal Port", "cpe": "cpe:2.3:a:freebsd:heimdal:-:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "freebsd", "version": "-"}

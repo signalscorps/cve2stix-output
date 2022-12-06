@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--9d925c3f-a616-58f3-94a4-0bf1606193f5", "name": "Red Hat Cluster Storage", "cpe": "cpe:2.3:a:redhat:rhel_cluster_storage:-:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "redhat", "version": "-"}

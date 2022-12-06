@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--2b54a61f-8828-5a2d-82e6-acb1da5aaa73", "name": "Debian toolchain-source 3.0.3.2", "cpe": "cpe:2.3:a:debian:toolchain-source:3.0.3-2:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "debian", "version": "3.0.3-2"}

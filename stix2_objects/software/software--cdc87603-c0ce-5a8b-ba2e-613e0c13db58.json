@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--cdc87603-c0ce-5a8b-ba2e-613e0c13db58", "name": "SSH Communications Security SSH Secure Shell for Servers 3.1.1", "cpe": "cpe:2.3:a:ssh:secure_shell_for_servers:3.1.1:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "ssh", "version": "3.1.1"}

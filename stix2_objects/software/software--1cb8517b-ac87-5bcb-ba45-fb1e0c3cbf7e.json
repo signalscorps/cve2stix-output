@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--1cb8517b-ac87-5bcb-ba45-fb1e0c3cbf7e", "name": "Linux Security Modules", "cpe": "cpe:2.3:a:gnu:realtime_linux_security_module:-:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "gnu", "version": "-"}

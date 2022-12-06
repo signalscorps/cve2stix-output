@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--8e839ce6-b8a4-5b8e-853c-bc767e9a18fc", "name": "Red Hat Extras 5 Server", "cpe": "cpe:2.3:a:redhat:rhel_extras:5:*:server:*:*:*:*:*", "languages": ["en_US"], "vendor": "redhat", "version": "5"}

@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--fe2a3825-35e9-525c-adbb-370abc2645cc", "name": "Red Hat RPM 4.0.3", "cpe": "cpe:2.3:a:redhat:redhat_package_manager:4.0.3:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "redhat", "version": "4.0.3"}

@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--eee628a6-276f-56ff-aa0c-7c9b68f624e0", "name": "Red Hat sendmail 8.12.8.4", "cpe": "cpe:2.3:a:redhat:sendmail:8.12.8-4:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "redhat", "version": "8.12.8-4"}

@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--9cef224c-f342-5e74-aae9-11031755fba1", "name": "Linux SCTP 2.6.16", "cpe": "cpe:2.3:a:lksctp:stream_control_transmission_protocol:2.6.16:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "lksctp", "version": "2.6.16"}

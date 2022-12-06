@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--091a19bb-ac03-5cd1-b8f0-863cf3722e60", "name": "Microsoft Windows NT 4.0 Server Post Service Pack 6a Security Rollup", "cpe": "cpe:2.3:o:microsoft:windows_nt:4.0:sru:server:*:*:*:*:*", "languages": ["en_US"], "vendor": "microsoft", "version": "4.0"}

@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--f394e21f-0740-5694-adde-eb7d4b7705a0", "name": "Red Hat eXchange EnterpriseDB", "cpe": "cpe:2.3:a:redhat:rhx_enterprise_db:5.0:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "redhat", "version": "5.0"}

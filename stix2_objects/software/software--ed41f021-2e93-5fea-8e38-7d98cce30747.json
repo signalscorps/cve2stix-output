@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--ed41f021-2e93-5fea-8e38-7d98cce30747", "name": "Red Hat Application Stack", "cpe": "cpe:2.3:a:redhat:rhel_application_stack:-:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "redhat", "version": "-"}

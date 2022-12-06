@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--b2de3193-66f4-58d9-9a37-7463ee53536f", "name": "BEA Systems WebLogic Express 6.1 SP4", "cpe": "cpe:2.3:a:bea:weblogic_server:6.1:sp4:express:*:*:*:*:*", "languages": ["en_US"], "vendor": "bea", "version": "6.1"}

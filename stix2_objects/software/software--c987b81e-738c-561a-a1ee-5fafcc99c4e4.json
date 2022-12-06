@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--c987b81e-738c-561a-a1ee-5fafcc99c4e4", "name": "Red Hat Network Proxy 3.7 for Enterprise Linux 2.1, 3, 4", "cpe": "cpe:2.3:a:redhat:network_proxy:3.7:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "redhat", "version": "3.7"}

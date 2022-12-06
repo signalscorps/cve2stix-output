@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--bde4ce0a-30f1-59df-9681-cb239a5a4541", "name": "BMC Software PerformAgent", "cpe": "cpe:2.3:a:bmc:patrol_perform_agent:-:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "bmc", "version": "-"}

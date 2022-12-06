@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--ce6d19fd-0310-5421-94fd-b606c893d4f9", "name": "Microsoft SQLServer", "cpe": "cpe:2.3:a:microsoft:sql_server:-:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "microsoft", "version": "-"}

@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--555dd955-fc75-5a11-97b5-c087fa240a82", "name": "Linux Kernel 1.2", "cpe": "cpe:2.3:o:linux:linux_kernel:1.2.0:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "linux", "version": "1.2.0"}

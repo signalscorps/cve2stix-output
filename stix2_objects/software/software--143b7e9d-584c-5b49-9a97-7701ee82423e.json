@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--143b7e9d-584c-5b49-9a97-7701ee82423e", "name": "Red Hat Enterprise Linux 4 (general availability) Workstation Server", "cpe": "cpe:2.3:o:redhat:enterprise_linux:4:ga:ws:*:*:*:*:*", "languages": ["en_US"], "vendor": "redhat", "version": "4"}

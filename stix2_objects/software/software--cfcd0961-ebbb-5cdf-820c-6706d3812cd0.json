@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--cfcd0961-ebbb-5cdf-820c-6706d3812cd0", "name": "Red Hat pam_smb 1.1.6.5", "cpe": "cpe:2.3:a:redhat:pam_smb:1.1.6-5:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "redhat", "version": "1.1.6-5"}

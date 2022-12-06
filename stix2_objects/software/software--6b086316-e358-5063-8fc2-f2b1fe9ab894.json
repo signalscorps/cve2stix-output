@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--6b086316-e358-5063-8fc2-f2b1fe9ab894", "name": "Red Hat Cluster Storage 5", "cpe": "cpe:2.3:a:redhat:enterprise_linux_cluster-storage:5:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "redhat", "version": "5"}

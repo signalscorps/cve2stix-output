@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--d9a6e88c-3ed3-56cc-b0f6-23fa4a061fe8", "name": "Red Hat Enterprise Linux 3 (general availability) Advanced Server", "cpe": "cpe:2.3:o:redhat:enterprise_linux:3:ga:as:*:*:*:*:*", "languages": ["en_US"], "vendor": "redhat", "version": "3"}

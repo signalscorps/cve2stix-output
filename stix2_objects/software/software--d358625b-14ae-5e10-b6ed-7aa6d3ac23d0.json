@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--d358625b-14ae-5e10-b6ed-7aa6d3ac23d0", "name": "Red Hat PXE Server 0.1", "cpe": "cpe:2.3:a:redhat:pre-execution_environment:0.1:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "redhat", "version": "0.1"}

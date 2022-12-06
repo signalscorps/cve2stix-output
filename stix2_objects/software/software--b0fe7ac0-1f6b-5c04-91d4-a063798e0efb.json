@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--b0fe7ac0-1f6b-5c04-91d4-a063798e0efb", "name": "Red Hat Cygwin", "cpe": "cpe:2.3:a:redhat:cygwin:-:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "redhat", "version": "-"}

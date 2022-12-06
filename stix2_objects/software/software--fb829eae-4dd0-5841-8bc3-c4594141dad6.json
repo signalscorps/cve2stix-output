@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--fb829eae-4dd0-5841-8bc3-c4594141dad6", "name": "Red Hat Enterprise Linux 4 (general availability) Enterprise Server", "cpe": "cpe:2.3:o:redhat:enterprise_linux:4:ga:es:*:*:*:*:*", "languages": ["en_US"], "vendor": "redhat", "version": "4"}

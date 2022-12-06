@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--03c617d1-0cd1-5145-bd03-ef5b012d6581", "name": "Microsoft sql_server_desktop_engine", "cpe": "cpe:2.3:a:microsoft:msde:-:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "microsoft", "version": "-"}

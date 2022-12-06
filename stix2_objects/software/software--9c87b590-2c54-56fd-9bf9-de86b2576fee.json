@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--9c87b590-2c54-56fd-9bf9-de86b2576fee", "name": "Sendmail Message Store_SAM 3.1.8", "cpe": "cpe:2.3:a:sendmail:message_store_sams:3.1.8:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "sendmail", "version": "3.1.8"}

@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--0e8c0197-51c9-519b-8339-dbd9939ea8b6", "name": "Red Hat Enterprise Linux 5 (general availability)", "cpe": "cpe:2.3:o:redhat:enterprise_linux:5:ga:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "redhat", "version": "5"}

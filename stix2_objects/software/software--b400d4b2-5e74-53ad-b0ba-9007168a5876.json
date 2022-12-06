@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--b400d4b2-5e74-53ad-b0ba-9007168a5876", "name": "Checkpoint SecuRemote NG with Application Intelligence R54", "cpe": "cpe:2.3:a:checkpoint:secureclient_ng:r54:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "checkpoint", "version": "r54"}

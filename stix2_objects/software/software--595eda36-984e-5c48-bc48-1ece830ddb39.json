@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--595eda36-984e-5c48-bc48-1ece830ddb39", "name": "Red Hat Enterprise Linux Desktop (v.5 client)", "cpe": "cpe:2.3:o:redhat:enterprise_linux:5:*:client:*:*:*:*:*", "languages": ["en_US"], "vendor": "redhat", "version": "5"}

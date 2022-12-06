@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--801fc7e6-3ef2-5226-a916-815c3ca3b60f", "name": "Red Hat Enterprise Linux 3 (general availability) Workstation Server", "cpe": "cpe:2.3:o:redhat:enterprise_linux:3:ga:ws:*:*:*:*:*", "languages": ["en_US"], "vendor": "redhat", "version": "3"}

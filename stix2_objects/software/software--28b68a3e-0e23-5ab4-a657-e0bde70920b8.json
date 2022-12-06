@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--28b68a3e-0e23-5ab4-a657-e0bde70920b8", "name": "BEA Systems WebLogic Server 8.1 SP5 Win32", "cpe": "cpe:2.3:a:bea:weblogic_server:8.1:sp5:win32:*:*:*:*:*", "languages": ["en_US"], "vendor": "bea", "version": "8.1"}

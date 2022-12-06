@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--9b57a055-ff44-55e3-8a8b-a12d39b36721", "name": "Microsoft SQL Server 7.0 Service Pack 2 Alpha", "cpe": "cpe:2.3:a:microsoft:sql_server:7.0:sp2_alpha:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "microsoft", "version": "7.0"}

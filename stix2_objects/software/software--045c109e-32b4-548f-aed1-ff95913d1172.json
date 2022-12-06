@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--045c109e-32b4-548f-aed1-ff95913d1172", "name": "Microsoft Message Queuing MSMQ", "cpe": "cpe:2.3:a:microsoft:message_queuing:-:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "microsoft", "version": "-"}

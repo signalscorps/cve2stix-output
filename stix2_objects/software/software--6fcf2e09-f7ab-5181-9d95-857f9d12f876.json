@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--6fcf2e09-f7ab-5181-9d95-857f9d12f876", "name": "Red Hat gdk_pixbuf 0.18.0.7", "cpe": "cpe:2.3:a:redhat:gdk_pixbuf:0.18.0-7:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "redhat", "version": "0.18.0-7"}

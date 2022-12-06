@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--b0aafcff-9636-5d49-b1d0-d71a5b662209", "name": "Red Hat Enterprise Linux Desktop Workstation (v.5 client)", "cpe": "cpe:2.3:o:redhat:enterprise_linux:5:*:client_workstation:*:*:*:*:*", "languages": ["en_US"], "vendor": "redhat", "version": "5"}

@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--a3c18b71-37ab-53ed-8cb7-de672e9256ab", "name": "Red Hat kernel 2.4.20.8", "cpe": "cpe:2.3:a:redhat:kernel:2.4.20-8:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "redhat", "version": "2.4.20-8"}

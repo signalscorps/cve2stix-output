@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--fe523d6a-6bd6-5732-b20f-dc9d9a88ad86", "name": "Juniper Remote VPN Client", "cpe": "cpe:2.3:a:juniper:netscreen_remote_vpn_client:-:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "juniper", "version": "-"}

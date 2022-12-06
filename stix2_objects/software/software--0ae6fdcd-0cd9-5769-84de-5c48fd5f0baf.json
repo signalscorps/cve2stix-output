@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--0ae6fdcd-0cd9-5769-84de-5c48fd5f0baf", "name": "IBM Informix IDS 10.0.xC3", "cpe": "cpe:2.3:a:ibm:informix_dynamic_server:10.0.xc3:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "ibm", "version": "10.0.xc3"}

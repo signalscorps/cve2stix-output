@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--02e8dfd6-faa2-54e2-aae5-8db88d754c5b", "name": "Red Hat Enterprise Linux 3 Update1 Workstation Server", "cpe": "cpe:2.3:o:redhat:enterprise_linux:3:update1:ws:*:*:*:*:*", "languages": ["en_US"], "vendor": "redhat", "version": "3"}

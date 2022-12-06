@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--b4a98c97-1217-5537-b301-43311d9c9fc4", "name": "Apache Software Foundation Coyote", "cpe": "cpe:2.3:a:apache:coyote_http_connector:-:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "apache", "version": "-"}

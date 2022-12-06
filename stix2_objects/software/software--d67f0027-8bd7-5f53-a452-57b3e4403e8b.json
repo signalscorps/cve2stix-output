@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--d67f0027-8bd7-5f53-a452-57b3e4403e8b", "name": "Linux rsync 2.5.7", "cpe": "cpe:2.3:a:gnu:rsync:2.5.7:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "gnu", "version": "2.5.7"}
