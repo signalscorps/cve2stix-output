@@ -2,10 +2,6 @@ name: "Backfill CPEs and CVEs"
 on:
   workflow_dispatch:
 
-defaults:
-  
-
-
 jobs:
   backfill-cpes-from-2007-to-2018:
     runs-on: ubuntu-latest
