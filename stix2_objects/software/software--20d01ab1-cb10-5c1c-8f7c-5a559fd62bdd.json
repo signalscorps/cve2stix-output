@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--20d01ab1-cb10-5c1c-8f7c-5a559fd62bdd", "name": "ISC BIND 9.4 Release 4 Extended Support Version", "cpe": "cpe:2.3:a:isc:bind:9.4:r4:*:*:esv:*:*:*", "languages": ["en_US"], "vendor": "isc", "version": "9.4"}

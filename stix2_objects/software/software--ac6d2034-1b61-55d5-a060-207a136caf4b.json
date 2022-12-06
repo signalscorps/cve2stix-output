@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--ac6d2034-1b61-55d5-a060-207a136caf4b", "name": "IBM Tivoli Storage Manager for Virtual Environments: Data Protection for VMware 6.4.1", "cpe": "cpe:2.3:a:ibm:tivoli_storage_manager_for_virtual_environments_data_protection_for_vmware:6.4.1:*:*:*:*:vmware:*:*", "languages": ["en_US"], "vendor": "ibm", "version": "6.4.1"}
