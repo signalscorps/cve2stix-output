@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--b9fd7fd1-6b9c-5874-9f93-2ec76cb41f2f", "name": "Rockwell Automation SLC 500 Controller", "cpe": "cpe:2.3:h:rockwellautomation:slc_500_controller:-:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "rockwellautomation", "version": "-"}
