@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--f90ef67c-e128-5d81-9b82-5e7a58d10d6f", "name": "VMware vCenter Server 5.0 update 2 Release Candidate", "cpe": "cpe:2.3:a:vmware:vcenter_server:5.0:update_2_rc:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "vmware", "version": "5.0"}

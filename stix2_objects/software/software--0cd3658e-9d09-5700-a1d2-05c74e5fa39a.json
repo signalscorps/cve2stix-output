@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--0cd3658e-9d09-5700-a1d2-05c74e5fa39a", "name": "Microsoft System Center 2012 Configuration Manager", "cpe": "cpe:2.3:a:microsoft:systems_management_server:2012:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "microsoft", "version": "2012"}

@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--3eb03c18-f0ef-5b63-8b66-7bc0654a186f", "name": "Redhat Automatic Bug Reporting Tool (ABRT) 2.0.4.980", "cpe": "cpe:2.3:a:redhat:automatic_bug_reporting_tool:2.0.4.980:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "redhat", "version": "2.0.4.980"}
