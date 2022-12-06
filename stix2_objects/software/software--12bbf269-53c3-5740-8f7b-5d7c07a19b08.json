@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--12bbf269-53c3-5740-8f7b-5d7c07a19b08", "name": "SSH Communications Security Tectia Server", "cpe": "cpe:2.3:a:ssh:tectia_server:-:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "ssh", "version": "-"}

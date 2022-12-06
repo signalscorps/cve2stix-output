@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--1f843ce2-508b-5bd4-a0ec-a8a16fe4c870", "name": "SSH Communications Security Tectia Manager", "cpe": "cpe:2.3:a:ssh:tectia_manager:-:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "ssh", "version": "-"}

@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--ed64b5f7-2f4b-5ecb-8088-a6aa5e27387b", "name": "OpenSSL Project FIPS Object Module", "cpe": "cpe:2.3:a:openssl:fips_object_module:-:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "openssl", "version": "-"}

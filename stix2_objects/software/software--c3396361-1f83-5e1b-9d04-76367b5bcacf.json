@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--c3396361-1f83-5e1b-9d04-76367b5bcacf", "name": "Red Hat application_server", "cpe": "cpe:2.3:a:redhat:application_server:-:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "redhat", "version": "-"}

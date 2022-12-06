@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--cf71e8df-d9fd-5f22-aaea-314703a72e5c", "name": "Red Hat tcpdump", "cpe": "cpe:2.3:a:redhat:tcpdump:-:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "redhat", "version": "-"}

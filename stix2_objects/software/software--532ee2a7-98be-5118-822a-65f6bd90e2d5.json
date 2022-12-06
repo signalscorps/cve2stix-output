@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--532ee2a7-98be-5118-822a-65f6bd90e2d5", "name": "Red Hat rsync", "cpe": "cpe:2.3:a:redhat:rsync:-:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "redhat", "version": "-"}

@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--88c2437c-5429-5222-8fbc-c402f1ad60a4", "name": "Red Hat sysstat", "cpe": "cpe:2.3:a:redhat:sysstat:-:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "redhat", "version": "-"}

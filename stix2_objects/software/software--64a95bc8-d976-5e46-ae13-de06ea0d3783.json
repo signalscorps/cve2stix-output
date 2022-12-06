@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--64a95bc8-d976-5e46-ae13-de06ea0d3783", "name": "Apache Software Foundation Tomcat JK Web Server Connector 1.2.20", "cpe": "cpe:2.3:a:apache:tomcat_jk_web_server_connector:1.2.20:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "apache", "version": "1.2.20"}

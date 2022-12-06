@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--56dc57e3-8504-58ae-b681-01b91b40df44", "name": "SSH Communications Security SSH2 2.0.5", "cpe": "cpe:2.3:a:ssh:ssh2:2.0.5:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "ssh", "version": "2.0.5"}
