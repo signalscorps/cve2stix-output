@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--cf8248a5-7f48-56b5-ad0d-68610e1c8135", "name": "NVIDIA GPU Driver", "cpe": "cpe:2.3:a:nvidia:gpu_driver:-:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "nvidia", "version": "-"}

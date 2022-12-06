@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--65fb7d48-d5d9-5abc-8765-64f2d44e4a38", "name": "VMware vSphere Client 6.0", "cpe": "cpe:2.3:a:vmware:vsphere_client:6.0:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "vmware", "version": "6.0"}

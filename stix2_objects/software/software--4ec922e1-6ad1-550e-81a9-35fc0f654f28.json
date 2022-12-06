@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--4ec922e1-6ad1-550e-81a9-35fc0f654f28", "name": "VMware vSphere Client 5.5 Update 2", "cpe": "cpe:2.3:a:vmware:vsphere_client:5.5:u2:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "vmware", "version": "5.5"}

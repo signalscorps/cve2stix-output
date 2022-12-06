@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--4b243da4-2c9e-5b04-8c5c-d272768e3cfd", "name": "GnuPG (Privacy Guard) Libgcrypt 1.7.0", "cpe": "cpe:2.3:a:gnupg:libgcrypt:1.7.0:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "gnupg", "version": "1.7.0"}

@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--b8c7601d-1b28-5c2d-a01a-79e6f1bb5bf3", "name": "SAP Solution Manager (Solman) 7.1 Service Pack 10", "cpe": "cpe:2.3:a:sap:solution_manager:7.1:sp10:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "sap", "version": "7.1"}
