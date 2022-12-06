@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--a82d65ae-62d3-5752-b440-ce2eef200a8e", "name": "P2000 G3 10GbE iSCSI Dual Controller SFF Array System (AW597A)", "cpe": "cpe:2.3:h:hp:storageworks_p2000_g3_10gbe_iscsi_dual_controller_sff_array_system:aw597a:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "hp", "version": "aw597a"}

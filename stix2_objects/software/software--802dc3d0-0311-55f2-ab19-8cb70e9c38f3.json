@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--802dc3d0-0311-55f2-ab19-8cb70e9c38f3", "name": "VMWare ESX", "cpe": "cpe:2.3:o:vmware:esx:-:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "vmware", "version": "-"}

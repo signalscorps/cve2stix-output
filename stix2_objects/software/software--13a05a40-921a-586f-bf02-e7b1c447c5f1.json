@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--13a05a40-921a-586f-bf02-e7b1c447c5f1", "name": "P2000 G3 iSCSI Dual Controller LFF Array System (BK830A)", "cpe": "cpe:2.3:h:hp:storageworks_p2000_g3_iscsi_dual_controller_lff_array_system:bk830a:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "hp", "version": "bk830a"}

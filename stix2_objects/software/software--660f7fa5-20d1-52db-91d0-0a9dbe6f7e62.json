@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--660f7fa5-20d1-52db-91d0-0a9dbe6f7e62", "name": "IBM WebSphere Service Registry and Repository (WSRR) 7.0.0.3 (Fix Pack 3)", "cpe": "cpe:2.3:a:ibm:websphere_service_registry_and_repository:7.0.0.3:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "ibm", "version": "7.0.0.3"}

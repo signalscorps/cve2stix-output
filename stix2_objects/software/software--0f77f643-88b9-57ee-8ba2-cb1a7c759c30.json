@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--0f77f643-88b9-57ee-8ba2-cb1a7c759c30", "name": "hardened-php project Suhosin extenstion for PHP 0.9.19", "cpe": "cpe:2.3:a:hardened-php:suhosin:0.9.19:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "hardened-php", "version": "0.9.19"}

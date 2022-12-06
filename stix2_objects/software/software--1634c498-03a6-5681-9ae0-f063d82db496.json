@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--1634c498-03a6-5681-9ae0-f063d82db496", "name": "P2000 G3 MSA FC/iSCSI Dual Combo Controller LFF Array System (AW567A)", "cpe": "cpe:2.3:h:hp:storageworks_p2000_g3_msa_fc\\/iscsi_dual_combo_controller_lff_array_system:aw567a:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "hp", "version": "aw567a"}
