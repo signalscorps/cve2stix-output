@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--a2c8423c-4882-5af4-bab8-4ca5cd7d686d", "name": "OpenStack OpenStack Dashboard (Horizon) folsom-1", "cpe": "cpe:2.3:a:openstack:horizon:folsom-1:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "openstack", "version": "folsom-1"}

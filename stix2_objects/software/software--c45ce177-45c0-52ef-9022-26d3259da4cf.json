@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--c45ce177-45c0-52ef-9022-26d3259da4cf", "name": "OpenLDAP  2.4.18", "cpe": "cpe:2.3:a:openldap:openldap:2.4.18:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "openldap", "version": "2.4.18"}

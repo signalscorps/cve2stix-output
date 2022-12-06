@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--65312e33-6b38-58d5-9d85-3fd95bdff7ad", "name": "Check Point Endpoint Connect R73", "cpe": "cpe:2.3:a:checkpoint:endpoint_connect:r73:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "checkpoint", "version": "r73"}

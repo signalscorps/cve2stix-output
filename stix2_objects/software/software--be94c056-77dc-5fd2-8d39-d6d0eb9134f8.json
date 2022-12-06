@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--be94c056-77dc-5fd2-8d39-d6d0eb9134f8", "name": "Check Point Endpoint Security VPN R75", "cpe": "cpe:2.3:a:checkpoint:endpoint_security_vpn:r75:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "checkpoint", "version": "r75"}

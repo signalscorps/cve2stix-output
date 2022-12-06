@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--705b6be2-65d6-5689-bd64-de61cde39547", "name": "Check Point Remote Access Clients E75", "cpe": "cpe:2.3:a:checkpoint:remote_access_clients:e75:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "checkpoint", "version": "e75"}

@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--0d5c3608-432c-57b1-a9c4-0b5d39b72c2c", "name": "Check Point Remote Access Clients E75.10", "cpe": "cpe:2.3:a:checkpoint:remote_access_clients:e75.10:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "checkpoint", "version": "e75.10"}

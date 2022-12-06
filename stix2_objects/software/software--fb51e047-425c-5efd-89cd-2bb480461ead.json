@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--fb51e047-425c-5efd-89cd-2bb480461ead", "name": "Mysql Connector/odbc 3.51.12", "cpe": "cpe:2.3:a:mysql:mysql_connector\\/odbc:3.51.12:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "mysql", "version": "3.51.12"}

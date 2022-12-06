@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--a7c91ead-440d-5392-81d5-73347d078cfe", "name": "Poul-Henning Kamp md5crypt", "cpe": "cpe:2.3:a:poul-henning_kamp:md5crypt:-:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "poul-henning_kamp", "version": "-"}

@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--b42aef8c-9982-5640-b0fd-5729e4285812", "name": "Mysql Workbench Oss 5.0.30", "cpe": "cpe:2.3:a:mysql:mysql_workbench:5.0.30:*:*:*:oss:*:*:*", "languages": ["en_US"], "vendor": "mysql", "version": "5.0.30"}

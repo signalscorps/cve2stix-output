@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--6f1adebb-48e1-522a-8ecd-9d07b52c010b", "name": "QEMU 0.11.0 release candidate 1", "cpe": "cpe:2.3:a:qemu:qemu:0.11.0:rc1:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "qemu", "version": "0.11.0"}
