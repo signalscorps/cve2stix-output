@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--162c4601-15bd-548d-9595-dde7c53b9e03", "name": "VMware vCenter Server 6.5 Update D", "cpe": "cpe:2.3:a:vmware:vcenter_server:6.5:d:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "vmware", "version": "6.5"}

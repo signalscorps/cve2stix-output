@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--a2a9d891-2bca-5009-8721-6919364c6b71", "name": "ARM Cortex-A9", "cpe": "cpe:2.3:h:arm:cortex-a:9:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "arm", "version": "9"}

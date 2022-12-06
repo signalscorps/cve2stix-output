@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--e087e0f1-cc8b-5280-ad86-717439235597", "name": "VMware vCenter Server 5.5 Update 3b", "cpe": "cpe:2.3:a:vmware:vcenter_server:5.5:3b:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "vmware", "version": "5.5"}

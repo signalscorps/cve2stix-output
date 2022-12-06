@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--cd339d01-d7d6-5257-8ab7-9f9c0d769e9a", "name": "Jenkins Delivery Pipeline 0.6.4 for Jenkins", "cpe": "cpe:2.3:a:jenkins:delivery_pipeline:0.6.4:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "0.6.4"}

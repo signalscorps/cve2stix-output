@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--c60b1fb1-2379-551f-b768-79d2e71c7bdc", "name": "VMware vCenter Server 6.0 Update 2a", "cpe": "cpe:2.3:a:vmware:vcenter_server:6.0:2a:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "vmware", "version": "6.0"}

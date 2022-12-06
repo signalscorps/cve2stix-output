@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--d9eaf64b-8486-5f6e-8546-306338e65274", "name": "ARM Cortex-A15", "cpe": "cpe:2.3:h:arm:cortex-a:15:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "arm", "version": "15"}

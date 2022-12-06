@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--e09c9134-d4f3-56ed-b882-0c53d103e688", "name": "Jenkins Swarm 1.0 for Jenkins", "cpe": "cpe:2.3:a:jenkins:swarm:1.0:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "1.0"}

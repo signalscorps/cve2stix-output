@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--fe2b9925-4d5b-5437-a01a-b3c30ab7510e", "name": "Jenkins Periodic Backup 1.0 for Jenkins", "cpe": "cpe:2.3:a:jenkins:periodic_backup:1.0:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "1.0"}

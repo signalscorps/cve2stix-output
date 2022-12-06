@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--ec464920-67b9-5b14-a734-0883cf1d7098", "name": "Intel Xeon Phi 7210F", "cpe": "cpe:2.3:h:intel:xeon_phi:7210f:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "intel", "version": "7210f"}
