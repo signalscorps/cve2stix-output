@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--d8e272a8-1e22-5b39-9f6c-969dbdddb528", "name": "IBM DB2 10.1 Fixpack 3a", "cpe": "cpe:2.3:a:ibm:db2:10.1.0.3:a:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "ibm", "version": "10.1.0.3"}
