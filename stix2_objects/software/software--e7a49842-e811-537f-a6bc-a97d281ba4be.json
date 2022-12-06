@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--e7a49842-e811-537f-a6bc-a97d281ba4be", "name": "SAP ERP Central Component (ECC)", "cpe": "cpe:2.3:a:sap:erp_central_component:-:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "sap", "version": "-"}

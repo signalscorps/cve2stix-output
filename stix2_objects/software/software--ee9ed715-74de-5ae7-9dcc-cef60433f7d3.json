@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--ee9ed715-74de-5ae7-9dcc-cef60433f7d3", "name": "Polkit Project Policykit (aka polkit)", "cpe": "cpe:2.3:a:polkit_project:polkit:-:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "polkit_project", "version": "-"}

@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--50da75ac-00c7-53e0-a2f1-f32f311f961d", "name": "WatchGuard System Manager (WSM)", "cpe": "cpe:2.3:a:watchguard:watchguard_system_manager:-:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "watchguard", "version": "-"}

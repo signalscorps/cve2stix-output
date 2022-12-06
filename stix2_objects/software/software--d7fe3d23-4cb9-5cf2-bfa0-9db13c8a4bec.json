@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--d7fe3d23-4cb9-5cf2-bfa0-9db13c8a4bec", "name": "MediaWiki checkuser extension for Media wiki 2.3", "cpe": "cpe:2.3:a:mediawiki:checkuser:2.3:-:*:*:*:mediawiki:*:*", "languages": ["en_US"], "vendor": "mediawiki", "version": "2.3"}

@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--3baa04ca-c23d-5681-8214-c6fef5ef0f1a", "name": "Quagga Routing Software Suite 0.99.22.1", "cpe": "cpe:2.3:a:quagga:quagga:0.99.22.1:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "quagga", "version": "0.99.22.1"}

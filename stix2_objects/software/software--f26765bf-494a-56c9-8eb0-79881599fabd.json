@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--f26765bf-494a-56c9-8eb0-79881599fabd", "name": "Apache Software Foundation mod_fcgid 2.3.9", "cpe": "cpe:2.3:a:apache:mod_fcgid:2.3.9:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "apache", "version": "2.3.9"}
