@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--2f9f3b44-bdc8-5a2b-aac1-88ca3364b77a", "name": "Microsoft SQL Server 2008 Service Pack 2 Itanium Based System", "cpe": "cpe:2.3:a:microsoft:sql_server:2008:sp2:itanium:*:*:*:*:*", "languages": ["en_US"], "vendor": "microsoft", "version": "2008"}

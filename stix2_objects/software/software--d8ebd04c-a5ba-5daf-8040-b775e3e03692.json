@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--d8ebd04c-a5ba-5daf-8040-b775e3e03692", "name": "Microsoft SQL Server 2012 Web Edition", "cpe": "cpe:2.3:a:microsoft:sql_server:2012:-:web:*:*:*:*:*", "languages": ["en_US"], "vendor": "microsoft", "version": "2012"}

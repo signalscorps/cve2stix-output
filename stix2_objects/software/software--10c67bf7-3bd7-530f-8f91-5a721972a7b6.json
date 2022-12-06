@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--10c67bf7-3bd7-530f-8f91-5a721972a7b6", "name": "Microsoft SQL Server 2005 Express Edition Service Pack 4", "cpe": "cpe:2.3:a:microsoft:sql_server:2005:sp4:express:*:*:*:*:*", "languages": ["en_US"], "vendor": "microsoft", "version": "2005"}

@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--ead3a763-efc6-5521-82be-75c4a4a02d00", "name": "Microsoft SQL Server 2012 Compact Edition", "cpe": "cpe:2.3:a:microsoft:sql_server:2012:-:compact:*:*:*:*:*", "languages": ["en_US"], "vendor": "microsoft", "version": "2012"}

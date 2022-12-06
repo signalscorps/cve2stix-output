@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--7c31acfa-eff3-53fb-9856-102500c9e411", "name": "Microsoft SQL Server 2000 Service Pack 4 Analysis Services", "cpe": "cpe:2.3:a:microsoft:sql_server:2000:sp4:analysis_services:*:*:*:*:*", "languages": ["en_US"], "vendor": "microsoft", "version": "2000"}

@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--c81715a5-49dd-5cac-be98-9c34edbb4fd7", "name": "Cloudera Cloudera Manager 3.7.1 Enterprise Edition", "cpe": "cpe:2.3:a:cloudera:cloudera_manager:3.7.1:*:enterprise:*:*:*:*:*", "languages": ["en_US"], "vendor": "cloudera", "version": "3.7.1"}

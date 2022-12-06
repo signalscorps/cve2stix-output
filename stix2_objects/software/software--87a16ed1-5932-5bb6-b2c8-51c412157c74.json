@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--87a16ed1-5932-5bb6-b2c8-51c412157c74", "name": "Microsoft SQL Server 2012 Business Intelligence Edition", "cpe": "cpe:2.3:a:microsoft:sql_server:2012:-:business_intelligence:*:*:*:*:*", "languages": ["en_US"], "vendor": "microsoft", "version": "2012"}

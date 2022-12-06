@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--6f9c979f-21d4-58aa-b861-78357ec86bea", "name": "Cloudera hadoop 0.20-sbin", "cpe": "cpe:2.3:a:cloudera:hadoop:0.20-sbin:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "cloudera", "version": "0.20-sbin"}

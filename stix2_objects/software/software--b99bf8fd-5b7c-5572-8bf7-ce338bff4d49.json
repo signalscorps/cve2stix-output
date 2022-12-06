@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--b99bf8fd-5b7c-5572-8bf7-ce338bff4d49", "name": "Microsoft SQL Server 2008 Service Pack 3 x86 (32-bit)", "cpe": "cpe:2.3:a:microsoft:sql_server:2008:sp3:x86:*:*:*:*:*", "languages": ["en_US"], "vendor": "microsoft", "version": "2008"}

@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--05686e61-db88-5f05-96d3-3d83c4cbf5e7", "name": "Cloudera hadoop 0.20.2+923.197", "cpe": "cpe:2.3:a:cloudera:hadoop:0.20.2\\+923.197:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "cloudera", "version": "0.20.2\\+923.197"}

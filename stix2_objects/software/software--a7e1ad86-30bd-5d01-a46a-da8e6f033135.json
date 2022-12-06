@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--a7e1ad86-30bd-5d01-a46a-da8e6f033135", "name": "Microsoft SQL Server 2012 Express Edition", "cpe": "cpe:2.3:a:microsoft:sql_server:2012:-:express:*:*:*:*:*", "languages": ["en_US"], "vendor": "microsoft", "version": "2012"}
