@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--2e7dfde5-42c4-536d-88d9-09b317e03d88", "name": "Carnegie Mellon University Cyrus Imap Server 2.3.14", "cpe": "cpe:2.3:a:cmu:cyrus_imap_server:2.3.14:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "cmu", "version": "2.3.14"}
