@@ -35,7 +35,7 @@ jobs:
       run: |
         touch credentials.yml
         echo "$NVD_API_KEY" > credentials.yml
-        python scripts/download-cpes.py "${{ matrix.dates.start-date }}" "${{ github.dates.end-date }}"
+        python scripts/download-cpes.py "${{ matrix.dates.start-date }}" "${{ matrix.dates.end-date }}"
       env:
         NVD_API_KEY: ${{ secrets.NVD_API_KEY }}
     - name: Push commits to repo
