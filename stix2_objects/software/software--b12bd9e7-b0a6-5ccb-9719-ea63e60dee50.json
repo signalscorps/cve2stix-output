@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--b12bd9e7-b0a6-5ccb-9719-ea63e60dee50", "name": "IBM WebSphere Application Server 16.0.0.2 Liberty Edition", "cpe": "cpe:2.3:a:ibm:websphere_application_server:16.0.0.2:*:*:*:liberty:*:*:*", "languages": ["en_US"], "vendor": "ibm", "version": "16.0.0.2"}

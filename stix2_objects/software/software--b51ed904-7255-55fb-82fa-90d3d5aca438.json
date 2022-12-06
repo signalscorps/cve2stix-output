@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--b51ed904-7255-55fb-82fa-90d3d5aca438", "name": "IBM General Parallel File System (GPFS) 4.1.0.2", "cpe": "cpe:2.3:a:ibm:general_parallel_file_system:4.1.0.2:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "ibm", "version": "4.1.0.2"}

@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--ebc2bb34-d6b8-59bf-9cf4-1bc5c31466e9", "name": "NVIDIA GPU Driver 340.52", "cpe": "cpe:2.3:a:nvidia:gpu_driver:340.52:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "nvidia", "version": "340.52"}

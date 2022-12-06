@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--874f3a58-ad15-5bcf-abf3-530521985efb", "name": "NVIDIA GPU Driver 361.91", "cpe": "cpe:2.3:a:nvidia:gpu_driver:361.91:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "nvidia", "version": "361.91"}

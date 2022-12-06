@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--545f9f36-c41b-5474-9453-916ff910eab2", "name": "NVIDIA GPU Driver 373.06", "cpe": "cpe:2.3:a:nvidia:gpu_driver:373.06:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "nvidia", "version": "373.06"}

@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--c4ef3f39-29fd-53a7-b6c1-70e8614f6040", "name": "NVIDIA GPU Driver 304.79", "cpe": "cpe:2.3:a:nvidia:gpu_driver:304.79:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "nvidia", "version": "304.79"}
