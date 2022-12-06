@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--0c819846-4a00-594b-a2f3-e9cf02e25e36", "name": "EMC RSA Authentication Agent 7.1", "cpe": "cpe:2.3:a:emc:rsa_authentication_agent:7.1:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "emc", "version": "7.1"}

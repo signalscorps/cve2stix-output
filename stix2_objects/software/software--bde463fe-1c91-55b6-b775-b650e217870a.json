@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--bde463fe-1c91-55b6-b775-b650e217870a", "name": "IBM Application Support Facility (ASF) 3.4.0 for Linux", "cpe": "cpe:2.3:a:ibm:application_support_facility:3.4.0:-:*:*:*:linux_kernel:*:*", "languages": ["en_US"], "vendor": "ibm", "version": "3.4.0"}

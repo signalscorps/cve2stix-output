@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--d2c2c95a-9ce6-5674-a549-656d41e39194", "name": "IBM Application Support Facility (ASF) 3.4.0 for z/OS", "cpe": "cpe:2.3:a:ibm:application_support_facility:3.4.0:-:*:*:*:z\\/os:*:*", "languages": ["en_US"], "vendor": "ibm", "version": "3.4.0"}

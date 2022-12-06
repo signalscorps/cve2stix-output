@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--b9fa24bc-5242-5ce4-9917-9acd02f43d3d", "name": "Citrix NetScaler Access Gateway Appliance Firmware 9.3 AGEE Common Criteria Build", "cpe": "cpe:2.3:o:citrix:netscaler_access_gateway_firmware:9.3:agee_common_criteria_build:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "citrix", "version": "9.3"}

@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--17f300e4-3fbc-5336-91fe-799b239d7b78", "name": "OpenStack devstack", "cpe": "cpe:2.3:a:openstack:devstack:-:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "openstack", "version": "-"}
