@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--63fe8c06-d8c2-586a-a6ef-269b24f26bf3", "name": "NTP 4.2.7 Patch 318", "cpe": "cpe:2.3:a:ntp:ntp:4.2.7:p318:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "ntp", "version": "4.2.7"}

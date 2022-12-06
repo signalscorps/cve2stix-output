@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--0c310e80-1575-5446-9fe2-e317c63c5a12", "name": "NTP 4.2.5 Patch 187", "cpe": "cpe:2.3:a:ntp:ntp:4.2.5:p187:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "ntp", "version": "4.2.5"}

@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--188e51fa-3457-5756-98b4-48b25ee4226f", "name": "NTP 4.2.7 Patch 365", "cpe": "cpe:2.3:a:ntp:ntp:4.2.7:p365:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "ntp", "version": "4.2.7"}

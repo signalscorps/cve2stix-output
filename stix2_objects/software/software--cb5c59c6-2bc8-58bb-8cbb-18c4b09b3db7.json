@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--cb5c59c6-2bc8-58bb-8cbb-18c4b09b3db7", "name": "NTP 4.2.5 Patch 151", "cpe": "cpe:2.3:a:ntp:ntp:4.2.5:p151:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "ntp", "version": "4.2.5"}

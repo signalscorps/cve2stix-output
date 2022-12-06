@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--5679116e-e251-50c6-8050-aa20208168bc", "name": "NTP 4.2.7 Patch 128", "cpe": "cpe:2.3:a:ntp:ntp:4.2.7:p128:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "ntp", "version": "4.2.7"}

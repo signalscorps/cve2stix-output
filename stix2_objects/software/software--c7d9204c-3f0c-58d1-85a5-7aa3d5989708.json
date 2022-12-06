@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--c7d9204c-3f0c-58d1-85a5-7aa3d5989708", "name": "NTP 4.2.7 Patch 402", "cpe": "cpe:2.3:a:ntp:ntp:4.2.7:p402:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "ntp", "version": "4.2.7"}

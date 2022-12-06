@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--53e03ff9-b189-5c14-aa38-a3b8f7e71a0f", "name": "NTP 4.2.7 Patch 277", "cpe": "cpe:2.3:a:ntp:ntp:4.2.7:p277:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "ntp", "version": "4.2.7"}

@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--d586b316-16c5-5e9e-b862-dd04ca08463d", "name": "NTP 4.2.5 Patch 235 Release Candidate 1", "cpe": "cpe:2.3:a:ntp:ntp:4.2.5:p235_rc1:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "ntp", "version": "4.2.5"}

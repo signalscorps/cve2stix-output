@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--3780bff2-83ce-5ed6-856f-5034aa6ee8e4", "name": "NTP 4.2.4 Patch 7 Release Candidate 5", "cpe": "cpe:2.3:a:ntp:ntp:4.2.4:p7_rc5:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "ntp", "version": "4.2.4"}

@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--f9033904-edb4-5ee0-a785-518eda81074c", "name": "OpenStack Heat 5.0.0", "cpe": "cpe:2.3:a:openstack:heat:5.0.0:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "openstack", "version": "5.0.0"}

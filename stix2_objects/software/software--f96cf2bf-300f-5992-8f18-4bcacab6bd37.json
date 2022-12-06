@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--f96cf2bf-300f-5992-8f18-4bcacab6bd37", "name": "NTP 4.2.7 Patch 264", "cpe": "cpe:2.3:a:ntp:ntp:4.2.7:p264:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "ntp", "version": "4.2.7"}

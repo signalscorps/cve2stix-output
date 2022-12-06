@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--9de9188d-98b6-5439-8806-3be37df3cacd", "name": "Fortinet Forticlient for Linux Kernel", "cpe": "cpe:2.3:a:fortinet:forticlient:-:*:*:*:*:linux_kernel:*:*", "languages": ["en_US"], "vendor": "fortinet", "version": "-"}

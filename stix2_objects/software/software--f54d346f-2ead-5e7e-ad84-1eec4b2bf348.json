@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--f54d346f-2ead-5e7e-ad84-1eec4b2bf348", "name": "NTP 4.3.10", "cpe": "cpe:2.3:a:ntp:ntp:4.3.10:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "ntp", "version": "4.3.10"}

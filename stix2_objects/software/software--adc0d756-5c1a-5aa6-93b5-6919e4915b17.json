@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--adc0d756-5c1a-5aa6-93b5-6919e4915b17", "name": "FFmpeg 2.0.5", "cpe": "cpe:2.3:a:ffmpeg:ffmpeg:2.0.5:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "ffmpeg", "version": "2.0.5"}

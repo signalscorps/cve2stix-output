@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--36465ae8-4628-5b1e-92a1-7f7cb2a8698c", "name": "NTP 4.2.7 Patch 140", "cpe": "cpe:2.3:a:ntp:ntp:4.2.7:p140:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "ntp", "version": "4.2.7"}

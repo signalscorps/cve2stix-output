@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--fd239382-dcc7-50a7-9fc0-7a16899c2fcf", "name": "NTP 4.2.7 Patch 405", "cpe": "cpe:2.3:a:ntp:ntp:4.2.7:p405:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "ntp", "version": "4.2.7"}

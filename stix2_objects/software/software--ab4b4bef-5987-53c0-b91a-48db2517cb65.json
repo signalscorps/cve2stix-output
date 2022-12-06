@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--ab4b4bef-5987-53c0-b91a-48db2517cb65", "name": "NTP 4.2.7 Patch 320", "cpe": "cpe:2.3:a:ntp:ntp:4.2.7:p320:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "ntp", "version": "4.2.7"}

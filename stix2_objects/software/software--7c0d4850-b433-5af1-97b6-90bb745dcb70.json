@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--7c0d4850-b433-5af1-97b6-90bb745dcb70", "name": "NTP 4.2.7 Patch 386", "cpe": "cpe:2.3:a:ntp:ntp:4.2.7:p386:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "ntp", "version": "4.2.7"}

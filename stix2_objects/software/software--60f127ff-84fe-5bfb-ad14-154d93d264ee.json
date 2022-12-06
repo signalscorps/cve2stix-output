@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--60f127ff-84fe-5bfb-ad14-154d93d264ee", "name": "NTP 4.2.6 Patch 3 Release Candidate 6", "cpe": "cpe:2.3:a:ntp:ntp:4.2.6:p3_rc6:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "ntp", "version": "4.2.6"}

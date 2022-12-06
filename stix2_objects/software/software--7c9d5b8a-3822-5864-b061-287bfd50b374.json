@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--7c9d5b8a-3822-5864-b061-287bfd50b374", "name": "NTP 4.2.7 Patch 165", "cpe": "cpe:2.3:a:ntp:ntp:4.2.7:p165:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "ntp", "version": "4.2.7"}

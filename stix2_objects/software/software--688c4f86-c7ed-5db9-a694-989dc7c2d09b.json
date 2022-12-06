@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--688c4f86-c7ed-5db9-a694-989dc7c2d09b", "name": "NTP 4.2.5 Patch 226", "cpe": "cpe:2.3:a:ntp:ntp:4.2.5:p226:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "ntp", "version": "4.2.5"}

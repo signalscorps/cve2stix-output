@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--45bc112a-4ab1-5c7e-84d9-217b954f3928", "name": "Wireshark 1.12.1", "cpe": "cpe:2.3:a:wireshark:wireshark:1.12.1:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "wireshark", "version": "1.12.1"}

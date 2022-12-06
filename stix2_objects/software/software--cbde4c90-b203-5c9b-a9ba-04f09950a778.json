@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--cbde4c90-b203-5c9b-a9ba-04f09950a778", "name": "NTP 4.2.7 Patch 485 Release Candidate 1", "cpe": "cpe:2.3:a:ntp:ntp:4.2.7:p485_rc1:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "ntp", "version": "4.2.7"}

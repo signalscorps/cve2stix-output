@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--28d3bd35-032b-5694-8e9a-cefbe546c076", "name": "NTP 4.2.7 Patch 360", "cpe": "cpe:2.3:a:ntp:ntp:4.2.7:p360:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "ntp", "version": "4.2.7"}

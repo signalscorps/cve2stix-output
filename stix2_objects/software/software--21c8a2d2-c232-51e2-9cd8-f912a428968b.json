@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--21c8a2d2-c232-51e2-9cd8-f912a428968b", "name": "NTP 4.2.7 Patch 486 Release Candidate 1", "cpe": "cpe:2.3:a:ntp:ntp:4.2.7:p486_rc1:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "ntp", "version": "4.2.7"}
