@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--9c2dd64b-a457-5bf4-8cdd-b248566d3e61", "name": "Linux Kernel 2.6.28 Release Candidate 8", "cpe": "cpe:2.3:o:linux:linux_kernel:2.6.28:rc8:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "linux", "version": "2.6.28"}

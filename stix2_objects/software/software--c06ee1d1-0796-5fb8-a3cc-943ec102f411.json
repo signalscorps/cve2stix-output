@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--c06ee1d1-0796-5fb8-a3cc-943ec102f411", "name": "Linux Kernel 3.4.3 (x86)", "cpe": "cpe:2.3:o:linux:linux_kernel:3.4.3:*:*:*:*:*:x86:*", "languages": ["en_US"], "vendor": "linux", "version": "3.4.3"}

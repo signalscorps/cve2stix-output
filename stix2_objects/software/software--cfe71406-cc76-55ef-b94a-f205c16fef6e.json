@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--cfe71406-cc76-55ef-b94a-f205c16fef6e", "name": "Linux Kernel 2.6.8 Release Candidate 4", "cpe": "cpe:2.3:o:linux:linux_kernel:2.6.8:rc4:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "linux", "version": "2.6.8"}

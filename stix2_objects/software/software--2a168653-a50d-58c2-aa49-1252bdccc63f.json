@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--2a168653-a50d-58c2-aa49-1252bdccc63f", "name": "Linux Kernel 2.6.23 Release Candidate 9", "cpe": "cpe:2.3:o:linux:linux_kernel:2.6.23:rc9:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "linux", "version": "2.6.23"}

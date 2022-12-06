@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--3faf33e7-92d9-5785-9a4a-6d664b45f067", "name": "Linux Kernel 2.6.25 Release Candidate 4", "cpe": "cpe:2.3:o:linux:linux_kernel:2.6.25:rc4:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "linux", "version": "2.6.25"}

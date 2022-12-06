@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--71852b6f-08f6-5ae6-8b08-2ae793c5b98d", "name": "mod_fcgid module 2.3.6 for the Apache HTTP Server", "cpe": "cpe:2.3:a:apache:mod_fcgid:2.3.6:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "apache", "version": "2.3.6"}

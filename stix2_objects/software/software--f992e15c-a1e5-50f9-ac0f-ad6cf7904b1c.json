@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--f992e15c-a1e5-50f9-ac0f-ad6cf7904b1c", "name": "Linux Kernel 3.4 release candidate 4 (x86)", "cpe": "cpe:2.3:o:linux:linux_kernel:3.4:rc4:*:*:*:*:x86:*", "languages": ["en_US"], "vendor": "linux", "version": "3.4"}

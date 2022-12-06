@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--e1a049fa-d011-5814-9b6d-3667e2855fcf", "name": "Veeam Backup And Replication Active Directory Restore 5.0.2.224", "cpe": "cpe:2.3:a:veeam:backup_and_replication_active_directory_restore:5.0.2.224:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "veeam", "version": "5.0.2.224"}

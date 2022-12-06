@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--fcd628a3-0dd0-5148-ad78-3db252dfaae6", "name": "MysqlDumper 1.24 release candidate 1.5", "cpe": "cpe:2.3:a:mysqldumper:mysqldumper:1.24:rc1.5:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "mysqldumper", "version": "1.24"}

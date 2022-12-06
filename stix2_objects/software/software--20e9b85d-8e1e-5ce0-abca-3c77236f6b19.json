@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--20e9b85d-8e1e-5ce0-abca-3c77236f6b19", "name": "Linux Kernel 2.6.22 Release Candidate 5", "cpe": "cpe:2.3:o:linux:linux_kernel:2.6.22:rc5:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "linux", "version": "2.6.22"}

@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--025fb42c-52a4-5cde-9463-e4ed6f8e5a64", "name": "Linux Kernel 2.6.8 Release Candidate 3", "cpe": "cpe:2.3:o:linux:linux_kernel:2.6.8:rc3:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "linux", "version": "2.6.8"}

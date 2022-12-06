@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--bda04ccf-2e51-57dc-bd92-22a6dedb51bc", "name": "IBM WebSphere Application Server 7.0.0.25 (Fix Pack 25)", "cpe": "cpe:2.3:a:ibm:websphere_application_server:7.0.0.25:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "ibm", "version": "7.0.0.25"}
