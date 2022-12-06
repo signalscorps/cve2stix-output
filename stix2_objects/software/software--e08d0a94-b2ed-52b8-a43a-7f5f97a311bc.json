@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--e08d0a94-b2ed-52b8-a43a-7f5f97a311bc", "name": "Jenkins Multijob 1.29 for Jenkins", "cpe": "cpe:2.3:a:jenkins:multijob:1.29:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "1.29"}

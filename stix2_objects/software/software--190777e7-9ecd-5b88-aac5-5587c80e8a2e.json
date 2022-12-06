@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--190777e7-9ecd-5b88-aac5-5587c80e8a2e", "name": "PostgreSQL for Ubuntu", "cpe": "cpe:2.3:a:postgresql:postgresql:-:*:*:*:*:ubuntu:*:*", "languages": ["en_US"], "vendor": "postgresql", "version": "-"}
