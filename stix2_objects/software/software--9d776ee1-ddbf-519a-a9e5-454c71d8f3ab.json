@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--9d776ee1-ddbf-519a-a9e5-454c71d8f3ab", "name": "Openstack Neutron Juno-2", "cpe": "cpe:2.3:a:openstack:neutron:juno-2:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "openstack", "version": "juno-2"}

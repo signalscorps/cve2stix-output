@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--425bb1aa-5bd3-5955-973f-b2d4192477c6", "name": "pfSense Snort package 3.0.13", "cpe": "cpe:2.3:a:pfsense:snort_package:3.0.13:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "pfsense", "version": "3.0.13"}

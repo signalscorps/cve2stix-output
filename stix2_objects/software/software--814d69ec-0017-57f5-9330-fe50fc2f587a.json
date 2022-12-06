@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--814d69ec-0017-57f5-9330-fe50fc2f587a", "name": "Yokogawa STARDOM FCN/FCJ OPC Server for Windows", "cpe": "cpe:2.3:h:yokogawa:stardom_fcn\\/fcj_opc_server:-:*:*:*:*:windows:*:*", "languages": ["en_US"], "vendor": "yokogawa", "version": "-"}

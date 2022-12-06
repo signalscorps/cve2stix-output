@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--c372cabe-81f4-5944-8280-0d4c6d894edb", "name": "F5 Networks BIGIP WebAccelerator 11.3.0", "cpe": "cpe:2.3:a:f5:big-ip_webaccelerator:11.3.0:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "f5", "version": "11.3.0"}

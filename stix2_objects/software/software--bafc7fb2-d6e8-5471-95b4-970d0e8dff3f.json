@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--bafc7fb2-d6e8-5471-95b4-970d0e8dff3f", "name": "Intel Trusted Execution Technology (TXT) SINIT Authenticated Code Modules (ACM)  1.2", "cpe": "cpe:2.3:o:intel:trusted_execution_technology_sinit_authenticated_code_module:1.2:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "intel", "version": "1.2"}

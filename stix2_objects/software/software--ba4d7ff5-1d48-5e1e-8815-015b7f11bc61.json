@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--ba4d7ff5-1d48-5e1e-8815-015b7f11bc61", "name": "pfSense Suricata package 1.0.6", "cpe": "cpe:2.3:a:pfsense:suricata_package:1.0.6:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "pfsense", "version": "1.0.6"}
