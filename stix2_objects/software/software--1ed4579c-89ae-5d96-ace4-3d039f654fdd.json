@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--1ed4579c-89ae-5d96-ace4-3d039f654fdd", "name": "Quantum Scalar i500 tape library firmware SP4.2 (420G.GS005) and (420G.GS006)", "cpe": "cpe:2.3:a:quantum:scalar_i500_firmware:sp4.2:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "quantum", "version": "sp4.2"}

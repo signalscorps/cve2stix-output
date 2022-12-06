@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--acee6416-f8ec-55b1-aa4b-44ffc2a0ba1d", "name": "EMC Navisphere Command Line Interface (CLI) 28.20.1.40", "cpe": "cpe:2.3:a:emc:navisphere_command_line_interface:28.20.1.40:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "emc", "version": "28.20.1.40"}

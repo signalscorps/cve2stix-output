@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--f36de452-f3f8-5105-a044-6d2a38488fda", "name": "Linux Kernel 3.0.10", "cpe": "cpe:2.3:o:linux:linux_kernel:3.0.10:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "linux", "version": "3.0.10"}

@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--f24b260a-8b1c-5637-abb2-9f9c0c348f79", "name": "IBM WebSphere Application Server 7.1 Lombardi Edition", "cpe": "cpe:2.3:a:ibm:websphere_application_server:7.1:*:lombardi:*:*:*:*:*", "languages": ["en_US"], "vendor": "ibm", "version": "7.1"}
