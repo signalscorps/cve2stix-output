@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--5ab42ac2-f932-5595-8c55-3941021f4dfa", "name": "Rockwell Automation ControlLogix 5570 Redundant Controller Firmware 21.00", "cpe": "cpe:2.3:o:rockwellautomation:controllogix_5570_redundant_controller_firmware:21.00:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "rockwellautomation", "version": "21.00"}

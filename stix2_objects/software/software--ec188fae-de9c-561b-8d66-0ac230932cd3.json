@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--ec188fae-de9c-561b-8d66-0ac230932cd3", "name": "Microsoft System.Net.WebSockets.Client 4.3.0 For ASP.NET", "cpe": "cpe:2.3:a:microsoft:system.net.websockets.client:4.3.0:*:*:*:*:asp.net:*:*", "languages": ["en_US"], "vendor": "microsoft", "version": "4.3.0"}
