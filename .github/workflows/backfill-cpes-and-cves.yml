@@ -8,13 +8,13 @@ jobs:
     strategy:
         matrix:
           python-version: ["3.7"]
-          dates: [ 
+          dates: [
             {start-date: "2007-01-01", end-date: "2019-01-01"},
             {start-date: "2019-01-01", end-date: "2021-01-01"},
             {start-date: "2021-01-01", end-date: "2023-01-01"},
           ]
-          fail-fast: true
-          max-parallel: 1
+        fail-fast: true
+        max-parallel: 1
 
     steps:
     - uses: actions/checkout@v3
@@ -37,4 +37,5 @@ jobs:
         NVD_API_KEY: ${{ secrets.NVD_API_KEY }}
     - name: Push commits to repo
       run: |
+        git pull
         git push origin
