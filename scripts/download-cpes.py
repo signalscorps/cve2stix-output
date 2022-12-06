@@ -70,11 +70,11 @@ while start_date < cpe_end_date:
     if count_staged_files != 0:
         repo.git.commit(
             "-m",
-            f"Add CVEs from {start_date.strftime('%Y-%m-%d')} to {end_date.strftime('%Y-%m-%d')}",
+            f"Add CPEs from {start_date.strftime('%Y-%m-%d')} to {end_date.strftime('%Y-%m-%d')}",
         )
 
         logger.info(
-            "Commit: Add CVEs from %s to %s",
+            "Commit: Add CPEs from %s to %s",
             start_date.strftime("%Y-%m-%d"),
             end_date.strftime("%Y-%m-%d"),
         )
