@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--157d3516-dc81-517d-a439-7b3117699c4a", "name": "SAP CCMS / Database Monitor for Oracle", "cpe": "cpe:2.3:a:sap:ccms_\\/_database_monitor:-:*:*:*:*:oracle:*:*", "languages": ["en_US"], "vendor": "sap", "version": "-"}

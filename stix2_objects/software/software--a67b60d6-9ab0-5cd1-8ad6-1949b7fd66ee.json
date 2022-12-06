@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--a67b60d6-9ab0-5cd1-8ad6-1949b7fd66ee", "name": "NVIDIA GPU Driver 319.00 for UNIX", "cpe": "cpe:2.3:a:nvidia:gpu_driver:319.00:-:*:*:unix:*:*:*", "languages": ["en_US"], "vendor": "nvidia", "version": "319.00"}

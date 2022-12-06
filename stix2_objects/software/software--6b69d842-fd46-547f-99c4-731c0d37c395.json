@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--6b69d842-fd46-547f-99c4-731c0d37c395", "name": "NVIDIA GPU Driver 310.00 for Windows", "cpe": "cpe:2.3:a:nvidia:gpu_driver:310.00:-:*:*:windows:*:*:*", "languages": ["en_US"], "vendor": "nvidia", "version": "310.00"}

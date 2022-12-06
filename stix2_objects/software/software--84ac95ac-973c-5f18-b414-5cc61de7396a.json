@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--84ac95ac-973c-5f18-b414-5cc61de7396a", "name": "NVIDIA GPU Driver 331.00 for UNIX", "cpe": "cpe:2.3:a:nvidia:gpu_driver:331.00:-:*:*:unix:*:*:*", "languages": ["en_US"], "vendor": "nvidia", "version": "331.00"}

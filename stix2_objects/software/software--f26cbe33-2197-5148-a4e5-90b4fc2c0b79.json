@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--f26cbe33-2197-5148-a4e5-90b4fc2c0b79", "name": "NVIDIA GPU Driver 304.00 for UNIX", "cpe": "cpe:2.3:a:nvidia:gpu_driver:304.00:-:*:*:unix:*:*:*", "languages": ["en_US"], "vendor": "nvidia", "version": "304.00"}

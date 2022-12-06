@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--2bf5b04f-0fdd-5e7d-8c95-c0d51a45b8be", "name": "python-keystoneclient 0.3.1", "cpe": "cpe:2.3:a:openstack:python-keystoneclient:0.3.1:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "openstack", "version": "0.3.1"}

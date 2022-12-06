@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--cc60c076-f7d1-5d3c-a9d5-5645442dbbba", "name": "SAP CCMS Agent", "cpe": "cpe:2.3:a:sap:ccms_agent:-:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "sap", "version": "-"}

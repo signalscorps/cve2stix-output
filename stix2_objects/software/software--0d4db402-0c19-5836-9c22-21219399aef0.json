@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--0d4db402-0c19-5836-9c22-21219399aef0", "name": "NVIDIA GPU Driver 325.00 for Windows", "cpe": "cpe:2.3:a:nvidia:gpu_driver:325.00:-:*:*:windows:*:*:*", "languages": ["en_US"], "vendor": "nvidia", "version": "325.00"}

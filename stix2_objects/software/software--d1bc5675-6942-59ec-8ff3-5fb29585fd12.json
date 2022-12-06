@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--d1bc5675-6942-59ec-8ff3-5fb29585fd12", "name": "Siemens RuggedCom Rugged Operating System (ROS) firmware for RSG2488 4.0", "cpe": "cpe:2.3:o:siemens:ruggedcom_rugged_operating_system:4.0:*:*:*:*:*:rsg2488:*", "languages": ["en_US"], "vendor": "siemens", "version": "4.0"}

@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--7a0bc646-b3e6-592a-a79f-661772a8f754", "name": "Clang 3.5", "cpe": "cpe:2.3:a:llvm:clang:3.5:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "llvm", "version": "3.5"}
