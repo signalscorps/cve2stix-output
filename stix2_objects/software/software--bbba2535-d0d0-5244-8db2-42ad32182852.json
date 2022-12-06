@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--bbba2535-d0d0-5244-8db2-42ad32182852", "name": "Cloud Foundry CF Networking 2.0.0", "cpe": "cpe:2.3:a:cloud_foundry:cf-networking:2.0.0:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "cloud_foundry", "version": "2.0.0"}

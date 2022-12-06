@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--c72b81eb-adf6-5aec-bc6a-6c5bd753b3ed", "name": "EnterpriseDB Postgres Advanced Server", "cpe": "cpe:2.3:a:enterprisedb:postgres_advanced_server:-:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "enterprisedb", "version": "-"}

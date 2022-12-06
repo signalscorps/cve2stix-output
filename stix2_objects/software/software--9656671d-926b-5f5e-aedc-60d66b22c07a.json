@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--9656671d-926b-5f5e-aedc-60d66b22c07a", "name": "GMPlib GMP (GNU MP Bignum Library) 6.0.0a", "cpe": "cpe:2.3:a:gmplib:gmp:6.0.0a:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "gmplib", "version": "6.0.0a"}

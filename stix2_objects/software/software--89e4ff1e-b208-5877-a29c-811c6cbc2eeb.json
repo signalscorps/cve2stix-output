@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--89e4ff1e-b208-5877-a29c-811c6cbc2eeb", "name": "netfilter iptables 1.4.11.1", "cpe": "cpe:2.3:a:netfilter:iptables:1.4.11.1:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "netfilter", "version": "1.4.11.1"}

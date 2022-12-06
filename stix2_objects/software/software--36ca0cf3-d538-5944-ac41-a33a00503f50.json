@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--36ca0cf3-d538-5944-ac41-a33a00503f50", "name": "A10 Networks Application Delivery Controller (ADC)", "cpe": "cpe:2.3:a:a10networks:application_delivery_controller:-:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "a10networks", "version": "-"}

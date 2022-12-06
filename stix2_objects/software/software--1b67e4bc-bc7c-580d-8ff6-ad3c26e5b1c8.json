@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--1b67e4bc-bc7c-580d-8ff6-ad3c26e5b1c8", "name": "GnuPG (GNU Privacy Guard) 2.1.21", "cpe": "cpe:2.3:a:gnupg:gnupg:2.1.21:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "gnupg", "version": "2.1.21"}

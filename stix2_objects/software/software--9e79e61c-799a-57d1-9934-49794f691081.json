@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--9e79e61c-799a-57d1-9934-49794f691081", "name": "Kernel Ethtool 2.6.34", "cpe": "cpe:2.3:a:kernel:ethtool:2.6.34:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "kernel", "version": "2.6.34"}

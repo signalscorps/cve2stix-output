@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--5ef3ca3b-222c-59c4-8ed9-b5e3d5213402", "name": "VMware vSphere Virtual Machine 6.0.0", "cpe": "cpe:2.3:a:vmware:vsphere_virtual_machine:6.0.0:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "vmware", "version": "6.0.0"}

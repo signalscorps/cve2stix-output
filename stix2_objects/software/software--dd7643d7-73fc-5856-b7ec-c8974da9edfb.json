@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--dd7643d7-73fc-5856-b7ec-c8974da9edfb", "name": "GitLab 11.3.1 Enterprise Edition", "cpe": "cpe:2.3:a:gitlab:gitlab:11.3.1:*:*:*:enterprise:*:*:*", "languages": ["en_US"], "vendor": "gitlab", "version": "11.3.1"}

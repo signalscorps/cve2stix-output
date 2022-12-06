@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--0bea8383-28c8-5855-8284-8d4ffe8e3987", "name": "Red Hat Enterprise Linux Advanced mission critical Update Support (AUS) 7.6", "cpe": "cpe:2.3:o:redhat:enterprise_linux_aus:7.6:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "redhat", "version": "7.6"}

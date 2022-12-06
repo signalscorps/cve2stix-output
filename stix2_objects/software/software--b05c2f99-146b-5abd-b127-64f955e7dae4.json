@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--b05c2f99-146b-5abd-b127-64f955e7dae4", "name": "GNU GDB (GNU Debugger) 6.7.1a", "cpe": "cpe:2.3:a:gnu:gdb:6.7.1a:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "gnu", "version": "6.7.1a"}
