@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--b8157384-1077-57a5-a82b-ec499787f29b", "name": "NVIDIA GPU Driver 313.30 for Linux Kernel", "cpe": "cpe:2.3:a:nvidia:gpu_driver:313.30:-:*:*:linux_kernel:*:*:*", "languages": ["en_US"], "vendor": "nvidia", "version": "313.30"}

@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--94fdad25-bb94-509b-9c54-d50fd58ed121", "name": "NVIDIA GPU Driver 304.88 for Linux Kernel", "cpe": "cpe:2.3:a:nvidia:gpu_driver:304.88:-:*:*:linux_kernel:*:*:*", "languages": ["en_US"], "vendor": "nvidia", "version": "304.88"}

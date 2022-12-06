@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--79ed172d-195d-5712-a8ea-7cd9a7ff3dc7", "name": "NVIDIA Display Driver 311.00 for Windows", "cpe": "cpe:2.3:a:nvidia:display_driver:311.00:-:*:*:*:windows:*:*", "languages": ["en_US"], "vendor": "nvidia", "version": "311.00"}

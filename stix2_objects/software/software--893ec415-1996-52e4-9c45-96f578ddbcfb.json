@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--893ec415-1996-52e4-9c45-96f578ddbcfb", "name": "NVIDIA GPU Driver 304.88 for FreeBSD", "cpe": "cpe:2.3:a:nvidia:gpu_driver:304.88:-:*:*:freebsd:*:*:*", "languages": ["en_US"], "vendor": "nvidia", "version": "304.88"}

@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--50c7a427-e396-571e-8358-f38d51df9d03", "name": "NVIDIA GPU Driver 313.30 for FreeBSD", "cpe": "cpe:2.3:a:nvidia:gpu_driver:313.30:-:*:*:freebsd:*:*:*", "languages": ["en_US"], "vendor": "nvidia", "version": "313.30"}

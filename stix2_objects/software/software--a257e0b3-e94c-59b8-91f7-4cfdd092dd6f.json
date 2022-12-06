@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--a257e0b3-e94c-59b8-91f7-4cfdd092dd6f", "name": "Google Authenticator login project Google Authenticator login module (ga_login) 7.x-1.1", "cpe": "cpe:2.3:a:google_authenticator_login_project:ga_login:7.x-1.1:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "google_authenticator_login_project", "version": "7.x-1.1"}

@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--3706373d-88a0-52ae-bc5e-817a9b4207fe", "name": "NVIDIA GPU Driver 304.88 for SunOS (Solaris)", "cpe": "cpe:2.3:a:nvidia:gpu_driver:304.88:-:*:*:sunos:*:*:*", "languages": ["en_US"], "vendor": "nvidia", "version": "304.88"}

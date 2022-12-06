@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--ef5d8949-c7e2-5a09-a92e-ecfead6bdc9c", "name": "NVIDIA Display Driver 307.78 for Windows", "cpe": "cpe:2.3:a:nvidia:display_driver:307.78:-:*:*:*:windows:*:*", "languages": ["en_US"], "vendor": "nvidia", "version": "307.78"}

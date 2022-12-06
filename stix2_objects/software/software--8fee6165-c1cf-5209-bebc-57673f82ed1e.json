@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--8fee6165-c1cf-5209-bebc-57673f82ed1e", "name": "NVIDIA GPU Driver 304.00 for Linux Kernel", "cpe": "cpe:2.3:a:nvidia:gpu_driver:304.00:-:*:*:linux_kernel:*:*:*", "languages": ["en_US"], "vendor": "nvidia", "version": "304.00"}

@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--c02d51ca-da6e-5b48-9322-514a912b8541", "name": "newrelic Ruby Agent 3.3.5", "cpe": "cpe:2.3:a:newrelic:ruby_agent:3.3.5:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "newrelic", "version": "3.3.5"}

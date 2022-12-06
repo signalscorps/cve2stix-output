@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--af4d42d4-debc-5db5-9d09-0aa54c72f2f4", "name": "NVIDIA GPU Driver 310.44 for FreeBSD", "cpe": "cpe:2.3:a:nvidia:gpu_driver:310.44:-:*:*:freebsd:*:*:*", "languages": ["en_US"], "vendor": "nvidia", "version": "310.44"}

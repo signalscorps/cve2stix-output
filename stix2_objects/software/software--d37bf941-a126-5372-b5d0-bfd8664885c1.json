@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--d37bf941-a126-5372-b5d0-bfd8664885c1", "name": "NVIDIA GPU Driver 313.00 for VMWare ESX", "cpe": "cpe:2.3:a:nvidia:gpu_driver:313.00:-:*:*:esx:*:*:*", "languages": ["en_US"], "vendor": "nvidia", "version": "313.00"}

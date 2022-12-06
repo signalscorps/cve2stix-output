@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--61c89141-c082-5baa-bf1a-dfa0683c95bb", "name": "NVIDIA GPU Driver 310.44 for VMWare ESX", "cpe": "cpe:2.3:a:nvidia:gpu_driver:310.44:-:*:*:esx:*:*:*", "languages": ["en_US"], "vendor": "nvidia", "version": "310.44"}

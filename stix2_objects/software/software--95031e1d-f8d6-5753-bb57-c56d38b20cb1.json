@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--95031e1d-f8d6-5753-bb57-c56d38b20cb1", "name": "NVIDIA GPU Driver 310.00 for Linux Kernel", "cpe": "cpe:2.3:a:nvidia:gpu_driver:310.00:-:*:*:linux_kernel:*:*:*", "languages": ["en_US"], "vendor": "nvidia", "version": "310.00"}

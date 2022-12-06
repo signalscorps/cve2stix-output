@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--192d8783-ab8c-536c-bb81-ac6fcdaeb3bc", "name": "Red Hat OpenStack Folsom", "cpe": "cpe:2.3:a:redhat:openstack_folsom:-:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "redhat", "version": "-"}

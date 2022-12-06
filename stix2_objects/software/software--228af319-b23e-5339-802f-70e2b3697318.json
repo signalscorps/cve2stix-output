@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--228af319-b23e-5339-802f-70e2b3697318", "name": "NVIDIA GPU Driver 304.00 for VMWare ESX", "cpe": "cpe:2.3:a:nvidia:gpu_driver:304.00:-:*:*:esx:*:*:*", "languages": ["en_US"], "vendor": "nvidia", "version": "304.00"}

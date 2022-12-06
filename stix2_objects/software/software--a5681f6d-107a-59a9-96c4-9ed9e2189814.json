@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--a5681f6d-107a-59a9-96c4-9ed9e2189814", "name": "NVIDIA GPU Driver 313.00 for SunOS (Solaris)", "cpe": "cpe:2.3:a:nvidia:gpu_driver:313.00:-:*:*:sunos:*:*:*", "languages": ["en_US"], "vendor": "nvidia", "version": "313.00"}
