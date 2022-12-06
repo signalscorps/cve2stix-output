@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--683a703d-1fd5-5c0a-a7a7-9a06dfce6345", "name": "VMWare ESXi 5.0 update 2", "cpe": "cpe:2.3:o:vmware:esxi:5.0:2:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "vmware", "version": "5.0"}
