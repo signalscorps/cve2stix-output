@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--e1743660-87bd-5189-b40b-9d4b3c56520a", "name": "VMware vCenter Operations (aka vCOps) 1.0.2", "cpe": "cpe:2.3:a:vmware:vcenter_operations:1.0.2:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "vmware", "version": "1.0.2"}

@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--baacf82f-20c2-564b-85b5-21c405b638d2", "name": "Hitachi JP1/ServerConductor/DeploymentManager 08-55 Enterprise Edition English Language", "cpe": "cpe:2.3:a:hitachi:jp1\\/serverconductor\\/deploymentmanager:08-51:-:enterprise:en:*:*:*:*", "languages": ["en_US"], "vendor": "hitachi", "version": "08-51"}

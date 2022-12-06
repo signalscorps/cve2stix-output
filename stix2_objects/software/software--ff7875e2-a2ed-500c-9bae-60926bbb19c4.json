@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--ff7875e2-a2ed-500c-9bae-60926bbb19c4", "name": "Memcache Project Memcache module (memcache) for Drupal 6.x-1.6", "cpe": "cpe:2.3:a:memcache_project:memcache:6.x-1.6:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "memcache_project", "version": "6.x-1.6"}
