@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--27822e76-ad51-53bf-b9a6-374921d79537", "name": "Jenkins Parameterized Trigger 1.0 for Jenkins", "cpe": "cpe:2.3:a:jenkins:parameterized_trigger:1.0:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "1.0"}

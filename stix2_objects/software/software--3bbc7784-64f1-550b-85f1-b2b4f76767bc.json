@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--3bbc7784-64f1-550b-85f1-b2b4f76767bc", "name": "SonicWall Global Management System (GMS) 7.2 Service Pack 1", "cpe": "cpe:2.3:a:sonicwall:global_management_system:7.2:sp1:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "sonicwall", "version": "7.2"}

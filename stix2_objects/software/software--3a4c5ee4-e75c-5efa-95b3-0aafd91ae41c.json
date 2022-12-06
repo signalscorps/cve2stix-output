@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--3a4c5ee4-e75c-5efa-95b3-0aafd91ae41c", "name": "Jenkins 2.15 LTS Edition", "cpe": "cpe:2.3:a:jenkins:jenkins:2.15:*:*:*:lts:*:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "2.15"}
