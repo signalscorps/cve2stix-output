@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--cbaafb29-9c71-5fde-9f44-85f9c22072d0", "name": "Docker docker-py 0.5.3", "cpe": "cpe:2.3:a:docker:docker-py:0.5.3:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "docker", "version": "0.5.3"}
