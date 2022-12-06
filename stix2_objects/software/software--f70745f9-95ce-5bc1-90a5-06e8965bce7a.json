@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--f70745f9-95ce-5bc1-90a5-06e8965bce7a", "name": "NETGEAR RAIDiator firmware for ReadyNAS network storage products 4.2.20", "cpe": "cpe:2.3:o:netgear:raidiator:4.2.20:-:-:*:-:-:readynas:*", "languages": ["en_US"], "vendor": "netgear", "version": "4.2.20"}

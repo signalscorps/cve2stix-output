@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--063e29a3-1204-5235-a9bd-83eac9d231b1", "name": "PulseAudio 1.1", "cpe": "cpe:2.3:a:pulseaudio:pulseaudio:1.1:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "pulseaudio", "version": "1.1"}

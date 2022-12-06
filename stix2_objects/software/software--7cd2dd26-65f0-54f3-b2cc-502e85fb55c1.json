@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--7cd2dd26-65f0-54f3-b2cc-502e85fb55c1", "name": "Brion Vibber CentralAuth extension for MediaWiki", "cpe": "cpe:2.3:a:brion_vibber:centralauth_extension:-:-:-:*:-:mediawiki:*:*", "languages": ["en_US"], "vendor": "brion_vibber", "version": "-"}

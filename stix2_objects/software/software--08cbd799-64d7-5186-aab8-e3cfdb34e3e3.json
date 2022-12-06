@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--08cbd799-64d7-5186-aab8-e3cfdb34e3e3", "name": "SAP NetWeaver Business Client (NWBC)", "cpe": "cpe:2.3:a:sap:netweaver_business_client:-:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "sap", "version": "-"}

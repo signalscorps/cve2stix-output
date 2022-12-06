@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--a4a4aa6a-1b00-5aa5-ad32-a16aab108526", "name": "OpenStack Keystone Juno-2", "cpe": "cpe:2.3:a:openstack:keystone:juno-2:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "openstack", "version": "juno-2"}
