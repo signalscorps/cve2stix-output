@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--692a8127-5ef0-5492-b94a-79631d74d8cb", "name": "Apache Software Foundation ZooKeeper 3.4.1", "cpe": "cpe:2.3:a:apache:zookeeper:3.4.1:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "apache", "version": "3.4.1"}

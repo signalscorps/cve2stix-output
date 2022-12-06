@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--c3183964-7f72-5c56-9b60-b812dee3c664", "name": "Jenkins Role-based Authorization Strategy 2.3.1 for Jenkins", "cpe": "cpe:2.3:a:jenkins:role-based_authorization_strategy:2.3.1:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "2.3.1"}

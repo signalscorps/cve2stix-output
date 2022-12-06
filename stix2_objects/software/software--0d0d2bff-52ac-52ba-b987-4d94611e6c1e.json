@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--0d0d2bff-52ac-52ba-b987-4d94611e6c1e", "name": "Linux Kernel 4.3 Release Candidate 1", "cpe": "cpe:2.3:o:linux:linux_kernel:4.3:rc1:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "linux", "version": "4.3"}
