@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--6ed803c8-e68c-5a79-9c80-b79aef072846", "name": "EMC RSA Archer eGRC 5.4 Service Pack 1", "cpe": "cpe:2.3:a:emc:rsa_archer_egrc:5.4:sp1:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "emc", "version": "5.4"}

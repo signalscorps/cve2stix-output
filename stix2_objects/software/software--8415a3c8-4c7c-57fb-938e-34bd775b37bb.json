@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--8415a3c8-4c7c-57fb-938e-34bd775b37bb", "name": "IBM DB2 Connect 9.8.0.3 (Fix Pack 3)", "cpe": "cpe:2.3:a:ibm:db2_connect:9.8.0.3:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "ibm", "version": "9.8.0.3"}

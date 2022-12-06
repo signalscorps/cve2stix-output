@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--1d9bc5af-52c7-5262-b7b6-d2be5308ce83", "name": "SAP Network Interface Router (SAProuter) 39.3 Service Pack 4", "cpe": "cpe:2.3:a:sap:network_interface_router:39.3:sp4:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "sap", "version": "39.3"}

@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--6715b89f-db0d-5ff3-9a3e-5bcf3f279716", "name": "Check Point Endpoint Security E80.50 VPN Blade platform", "cpe": "cpe:2.3:a:checkpoint:endpoint_security:e80.50:-:vpn_blade:*:*:*:*:*", "languages": ["en_US"], "vendor": "checkpoint", "version": "e80.50"}

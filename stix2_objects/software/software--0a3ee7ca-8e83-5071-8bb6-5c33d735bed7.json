@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--0a3ee7ca-8e83-5071-8bb6-5c33d735bed7", "name": "IBM DB2 pureScale Feature 9.8 for Enterprise Server Edition", "cpe": "cpe:2.3:a:ibm:db2_purescale_feature_9.8:-:-:-:*:-:db2_enterprise_edition:*:*", "languages": ["en_US"], "vendor": "ibm", "version": "-"}

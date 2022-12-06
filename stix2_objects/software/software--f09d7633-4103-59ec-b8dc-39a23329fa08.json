@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--f09d7633-4103-59ec-b8dc-39a23329fa08", "name": "Rackspace Openstack Windows Guest Agent for XenServer 1.2.6.1", "cpe": "cpe:2.3:a:rackspace:openstack_windows_guest_agent:1.2.6.1:-:-:*:-:xen_server:*:*", "languages": ["en_US"], "vendor": "rackspace", "version": "1.2.6.1"}

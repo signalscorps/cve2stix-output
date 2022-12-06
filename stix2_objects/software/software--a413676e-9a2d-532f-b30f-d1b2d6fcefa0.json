@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--a413676e-9a2d-532f-b30f-d1b2d6fcefa0", "name": "EMC Replication Manager Client 5.2", "cpe": "cpe:2.3:a:emc:replication_manager:5.2:*:client:*:*:*:*:*", "languages": ["en_US"], "vendor": "emc", "version": "5.2"}

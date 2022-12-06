@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--cc6f2c9a-8b4c-5948-b2f8-46f93151558f", "name": "sonarsource Jenkins Plugin for SonarQube", "cpe": "cpe:2.3:a:sonarsource:jenkins_plugin:-:-:-:*:-:sonarqube:*:*", "languages": ["en_US"], "vendor": "sonarsource", "version": "-"}

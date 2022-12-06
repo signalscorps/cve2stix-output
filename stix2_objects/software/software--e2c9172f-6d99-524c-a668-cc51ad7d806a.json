@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--e2c9172f-6d99-524c-a668-cc51ad7d806a", "name": "EMC Connectrix Manager Converged Network Edition (CMCNE) 12.0.3", "cpe": "cpe:2.3:a:emc:connectrix_manager:12.0.3:-:-:*:converged_network_edition:*:*:*", "languages": ["en_US"], "vendor": "emc", "version": "12.0.3"}

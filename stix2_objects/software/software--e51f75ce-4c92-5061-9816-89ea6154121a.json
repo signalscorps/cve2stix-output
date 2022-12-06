@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--e51f75ce-4c92-5061-9816-89ea6154121a", "name": "ZNC for Windows (znc-msv) 0.206", "cpe": "cpe:2.3:a:znc:znc-msvc:0.206:-:-:*:-:windows:*:*", "languages": ["en_US"], "vendor": "znc", "version": "0.206"}

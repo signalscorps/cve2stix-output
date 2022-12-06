@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--ba3a50be-459c-5a3a-afd8-5914d2526d8b", "name": "Apache Software Foundation mod_dav_svn module", "cpe": "cpe:2.3:a:apache:mod_dav_svn:-:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "apache", "version": "-"}

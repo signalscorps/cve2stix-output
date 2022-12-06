@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--d1a444ca-7474-5751-a68f-f41722b877fa", "name": "VMWare ESXi 5.5", "cpe": "cpe:2.3:o:vmware:esxi:5.5:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "vmware", "version": "5.5"}
