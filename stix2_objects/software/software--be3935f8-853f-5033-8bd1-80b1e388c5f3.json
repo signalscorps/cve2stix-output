@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--be3935f8-853f-5033-8bd1-80b1e388c5f3", "name": "Red Hat Enterprise Linux Desktop 7.0 on X64", "cpe": "cpe:2.3:o:redhat:enterprise_linux_desktop:7.0:*:*:*:*:*:x64:*", "languages": ["en_US"], "vendor": "redhat", "version": "7.0"}

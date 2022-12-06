@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--32d55abf-ec8b-5969-9e60-fc22f73e6e7b", "name": "MongoDB JS-BSON 0.4.21", "cpe": "cpe:2.3:a:mongodb:js-bson:0.4.21:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "mongodb", "version": "0.4.21"}

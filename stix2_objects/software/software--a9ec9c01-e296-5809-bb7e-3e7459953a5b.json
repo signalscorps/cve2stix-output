@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--a9ec9c01-e296-5809-bb7e-3e7459953a5b", "name": "IBM DB2 9.7 Fixpack 9a", "cpe": "cpe:2.3:a:ibm:db2:9.7:fp9a:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "ibm", "version": "9.7"}

@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--f4f28669-f680-51b8-bef1-74d7a6587202", "name": "Linux Kernel 4.19 Release Candidate 1", "cpe": "cpe:2.3:o:linux:linux_kernel:4.19:rc1:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "linux", "version": "4.19"}

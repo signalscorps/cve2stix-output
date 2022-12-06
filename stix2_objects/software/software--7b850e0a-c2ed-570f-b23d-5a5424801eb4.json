@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--7b850e0a-c2ed-570f-b23d-5a5424801eb4", "name": "Docker Moby 1.8.3", "cpe": "cpe:2.3:a:mobyproject:moby:1.8.3:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "mobyproject", "version": "1.8.3"}

@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--3e67287e-7ece-5958-bb32-e98afd0e4bf7", "name": "Linux Kernel 4.15 Release Candidate 3", "cpe": "cpe:2.3:o:linux:linux_kernel:4.15:rc3:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "linux", "version": "4.15"}

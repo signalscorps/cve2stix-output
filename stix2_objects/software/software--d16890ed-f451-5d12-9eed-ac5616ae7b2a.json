@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--d16890ed-f451-5d12-9eed-ac5616ae7b2a", "name": "Bouncy Castle FIPS Java API 1.0.1", "cpe": "cpe:2.3:a:bouncycastle:fips_java_api:1.0.1:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "bouncycastle", "version": "1.0.1"}

@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--3dc087f1-2cc1-580e-8deb-d063b1331d64", "name": "Red Hat Ansible 1.6.2", "cpe": "cpe:2.3:a:redhat:ansible:1.6.2:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "redhat", "version": "1.6.2"}

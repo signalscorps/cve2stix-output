@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--8b74c7c4-9f24-523f-ab1e-1acec3f77386", "name": "Red Hat Enterprise Linux Workstation 7.0 on X64", "cpe": "cpe:2.3:o:redhat:enterprise_linux_workstation:7.0:*:*:*:*:*:x64:*", "languages": ["en_US"], "vendor": "redhat", "version": "7.0"}

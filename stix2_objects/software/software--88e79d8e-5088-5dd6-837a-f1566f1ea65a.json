@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--88e79d8e-5088-5dd6-837a-f1566f1ea65a", "name": "Red Hat Ansible Tower 3.1.7 SCM Repositories Edition", "cpe": "cpe:2.3:a:redhat:ansible_tower:3.1.7:*:*:*:scm_repositories:*:*:*", "languages": ["en_US"], "vendor": "redhat", "version": "3.1.7"}

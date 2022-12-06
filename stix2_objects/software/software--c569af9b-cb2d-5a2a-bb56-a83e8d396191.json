@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--c569af9b-cb2d-5a2a-bb56-a83e8d396191", "name": "Linux Kernel 4.18 Release Candidate 5", "cpe": "cpe:2.3:o:linux:linux_kernel:4.18:rc5:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "linux", "version": "4.18"}

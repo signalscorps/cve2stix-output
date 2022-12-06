@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--a2470c9a-f3a0-5cb3-9f45-4e77fca33721", "name": "Openstack Neutron 7.2.0", "cpe": "cpe:2.3:a:openstack:neutron:7.2.0:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "openstack", "version": "7.2.0"}

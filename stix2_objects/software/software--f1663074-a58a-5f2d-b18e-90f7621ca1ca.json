@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--f1663074-a58a-5f2d-b18e-90f7621ca1ca", "name": "Red Hat Keycloak 3.4.2", "cpe": "cpe:2.3:a:redhat:keycloak:3.4.2:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "redhat", "version": "3.4.2"}

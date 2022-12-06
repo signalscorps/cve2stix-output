@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--6f974f24-01f8-5000-8487-1890ebf97474", "name": "Linux Kernel 4.10 Release Candidate 3", "cpe": "cpe:2.3:o:linux:linux_kernel:4.10:rc3:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "linux", "version": "4.10"}

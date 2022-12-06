@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--ba48bd8d-3fdf-5e71-9173-be64d4c7bc56", "name": "F5 BIG-IP Protocol Security Module (PSM) 10.2.1", "cpe": "cpe:2.3:a:f5:big-ip_protocol_security_module:10.2.1:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "f5", "version": "10.2.1"}

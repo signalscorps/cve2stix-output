@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--6f62e1ba-08e3-56d1-975c-2a992279224b", "name": "F5 Big-IP Domain Name System (DNS) 11.5.6", "cpe": "cpe:2.3:a:f5:big-ip_domain_name_system:11.5.6:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "f5", "version": "11.5.6"}

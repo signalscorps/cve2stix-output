@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--efaf3ad6-0a29-5e40-a345-e31073f74a81", "name": "Kubernetes 1.7.0 Alpha 3", "cpe": "cpe:2.3:a:kubernetes:kubernetes:1.7.0:alpha3:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "kubernetes", "version": "1.7.0"}

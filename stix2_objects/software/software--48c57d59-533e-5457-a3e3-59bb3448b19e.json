@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--48c57d59-533e-5457-a3e3-59bb3448b19e", "name": "Red Hat Enterprise Linux Server Telecommunications Update Service (TUS) 6.6", "cpe": "cpe:2.3:o:redhat:enterprise_linux_server_tus:6.6:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "redhat", "version": "6.6"}

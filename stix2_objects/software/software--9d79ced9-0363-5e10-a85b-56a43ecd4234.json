@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--9d79ced9-0363-5e10-a85b-56a43ecd4234", "name": "Linux Kernel 4.18.15", "cpe": "cpe:2.3:o:linux:linux_kernel:4.18.15:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "linux", "version": "4.18.15"}

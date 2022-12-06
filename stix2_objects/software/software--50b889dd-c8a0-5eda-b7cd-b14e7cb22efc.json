@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--50b889dd-c8a0-5eda-b7cd-b14e7cb22efc", "name": "Linux Kernel 4.17 Release Candidate 7", "cpe": "cpe:2.3:o:linux:linux_kernel:4.17:rc7:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "linux", "version": "4.17"}
