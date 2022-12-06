@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--22394545-7bb0-57f8-baf6-d101ed6f95a9", "name": "VMware vCenter Chargeback Manager (aka CBM) 2.5.0", "cpe": "cpe:2.3:a:vmware:vcenter_chargeback_manager:2.5.0:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "vmware", "version": "2.5.0"}
