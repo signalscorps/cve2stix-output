@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--fd446802-5408-5a22-b311-4b2f9dacc7a9", "name": "F5 BIG-IP Local Traffic Manager 11.4.0", "cpe": "cpe:2.3:a:f5:big-ip_local_traffic_manager:11.4.0:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "f5", "version": "11.4.0"}

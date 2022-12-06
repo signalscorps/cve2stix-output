@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--de6dca96-b17a-5f38-84e0-fb9c5df1c2d8", "name": "EMC VPLEX GeoSynchrony 5.5", "cpe": "cpe:2.3:a:emc:vplex_geosynchrony:5.5:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "emc", "version": "5.5"}

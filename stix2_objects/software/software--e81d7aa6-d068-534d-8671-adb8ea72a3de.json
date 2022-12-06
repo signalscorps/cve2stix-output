@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--e81d7aa6-d068-534d-8671-adb8ea72a3de", "name": "Cyrus IMAP 2.3.3", "cpe": "cpe:2.3:a:cyrus:imap:2.3.3:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "cyrus", "version": "2.3.3"}

@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--89a39949-4625-59ff-a311-9bd62973022d", "name": "EMC VPLEX GeoSynchrony 5.4 Service Pack 1", "cpe": "cpe:2.3:a:emc:vplex_geosynchrony:5.4:sp1:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "emc", "version": "5.4"}

@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--abc50bda-9bee-5d7e-8535-896e380999ad", "name": "VMWare vRealize Orchestrator 6.0.1", "cpe": "cpe:2.3:a:vmware:vrealize_orchestrator:6.0.1:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "vmware", "version": "6.0.1"}

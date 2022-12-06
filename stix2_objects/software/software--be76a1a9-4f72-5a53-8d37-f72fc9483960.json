@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--be76a1a9-4f72-5a53-8d37-f72fc9483960", "name": "VMWare vCenter Orchestrator 5.5.2.1", "cpe": "cpe:2.3:a:vmware:vcenter_orchestrator:5.5.2.1:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "vmware", "version": "5.5.2.1"}
