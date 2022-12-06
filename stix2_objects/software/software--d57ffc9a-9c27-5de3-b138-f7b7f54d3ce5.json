@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--d57ffc9a-9c27-5de3-b138-f7b7f54d3ce5", "name": "MariaDB 10.0.35", "cpe": "cpe:2.3:a:mariadb:mariadb:10.0.35:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "mariadb", "version": "10.0.35"}

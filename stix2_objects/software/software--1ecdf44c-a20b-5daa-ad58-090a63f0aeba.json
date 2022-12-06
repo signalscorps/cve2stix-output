@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--1ecdf44c-a20b-5daa-ad58-090a63f0aeba", "name": "ZEIT Serve 5.0.4 for Node.js", "cpe": "cpe:2.3:a:zeit:serve:5.0.4:*:*:*:*:node.js:*:*", "languages": ["en_US"], "vendor": "zeit", "version": "5.0.4"}

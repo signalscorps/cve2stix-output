@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--d392a3c1-6d6c-5d5b-ba7c-039f56b432ae", "name": "gruntcli Project gruntcli for Node.js", "cpe": "cpe:2.3:a:gruntcli_project:gruntcli:-:*:*:*:*:node.js:*:*", "languages": ["en_US"], "vendor": "gruntcli_project", "version": "-"}

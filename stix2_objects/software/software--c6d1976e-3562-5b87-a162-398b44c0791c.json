@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--c6d1976e-3562-5b87-a162-398b44c0791c", "name": "sqlserver Project sqlserver for Node.js", "cpe": "cpe:2.3:a:sqlserver_project:sqlserver:-:*:*:*:*:node.js:*:*", "languages": ["en_US"], "vendor": "sqlserver_project", "version": "-"}

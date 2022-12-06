@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--cbb5a062-4d5c-5089-8e35-1447ee1880e5", "name": "SchedMD Slurm 17.11.3.1", "cpe": "cpe:2.3:a:schedmd:slurm:17.11.3.1:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "schedmd", "version": "17.11.3.1"}

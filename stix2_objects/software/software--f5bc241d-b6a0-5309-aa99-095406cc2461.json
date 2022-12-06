@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--f5bc241d-b6a0-5309-aa99-095406cc2461", "name": "Erlang/OTP 18.2.1", "cpe": "cpe:2.3:a:erlang:erlang\\/otp:18.2.1:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "erlang", "version": "18.2.1"}
