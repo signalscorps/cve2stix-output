@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--3b6ce376-96d3-5cb4-a6ce-944dd52daaa3", "name": "Red Hat Enterprise Linux 5 (Server)", "cpe": "cpe:2.3:o:redhat:enterprise_linux:5:*:server:*:*:*:*:*", "languages": ["en_US"], "vendor": "redhat", "version": "5"}
