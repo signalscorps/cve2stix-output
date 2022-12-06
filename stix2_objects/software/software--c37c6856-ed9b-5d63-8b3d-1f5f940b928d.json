@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--c37c6856-ed9b-5d63-8b3d-1f5f940b928d", "name": "NVIDIA GPU Driver R346.22 for Linux Kernel", "cpe": "cpe:2.3:a:nvidia:gpu_driver:r346.22:*:*:*:*:linux_kernel:*:*", "languages": ["en_US"], "vendor": "nvidia", "version": "r346.22"}

@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--931e34b9-fbea-5911-bd90-821f4b99deac", "name": "NVIDIA GPU Driver R343.36 for Linux Kernel", "cpe": "cpe:2.3:a:nvidia:gpu_driver:r343.36:*:*:*:*:linux_kernel:*:*", "languages": ["en_US"], "vendor": "nvidia", "version": "r343.36"}

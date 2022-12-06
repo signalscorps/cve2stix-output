@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--4d707257-3d5b-505a-b9be-a3ca7b834070", "name": "NVIDIA GPU Driver R39 for Chrome OS", "cpe": "cpe:2.3:a:nvidia:gpu_driver:r39:*:*:*:*:chrome_os:*:*", "languages": ["en_US"], "vendor": "nvidia", "version": "r39"}

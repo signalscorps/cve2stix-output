@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--9eadbf24-fc28-5525-86a8-d98ae79b799e", "name": "Solarwinds Orion Netflow Traffic Analyzer 4.0", "cpe": "cpe:2.3:a:solarwinds:orion_netflow_traffic_analyzer:4.0:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "solarwinds", "version": "4.0"}

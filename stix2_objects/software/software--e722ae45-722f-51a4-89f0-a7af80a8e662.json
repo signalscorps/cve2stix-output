@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--e722ae45-722f-51a4-89f0-a7af80a8e662", "name": "nVidia GPU Driver R340 341.43", "cpe": "cpe:2.3:a:nvidia:gpu_driver_r340:341.43:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "nvidia", "version": "341.43"}

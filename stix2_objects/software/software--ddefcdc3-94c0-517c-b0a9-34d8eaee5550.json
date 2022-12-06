@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--ddefcdc3-94c0-517c-b0a9-34d8eaee5550", "name": "NVIDIA GPU Driver R304.125 for Linux Kernel", "cpe": "cpe:2.3:a:nvidia:gpu_driver:r304.125:*:*:*:*:linux_kernel:*:*", "languages": ["en_US"], "vendor": "nvidia", "version": "r304.125"}

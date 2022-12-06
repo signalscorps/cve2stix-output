@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--de9d36da-9cde-5201-8d63-ef657ef65edf", "name": "nVidia GPU Driver R304 309.07", "cpe": "cpe:2.3:a:nvidia:gpu_driver_r304:309.07:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "nvidia", "version": "309.07"}

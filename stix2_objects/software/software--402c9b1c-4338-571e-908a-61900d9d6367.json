@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--402c9b1c-4338-571e-908a-61900d9d6367", "name": "NVIDIA GPU Driver R340.65 for Linux Kernel", "cpe": "cpe:2.3:a:nvidia:gpu_driver:r340.65:*:*:*:*:linux_kernel:*:*", "languages": ["en_US"], "vendor": "nvidia", "version": "r340.65"}

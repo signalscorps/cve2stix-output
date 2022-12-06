@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--a0746ad4-c191-5b51-aa86-dc87b242c7bf", "name": "NVIDIA GPU Driver R343.00 for Linux Kernel", "cpe": "cpe:2.3:a:nvidia:gpu_driver:r343.00:*:*:*:*:linux_kernel:*:*", "languages": ["en_US"], "vendor": "nvidia", "version": "r343.00"}

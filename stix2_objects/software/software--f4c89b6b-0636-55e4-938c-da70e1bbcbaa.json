@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--f4c89b6b-0636-55e4-938c-da70e1bbcbaa", "name": "nVidia GPU Driver R343 345.19", "cpe": "cpe:2.3:a:nvidia:gpu_driver_r343:345.19:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "nvidia", "version": "345.19"}

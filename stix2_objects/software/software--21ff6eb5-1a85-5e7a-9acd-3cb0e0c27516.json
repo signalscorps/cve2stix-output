@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--21ff6eb5-1a85-5e7a-9acd-3cb0e0c27516", "name": "check_diskio project check_diskio for Nagios 3.2.5", "cpe": "cpe:2.3:a:check_diskio_project:check_diskio:3.2.5:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "check_diskio_project", "version": "3.2.5"}

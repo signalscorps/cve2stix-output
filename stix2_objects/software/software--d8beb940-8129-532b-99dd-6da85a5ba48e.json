@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--d8beb940-8129-532b-99dd-6da85a5ba48e", "name": "VMware vSphere Data Protection (VDP) 5.5.6", "cpe": "cpe:2.3:a:vmware:vsphere_data_protection:5.5.6:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "vmware", "version": "5.5.6"}
