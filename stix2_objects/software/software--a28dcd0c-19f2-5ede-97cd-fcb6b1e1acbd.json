@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--a28dcd0c-19f2-5ede-97cd-fcb6b1e1acbd", "name": "Jenkins Github Branch Source 1.4 Beta-1 for Jenkins", "cpe": "cpe:2.3:a:jenkins:github_branch_source:1.4:beta-1:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "1.4"}

@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--62b0bec3-4e44-514a-a0ae-5ace13522754", "name": "Jenkins Config File Provider 2.9.2 for Jenkins", "cpe": "cpe:2.3:a:jenkins:config_file_provider:2.9.2:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "2.9.2"}

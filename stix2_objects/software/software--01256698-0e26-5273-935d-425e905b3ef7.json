@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--01256698-0e26-5273-935d-425e905b3ef7", "name": "Jenkins Git 1.1.9 for Jenkins", "cpe": "cpe:2.3:a:jenkins:git:1.1.9:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "1.1.9"}

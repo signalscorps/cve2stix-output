@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--352f0427-b7d1-51ee-997b-60091e55495a", "name": "Jenkins Datadog 0.2.1 for Jenkins", "cpe": "cpe:2.3:a:jenkins:datadog:0.2.1:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "0.2.1"}

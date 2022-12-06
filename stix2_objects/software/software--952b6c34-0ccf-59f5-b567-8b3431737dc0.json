@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--952b6c34-0ccf-59f5-b567-8b3431737dc0", "name": "Jenkins OWASP Dependency-Check 1.4.4 for Jenkins", "cpe": "cpe:2.3:a:jenkins:owasp_dependency-check:1.4.4:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "1.4.4"}
