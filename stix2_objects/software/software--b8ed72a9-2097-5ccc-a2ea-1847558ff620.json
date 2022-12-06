@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--b8ed72a9-2097-5ccc-a2ea-1847558ff620", "name": "redhat:kvm:83", "cpe": "cpe:2.3:a:redhat:kvm:83:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "redhat", "version": "83"}

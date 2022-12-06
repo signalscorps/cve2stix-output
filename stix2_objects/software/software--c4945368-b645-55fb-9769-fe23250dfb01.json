@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--c4945368-b645-55fb-9769-fe23250dfb01", "name": "EMC Celerra Network Attached Storage (NAS)", "cpe": "cpe:2.3:h:emc:celerra_network_attached_storage:-:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "emc", "version": "-"}

@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--ca4f58f6-c4db-58ef-932d-e0690f279e78", "name": "IBM WebSphere Application Server 6.1.0.3 (Fix Pack 3)", "cpe": "cpe:2.3:a:ibm:websphere_application_server:6.1.0.3:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "ibm", "version": "6.1.0.3"}

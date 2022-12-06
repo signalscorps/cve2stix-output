@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--ef4b6b65-2d58-5cf9-b20d-efb78e280e2e", "name": "IBM WebSphere Service Registry and Repository (WSRR) 6.0.0.2 (Fix Pack 2)", "cpe": "cpe:2.3:a:ibm:websphere_service_registry_and_repository:6.0.0.2:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "ibm", "version": "6.0.0.2"}
