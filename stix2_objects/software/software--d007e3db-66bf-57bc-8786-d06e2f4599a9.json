@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--d007e3db-66bf-57bc-8786-d06e2f4599a9", "name": "IBM Tivoli Storage Manager for Space Management (aka TSM HSM) 6.4.0", "cpe": "cpe:2.3:a:ibm:tivoli_storage_manager_for_space_management:6.4.0:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "ibm", "version": "6.4.0"}

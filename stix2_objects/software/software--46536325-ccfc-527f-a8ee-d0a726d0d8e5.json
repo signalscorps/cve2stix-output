@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--46536325-ccfc-527f-a8ee-d0a726d0d8e5", "name": "OpenStack Image Registry and Delivery Service (Glance) juno-1", "cpe": "cpe:2.3:a:openstack:image_registry_and_delivery_service_\\(glance\\):juno-1:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "openstack", "version": "juno-1"}

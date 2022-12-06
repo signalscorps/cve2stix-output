@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--cf0e7c87-9d73-5814-ad2e-b56cdfc44b29", "name": "IBM Monitoring Server (ms) and Shared Libraries (ax) 6.2.2", "cpe": "cpe:2.3:a:ibm:monitoring_server_\\(ms\\)_and_shared_libraries_\\(ax\\):6.2.2:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "ibm", "version": "6.2.2"}

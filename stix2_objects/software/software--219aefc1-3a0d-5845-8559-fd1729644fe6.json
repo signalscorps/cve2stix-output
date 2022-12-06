@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--219aefc1-3a0d-5845-8559-fd1729644fe6", "name": "IBM Monitoring Agent for UNIX logs 6.2.1", "cpe": "cpe:2.3:a:ibm:monitoring_agent_for_unix_logs:6.2.1:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "ibm", "version": "6.2.1"}

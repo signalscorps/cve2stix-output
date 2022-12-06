@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--edacb5f3-472e-53e8-b3d3-795d7f798785", "name": "OpenStack PyCADF 0.2.2", "cpe": "cpe:2.3:a:openstack:pycadf:0.2.2:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "openstack", "version": "0.2.2"}

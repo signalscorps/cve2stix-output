@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--80c7c4df-e195-516a-bcaf-50e5d1428e6a", "name": "I-O Data TS-PTCAM/POE camera firmware 1.08", "cpe": "cpe:2.3:h:iodata:ts-ptcam\\/poe_camera_firmware:1.08:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "iodata", "version": "1.08"}

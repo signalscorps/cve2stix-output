@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--f44a46b9-1c4a-5bfa-91f1-290134401b93", "name": "OpenStack Telemetry (Ceilometer) 2014.1.2", "cpe": "cpe:2.3:a:openstack:telemetry_\\(ceilometer\\):2014.1.2:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "openstack", "version": "2014.1.2"}

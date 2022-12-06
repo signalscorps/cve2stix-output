@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--b913b3f0-ce73-56f9-ae0a-ba49d96f6ee7", "name": "OpenStack Image Registry and Delivery Service (Glance) 2014.1.2", "cpe": "cpe:2.3:a:openstack:image_registry_and_delivery_service_\\(glance\\):2014.1.2:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "openstack", "version": "2014.1.2"}

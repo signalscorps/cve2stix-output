@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--c6bb3c80-10f3-5722-82d9-b7f510b07b58", "name": "Siemens SIMATIC S7 CPU 1500 firmware 1.5.1", "cpe": "cpe:2.3:o:siemens:simatic_s7-1500_cpu_firmware:1.5.1:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "siemens", "version": "1.5.1"}

@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--11a19cb8-1514-5b79-96a4-6242e515ad3e", "name": "Debian python-imaging", "cpe": "cpe:2.3:a:debian:python-imaging:-:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "debian", "version": "-"}

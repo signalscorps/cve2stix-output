@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--97358ad2-d86a-5d55-82d3-07a0823a58a0", "name": "OpenStack OpenStack Dashboard (Horizon) juno-1", "cpe": "cpe:2.3:a:openstack:horizon:juno-1:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "openstack", "version": "juno-1"}
