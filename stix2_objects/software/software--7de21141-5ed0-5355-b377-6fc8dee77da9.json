@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--7de21141-5ed0-5355-b377-6fc8dee77da9", "name": "WinPcap 1.0", "cpe": "cpe:2.3:a:winpcap:winpcap:1.0:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "winpcap", "version": "1.0"}
