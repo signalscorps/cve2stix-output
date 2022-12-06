@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--a3369dc1-74c5-5afd-a193-b26a20333e2e", "name": "Meinberg NTP Server Firmware 6.0", "cpe": "cpe:2.3:o:meinberg:ntp_server_firmware:6.0:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "meinberg", "version": "6.0"}
