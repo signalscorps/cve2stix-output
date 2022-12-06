@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--01ad5a72-85c7-548d-880d-d55aee2a17e3", "name": "Novell SUSE Linux Enterprise Server 11.0 Service Pack 3 Long Term Service Pack Support", "cpe": "cpe:2.3:o:novell:suse_linux_enterprise_server:11.0:sp3:*:*:ltss:*:*:*", "languages": ["en_US"], "vendor": "novell", "version": "11.0"}

@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--0b9e3689-3a08-59ad-92c9-3dfcf03acddb", "name": "HipHop Virtual Machine for PHP 3.12", "cpe": "cpe:2.3:a:hiphop_virtual_machine_for_php_project:hiphop_virtual_machine_for_php:3.12:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "hiphop_virtual_machine_for_php_project", "version": "3.12"}

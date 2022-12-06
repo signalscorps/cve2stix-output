@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--5f1fdb87-3e65-5da2-b983-a7438653f7f2", "name": "Linux Kernel-rt 3.10.0", "cpe": "cpe:2.3:o:linux:linux_kernel-rt:3.10.0:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "linux", "version": "3.10.0"}

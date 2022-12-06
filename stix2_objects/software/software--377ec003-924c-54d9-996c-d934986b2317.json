@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--377ec003-924c-54d9-996c-d934986b2317", "name": "Jenkins 1.642.3 Long Term Support (LTS)", "cpe": "cpe:2.3:a:jenkins:jenkins:1.642.3:*:*:*:lts:*:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "1.642.3"}
