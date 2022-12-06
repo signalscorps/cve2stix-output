@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--6efd7476-3420-59e9-bed4-f03594889ab9", "name": "Debian apt-listchanges", "cpe": "cpe:2.3:a:debian:apt-listchanges:-:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "debian", "version": "-"}
