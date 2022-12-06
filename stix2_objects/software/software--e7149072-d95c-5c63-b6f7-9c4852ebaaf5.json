@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--e7149072-d95c-5c63-b6f7-9c4852ebaaf5", "name": "Oracle MySQL Connector/J 5.1.41", "cpe": "cpe:2.3:a:oracle:mysql_connector\\/j:5.1.41:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "oracle", "version": "5.1.41"}

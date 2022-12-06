@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--7599f3d5-2ca9-550d-98e5-de07841d7998", "name": "Oracle MySQL Connector/Net 5.1.5", "cpe": "cpe:2.3:a:oracle:mysql_connector\\/net:5.1.5:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "oracle", "version": "5.1.5"}

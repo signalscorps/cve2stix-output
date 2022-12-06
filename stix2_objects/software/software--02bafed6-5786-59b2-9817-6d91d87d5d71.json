@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--02bafed6-5786-59b2-9817-6d91d87d5d71", "name": "ICU Project International Components for Unicode for Java 3.6.1", "cpe": "cpe:2.3:a:icu-project:international_components_for_unicode:3.6.1:*:*:*:*:java:*:*", "languages": ["en_US"], "vendor": "icu-project", "version": "3.6.1"}
