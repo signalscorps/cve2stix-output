@@ -42,3 +42,40 @@ jobs:
       run: |
         git pull
         git push origin
+
+  backfill-cves:
+    runs-on: ubuntu-latest
+    strategy:
+        matrix:
+          python-version: ["3.7"]
+          dates:
+            - start-date: "1990-01-01"
+              end-date: "2015-01-01"
+            - start-date: "2015-01-01"
+              end-date: "2023-01-01"
+        fail-fast: true
+        max-parallel: 1
+
+    steps:
+    - uses: actions/checkout@v3
+    - name: Set up Python ${{ matrix.python-version }}
+      uses: actions/setup-python@v4
+      with:
+        python-version: ${{ matrix.python-version }}
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+        sudo apt-get install git-lfs
+        git lfs install
+    - name: Run cve2stix to download CVEs
+      run: |
+        touch credentials.yml
+        echo "$NVD_API_KEY" > credentials.yml
+        python scripts/download-cves.py "${{ matrix.dates.start-date }}" "${{ matrix.dates.end-date }}"
+      env:
+        NVD_API_KEY: ${{ secrets.NVD_API_KEY }}
+    - name: Push commits to repo
+      run: |
+        git pull
+        git push origin
