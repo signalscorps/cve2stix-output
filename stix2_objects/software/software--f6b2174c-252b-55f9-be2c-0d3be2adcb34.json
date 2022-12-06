@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--f6b2174c-252b-55f9-be2c-0d3be2adcb34", "name": "Zulip Server 1.4.3", "cpe": "cpe:2.3:a:zulip:zulip_server:1.4.3:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "zulip", "version": "1.4.3"}
