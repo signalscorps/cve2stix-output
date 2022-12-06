@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--e8b645e1-f174-5249-a39c-d59d719b9445", "name": "SolarWinds IP Address Manager (IPAM) web interface 3.0", "cpe": "cpe:2.3:a:solarwinds:ip_address_manager_web_interface:3.0:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "solarwinds", "version": "3.0"}

@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--d23144fe-b377-53d3-bbcd-0b65aaffc98d", "name": "PayPal Transactional Information SOAP", "cpe": "cpe:2.3:a:paypal:transactional_information_soap:-:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "paypal", "version": "-"}

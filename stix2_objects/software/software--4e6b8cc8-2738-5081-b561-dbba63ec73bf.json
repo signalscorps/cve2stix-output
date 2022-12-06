@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--4e6b8cc8-2738-5081-b561-dbba63ec73bf", "name": "niif Shibboleth authentication module (shib_auth) 7.x-4.x-dev", "cpe": "cpe:2.3:a:niif:shibb_auth:7.x-4.x:dev:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "niif", "version": "7.x-4.x"}

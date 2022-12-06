@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--aa01df56-69e0-590d-82cc-ad82fa454efd", "name": "ClamAV 0.20", "cpe": "cpe:2.3:a:clamav:clamav:0.20:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "clamav", "version": "0.20"}

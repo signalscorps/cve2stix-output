@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--e2a7cda1-84dd-51fe-b06a-fa4f8b72359e", "name": "PayPal Instant Payment Notification (IPN)", "cpe": "cpe:2.3:a:paypal:instant_payment_notification:-:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "paypal", "version": "-"}

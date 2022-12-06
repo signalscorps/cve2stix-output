@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--aec1ddca-f6dd-5502-90b2-4e7f46e142cb", "name": "EMC Avamar 6.1 for VMware", "cpe": "cpe:2.3:a:emc:avamar:6.1:-:*:*:*:vmware:*:*", "languages": ["en_US"], "vendor": "emc", "version": "6.1"}
