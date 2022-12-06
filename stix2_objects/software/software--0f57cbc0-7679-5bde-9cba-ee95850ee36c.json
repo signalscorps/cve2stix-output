@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--0f57cbc0-7679-5bde-9cba-ee95850ee36c", "name": "Debian Apache", "cpe": "cpe:2.3:a:debian:apache:-:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "debian", "version": "-"}

@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--6b61b84f-d354-5879-8f9f-bb8609889018", "name": "Cisco TFTP server", "cpe": "cpe:2.3:a:cisco:tftp_server:-:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "cisco", "version": "-"}

@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--c5cc9951-ba55-59bc-9724-9965d49b7ba1", "name": "GNU Aspell", "cpe": "cpe:2.3:a:gnu:aspell:-:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "gnu", "version": "-"}

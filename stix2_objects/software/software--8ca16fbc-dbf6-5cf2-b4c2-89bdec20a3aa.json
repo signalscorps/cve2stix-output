@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--8ca16fbc-dbf6-5cf2-b4c2-89bdec20a3aa", "name": "IBM AIX SNMP", "cpe": "cpe:2.3:a:ibm:aix_snmp:-:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "ibm", "version": "-"}

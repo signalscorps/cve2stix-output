@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--edb5df90-7141-5f55-9a66-da74d4956cee", "name": "Debian apt-cacher", "cpe": "cpe:2.3:a:debian:apt-cacher:-:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "debian", "version": "-"}

@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--f2a11bdb-244b-5c97-beed-e391976c73ec", "name": "OpenBSD ftpd 5.51", "cpe": "cpe:2.3:a:openbsd:ftpd:5.51:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "openbsd", "version": "5.51"}

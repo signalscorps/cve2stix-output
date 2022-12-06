@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--256366c0-8d45-5e58-a067-6f6e72721c98", "name": "GNU gcc", "cpe": "cpe:2.3:a:gnu:gcc:-:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "gnu", "version": "-"}

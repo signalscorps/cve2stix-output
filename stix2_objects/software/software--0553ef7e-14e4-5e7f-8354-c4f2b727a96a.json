@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--0553ef7e-14e4-5e7f-8354-c4f2b727a96a", "name": "Debian bsmtpd", "cpe": "cpe:2.3:a:debian:bsmtpd:-:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "debian", "version": "-"}

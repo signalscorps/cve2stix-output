@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--ec799701-00b8-515e-a9f3-b8669d5d314f", "name": "ISC DHCP Client 1.0", "cpe": "cpe:2.3:a:isc:dhcp_client:1.0:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "isc", "version": "1.0"}

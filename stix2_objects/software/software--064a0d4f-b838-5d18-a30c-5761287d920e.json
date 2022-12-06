@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--064a0d4f-b838-5d18-a30c-5761287d920e", "name": "PHP COM extensions", "cpe": "cpe:2.3:a:php:com_extensions:-:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "php", "version": "-"}

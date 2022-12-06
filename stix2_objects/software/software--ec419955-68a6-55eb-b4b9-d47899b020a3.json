@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--ec419955-68a6-55eb-b4b9-d47899b020a3", "name": "PHP ErrorDocs", "cpe": "cpe:2.3:a:php:errordocs:-:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "php", "version": "-"}

@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--ba286c61-3f42-5b12-9a2f-235c3383b65e", "name": "IBM WebSphere Caching Proxy Server 3.6", "cpe": "cpe:2.3:a:ibm:websphere_caching_proxy_server:3.6:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "ibm", "version": "3.6"}

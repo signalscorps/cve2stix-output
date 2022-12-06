@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--aae5e29c-3cae-5f6b-8055-c28fcf4edac5", "name": "NetBSD umapfs", "cpe": "cpe:2.3:a:netbsd:umapfs:-:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "netbsd", "version": "-"}

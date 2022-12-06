@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--dfe2342e-3134-5385-b74b-d3216d36327c", "name": "Intel Graphics Accelerator Driver", "cpe": "cpe:2.3:a:intel:graphics_accelerator_driver:-:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "intel", "version": "-"}

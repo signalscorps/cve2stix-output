@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--dbab47f7-9432-5c62-9c49-30201ffd6c34", "name": "FreeBSD fetch", "cpe": "cpe:2.3:a:freebsd:fetch:-:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "freebsd", "version": "-"}

@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--abfff58c-44a1-5503-b545-c0789d6bf637", "name": "Debian kernel-patch-vserver", "cpe": "cpe:2.3:a:debian:kernel-patch-vserver:-:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "debian", "version": "-"}

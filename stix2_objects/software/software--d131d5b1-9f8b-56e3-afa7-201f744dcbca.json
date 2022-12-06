@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--d131d5b1-9f8b-56e3-afa7-201f744dcbca", "name": "MIT Kerberos FTP Client", "cpe": "cpe:2.3:a:mit:kerberos_ftp_client:-:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "mit", "version": "-"}

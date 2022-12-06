@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--622adafd-2770-5220-928f-60900e86ae02", "name": "Intel i915 chipset", "cpe": "cpe:2.3:h:intel:i915_chipset:-:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "intel", "version": "-"}

@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--c8156158-4b3e-5301-a31f-966be1829aed", "name": "Sendmail Sendmail Switch", "cpe": "cpe:2.3:a:sendmail:sendmail_switch:-:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "sendmail", "version": "-"}

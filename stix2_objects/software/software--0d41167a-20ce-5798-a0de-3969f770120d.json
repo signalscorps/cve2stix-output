@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--0d41167a-20ce-5798-a0de-3969f770120d", "name": "IBM Informix Dynamic Database Server 9.40.TC2", "cpe": "cpe:2.3:a:ibm:informix_dynamic_database_server:9.40.tc2:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "ibm", "version": "9.40.tc2"}

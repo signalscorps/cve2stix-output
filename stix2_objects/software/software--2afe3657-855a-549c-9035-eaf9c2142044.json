@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--2afe3657-855a-549c-9035-eaf9c2142044", "name": "OpenBSD OpenSSH 1.2", "cpe": "cpe:2.3:a:openbsd:openssh:1.2:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "openbsd", "version": "1.2"}

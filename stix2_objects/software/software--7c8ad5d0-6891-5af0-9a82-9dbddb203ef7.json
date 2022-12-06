@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--7c8ad5d0-6891-5af0-9a82-9dbddb203ef7", "name": "SolarWinds TFTP Server", "cpe": "cpe:2.3:a:solarwinds:tftp_server:-:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "solarwinds", "version": "-"}

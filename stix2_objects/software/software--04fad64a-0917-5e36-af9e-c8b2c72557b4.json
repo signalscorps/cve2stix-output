@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--04fad64a-0917-5e36-af9e-c8b2c72557b4", "name": "MySQL MaxDB 7.5.00", "cpe": "cpe:2.3:a:mysql:maxdb:7.5.00:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "mysql", "version": "7.5.00"}

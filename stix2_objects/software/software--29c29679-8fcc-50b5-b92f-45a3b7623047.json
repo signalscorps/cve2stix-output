@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--29c29679-8fcc-50b5-b92f-45a3b7623047", "name": "Debian MIT Kerberos", "cpe": "cpe:2.3:a:debian:mit_kerberos:-:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "debian", "version": "-"}

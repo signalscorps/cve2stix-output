@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--d8f436b1-60b7-54bc-a6e7-73e010e23086", "name": "Sendmail Managed MTA 3.1.7", "cpe": "cpe:2.3:a:sendmail:managed_mta:3.1.7:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "sendmail", "version": "3.1.7"}

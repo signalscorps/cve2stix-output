@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--a09c5e6d-389f-5f23-b82b-14edcb334354", "name": "Gentoo glibc", "cpe": "cpe:2.3:a:gentoo:glibc:-:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "gentoo", "version": "-"}

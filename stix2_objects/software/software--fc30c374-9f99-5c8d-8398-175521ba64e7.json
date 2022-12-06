@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--fc30c374-9f99-5c8d-8398-175521ba64e7", "name": "Intel LAN Adapters SNMP Agent", "cpe": "cpe:2.3:a:intel:lan_adapters_snmp_agent:-:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "intel", "version": "-"}

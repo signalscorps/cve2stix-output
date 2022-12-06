@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--072e5e02-c368-512b-a0c5-556e7bb538a1", "name": "Linux-HA heartbeat", "cpe": "cpe:2.3:a:linux-ha:heartbeat:-:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "linux-ha", "version": "-"}

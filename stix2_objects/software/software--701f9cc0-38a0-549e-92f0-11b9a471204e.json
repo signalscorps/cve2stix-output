@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--701f9cc0-38a0-549e-92f0-11b9a471204e", "name": "GNU gettext", "cpe": "cpe:2.3:a:gnu:gettext:-:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "gnu", "version": "-"}

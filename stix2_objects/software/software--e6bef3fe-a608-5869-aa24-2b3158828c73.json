@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--e6bef3fe-a608-5869-aa24-2b3158828c73", "name": "Debian apt-setup", "cpe": "cpe:2.3:a:debian:apt-setup:-:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "debian", "version": "-"}

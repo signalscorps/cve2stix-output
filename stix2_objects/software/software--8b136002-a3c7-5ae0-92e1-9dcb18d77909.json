@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--8b136002-a3c7-5ae0-92e1-9dcb18d77909", "name": "FreeBSD AIDE", "cpe": "cpe:2.3:a:freebsd:aide:-:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "freebsd", "version": "-"}

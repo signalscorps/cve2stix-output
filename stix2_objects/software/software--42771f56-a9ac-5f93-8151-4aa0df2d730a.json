@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--42771f56-a9ac-5f93-8151-4aa0df2d730a", "name": "PHP MySQL extension", "cpe": "cpe:2.3:a:php:mysql_extension:-:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "php", "version": "-"}

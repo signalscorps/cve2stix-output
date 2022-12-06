@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--64b34f11-c2d9-52b7-9aaa-9c6fef921318", "name": "FreeBSD libarchive", "cpe": "cpe:2.3:a:freebsd:libarchive:-:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "freebsd", "version": "-"}
