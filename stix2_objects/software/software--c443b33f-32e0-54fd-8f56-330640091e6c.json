@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--c443b33f-32e0-54fd-8f56-330640091e6c", "name": "RedHat JBoss Operations Network (aka JON or JBoss ON) 2.0.1 GA", "cpe": "cpe:2.3:a:redhat:jboss_operations_network:2.0.1:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "redhat", "version": "2.0.1"}
