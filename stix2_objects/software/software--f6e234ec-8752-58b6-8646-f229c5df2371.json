@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--f6e234ec-8752-58b6-8646-f229c5df2371", "name": "SSH Communications Security Tectia Server 6.0.4 for Linux on IBM System Z", "cpe": "cpe:2.3:a:ssh:tectia_server:6.0.4:*:linux_ibm_zos:*:*:*:*:*", "languages": ["en_US"], "vendor": "ssh", "version": "6.0.4"}
