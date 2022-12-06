@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--c0907943-f777-5c87-ad88-59ae28fc68e2", "name": "NetBSD ftpd 1.6", "cpe": "cpe:2.3:a:netbsd:ftpd:1.6:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "netbsd", "version": "1.6"}
