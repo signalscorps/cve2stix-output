@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--712eec2d-b9ab-5853-ae8e-47ec859f0d88", "name": "Suricata-IDS Suricata 3.2 Release Candidate 1", "cpe": "cpe:2.3:a:suricata-ids:suricata:3.2:rc1:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "suricata-ids", "version": "3.2"}

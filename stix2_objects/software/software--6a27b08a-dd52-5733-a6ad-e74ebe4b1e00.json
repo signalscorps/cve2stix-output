@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--6a27b08a-dd52-5733-a6ad-e74ebe4b1e00", "name": "Red Hat Ansible Tower 2.1.1", "cpe": "cpe:2.3:a:redhat:ansible_tower:2.1.1:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "redhat", "version": "2.1.1"}
