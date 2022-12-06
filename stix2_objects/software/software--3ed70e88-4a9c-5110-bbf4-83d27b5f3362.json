@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--3ed70e88-4a9c-5110-bbf4-83d27b5f3362", "name": "Apache Software Foundation Apache HTTP Server 2.4.7", "cpe": "cpe:2.3:a:apache:http_server:2.4.7:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "apache", "version": "2.4.7"}
