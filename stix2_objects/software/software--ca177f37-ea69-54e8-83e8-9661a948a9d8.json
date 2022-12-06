@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--ca177f37-ea69-54e8-83e8-9661a948a9d8", "name": "Check Point Security Gateway R75", "cpe": "cpe:2.3:a:checkpoint:security_gateway:r75:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "checkpoint", "version": "r75"}

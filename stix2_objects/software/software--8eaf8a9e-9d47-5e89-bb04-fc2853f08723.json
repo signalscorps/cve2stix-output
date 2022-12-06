@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--8eaf8a9e-9d47-5e89-bb04-fc2853f08723", "name": "Pivotal Software RabbitMQ Management 3.4.2", "cpe": "cpe:2.3:a:pivotal_software:rabbitmq_management:3.4.2:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "pivotal_software", "version": "3.4.2"}

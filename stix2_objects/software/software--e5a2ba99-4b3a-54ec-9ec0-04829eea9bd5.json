@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--e5a2ba99-4b3a-54ec-9ec0-04829eea9bd5", "name": "RedHat JBoss Weld 3.0.0 Alpha2", "cpe": "cpe:2.3:a:redhat:jboss_weld:3.0.0:alpha2:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "redhat", "version": "3.0.0"}

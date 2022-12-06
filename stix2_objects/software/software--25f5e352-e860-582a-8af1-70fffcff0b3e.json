@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--25f5e352-e860-582a-8af1-70fffcff0b3e", "name": "Digium Certified Asterisk 11.6 cert 1 LTS", "cpe": "cpe:2.3:a:digium:certified_asterisk:11.6:cert1:*:*:lts:*:*:*", "languages": ["en_US"], "vendor": "digium", "version": "11.6"}

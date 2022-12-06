@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--0303f69f-9e79-5e46-bf5b-48c39dab6b5b", "name": "IBM Linux on zSeries 32-bit", "cpe": "cpe:2.3:o:ibm:linux_on_zseries:-:*:*:*:*:*:x86:*", "languages": ["en_US"], "vendor": "ibm", "version": "-"}

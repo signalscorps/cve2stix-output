@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--df579a89-4481-5669-82e9-c6d5815e37e5", "name": "serve-static project serve-static for Node.js 1.7.1", "cpe": "cpe:2.3:a:serve-static_project:serve-static:1.7.1:*:*:*:*:node.js:*:*", "languages": ["en_US"], "vendor": "serve-static_project", "version": "1.7.1"}
