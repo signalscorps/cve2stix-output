@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--1df3160d-963a-5776-96ba-1148d50286c7", "name": "Red Hat Openstack-cinder 15.2.0", "cpe": "cpe:2.3:a:redhat:openstack-cinder:15.2.0:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "redhat", "version": "15.2.0"}

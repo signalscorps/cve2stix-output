@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--a3549eb4-5e8c-581f-adbf-1daec8d07658", "name": "Projectcontour Contour 0.8.1 for Kubernetes", "cpe": "cpe:2.3:a:projectcontour:contour:0.8.1:*:*:*:*:kubernetes:*:*", "languages": ["en_US"], "vendor": "projectcontour", "version": "0.8.1"}

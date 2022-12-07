@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--96ab6777-40ec-5164-9aba-6502f816b9ee", "name": "OpenStack Keystonemiddleware 2.3.3", "cpe": "cpe:2.3:a:openstack:keystonemiddleware:2.3.3:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "openstack", "version": "2.3.3"}

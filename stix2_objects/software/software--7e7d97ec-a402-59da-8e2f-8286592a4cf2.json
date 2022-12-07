@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--7e7d97ec-a402-59da-8e2f-8286592a4cf2", "name": "Veeam Backup & Replication 10.0", "cpe": "cpe:2.3:a:veeam:veeam_backup_\\&_replication:10.0:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "veeam", "version": "10.0"}

@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--2a5d7b5f-9246-5ade-bd10-3c8aef553f7c", "name": "Linux Kernel 2.6.36 on x64", "cpe": "cpe:2.3:o:linux:linux_kernel:2.6.36:*:*:*:*:*:x64:*", "languages": ["en_US"], "vendor": "linux", "version": "2.6.36"}

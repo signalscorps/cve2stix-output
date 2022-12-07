@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--a98a8fe9-f274-579f-9131-3e3209c0bd17", "name": "NetApp VASA Provider 7.0 for Clustered Data ONTAP", "cpe": "cpe:2.3:a:netapp:vasa_provider:7.0:*:*:*:*:clustered_data_ontap:*:*", "languages": ["en_US"], "vendor": "netapp", "version": "7.0"}

@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--bfef6640-2c87-5e8b-a889-6becc7704020", "name": "NetApp Clustered Data ONTAP Antivirus Connector", "cpe": "cpe:2.3:a:netapp:clustered_data_ontap_antivirus_connector:-:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "netapp", "version": "-"}

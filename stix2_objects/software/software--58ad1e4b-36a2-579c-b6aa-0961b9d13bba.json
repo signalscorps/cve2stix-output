@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--58ad1e4b-36a2-579c-b6aa-0961b9d13bba", "name": "Aerospike Server 4.3.0.2 Community Edition", "cpe": "cpe:2.3:a:aerospike:aerospike_server:4.3.0.2:*:*:*:community:*:*:*", "languages": ["en_US"], "vendor": "aerospike", "version": "4.3.0.2"}

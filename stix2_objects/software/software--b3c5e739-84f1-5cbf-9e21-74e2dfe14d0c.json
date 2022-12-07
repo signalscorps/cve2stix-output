@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--b3c5e739-84f1-5cbf-9e21-74e2dfe14d0c", "name": "Red Hat Enterprise Linux Server Advanced mission critical Update Support (AUS) 5.3", "cpe": "cpe:2.3:o:redhat:enterprise_linux_server_aus:5.3:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "redhat", "version": "5.3"}

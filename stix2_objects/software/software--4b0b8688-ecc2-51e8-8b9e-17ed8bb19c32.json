@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--4b0b8688-ecc2-51e8-8b9e-17ed8bb19c32", "name": "Magic asyncpg 0.20.0", "cpe": "cpe:2.3:a:magic:asyncpg:0.20.0:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "magic", "version": "0.20.0"}

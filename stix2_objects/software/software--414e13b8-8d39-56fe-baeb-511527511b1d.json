@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--414e13b8-8d39-56fe-baeb-511527511b1d", "name": "Netgate HAProxy 0.23 for pfSense", "cpe": "cpe:2.3:a:netgate:haproxy:0.23:*:*:*:*:pfsense:*:*", "languages": ["en_US"], "vendor": "netgate", "version": "0.23"}

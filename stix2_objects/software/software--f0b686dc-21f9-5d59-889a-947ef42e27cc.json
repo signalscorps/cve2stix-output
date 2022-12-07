@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--f0b686dc-21f9-5d59-889a-947ef42e27cc", "name": "NetApp Host Agent", "cpe": "cpe:2.3:a:netapp:host_agent:-:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "netapp", "version": "-"}

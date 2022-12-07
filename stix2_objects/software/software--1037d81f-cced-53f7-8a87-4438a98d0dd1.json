@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--1037d81f-cced-53f7-8a87-4438a98d0dd1", "name": "Redhat Enterprise Linux Server 7.0 on X64", "cpe": "cpe:2.3:o:redhat:enterprise_linux_server:7.0:*:*:*:*:*:x64:*", "languages": ["en_US"], "vendor": "redhat", "version": "7.0"}

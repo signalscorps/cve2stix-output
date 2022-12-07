@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--e3253916-2994-5e75-a6ea-a12cf5d1be5b", "name": "CyberArk Conjur OSS Helm Chart 2.0.0", "cpe": "cpe:2.3:a:cyberark:conjur_oss_helm_chart:2.0.0:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "cyberark", "version": "2.0.0"}

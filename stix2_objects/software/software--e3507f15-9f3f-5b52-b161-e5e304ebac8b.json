@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--e3507f15-9f3f-5b52-b161-e5e304ebac8b", "name": "Linux Kernel 2.6.33.7 on x86", "cpe": "cpe:2.3:o:linux:linux_kernel:2.6.33.7:*:*:*:*:*:x86:*", "languages": ["en_US"], "vendor": "linux", "version": "2.6.33.7"}

@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--31651b23-300f-5f04-9129-a4941cbdbcb0", "name": "Jenkins Flaky Test Handler 1.0.0", "cpe": "cpe:2.3:a:jenkins:flaky_test_handler:1.0.0:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "1.0.0"}

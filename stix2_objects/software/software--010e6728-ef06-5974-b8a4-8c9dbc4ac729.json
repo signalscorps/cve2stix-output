@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--010e6728-ef06-5974-b8a4-8c9dbc4ac729", "name": "Honeywell ControlEdge RTU Firmware R110", "cpe": "cpe:2.3:o:honeywell:controledge_rtu_firmware:r110:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "honeywell", "version": "r110"}

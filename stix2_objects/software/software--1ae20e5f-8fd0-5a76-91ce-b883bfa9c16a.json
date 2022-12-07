@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--1ae20e5f-8fd0-5a76-91ce-b883bfa9c16a", "name": "X.Org X Server 1.19.3", "cpe": "cpe:2.3:a:x.org:x_server:1.19.3:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "x.org", "version": "1.19.3"}

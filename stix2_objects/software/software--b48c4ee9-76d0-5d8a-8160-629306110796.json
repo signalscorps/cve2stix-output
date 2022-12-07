@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--b48c4ee9-76d0-5d8a-8160-629306110796", "name": "Jenkins Gitlab Authentication 0.14 for Jenkins", "cpe": "cpe:2.3:a:jenkins:gitlab_authentication:0.14:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "0.14"}

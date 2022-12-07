@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--6ecbc1a6-13c9-541a-9b11-a129fe38db2c", "name": "Red Hat Enterprise Linux Extended Update Support (EUS) 5.3", "cpe": "cpe:2.3:o:redhat:enterprise_linux_eus:5.3:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "redhat", "version": "5.3"}

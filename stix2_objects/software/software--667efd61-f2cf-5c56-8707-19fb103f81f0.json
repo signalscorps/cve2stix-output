@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--667efd61-f2cf-5c56-8707-19fb103f81f0", "name": "Open Robotics Robot Operating System (ROS)", "cpe": "cpe:2.3:o:openrobotics:robot_operating_system:-:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "openrobotics", "version": "-"}

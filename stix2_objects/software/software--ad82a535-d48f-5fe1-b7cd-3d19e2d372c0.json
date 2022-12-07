@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--ad82a535-d48f-5fe1-b7cd-3d19e2d372c0", "name": "Prometheus Blackbox Exporter 0.14.0", "cpe": "cpe:2.3:a:prometheus:blackbox_exporter:0.14.0:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "prometheus", "version": "0.14.0"}

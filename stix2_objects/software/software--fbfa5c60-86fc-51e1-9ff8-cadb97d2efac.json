@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--fbfa5c60-86fc-51e1-9ff8-cadb97d2efac", "name": "ABB MicroSCADA Pro SYS600 Firmware 9.3 for Windows", "cpe": "cpe:2.3:o:abb:microscada_pro_sys600_firmware:9.3:*:*:*:*:windows:*:*", "languages": ["en_US"], "vendor": "abb", "version": "9.3"}

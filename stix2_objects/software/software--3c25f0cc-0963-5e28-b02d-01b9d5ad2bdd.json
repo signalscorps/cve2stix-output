@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--3c25f0cc-0963-5e28-b02d-01b9d5ad2bdd", "name": "Intel Trusted Execution Engine (TXE) Firmware 3.1.70", "cpe": "cpe:2.3:o:intel:trusted_execution_engine_firmware:3.1.70:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "intel", "version": "3.1.70"}

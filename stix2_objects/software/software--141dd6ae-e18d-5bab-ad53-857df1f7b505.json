@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--141dd6ae-e18d-5bab-ad53-857df1f7b505", "name": "Jenkins Pipeline Maven Integration 3.6.10 for Jenkins", "cpe": "cpe:2.3:a:jenkins:pipeline_maven_integration:3.6.10:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "3.6.10"}

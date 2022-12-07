@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--d431d164-6277-5047-bfd4-cd7f4dcbaaf6", "name": "MiniProfiler rack-mini-profiler 0.9.7 for Ruby", "cpe": "cpe:2.3:a:miniprofiler:rack-mini-profiler:0.9.7:*:*:*:*:ruby:*:*", "languages": ["en_US"], "vendor": "miniprofiler", "version": "0.9.7"}

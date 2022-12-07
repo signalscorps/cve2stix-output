@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--b076e5c9-a773-5341-94b7-76f516bca266", "name": "IBM Connect:Direct 6.1.0 for UNIX", "cpe": "cpe:2.3:a:ibm:connect\\:direct:6.1.0:*:*:*:*:unix:*:*", "languages": ["en_US"], "vendor": "ibm", "version": "direct"}

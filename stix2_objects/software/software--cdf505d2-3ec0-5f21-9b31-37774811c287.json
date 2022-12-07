@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--cdf505d2-3ec0-5f21-9b31-37774811c287", "name": "Intel iNet Wireless Daemon (IWD) 0.21", "cpe": "cpe:2.3:a:intel:inet_wireless_daemon:0.21:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "intel", "version": "0.21"}

@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--6d79ca73-8f6d-5b12-9652-53d0faacc5f1", "name": "Intel Parallel Studio XE for Windows", "cpe": "cpe:2.3:a:intel:parallel_studio_xe:-:*:*:*:*:windows:*:*", "languages": ["en_US"], "vendor": "intel", "version": "-"}

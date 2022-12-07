@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--6c701885-5fa9-5490-9c38-a48875670e96", "name": "OpenZFS 0.7.0", "cpe": "cpe:2.3:a:openzfs:openzfs:0.7.0:-:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "openzfs", "version": "0.7.0"}

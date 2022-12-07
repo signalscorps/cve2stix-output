@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--18b28c43-eb9f-5840-b935-cc0bd52d7fd4", "name": "Red Hat Enterprise Linux Advanced mission critical Update Support (AUS) 5.9", "cpe": "cpe:2.3:o:redhat:enterprise_linux_aus:5.9:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "redhat", "version": "5.9"}

@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--c7e77dc2-8d2c-52bd-bf23-9ff4d32fb840", "name": "NetApp Active IQ Unified Manager 9.6 for Linux", "cpe": "cpe:2.3:a:netapp:active_iq_unified_manager:9.6:*:*:*:*:linux:*:*", "languages": ["en_US"], "vendor": "netapp", "version": "9.6"}

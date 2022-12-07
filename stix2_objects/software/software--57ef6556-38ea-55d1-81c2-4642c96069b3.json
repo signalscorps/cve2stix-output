@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--57ef6556-38ea-55d1-81c2-4642c96069b3", "name": "HashiCorp vault-ssh-helper 0.1.5", "cpe": "cpe:2.3:a:hashicorp:vault-ssh-helper:0.1.5:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "hashicorp", "version": "0.1.5"}
