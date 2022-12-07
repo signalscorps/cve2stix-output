@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--ff0dd100-1b65-57ec-94dd-991bbc96437c", "name": "Jenkins DigitalOcean 1.1 for Jenkins", "cpe": "cpe:2.3:a:jenkins:digitalocean:1.1:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "1.1"}

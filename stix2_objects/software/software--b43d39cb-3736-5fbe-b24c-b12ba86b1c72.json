@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--b43d39cb-3736-5fbe-b24c-b12ba86b1c72", "name": "VMware vRealize Operations 6.5.0 for Horizon", "cpe": "cpe:2.3:a:vmware:vrealize_operations:6.5.0:*:*:*:*:horizon:*:*", "languages": ["en_US"], "vendor": "vmware", "version": "6.5.0"}

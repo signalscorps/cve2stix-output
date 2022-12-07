@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--ac0ca557-e550-54c3-a490-606fd45a5368", "name": "Red Hat OpenShift Service Mesh 1.0.7", "cpe": "cpe:2.3:a:redhat:openshift_service_mesh:1.0.7:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "redhat", "version": "1.0.7"}

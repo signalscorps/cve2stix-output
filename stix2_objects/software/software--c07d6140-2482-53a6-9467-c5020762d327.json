@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--c07d6140-2482-53a6-9467-c5020762d327", "name": "NVIDIA Display Driver 295.53 for Linux", "cpe": "cpe:2.3:a:nvidia:display_driver:295.53:*:*:*:*:linux:*:*", "languages": ["en_US"], "vendor": "nvidia", "version": "295.53"}

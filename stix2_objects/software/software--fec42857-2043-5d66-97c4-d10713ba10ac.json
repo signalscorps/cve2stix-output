@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--fec42857-2043-5d66-97c4-d10713ba10ac", "name": "Jenkins Harvest SCM 0.2.6 for Jenkins", "cpe": "cpe:2.3:a:jenkins:harvest_scm:0.2.6:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "0.2.6"}

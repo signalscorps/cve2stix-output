@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--0306a86b-6aad-5610-b007-43e27c64ab08", "name": "Linux Kernel 5.5", "cpe": "cpe:2.3:o:linux:linux_kernel:5.5:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "linux", "version": "5.5"}

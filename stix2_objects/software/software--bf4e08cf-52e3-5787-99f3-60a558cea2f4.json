@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--bf4e08cf-52e3-5787-99f3-60a558cea2f4", "name": "BSON Project BSON 1.8.1 for Ruby", "cpe": "cpe:2.3:a:bson_project:bson:1.8.1:-:*:*:*:ruby:*:*", "languages": ["en_US"], "vendor": "bson_project", "version": "1.8.1"}

@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--b0133b17-e9ce-5177-8e51-1b99c152396d", "name": "Jenkins Parasoft Environment Manager 2.7 for Jenkins", "cpe": "cpe:2.3:a:jenkins:parasoft_environment_manager:2.7:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "2.7"}

@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--a829c1b3-d98b-5482-80cf-7a5fb002b2e8", "name": "Jenkins RadarGun 1.6 for Jenkins", "cpe": "cpe:2.3:a:jenkins:radargun:1.6:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "1.6"}

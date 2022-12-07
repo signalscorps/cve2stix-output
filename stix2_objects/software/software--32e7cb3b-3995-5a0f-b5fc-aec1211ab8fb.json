@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--32e7cb3b-3995-5a0f-b5fc-aec1211ab8fb", "name": "Siemens SIMATIC S7-400 PN/DP CPU Firmware", "cpe": "cpe:2.3:o:siemens:simatic_s7-400_pn\\/dp_cpu_firmware:-:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "siemens", "version": "-"}

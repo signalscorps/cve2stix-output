@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--bc9bf983-4b5e-519b-bd66-0bcbda8fd825", "name": "Kubernetes external-provisioner 1.0.0", "cpe": "cpe:2.3:a:kubernetes:external-provisioner:1.0.0:-:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "kubernetes", "version": "1.0.0"}

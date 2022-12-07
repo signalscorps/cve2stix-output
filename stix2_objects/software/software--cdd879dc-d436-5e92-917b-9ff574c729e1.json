@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--cdd879dc-d436-5e92-917b-9ff574c729e1", "name": "CODESYS Control RTE 3.5.8.60 for Beckhoff CX", "cpe": "cpe:2.3:a:codesys:control_rte:3.5.8.60:*:*:*:*:beckhoff_cx:*:*", "languages": ["en_US"], "vendor": "codesys", "version": "3.5.8.60"}

@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--578ca24a-5708-5bf4-a7cd-e5ebd46fad17", "name": "Hashicorp Nomad 0.9.5 Enterprise Edition", "cpe": "cpe:2.3:a:hashicorp:nomad:0.9.5:*:*:*:enterprise:*:*:*", "languages": ["en_US"], "vendor": "hashicorp", "version": "0.9.5"}

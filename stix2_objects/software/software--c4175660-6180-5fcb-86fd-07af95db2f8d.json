@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--c4175660-6180-5fcb-86fd-07af95db2f8d", "name": "MessagePack 1.2.1 for C#", "cpe": "cpe:2.3:a:messagepack:messagepack:1.2.1:*:*:*:*:c\\#:*:*", "languages": ["en_US"], "vendor": "messagepack", "version": "1.2.1"}

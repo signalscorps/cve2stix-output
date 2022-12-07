@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--e1255b23-09dc-56cf-b0f0-4838faf93aec", "name": "Jenkins ECX Copy Data Management 1.9 for Jenkins", "cpe": "cpe:2.3:a:jenkins:ecx_copy_data_management:1.9:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "1.9"}

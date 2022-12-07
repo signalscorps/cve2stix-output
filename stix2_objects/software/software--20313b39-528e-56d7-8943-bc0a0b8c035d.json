@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--20313b39-528e-56d7-8943-bc0a0b8c035d", "name": "Siemens SIMATIC S7-400 PN/DP CPU V7", "cpe": "cpe:2.3:h:siemens:simatic_s7-400_pn\\/dp_cpu:v7:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "siemens", "version": "v7"}

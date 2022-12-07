@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--0e8849c7-4a17-5842-b3a0-c22d4ce9c98c", "name": "Jenkins NUnit 0.24 for Jenkins", "cpe": "cpe:2.3:a:jenkins:nunit:0.24:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "0.24"}

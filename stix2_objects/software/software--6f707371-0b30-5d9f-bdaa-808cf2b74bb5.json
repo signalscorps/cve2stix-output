@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--6f707371-0b30-5d9f-bdaa-808cf2b74bb5", "name": "NVIDIA GPU Display Driver for Windows", "cpe": "cpe:2.3:a:nvidia:gpu_driver:-:*:*:*:*:windows:*:*", "languages": ["en_US"], "vendor": "nvidia", "version": "-"}

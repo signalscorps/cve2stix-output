@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--e2bba469-2c2e-5a6c-8181-e1049ca2533a", "name": "Jenkins Brakeman 0.10 for Jenkins", "cpe": "cpe:2.3:a:jenkins:brakeman:0.10:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "0.10"}

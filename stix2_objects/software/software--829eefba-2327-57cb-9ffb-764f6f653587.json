@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--829eefba-2327-57cb-9ffb-764f6f653587", "name": "Codecov 2.2.0 for Node.js", "cpe": "cpe:2.3:a:codecov:codecov:2.2.0:*:*:*:*:node.js:*:*", "languages": ["en_US"], "vendor": "codecov", "version": "2.2.0"}

@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--d16839c8-8848-5761-a5b7-6cdc0e544b15", "name": "Jenkins Pipeline GitHub Notify Step 1.0.1 for Jenkins", "cpe": "cpe:2.3:a:jenkins:pipeline_github_notify_step:1.0.1:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "1.0.1"}

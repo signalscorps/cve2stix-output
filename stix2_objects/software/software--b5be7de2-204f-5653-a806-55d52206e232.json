@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--b5be7de2-204f-5653-a806-55d52206e232", "name": "Trustwave ModSecurity 3.0.0", "cpe": "cpe:2.3:a:trustwave:modsecurity:3.0.0:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "trustwave", "version": "3.0.0"}

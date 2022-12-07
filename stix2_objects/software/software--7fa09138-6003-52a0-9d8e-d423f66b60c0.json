@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--7fa09138-6003-52a0-9d8e-d423f66b60c0", "name": "Jenkins Debian Package Builder 1.6.10 for Jenkins", "cpe": "cpe:2.3:a:jenkins:debian_package_builder:1.6.10:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "1.6.10"}

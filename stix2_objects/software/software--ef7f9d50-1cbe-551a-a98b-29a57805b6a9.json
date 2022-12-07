@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--ef7f9d50-1cbe-551a-a98b-29a57805b6a9", "name": "MongoDB BSON 2.2.3 for Ruby", "cpe": "cpe:2.3:a:mongodb:bson:2.2.3:*:*:*:*:ruby:*:*", "languages": ["en_US"], "vendor": "mongodb", "version": "2.2.3"}

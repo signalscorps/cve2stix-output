@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--a9f35a2a-45b0-5223-8ba8-742e345edf75", "name": "F5 BIG-IP Global Traffic Manager (GTM) 12.1.5.1", "cpe": "cpe:2.3:a:f5:big-ip_global_traffic_manager:12.1.5.1:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "f5", "version": "12.1.5.1"}

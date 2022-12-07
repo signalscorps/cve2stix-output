@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--f1d245d5-a56c-5611-a343-5b57a8634eae", "name": "Kubernetes external-resizer 0.1.0 Release Candidate 1", "cpe": "cpe:2.3:a:kubernetes:external-resizer:0.1.0:rc1:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "kubernetes", "version": "0.1.0"}

@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--9ac8bf34-d527-548a-9be3-55b30bf6ae1b", "name": "Siemens PROFINET Driver", "cpe": "cpe:2.3:a:siemens:profinet_driver:-:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "siemens", "version": "-"}

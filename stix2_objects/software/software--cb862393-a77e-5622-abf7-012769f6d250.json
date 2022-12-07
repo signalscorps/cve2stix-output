@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--cb862393-a77e-5622-abf7-012769f6d250", "name": "Intel SGX SDK 2.8.100.1", "cpe": "cpe:2.3:a:intel:sgx_sdk:2.8.100.1:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "intel", "version": "2.8.100.1"}

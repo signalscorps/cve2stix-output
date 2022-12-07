@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--464e2771-27c5-5d09-9062-61f1c3862c53", "name": "Jenkins FitNesse 1.25 for Jenkins", "cpe": "cpe:2.3:a:jenkins:fitnesse:1.25:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "1.25"}

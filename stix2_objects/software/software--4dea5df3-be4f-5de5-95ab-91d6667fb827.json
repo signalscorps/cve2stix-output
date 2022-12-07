@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--4dea5df3-be4f-5de5-95ab-91d6667fb827", "name": "Jenkins BMC Release Package and Deployment 1.1 for Jenkins", "cpe": "cpe:2.3:a:jenkins:bmc_release_package_and_deployment:1.1:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "1.1"}

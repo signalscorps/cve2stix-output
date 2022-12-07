@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--97e84ce4-58f2-5af5-8a45-e8d5518e34db", "name": "NVIDIA Display Driver 295.49 for Linux", "cpe": "cpe:2.3:a:nvidia:display_driver:295.49:*:*:*:*:linux:*:*", "languages": ["en_US"], "vendor": "nvidia", "version": "295.49"}

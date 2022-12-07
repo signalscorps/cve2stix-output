@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--eafe2b84-d375-5ba7-a2d1-321f70f3f707", "name": "Kubernetes external-snapshotter 1.0.0 Release Candidate 3", "cpe": "cpe:2.3:a:kubernetes:external-snapshotter:1.0.0:rc3:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "kubernetes", "version": "1.0.0"}

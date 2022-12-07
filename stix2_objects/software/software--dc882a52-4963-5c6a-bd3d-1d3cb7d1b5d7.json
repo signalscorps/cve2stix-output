@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--dc882a52-4963-5c6a-bd3d-1d3cb7d1b5d7", "name": "Strapi 3.0.0 Beta 4 for Node.js", "cpe": "cpe:2.3:a:strapi:strapi:3.0.0:beta4:*:*:*:node.js:*:*", "languages": ["en_US"], "vendor": "strapi", "version": "3.0.0"}

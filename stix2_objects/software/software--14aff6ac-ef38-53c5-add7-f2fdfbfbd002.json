@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--14aff6ac-ef38-53c5-add7-f2fdfbfbd002", "name": "Yokogawa STARDOM OPC Server R3.40 for Windows", "cpe": "cpe:2.3:o:yokogawa:stardom_opc_server:r3.40:*:*:*:*:windows:*:*", "languages": ["en_US"], "vendor": "yokogawa", "version": "r3.40"}

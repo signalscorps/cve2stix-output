@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--fe283b3b-8b5d-56c0-adf6-1d7a19a99e27", "name": "Intel FPGA SDK for OpenCL 16.0 Standard Edition", "cpe": "cpe:2.3:a:intel:field_programmable_gate_array_software_development_kit_for_opencl:16.0:*:*:*:standard:*:*:*", "languages": ["en_US"], "vendor": "intel", "version": "16.0"}
