@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--563bdbd1-da28-5271-b5e6-3c11f7bb146e", "name": "Corosync 0.99", "cpe": "cpe:2.3:a:corosync:corosync:0.99:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "corosync", "version": "0.99"}

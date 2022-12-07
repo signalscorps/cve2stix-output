@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--51784c79-85a7-5558-a513-4060557bcc2e", "name": "Jenkins Docker 0.3.5 for Jenkins", "cpe": "cpe:2.3:a:jenkins:docker:0.3.5:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "0.3.5"}

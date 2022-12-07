@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--3c4f7d60-5650-563d-997f-b78c8761cecb", "name": "Jenkins Port Allocator 1.7 for Jenkins", "cpe": "cpe:2.3:a:jenkins:port_allocator:1.7:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "1.7"}

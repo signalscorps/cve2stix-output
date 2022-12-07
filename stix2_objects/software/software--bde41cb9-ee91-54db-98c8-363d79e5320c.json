@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--bde41cb9-ee91-54db-98c8-363d79e5320c", "name": "Nats Server 2.0.0 Release Candidate 19", "cpe": "cpe:2.3:a:nats:nats_server:2.0.0:rc19:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "nats", "version": "2.0.0"}

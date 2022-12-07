@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--d95fa95d-60c4-579b-873d-0966ed5ec1e5", "name": "Nats Server 0.7.0", "cpe": "cpe:2.3:a:nats:nats_server:0.7.0:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "nats", "version": "0.7.0"}

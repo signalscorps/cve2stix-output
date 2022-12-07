@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--4c222c8d-6c2b-53a8-b391-16f52257ad14", "name": "Pivotal Software Spring Data Java Persistance API (JPA) 1.4.2", "cpe": "cpe:2.3:a:pivotal_software:spring_data_java_persistance_api:1.4.2:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "pivotal_software", "version": "1.4.2"}

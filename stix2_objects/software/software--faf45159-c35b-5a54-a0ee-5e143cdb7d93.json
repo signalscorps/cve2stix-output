@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--faf45159-c35b-5a54-a0ee-5e143cdb7d93", "name": "Nagios Core 3.4.4", "cpe": "cpe:2.3:a:nagios:nagios_core:3.4.4:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "nagios", "version": "3.4.4"}

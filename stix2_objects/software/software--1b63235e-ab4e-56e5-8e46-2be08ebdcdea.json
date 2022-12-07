@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--1b63235e-ab4e-56e5-8e46-2be08ebdcdea", "name": "Jenkins Pipeline: Build Step 2.1 for Jenkins", "cpe": "cpe:2.3:a:jenkins:pipeline\\:_build_step:2.1:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "_build_step"}

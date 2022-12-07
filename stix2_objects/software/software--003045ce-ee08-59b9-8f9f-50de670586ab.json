@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--003045ce-ee08-59b9-8f9f-50de670586ab", "name": "Airbrake 0.0.7 for Node.js", "cpe": "cpe:2.3:a:airbrake:airbrake:0.0.7:*:*:*:*:node.js:*:*", "languages": ["en_US"], "vendor": "airbrake", "version": "0.0.7"}

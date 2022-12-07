@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--42b8ceb4-f2b3-54a8-bc78-0734851be742", "name": "MQTT.js Project MQTT.js 1.0.10 for Node.js", "cpe": "cpe:2.3:a:mqtt.js_project:mqtt.js:1.0.10:*:*:*:*:node.js:*:*", "languages": ["en_US"], "vendor": "mqtt.js_project", "version": "1.0.10"}

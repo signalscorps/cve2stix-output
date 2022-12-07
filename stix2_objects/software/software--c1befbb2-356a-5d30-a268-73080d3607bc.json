@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--c1befbb2-356a-5d30-a268-73080d3607bc", "name": "Internationalization Project Internationalization (i18n) 5.x-1.x Dev for Drupal", "cpe": "cpe:2.3:a:internationalization_project:internationalization:5.x-1.x:dev:*:*:*:drupal:*:*", "languages": ["en_US"], "vendor": "internationalization_project", "version": "5.x-1.x"}

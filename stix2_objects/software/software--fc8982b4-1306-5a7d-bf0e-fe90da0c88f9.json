@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--fc8982b4-1306-5a7d-bf0e-fe90da0c88f9", "name": "WooCommerce Paypal Checkout Payment Gateway 1.6.1 for WordPress", "cpe": "cpe:2.3:a:woocommerce:paypal_checkout_payment_gateway:1.6.1:*:*:*:*:wordpress:*:*", "languages": ["en_US"], "vendor": "woocommerce", "version": "1.6.1"}

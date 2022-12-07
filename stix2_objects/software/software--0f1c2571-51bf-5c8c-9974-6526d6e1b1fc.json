@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--0f1c2571-51bf-5c8c-9974-6526d6e1b1fc", "name": "Puppet Server 5.1.0", "cpe": "cpe:2.3:a:puppet:puppet_server:5.1.0:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "puppet", "version": "5.1.0"}

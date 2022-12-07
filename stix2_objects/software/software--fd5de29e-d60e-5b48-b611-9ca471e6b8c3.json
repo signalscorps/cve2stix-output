@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--fd5de29e-d60e-5b48-b611-9ca471e6b8c3", "name": "GNOME Display Manager (GDM) 3.17.4", "cpe": "cpe:2.3:a:gnome:gnome_display_manager:3.17.4:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "gnome", "version": "3.17.4"}

@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--2c201e8c-e6fd-5c27-a38e-90e491061db5", "name": "Vox Populi RabbitMQ 1.0.4 for Puppet", "cpe": "cpe:2.3:a:voxpupuli:rabbitmq:1.0.4:*:*:*:*:puppet:*:*", "languages": ["en_US"], "vendor": "voxpupuli", "version": "1.0.4"}

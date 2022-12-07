@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--4f5e4108-3fd0-50c3-85b0-05488937505e", "name": "HashiCorp Terraform 1.5.0 for AWS", "cpe": "cpe:2.3:a:hashicorp:terraform:1.5.0:*:*:*:*:aws:*:*", "languages": ["en_US"], "vendor": "hashicorp", "version": "1.5.0"}

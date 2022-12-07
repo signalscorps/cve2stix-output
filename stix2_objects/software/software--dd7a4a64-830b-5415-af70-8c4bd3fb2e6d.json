@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--dd7a4a64-830b-5415-af70-8c4bd3fb2e6d", "name": "ZeroMQ libzmq 4.2.0 Release Candidate 1", "cpe": "cpe:2.3:a:zeromq:libzmq:4.2.0:rc1:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "zeromq", "version": "4.2.0"}

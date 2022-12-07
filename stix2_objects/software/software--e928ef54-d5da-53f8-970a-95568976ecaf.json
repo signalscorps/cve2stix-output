@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--e928ef54-d5da-53f8-970a-95568976ecaf", "name": "Jenkins Skytap Cloud CI 2.06 for Jenkins", "cpe": "cpe:2.3:a:jenkins:skytap_cloud_ci:2.06:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "2.06"}

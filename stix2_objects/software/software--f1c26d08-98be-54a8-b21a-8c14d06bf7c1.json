@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--f1c26d08-98be-54a8-b21a-8c14d06bf7c1", "name": "MongoDB libbson 1.5.3", "cpe": "cpe:2.3:a:mongodb:libbson:1.5.3:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "mongodb", "version": "1.5.3"}

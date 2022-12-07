@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--bdee8285-15c4-510f-804f-d128732dd4c7", "name": "Jenkins Caliper CI for Jenkins", "cpe": "cpe:2.3:a:jenkins:caliper_ci:-:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "-"}

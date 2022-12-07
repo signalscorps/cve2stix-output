@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--3e59d25a-bf85-58f9-b787-c396ab547466", "name": "Cloud Foundry BOSH Backup and Restore 1.3.0", "cpe": "cpe:2.3:a:cloudfoundry:bosh_backup_and_restore:1.3.0:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "cloudfoundry", "version": "1.3.0"}

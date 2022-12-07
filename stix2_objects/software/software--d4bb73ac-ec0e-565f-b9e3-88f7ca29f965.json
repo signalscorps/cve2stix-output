@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--d4bb73ac-ec0e-565f-b9e3-88f7ca29f965", "name": "Bundler 1.17.3 for Ruby", "cpe": "cpe:2.3:a:bundler:bundler:1.17.3:*:*:*:*:ruby:*:*", "languages": ["en_US"], "vendor": "bundler", "version": "1.17.3"}

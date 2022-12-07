@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--2bc5b933-958e-5590-abe7-417c305a78fc", "name": "Katello Project Katello 3.4.0 Release Candidate 1 for Foreman", "cpe": "cpe:2.3:a:katello_project:katello:3.4.0:rc1:*:*:*:foreman:*:*", "languages": ["en_US"], "vendor": "katello_project", "version": "3.4.0"}

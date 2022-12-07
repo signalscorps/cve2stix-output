@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--90db71da-ed4e-5314-b058-5fdd5c45d51a", "name": "Automattic CampTix Event Ticketing 1.5.1 for WordPress", "cpe": "cpe:2.3:a:automattic:camptix_event_ticketing:1.5.1:*:*:*:*:wordpress:*:*", "languages": ["en_US"], "vendor": "automattic", "version": "1.5.1"}

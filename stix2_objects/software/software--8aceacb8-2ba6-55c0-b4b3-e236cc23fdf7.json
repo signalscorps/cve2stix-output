@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--8aceacb8-2ba6-55c0-b4b3-e236cc23fdf7", "name": "SUSE Linux Enterprise Server 12 Service Pack 2 for Raspberry Pi", "cpe": "cpe:2.3:o:suse:linux_enterprise_server:12:sp2:*:*:*:*:raspberry_pi:*", "languages": ["en_US"], "vendor": "suse", "version": "12"}

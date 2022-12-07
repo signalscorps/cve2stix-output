@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--bea771b2-0d49-59f1-8f82-1628c0efac60", "name": "WooCommerce 1.2 for WordPress", "cpe": "cpe:2.3:a:woocommerce:woocommerce:1.2:*:*:*:*:wordpress:*:*", "languages": ["en_US"], "vendor": "woocommerce", "version": "1.2"}

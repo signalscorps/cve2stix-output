@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--ab6a651d-f2bf-5208-8f37-ed0a315370ce", "name": "Kubernetes Minikube 0.32.0", "cpe": "cpe:2.3:a:kubernetes:minikube:0.32.0:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "kubernetes", "version": "0.32.0"}

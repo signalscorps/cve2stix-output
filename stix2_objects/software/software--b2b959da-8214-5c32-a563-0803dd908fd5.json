@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--b2b959da-8214-5c32-a563-0803dd908fd5", "name": "Linux Containers LXD 2.10", "cpe": "cpe:2.3:a:linuxcontainers:lxd:2.10:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "linuxcontainers", "version": "2.10"}

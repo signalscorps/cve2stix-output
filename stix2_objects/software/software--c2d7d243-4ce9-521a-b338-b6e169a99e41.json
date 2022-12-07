@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--c2d7d243-4ce9-521a-b338-b6e169a99e41", "name": "Keepalived 0.3.6", "cpe": "cpe:2.3:a:keepalived:keepalived:0.3.6:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "keepalived", "version": "0.3.6"}

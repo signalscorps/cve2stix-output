@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--d710fac8-a9d2-52dc-82d9-fddfb5e7748c", "name": "Ruby on Rails Active Job for Rails", "cpe": "cpe:2.3:a:rubyonrails:active_job:-:*:*:*:*:rails:*:*", "languages": ["en_US"], "vendor": "rubyonrails", "version": "-"}

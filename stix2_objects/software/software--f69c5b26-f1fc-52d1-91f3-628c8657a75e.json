@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--f69c5b26-f1fc-52d1-91f3-628c8657a75e", "name": "Hazelcast 3.8 Release Candidate 1", "cpe": "cpe:2.3:a:hazelcast:hazelcast:3.8:rc1:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "hazelcast", "version": "3.8"}

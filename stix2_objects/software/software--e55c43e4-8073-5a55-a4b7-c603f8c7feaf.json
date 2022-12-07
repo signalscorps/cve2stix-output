@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--e55c43e4-8073-5a55-a4b7-c603f8c7feaf", "name": "Puppet stdlib 2.2.1 for Puppet", "cpe": "cpe:2.3:a:puppet:stdlib:2.2.1:*:*:*:*:puppet:*:*", "languages": ["en_US"], "vendor": "puppet", "version": "2.2.1"}

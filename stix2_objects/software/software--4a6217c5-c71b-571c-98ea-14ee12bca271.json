@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--4a6217c5-c71b-571c-98ea-14ee12bca271", "name": "IBM QRadar Security Information and Event Manager (SIEM) 7.3.2 Patch 1", "cpe": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.3.2:p1:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "ibm", "version": "7.3.2"}

@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--0bda57a6-da74-59a0-b868-700ec0cacf9b", "name": "RSYSLOG 4.7.3", "cpe": "cpe:2.3:a:rsyslog:rsyslog:4.7.3:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "rsyslog", "version": "4.7.3"}

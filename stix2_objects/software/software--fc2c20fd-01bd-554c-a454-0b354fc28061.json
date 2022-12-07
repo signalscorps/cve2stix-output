@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--fc2c20fd-01bd-554c-a454-0b354fc28061", "name": "Ruby on Rails HTML Sanitizer 1.0.0 for Ruby", "cpe": "cpe:2.3:a:rubyonrails:html_sanitizer:1.0.0:*:*:*:*:ruby:*:*", "languages": ["en_US"], "vendor": "rubyonrails", "version": "1.0.0"}

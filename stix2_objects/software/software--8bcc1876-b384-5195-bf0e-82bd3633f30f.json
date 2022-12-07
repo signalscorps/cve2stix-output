@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--8bcc1876-b384-5195-bf0e-82bd3633f30f", "name": "WP Security Audit Log 0.5 for WordPress", "cpe": "cpe:2.3:a:wpsecurityauditlog:wp_security_audit_log:0.5:*:*:*:*:wordpress:*:*", "languages": ["en_US"], "vendor": "wpsecurityauditlog", "version": "0.5"}

@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--1fdca7f8-9b28-5f08-b891-0ae11a74640d", "name": "Pivotal Software Cloud Foundry cf-deployment 75", "cpe": "cpe:2.3:a:pivotal_software:cloud_foundry_cf-release:75:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "pivotal_software", "version": "75"}

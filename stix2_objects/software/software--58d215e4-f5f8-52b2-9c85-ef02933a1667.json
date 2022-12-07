@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--58d215e4-f5f8-52b2-9c85-ef02933a1667", "name": "Bundler 1.1 Patch re1 for Ruby", "cpe": "cpe:2.3:a:bundler:bundler:1.1:pre1:*:*:*:ruby:*:*", "languages": ["en_US"], "vendor": "bundler", "version": "1.1"}

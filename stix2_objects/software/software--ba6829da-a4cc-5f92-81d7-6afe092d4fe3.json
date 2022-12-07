@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--ba6829da-a4cc-5f92-81d7-6afe092d4fe3", "name": "lodash 1.0.1 for Node.js", "cpe": "cpe:2.3:a:lodash:lodash:1.0.1:*:*:*:*:node.js:*:*", "languages": ["en_US"], "vendor": "lodash", "version": "1.0.1"}
