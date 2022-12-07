@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--b3b1766b-bed0-5c77-b06d-1faaa6e46b02", "name": "Jenkins Synopsys Detect 1.2.0 for Jenkins", "cpe": "cpe:2.3:a:jenkins:synopsys_detect:1.2.0:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "1.2.0"}

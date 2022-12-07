@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--c953f136-19a8-5572-a8a4-bec6a76cf1bd", "name": "Jenkins Mercurial 1.34 for Jenkins", "cpe": "cpe:2.3:a:jenkins:mercurial:1.34:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "1.34"}

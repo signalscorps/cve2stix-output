@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--bb7a51c2-77ec-563d-ab8c-df343c3c7eb6", "name": "Jenkins AWS CloudWatch Logs Publisher 1.2.0 for Jenkins", "cpe": "cpe:2.3:a:jenkins:aws_cloudwatch_logs_publisher:1.2.0:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "1.2.0"}

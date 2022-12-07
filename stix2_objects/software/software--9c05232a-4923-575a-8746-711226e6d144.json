@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--9c05232a-4923-575a-8746-711226e6d144", "name": "Jenkins SaltStack 1.5.99 Beta for Jenkins", "cpe": "cpe:2.3:a:jenkins:saltstack:1.5.99:beta:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "1.5.99"}

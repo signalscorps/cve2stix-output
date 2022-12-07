@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--e3180541-3dd8-5ae8-b1b1-281b6547cb06", "name": "Jenkins AWS CodeDeploy 1.2 for Jenkins", "cpe": "cpe:2.3:a:jenkins:aws_codedeploy:1.2:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "1.2"}

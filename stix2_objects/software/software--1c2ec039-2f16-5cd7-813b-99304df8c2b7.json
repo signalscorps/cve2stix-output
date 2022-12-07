@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--1c2ec039-2f16-5cd7-813b-99304df8c2b7", "name": "Jenkins Coverity 1.9.0 for Jenkins", "cpe": "cpe:2.3:a:jenkins:coverity:1.9.0:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "1.9.0"}

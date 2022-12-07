@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--dd1ae56f-5ff8-5cae-9702-46104efb8a16", "name": "Jenkins Gerrit Trigger 2.14.0 Beta 1 for Jenkins", "cpe": "cpe:2.3:a:jenkins:gerrit_trigger:2.14.0:beta1:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "2.14.0"}

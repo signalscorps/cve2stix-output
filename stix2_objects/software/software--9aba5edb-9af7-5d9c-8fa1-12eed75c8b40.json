@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--9aba5edb-9af7-5d9c-8fa1-12eed75c8b40", "name": "Jenkins Promoted Builds 1.7 for Jenkins", "cpe": "cpe:2.3:a:jenkins:promoted_builds:1.7:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "1.7"}

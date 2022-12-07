@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--67c978d2-ebfc-53f5-9548-98063ac8ce00", "name": "Jenkins Gitlab Hook 0.2.7 for Jenkins", "cpe": "cpe:2.3:a:jenkins:gitlab_hook:0.2.7:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "0.2.7"}

@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--1397d09e-71aa-5fa7-9814-73ae25db650d", "name": "Jenkins SSH Credentials 1.2 for Jenkins", "cpe": "cpe:2.3:a:jenkins:ssh_credentials:1.2:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "1.2"}

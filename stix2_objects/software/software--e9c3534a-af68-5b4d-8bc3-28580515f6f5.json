@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--e9c3534a-af68-5b4d-8bc3-28580515f6f5", "name": "Jenkins GitHub Pull Request Builder 1.30.6 for Jenkins", "cpe": "cpe:2.3:a:jenkins:github_pull_request_builder:1.30.6:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "1.30.6"}

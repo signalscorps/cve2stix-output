@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--91142b53-4698-5e73-b608-d6d2e8ff599b", "name": "Jenkins Liquibase Runner 1.0.1 for Jenkins", "cpe": "cpe:2.3:a:jenkins:liquibase_runner:1.0.1:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "1.0.1"}

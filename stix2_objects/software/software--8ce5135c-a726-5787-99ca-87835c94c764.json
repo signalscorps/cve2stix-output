@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--8ce5135c-a726-5787-99ca-87835c94c764", "name": "Jenkins WebSphere Deployer 1.6.0 for Jenkins", "cpe": "cpe:2.3:a:jenkins:websphere_deployer:1.6.0:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "1.6.0"}

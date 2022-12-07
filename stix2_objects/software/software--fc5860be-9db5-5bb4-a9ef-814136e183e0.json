@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--fc5860be-9db5-5bb4-a9ef-814136e183e0", "name": "Jenkins S3 Publisher 0.10.11 for Jenkins", "cpe": "cpe:2.3:a:jenkins:s3_publisher:0.10.11:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "0.10.11"}

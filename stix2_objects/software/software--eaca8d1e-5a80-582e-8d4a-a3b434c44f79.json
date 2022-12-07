@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--eaca8d1e-5a80-582e-8d4a-a3b434c44f79", "name": "Golang Go 1.9.1", "cpe": "cpe:2.3:a:golang:go:1.9.1:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "golang", "version": "1.9.1"}

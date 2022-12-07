@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--d624620b-2e64-570a-a77e-17935814fa16", "name": "Jenkins Audit To Database for Jenkins", "cpe": "cpe:2.3:a:jenkins:audit_to_database:-:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "-"}

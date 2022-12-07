@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--3fe70228-3326-5cee-b8dd-65a69ba88efb", "name": "Jenkins Bitbucket Approve for Jenkins", "cpe": "cpe:2.3:a:jenkins:bitbucket_approve:-:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "-"}

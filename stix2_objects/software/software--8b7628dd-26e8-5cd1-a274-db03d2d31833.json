@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--8b7628dd-26e8-5cd1-a274-db03d2d31833", "name": "Jenkins Google Login 1.2.1 for Jenkins", "cpe": "cpe:2.3:a:jenkins:google_login:1.2.1:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "1.2.1"}

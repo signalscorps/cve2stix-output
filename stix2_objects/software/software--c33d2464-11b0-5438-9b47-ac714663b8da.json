@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--c33d2464-11b0-5438-9b47-ac714663b8da", "name": "Jenkins Jabber Server for Jenkins", "cpe": "cpe:2.3:a:jenkins:jabber_server:-:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "-"}

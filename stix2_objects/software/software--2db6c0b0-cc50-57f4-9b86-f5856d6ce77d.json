@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--2db6c0b0-cc50-57f4-9b86-f5856d6ce77d", "name": "Jenkins Configuration as Code 1.0 Release Candidate 2 for Jenkins", "cpe": "cpe:2.3:a:jenkins:configuration_as_code:1.0:rc2:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "1.0"}

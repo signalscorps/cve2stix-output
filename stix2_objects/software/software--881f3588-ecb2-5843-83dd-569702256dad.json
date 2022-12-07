@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--881f3588-ecb2-5843-83dd-569702256dad", "name": "Jenkins FTP Publisher for Jenkins", "cpe": "cpe:2.3:a:jenkins:ftp_publisher:-:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "-"}

@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--fefcd26d-d0d2-5399-a937-e5a04bb292d0", "name": "Jenkins Promoted Builds 2.23 for Jenkins", "cpe": "cpe:2.3:a:jenkins:promoted_builds:2.23:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "2.23"}

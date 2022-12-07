@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--ba732b10-ee32-5a15-a969-5f93f74ada9c", "name": "Jenkins Official OWASP ZAP 1.0.3 for Jenkins", "cpe": "cpe:2.3:a:jenkins:official_owasp_zap:1.0.3:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "1.0.3"}

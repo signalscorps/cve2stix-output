@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--9690104f-11d3-55a4-a526-fb316497b55a", "name": "JFrog Artifactory 2.2.7.1 for Jenkins", "cpe": "cpe:2.3:a:jfrog:artifactory:2.2.7.1:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jfrog", "version": "2.2.7.1"}

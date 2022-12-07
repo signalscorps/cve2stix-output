@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--2a7a27e3-ed62-5030-b44b-f5cac7fa7094", "name": "Jenkins SAML 1.0.9 for Jenkins", "cpe": "cpe:2.3:a:jenkins:saml:1.0.9:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "1.0.9"}

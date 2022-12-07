@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--179f6268-f241-52a8-9bcb-e9d775081a20", "name": "Jenkins Kubernetes 1.13.0 for Jenkins", "cpe": "cpe:2.3:a:jenkins:kubernetes:1.13.0:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "1.13.0"}

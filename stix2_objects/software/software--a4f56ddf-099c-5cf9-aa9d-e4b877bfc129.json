@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--a4f56ddf-099c-5cf9-aa9d-e4b877bfc129", "name": "Jenkins WildFly Deployer for Jenkins", "cpe": "cpe:2.3:a:jenkins:wildfly_deployer:-:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "-"}

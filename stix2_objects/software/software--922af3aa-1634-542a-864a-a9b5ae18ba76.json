@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--922af3aa-1634-542a-864a-a9b5ae18ba76", "name": "Red hat Ceph 0.67.10", "cpe": "cpe:2.3:a:redhat:ceph:0.67.10:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "redhat", "version": "0.67.10"}

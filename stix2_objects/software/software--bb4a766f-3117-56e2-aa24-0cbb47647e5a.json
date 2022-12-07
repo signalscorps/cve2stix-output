@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--bb4a766f-3117-56e2-aa24-0cbb47647e5a", "name": "Jenkins Tinfoil Security 1.4 for Jenkins", "cpe": "cpe:2.3:a:jenkins:tinfoil_security:1.4:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "1.4"}

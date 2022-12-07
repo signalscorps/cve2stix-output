@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--bc57e502-00d0-5db1-a6c2-60d2ae4dc778", "name": "Red Hat libvirt 1.2.17 Release Candidate 1", "cpe": "cpe:2.3:a:redhat:libvirt:1.2.17:rc1:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "redhat", "version": "1.2.17"}

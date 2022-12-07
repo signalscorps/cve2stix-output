@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--f678c8ac-129a-5724-a1b2-75c712904517", "name": "Jenkins AWS CodePipeline 0.33 for Jenkins", "cpe": "cpe:2.3:a:jenkins:aws_codepipeline:0.33:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "0.33"}

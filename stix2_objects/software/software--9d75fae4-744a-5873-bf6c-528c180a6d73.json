@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--9d75fae4-744a-5873-bf6c-528c180a6d73", "name": "Jenkins AWS Elastic Beanstalk Publisher 0.0.3 for Jenkins", "cpe": "cpe:2.3:a:jenkins:aws_elastic_beanstalk_publisher:0.0.3:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "0.0.3"}

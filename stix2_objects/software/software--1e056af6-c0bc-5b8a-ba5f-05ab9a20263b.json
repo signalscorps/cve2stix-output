@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--1e056af6-c0bc-5b8a-ba5f-05ab9a20263b", "name": "Google TensorFlow 1.12.0 Release Candidate 0", "cpe": "cpe:2.3:a:google:tensorflow:1.12.0:rc0:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "google", "version": "1.12.0"}

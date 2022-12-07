@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--fed1458b-4eef-5cbf-a5af-7d7d83538daf", "name": "Jenkins Fortify On Demand Uploader 3.0.8 for Jenkins", "cpe": "cpe:2.3:a:jenkins:fortify_on_demand_uploader:3.0.8:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "3.0.8"}

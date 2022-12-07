@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--5f8a113d-e34d-508b-85e3-c2487cf9e7b5", "name": "Jenkins OpenStack Cloud 2.42 for Jenkins", "cpe": "cpe:2.3:a:jenkins:openstack_cloud:2.42:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "2.42"}

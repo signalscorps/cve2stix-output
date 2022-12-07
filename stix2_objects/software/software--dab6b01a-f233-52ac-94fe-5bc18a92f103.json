@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--dab6b01a-f233-52ac-94fe-5bc18a92f103", "name": "Jenkins Copy To Slave 1.4 for Jenkins", "cpe": "cpe:2.3:a:jenkins:copy_to_slave:1.4:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "1.4"}

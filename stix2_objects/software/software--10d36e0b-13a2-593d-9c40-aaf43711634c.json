@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--10d36e0b-13a2-593d-9c40-aaf43711634c", "name": "Jenkins Publish Over CIFS 0.12 for Jenkins", "cpe": "cpe:2.3:a:jenkins:publish_over_cifs:0.12:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "0.12"}

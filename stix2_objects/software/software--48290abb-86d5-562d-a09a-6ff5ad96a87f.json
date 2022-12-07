@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--48290abb-86d5-562d-a09a-6ff5ad96a87f", "name": "Jenkins OpenShift Deployer 1.0.3 for Jenkins", "cpe": "cpe:2.3:a:jenkins:openshift_deployer:1.0.3:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "1.0.3"}

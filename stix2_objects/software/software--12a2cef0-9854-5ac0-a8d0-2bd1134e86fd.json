@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--12a2cef0-9854-5ac0-a8d0-2bd1134e86fd", "name": "Jenkins Upload To Pgyer for Jenkins", "cpe": "cpe:2.3:a:jenkins:upload_to_pgyer:-:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "-"}

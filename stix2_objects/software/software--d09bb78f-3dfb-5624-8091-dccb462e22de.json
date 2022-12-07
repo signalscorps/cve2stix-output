@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--d09bb78f-3dfb-5624-8091-dccb462e22de", "name": "Jenkins Perforce 1.1.8 for Jenkins", "cpe": "cpe:2.3:a:jenkins:perforce:1.1.8:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "1.1.8"}

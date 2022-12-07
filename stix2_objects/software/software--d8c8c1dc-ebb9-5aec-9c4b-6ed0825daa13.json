@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--d8c8c1dc-ebb9-5aec-9c4b-6ed0825daa13", "name": "Jenkins Groovy Postbuild 2.4 for Jenkins", "cpe": "cpe:2.3:a:jenkins:groovy_postbuild:2.4:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "2.4"}

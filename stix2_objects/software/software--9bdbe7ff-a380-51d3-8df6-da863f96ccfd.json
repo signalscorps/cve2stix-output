@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--9bdbe7ff-a380-51d3-8df6-da863f96ccfd", "name": "Jenkins CloudShare Docker-Machine for Jenkins", "cpe": "cpe:2.3:a:jenkins:cloudshare_docker-machine:-:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "-"}

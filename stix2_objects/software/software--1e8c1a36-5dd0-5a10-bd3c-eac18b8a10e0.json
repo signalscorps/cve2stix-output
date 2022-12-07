@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--1e8c1a36-5dd0-5a10-bd3c-eac18b8a10e0", "name": "Jenkins URLTrigger 0.27 for Jenkins", "cpe": "cpe:2.3:a:jenkins:urltrigger:0.27:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "0.27"}

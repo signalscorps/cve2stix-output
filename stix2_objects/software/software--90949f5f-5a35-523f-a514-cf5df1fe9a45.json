@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--90949f5f-5a35-523f-a514-cf5df1fe9a45", "name": "Jenkins SSH Slaves 0.5 for Jenkins", "cpe": "cpe:2.3:a:jenkins:ssh_slaves:0.5:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "0.5"}

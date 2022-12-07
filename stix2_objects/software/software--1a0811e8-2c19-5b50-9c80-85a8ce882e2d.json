@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--1a0811e8-2c19-5b50-9c80-85a8ce882e2d", "name": "Ceph Civetweb", "cpe": "cpe:2.3:a:ceph:civetweb:-:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "ceph", "version": "-"}

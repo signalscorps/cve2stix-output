@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--a1077a7d-ecff-5fda-89ce-b39e41fd333c", "name": "Jenkins Jira Issue Updater 1.13 for Jenkins", "cpe": "cpe:2.3:a:jenkins:jira_issue_updater:1.13:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "1.13"}

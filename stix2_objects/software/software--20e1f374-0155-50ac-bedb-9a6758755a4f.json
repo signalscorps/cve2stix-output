@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--20e1f374-0155-50ac-bedb-9a6758755a4f", "name": "Jenkins IRC - for Jenkins", "cpe": "cpe:2.3:a:jenkins:irc:-:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "-"}

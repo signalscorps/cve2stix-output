@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--affac14c-50c2-5ff3-aeb8-9ad12e65af0d", "name": "Jenkins Confluence Publisher 1.7 for Jenkins", "cpe": "cpe:2.3:a:jenkins:confluence_publisher:1.7:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "1.7"}

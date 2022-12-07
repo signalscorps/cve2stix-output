@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--dcda5165-3bf2-5ff0-b3cb-25c36c362de0", "name": "Jenkins Minio Storage for Jenkins", "cpe": "cpe:2.3:a:jenkins:minio_storage:-:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "-"}

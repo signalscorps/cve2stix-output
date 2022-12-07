@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--e43df503-6ebb-5a59-bba6-a96b6e91bba1", "name": "Jenkins Distributed Fork 1.0 for Jenkins", "cpe": "cpe:2.3:a:jenkins:distributed_fork:1.0:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "1.0"}

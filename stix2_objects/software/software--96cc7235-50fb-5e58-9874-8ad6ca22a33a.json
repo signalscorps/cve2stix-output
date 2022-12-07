@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--96cc7235-50fb-5e58-9874-8ad6ca22a33a", "name": "Jenkins Lockable Resources 2.0 for Jenkins", "cpe": "cpe:2.3:a:jenkins:lockable_resources:2.0:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "2.0"}

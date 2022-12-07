@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--f8448dd6-efcd-5bec-9671-51ee46d22e7f", "name": "Jenkins Job And Node ownership 0.12.0 for Jenkins", "cpe": "cpe:2.3:a:jenkins:job_and_node_ownership:0.12.0:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "0.12.0"}

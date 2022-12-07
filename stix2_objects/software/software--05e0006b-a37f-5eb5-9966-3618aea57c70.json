@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--05e0006b-a37f-5eb5-9966-3618aea57c70", "name": "Jenkins HockeyApp 1.3.0 for Jenkins", "cpe": "cpe:2.3:a:jenkins:hockeyapp:1.3.0:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "1.3.0"}

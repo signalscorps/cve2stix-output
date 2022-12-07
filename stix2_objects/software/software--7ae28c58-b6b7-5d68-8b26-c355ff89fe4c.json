@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--7ae28c58-b6b7-5d68-8b26-c355ff89fe4c", "name": "Jenkins GitHub 1.18.2 for Jenkins", "cpe": "cpe:2.3:a:jenkins:github:1.18.2:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "1.18.2"}

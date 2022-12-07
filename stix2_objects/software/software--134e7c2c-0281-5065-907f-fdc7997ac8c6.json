@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--134e7c2c-0281-5065-907f-fdc7997ac8c6", "name": "Jenkins Netsparker Cloud Scan 1.1.4 for Jenkins", "cpe": "cpe:2.3:a:jenkins:netsparker_cloud_scan:1.1.4:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "1.1.4"}

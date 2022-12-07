@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--96869338-c3c9-5071-ba46-cc1cee80f7ea", "name": "Jenkins Fortify CloudScan 1.5.0 for Jenkins .", "cpe": "cpe:2.3:a:jenkins:fortify_cloudscan:1.5.0:*:*:*:*:jenkins:*:.", "languages": ["en_US"], "vendor": "jenkins", "version": "1.5.0"}

@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--1881f068-f5b7-5dbd-8cf6-5f8a54959b2c", "name": "Jenkins AWS CodeBuild 0.21 for Jenkins", "cpe": "cpe:2.3:a:jenkins:aws_codebuild:0.21:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "0.21"}

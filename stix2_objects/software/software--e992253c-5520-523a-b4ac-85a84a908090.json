@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--e992253c-5520-523a-b4ac-85a84a908090", "name": "Jenkins TestLink 3.1.5 for Jenkins", "cpe": "cpe:2.3:a:jenkins:testlink:3.1.5:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "3.1.5"}

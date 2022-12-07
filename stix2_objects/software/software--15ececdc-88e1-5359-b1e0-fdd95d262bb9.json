@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--15ececdc-88e1-5359-b1e0-fdd95d262bb9", "name": "Dovecot 2.3.4", "cpe": "cpe:2.3:a:dovecot:dovecot:2.3.4:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "dovecot", "version": "2.3.4"}

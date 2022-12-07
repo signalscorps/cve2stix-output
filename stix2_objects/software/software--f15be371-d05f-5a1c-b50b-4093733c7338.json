@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--f15be371-d05f-5a1c-b50b-4093733c7338", "name": "Jenkins PRQA 3.0.1 for Jenkins", "cpe": "cpe:2.3:a:jenkins:prqa:3.0.1:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "3.0.1"}

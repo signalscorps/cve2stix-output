@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--26d25da1-8178-538a-a32d-81e1f79f8b01", "name": "Jenkins SSH Agent 1.16 for Jenkins", "cpe": "cpe:2.3:a:jenkins:ssh_agent:1.16:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "1.16"}

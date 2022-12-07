@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--0b8abcbb-f447-52c0-85f1-d2c728d92135", "name": "Jenkins CppNCSS 1.0 Beta 3 for Jenkins", "cpe": "cpe:2.3:a:jenkins:cppncss:1.0:beta3:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "1.0"}

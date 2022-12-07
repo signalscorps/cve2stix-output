@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--b6aedabe-b11a-5297-a6be-e46adca04bfc", "name": "Apache Software Foundation HBase 0.19.0", "cpe": "cpe:2.3:a:apache:hbase:0.19.0:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "apache", "version": "0.19.0"}

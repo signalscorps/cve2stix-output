@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--b1d442da-e2a0-5419-a56b-d5b6be46f6bd", "name": "Jenkins Pipeline: Groovy 2.56 for Jenkins", "cpe": "cpe:2.3:a:jenkins:pipeline\\:_groovy:2.56:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "_groovy"}

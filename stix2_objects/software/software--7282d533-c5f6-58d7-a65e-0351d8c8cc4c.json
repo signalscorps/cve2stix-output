@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--7282d533-c5f6-58d7-a65e-0351d8c8cc4c", "name": "Jenkins CAS 1.0.0 for Jenkins", "cpe": "cpe:2.3:a:jenkins:cas:1.0.0:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "1.0.0"}

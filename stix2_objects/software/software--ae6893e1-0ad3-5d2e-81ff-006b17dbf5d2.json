@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--ae6893e1-0ad3-5d2e-81ff-006b17dbf5d2", "name": "Jenkins Subversion 1.21 for Jenkins", "cpe": "cpe:2.3:a:jenkins:subversion:1.21:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "1.21"}

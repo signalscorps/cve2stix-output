@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--df52fd7d-04c4-5b65-bc44-fac626bcb360", "name": "Jenkins GitLab 1.1.16 for Jenkins", "cpe": "cpe:2.3:a:jenkins:gitlab:1.1.16:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "1.1.16"}

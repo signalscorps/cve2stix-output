@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--3e035f45-fb82-5bf1-9cd3-f25651c7c05d", "name": "Apache Software Foundation mod_perl 2.0.8", "cpe": "cpe:2.3:a:apache:mod_perl:2.0.8:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "apache", "version": "2.0.8"}

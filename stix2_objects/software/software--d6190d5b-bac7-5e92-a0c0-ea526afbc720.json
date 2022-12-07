@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--d6190d5b-bac7-5e92-a0c0-ea526afbc720", "name": "Jenkins Serena SRA Deploy for Jenkins", "cpe": "cpe:2.3:a:jenkins:serena_sra_deploy:-:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "-"}

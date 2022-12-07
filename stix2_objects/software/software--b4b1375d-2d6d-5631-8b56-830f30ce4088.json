@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--b4b1375d-2d6d-5631-8b56-830f30ce4088", "name": "Jenkins Mailer 1.5 for Jenkins", "cpe": "cpe:2.3:a:jenkins:mailer:1.5:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "1.5"}

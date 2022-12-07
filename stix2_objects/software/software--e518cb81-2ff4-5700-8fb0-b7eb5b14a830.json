@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--e518cb81-2ff4-5700-8fb0-b7eb5b14a830", "name": "Jenkins vSphere 0.4 for Jenkins", "cpe": "cpe:2.3:a:jenkins:vsphere:0.4:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "0.4"}

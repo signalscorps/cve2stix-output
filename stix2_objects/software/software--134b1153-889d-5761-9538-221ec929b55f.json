@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--134b1153-889d-5761-9538-221ec929b55f", "name": "Jenkins Amazon SNS Build Notifier 1.7 for Jenkins", "cpe": "cpe:2.3:a:jenkins:amazon_sns_build_notifier:1.7:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "1.7"}

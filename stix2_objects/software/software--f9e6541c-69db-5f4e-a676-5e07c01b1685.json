@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--f9e6541c-69db-5f4e-a676-5e07c01b1685", "name": "Jenkins Azure PublisherSettings Credentials 1.0 for Jenkins", "cpe": "cpe:2.3:a:jenkins:azure_publishersettings_credentials:1.0:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "1.0"}

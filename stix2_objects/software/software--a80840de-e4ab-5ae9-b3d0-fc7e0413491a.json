@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--a80840de-e4ab-5ae9-b3d0-fc7e0413491a", "name": "Jenkins Configuration as Code 1.1 for Jenkins", "cpe": "cpe:2.3:a:jenkins:configuration_as_code:1.1:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "1.1"}

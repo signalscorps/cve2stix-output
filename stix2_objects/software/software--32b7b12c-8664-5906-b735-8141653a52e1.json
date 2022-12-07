@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--32b7b12c-8664-5906-b735-8141653a52e1", "name": "Jenkins VS Team Services Continuous Deployment for Jenkins", "cpe": "cpe:2.3:a:jenkins:vs_team_services_continuous_deployment:-:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "-"}

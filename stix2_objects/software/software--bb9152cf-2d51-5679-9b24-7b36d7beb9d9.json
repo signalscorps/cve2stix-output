@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--bb9152cf-2d51-5679-9b24-7b36d7beb9d9", "name": "VMware vRealize Automation for Jenkins", "cpe": "cpe:2.3:a:jenkins:vmware_vrealize_automation:-:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "-"}

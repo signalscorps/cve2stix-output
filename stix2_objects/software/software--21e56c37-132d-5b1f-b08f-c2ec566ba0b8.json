@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--21e56c37-132d-5b1f-b08f-c2ec566ba0b8", "name": "Jenkins HTML Publisher 0.6 for Jenkins", "cpe": "cpe:2.3:a:jenkins:html_publisher:0.6:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "0.6"}

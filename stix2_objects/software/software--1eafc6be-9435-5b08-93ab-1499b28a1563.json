@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--1eafc6be-9435-5b08-93ab-1499b28a1563", "name": "Jenkins Aws-device-farm for Jenkins", "cpe": "cpe:2.3:a:jenkins:aws-device-farm:-:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "-"}

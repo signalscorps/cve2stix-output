@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--11e0bfd9-4e70-5432-af09-c1640afcd226", "name": "Jenkins Inedo BuildMaster 2.2.0 for Jenkins", "cpe": "cpe:2.3:a:jenkins:inedo_buildmaster:2.2.0:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "2.2.0"}

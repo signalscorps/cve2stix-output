@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--caab478f-d64f-56ee-9d62-99d57158ae7c", "name": "Jenkins Pipeline: Declarative 1.1 for Jenkins", "cpe": "cpe:2.3:a:jenkins:pipeline\\:_declarative:1.1:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "_declarative"}

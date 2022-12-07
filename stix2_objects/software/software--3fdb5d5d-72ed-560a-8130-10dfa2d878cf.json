@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--3fdb5d5d-72ed-560a-8130-10dfa2d878cf", "name": "Jenkins Slack Notification 2.0 for Jenkins", "cpe": "cpe:2.3:a:jenkins:slack_notification:2.0:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "2.0"}

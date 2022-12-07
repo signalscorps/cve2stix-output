@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--6b3a75c4-7387-555e-8e40-686e27ca80c5", "name": "Jenkins Active Directory 1.26 for Jenkins", "cpe": "cpe:2.3:a:jenkins:active_directory:1.26:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "1.26"}

@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--edfb5597-6790-5cad-807d-447360b46bbc", "name": "Jenkins TraceTronic ECU-TEST 2.1 for Jenkins", "cpe": "cpe:2.3:a:jenkins:tracetronic_ecu-test:2.1:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "2.1"}

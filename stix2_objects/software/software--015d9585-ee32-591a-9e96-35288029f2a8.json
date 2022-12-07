@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--015d9585-ee32-591a-9e96-35288029f2a8", "name": "Jenkins Ansible 0.3 for Jenkins", "cpe": "cpe:2.3:a:jenkins:ansible:0.3:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "0.3"}

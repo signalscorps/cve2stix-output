@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--b315effd-1a5e-5fde-9d1d-3f893cc7e3a8", "name": "Jenkins CloudCoreo DeployTime for Jenkins", "cpe": "cpe:2.3:a:jenkins:cloudcoreo_deploytime:-:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "-"}

@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--abab1e49-35b0-5226-b522-30fb367aa22c", "name": "Jenkins Reverse Proxy Auth 1.0 for Jenkins", "cpe": "cpe:2.3:a:jenkins:reverse_proxy_auth:1.0:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "1.0"}

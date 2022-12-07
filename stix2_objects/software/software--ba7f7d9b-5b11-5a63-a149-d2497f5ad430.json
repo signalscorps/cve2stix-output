@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--ba7f7d9b-5b11-5a63-a149-d2497f5ad430", "name": "Oracle MySQL 5.7.0 Enterprise Edition", "cpe": "cpe:2.3:a:oracle:mysql:5.7.0:*:*:*:enterprise:*:*:*", "languages": ["en_US"], "vendor": "oracle", "version": "5.7.0"}
