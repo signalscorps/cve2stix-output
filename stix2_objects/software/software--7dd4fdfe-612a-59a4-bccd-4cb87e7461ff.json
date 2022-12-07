@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--7dd4fdfe-612a-59a4-bccd-4cb87e7461ff", "name": "Microsoft Windows Server 2012 R2 Datacenter Edition on x64", "cpe": "cpe:2.3:o:microsoft:windows_server_2012:r2:*:*:*:datacenter:*:x64:*", "languages": ["en_US"], "vendor": "microsoft", "version": "r2"}

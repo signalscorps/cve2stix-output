@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--efce83cc-e4a7-5660-ab87-2fab894f4b0e", "name": "Microsoft Windows Server 2008 R2 Datacenter Edition on Itanium", "cpe": "cpe:2.3:o:microsoft:windows_server_2008:r2:-:*:*:datacenter:*:itanium:*", "languages": ["en_US"], "vendor": "microsoft", "version": "r2"}

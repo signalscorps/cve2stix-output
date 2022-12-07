@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--003e889a-c732-5d40-abe7-1ef2ef58d92e", "name": "OpenWrt LuCI 0.10.0", "cpe": "cpe:2.3:a:openwrt:luci:0.10.0:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "openwrt", "version": "0.10.0"}

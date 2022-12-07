@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--30e940ef-fab0-528a-9c0f-7662646e75e4", "name": "Jenkins Maven 2.5 for Jenkins", "cpe": "cpe:2.3:a:jenkins:maven:2.5:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "2.5"}

@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--9710001f-9663-5934-86d3-c42782ab060f", "name": "VMware vCenter Server Appliance (vCSA) 5.0 Update1", "cpe": "cpe:2.3:a:vmware:vcenter_server_appliance:5.0:update1:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "vmware", "version": "5.0"}

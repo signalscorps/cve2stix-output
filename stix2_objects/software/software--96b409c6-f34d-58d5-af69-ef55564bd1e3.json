@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--96b409c6-f34d-58d5-af69-ef55564bd1e3", "name": "Jenkins Github Authentication 0.22.3 for Jenkins", "cpe": "cpe:2.3:a:jenkins:github_authentication:0.22.3:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "0.22.3"}

@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--d1db565c-1f25-5afa-9429-1ba7f179b6fc", "name": "Jenkins Inedo ProGet 0.8 for Jenkins", "cpe": "cpe:2.3:a:jenkins:inedo_proget:0.8:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "0.8"}

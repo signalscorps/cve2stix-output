@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--fe1b9795-d639-5073-8a6e-858a975c8edf", "name": "Microsoft Windows Server 2008 R2 Service Pack 2 Enterprise Edition on x86", "cpe": "cpe:2.3:o:microsoft:windows_server_2008:r2:sp2:*:*:enterprise:*:x86:*", "languages": ["en_US"], "vendor": "microsoft", "version": "r2"}

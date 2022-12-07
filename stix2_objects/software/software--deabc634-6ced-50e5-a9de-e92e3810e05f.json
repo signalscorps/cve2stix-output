@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--deabc634-6ced-50e5-a9de-e92e3810e05f", "name": "Jenkins Release 2.10 for Jenkins", "cpe": "cpe:2.3:a:jenkins:release:2.10:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "2.10"}

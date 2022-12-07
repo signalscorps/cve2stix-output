@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--f35305cb-2180-54d5-a59e-032ae1e5fb4e", "name": "Microsoft Windows NT 4.0 Service Pack 3 Terminal Server Edition x64", "cpe": "cpe:2.3:o:microsoft:windows_nt:4.0:sp3:*:*:terminal_server:*:x64:*", "languages": ["en_US"], "vendor": "microsoft", "version": "4.0"}

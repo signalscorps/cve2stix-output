@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--a63df075-6e12-5810-9875-ad7c83d94ce4", "name": "Jenkins Ansible Tower 0.8.1 for Jenkins", "cpe": "cpe:2.3:a:jenkins:ansible_tower:0.8.1:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "0.8.1"}

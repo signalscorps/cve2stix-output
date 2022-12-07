@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--c4d99328-5028-532f-92d8-97214822ee6e", "name": "Fortinet FortiClient SSLVPN Client for Linux", "cpe": "cpe:2.3:a:fortinet:forticlient_sslvpn_client:-:*:*:*:*:linux:*:*", "languages": ["en_US"], "vendor": "fortinet", "version": "-"}

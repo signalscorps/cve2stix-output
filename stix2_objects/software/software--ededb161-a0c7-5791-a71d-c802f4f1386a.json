@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--ededb161-a0c7-5791-a71d-c802f4f1386a", "name": "Microsoft Windows Server 2008 Enterprise without Hyper-V Edition on Itanium", "cpe": "cpe:2.3:o:microsoft:windows_server_2008:-:-:*:*:enterprise_without_hyper-v:*:itanium:*", "languages": ["en_US"], "vendor": "microsoft", "version": "-"}

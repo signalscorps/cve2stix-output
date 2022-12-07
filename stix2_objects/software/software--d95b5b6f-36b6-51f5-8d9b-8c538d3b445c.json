@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--d95b5b6f-36b6-51f5-8d9b-8c538d3b445c", "name": "Jenkins PMD 3.40 for Jenkins", "cpe": "cpe:2.3:a:jenkins:pmd:3.40:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "3.40"}

@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--a47d0049-42db-50c9-9989-ef5570f5cd20", "name": "Jenkins Koji 0.1 for Jenkins", "cpe": "cpe:2.3:a:jenkins:koji:0.1:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "0.1"}

@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--bfb8f4f7-17a3-5268-b95e-5a29578930c7", "name": "Jenkins FindBugs 2.3 for Jenkins", "cpe": "cpe:2.3:a:jenkins:findbugs:2.3:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "2.3"}

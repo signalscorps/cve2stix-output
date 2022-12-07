@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--103b5561-7b8b-5676-b959-ab48a43f0a2c", "name": "Gitea 1.0.6 for Jenkins", "cpe": "cpe:2.3:a:gitea:gitea:1.0.6:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "gitea", "version": "1.0.6"}

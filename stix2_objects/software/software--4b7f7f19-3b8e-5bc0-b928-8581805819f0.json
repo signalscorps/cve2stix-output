@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--4b7f7f19-3b8e-5bc0-b928-8581805819f0", "name": "Microsoft Windows Server 2008 Enterprise without Hyper-V Edition on x86", "cpe": "cpe:2.3:o:microsoft:windows_server_2008:-:-:*:*:enterprise_without_hyper-v:*:x86:*", "languages": ["en_US"], "vendor": "microsoft", "version": "-"}

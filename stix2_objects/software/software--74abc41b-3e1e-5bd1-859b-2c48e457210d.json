@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--74abc41b-3e1e-5bd1-859b-2c48e457210d", "name": "Pivotal Software Spring Advanced Message Queuing Protocol (AMQP) 2.0.5", "cpe": "cpe:2.3:a:pivotal_software:spring_advanced_message_queuing_protocol:2.0.5:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "pivotal_software", "version": "2.0.5"}

@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--48788c71-90ac-50bf-891f-96cc5a0a9ddd", "name": "Jenkins SSH 2.6 for Jenkins", "cpe": "cpe:2.3:a:jenkins:ssh:2.6:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "2.6"}

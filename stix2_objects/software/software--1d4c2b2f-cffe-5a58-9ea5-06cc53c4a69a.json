@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--1d4c2b2f-cffe-5a58-9ea5-06cc53c4a69a", "name": "Netgate pfSense 2.3.4 Patch 1", "cpe": "cpe:2.3:a:netgate:pfsense:2.3.4:p1:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "netgate", "version": "2.3.4"}

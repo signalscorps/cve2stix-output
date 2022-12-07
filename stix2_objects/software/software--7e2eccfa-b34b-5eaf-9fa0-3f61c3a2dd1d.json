@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--7e2eccfa-b34b-5eaf-9fa0-3f61c3a2dd1d", "name": "SUSE Linux Enterprise Server (SLES) 11 Service Pack 1 LTSS Edition", "cpe": "cpe:2.3:o:suse:suse_linux_enterprise_server:11:sp1:*:*:ltss:*:*:*", "languages": ["en_US"], "vendor": "suse", "version": "11"}

@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--9b77a5cf-e70e-5556-8e4b-a61e6ba58762", "name": "PHP Imagick 3.4.2", "cpe": "cpe:2.3:a:php:imagick:3.4.2:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "php", "version": "3.4.2"}

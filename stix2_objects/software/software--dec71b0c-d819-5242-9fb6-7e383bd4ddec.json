@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--dec71b0c-d819-5242-9fb6-7e383bd4ddec", "name": "Microsoft Windows Server 2008 R2 Service Pack 2 Datacenter Edition on x64", "cpe": "cpe:2.3:o:microsoft:windows_server_2008:r2:sp2:*:*:datacenter:*:x64:*", "languages": ["en_US"], "vendor": "microsoft", "version": "r2"}

@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--1cde0f64-ebf7-5723-b2e3-661e8e29cc72", "name": "wolfSSL 4.0 Release Candidate 4", "cpe": "cpe:2.3:a:wolfssl:wolfssl:4.0:rc4:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "wolfssl", "version": "4.0"}

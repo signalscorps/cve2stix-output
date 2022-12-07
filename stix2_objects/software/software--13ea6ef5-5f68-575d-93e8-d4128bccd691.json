@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--13ea6ef5-5f68-575d-93e8-d4128bccd691", "name": "Jenkins Pipeline Remote Loader 1.4 for Jenkins", "cpe": "cpe:2.3:a:jenkins:pipeline_remote_loader:1.4:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "1.4"}

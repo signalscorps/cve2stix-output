@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--09834458-15e4-5a21-a36e-77b0f32c8f76", "name": "Jenkins Checkstyle 2.10 for Jenkins", "cpe": "cpe:2.3:a:jenkins:checkstyle:2.10:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "2.10"}

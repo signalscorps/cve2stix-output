@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--f52e945a-f346-5c36-a46a-693b268c35fa", "name": "Jenkins DRY 1.4 for Jenkins", "cpe": "cpe:2.3:a:jenkins:dry:1.4:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "1.4"}

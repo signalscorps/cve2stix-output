@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--1c0f3033-328d-584b-a567-6de5a8e5800b", "name": "Jenkins Dependency Graph Viewer 0.2 for Jenkins", "cpe": "cpe:2.3:a:jenkins:dependency_graph_viewer:0.2:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "0.2"}

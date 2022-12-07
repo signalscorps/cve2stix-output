@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--460e2ecd-fb96-50d2-8b6e-79e974a42a98", "name": "Jenkins Credentials 1.16.1 for Jenkins", "cpe": "cpe:2.3:a:jenkins:credentials:1.16.1:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "1.16.1"}

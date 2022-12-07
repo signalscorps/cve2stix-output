@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--e763ce79-6bb0-57d6-9a9a-fb63619c1e89", "name": "Jenkins JUnit 1.16 for Jenkins", "cpe": "cpe:2.3:a:jenkins:junit:1.16:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "1.16"}

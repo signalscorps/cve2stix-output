@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--5ddca94e-5522-5a24-8fa3-b52a22428572", "name": "Microsoft Windows Server 2008 Service Pack 2 Standard without Hyper-v Edition on x64", "cpe": "cpe:2.3:o:microsoft:windows_server_2008:-:sp2:*:*:standard_without_hyper-v:*:x64:*", "languages": ["en_US"], "vendor": "microsoft", "version": "-"}

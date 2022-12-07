@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--b0edbe6e-8253-52ce-9fe2-c624f3808e47", "name": "Jenkins SiteMonitor 0.4 for Jenkins", "cpe": "cpe:2.3:a:jenkins:sitemonitor:0.4:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "0.4"}

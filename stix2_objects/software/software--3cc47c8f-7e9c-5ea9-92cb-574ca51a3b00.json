@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--3cc47c8f-7e9c-5ea9-92cb-574ca51a3b00", "name": "Microsoft Windows Server 2008 R2 Enterprise Edition on Itanium", "cpe": "cpe:2.3:o:microsoft:windows_server_2008:r2:-:*:*:enterprise:*:itanium:*", "languages": ["en_US"], "vendor": "microsoft", "version": "r2"}

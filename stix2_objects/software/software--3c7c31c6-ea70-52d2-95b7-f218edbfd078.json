@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--3c7c31c6-ea70-52d2-95b7-f218edbfd078", "name": "Jenkins XebiaLabs XL Deploy 7.5.0 for Jenkins", "cpe": "cpe:2.3:a:jenkins:xebialabs_xl_deploy:7.5.0:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "7.5.0"}

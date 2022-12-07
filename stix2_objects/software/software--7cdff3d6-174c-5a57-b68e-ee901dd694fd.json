@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--7cdff3d6-174c-5a57-b68e-ee901dd694fd", "name": "Azure AD 0.3.0 for Jenkins", "cpe": "cpe:2.3:a:jenkins:azure_ad:0.3.0:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "0.3.0"}

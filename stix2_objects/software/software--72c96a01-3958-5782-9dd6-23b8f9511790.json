@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--72c96a01-3958-5782-9dd6-23b8f9511790", "name": "Microsoft Windows Server 2008 Datacenter without Hyper-V Edition on x64", "cpe": "cpe:2.3:o:microsoft:windows_server_2008:-:-:*:*:datacenter_without_hyper-v:*:x64:*", "languages": ["en_US"], "vendor": "microsoft", "version": "-"}

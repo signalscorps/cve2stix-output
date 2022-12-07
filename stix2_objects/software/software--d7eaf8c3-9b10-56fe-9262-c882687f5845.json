@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--d7eaf8c3-9b10-56fe-9262-c882687f5845", "name": "Jenkins Git Client 1.19.2 for Jenkins", "cpe": "cpe:2.3:a:jenkins:git_client:1.19.2:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "1.19.2"}

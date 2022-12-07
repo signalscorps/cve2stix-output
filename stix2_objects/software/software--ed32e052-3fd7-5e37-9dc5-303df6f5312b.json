@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--ed32e052-3fd7-5e37-9dc5-303df6f5312b", "name": "Cloudfoundry Routing Release 0.66.0", "cpe": "cpe:2.3:a:cloudfoundry:routing_release:0.66.0:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "cloudfoundry", "version": "0.66.0"}

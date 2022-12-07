@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--8024d2e3-b3b3-5cbe-ac6b-7c9ffa3174cc", "name": "Cloud Foundry UAA Release 13.9", "cpe": "cpe:2.3:a:cloudfoundry:uaa_release:13.9:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "cloudfoundry", "version": "13.9"}

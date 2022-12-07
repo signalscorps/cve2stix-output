@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--78503f8e-9a7a-50c3-be32-18b5288fb25c", "name": "Jenkins global-build-stats 0.5 for Jenkins", "cpe": "cpe:2.3:a:jenkins:global-build-stats:0.5:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "0.5"}
