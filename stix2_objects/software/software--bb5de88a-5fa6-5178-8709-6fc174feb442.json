@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--bb5de88a-5fa6-5178-8709-6fc174feb442", "name": "PgBouncer 1.8", "cpe": "cpe:2.3:a:pgbouncer:pgbouncer:1.8:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "pgbouncer", "version": "1.8"}

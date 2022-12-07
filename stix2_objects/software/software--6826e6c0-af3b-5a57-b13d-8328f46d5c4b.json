@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--6826e6c0-af3b-5a57-b13d-8328f46d5c4b", "name": "NVIDIA Cuda Toolkit 10.0.130", "cpe": "cpe:2.3:a:nvidia:cuda_toolkit:10.0.130:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "nvidia", "version": "10.0.130"}

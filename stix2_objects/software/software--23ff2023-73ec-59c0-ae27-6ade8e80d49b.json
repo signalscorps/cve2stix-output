@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--23ff2023-73ec-59c0-ae27-6ade8e80d49b", "name": "highlight.js 10.0.1 for Node.js", "cpe": "cpe:2.3:a:highlightjs:highlight.js:10.0.1:*:*:*:*:node.js:*:*", "languages": ["en_US"], "vendor": "highlightjs", "version": "10.0.1"}

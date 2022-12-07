@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--8c9a4774-eca9-572e-99c6-1607240b4182", "name": "Jupyter Server 0.3.0", "cpe": "cpe:2.3:a:jupyter:jupyter_server:0.3.0:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "jupyter", "version": "0.3.0"}

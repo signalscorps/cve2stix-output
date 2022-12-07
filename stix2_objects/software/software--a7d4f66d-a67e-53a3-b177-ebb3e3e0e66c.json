@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--a7d4f66d-a67e-53a3-b177-ebb3e3e0e66c", "name": "MariaDB 2.4.2 for Node.js", "cpe": "cpe:2.3:a:mariadb:mariadb:2.4.2:*:*:*:*:node.js:*:*", "languages": ["en_US"], "vendor": "mariadb", "version": "2.4.2"}

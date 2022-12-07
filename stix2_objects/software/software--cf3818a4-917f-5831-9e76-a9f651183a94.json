@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--cf3818a4-917f-5831-9e76-a9f651183a94", "name": "Microsoft Visual C++ 2005 Service Pack 1 Redistributable Package", "cpe": "cpe:2.3:a:microsoft:visual_c\\+\\+:2005:sp1:*:*:redistributable_package:*:*:*", "languages": ["en_US"], "vendor": "microsoft", "version": "2005"}

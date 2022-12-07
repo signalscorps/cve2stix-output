@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--d4a8f5c6-942d-5476-8a9f-21706ed67c98", "name": "Intel Trusted Execution Engine (TXE) 4.0.30", "cpe": "cpe:2.3:o:intel:trusted_execution_engine:4.0.30:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "intel", "version": "4.0.30"}

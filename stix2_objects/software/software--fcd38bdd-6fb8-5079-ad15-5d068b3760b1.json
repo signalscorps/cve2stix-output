@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--fcd38bdd-6fb8-5079-ad15-5d068b3760b1", "name": "Linux Foundation NATS 0.6.2", "cpe": "cpe:2.3:a:linuxfoundation:nats-server:0.6.2:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "linuxfoundation", "version": "0.6.2"}

@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--53feb47d-30f3-5a40-830a-8b334be17a56", "name": "curl Project curl for Ruby", "cpe": "cpe:2.3:a:curl_project:curl:-:*:*:*:*:ruby:*:*", "languages": ["en_US"], "vendor": "curl_project", "version": "-"}

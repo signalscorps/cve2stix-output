@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--0a224ba2-7afd-59e8-ba32-962c6887ee2d", "name": "Jenkins AWS Global Configuration 1.2 for Jenkins", "cpe": "cpe:2.3:a:jenkins:aws_global_configuration:1.2:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "1.2"}

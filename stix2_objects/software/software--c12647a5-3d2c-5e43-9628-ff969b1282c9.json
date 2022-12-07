@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--c12647a5-3d2c-5e43-9628-ff969b1282c9", "name": "Arm Trusted Firmware-A (TF-A) 1.5 Release Candidate 0", "cpe": "cpe:2.3:a:arm:trusted_firmware-a:1.5:rc0:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "arm", "version": "1.5"}

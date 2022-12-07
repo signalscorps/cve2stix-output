@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--ee4d6b9a-d90b-5d9d-a0bd-4d72e9f360cf", "name": "Barchart Maven Cascade Release for Jenkins", "cpe": "cpe:2.3:a:barchart:maven_cascade_release:-:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "barchart", "version": "-"}

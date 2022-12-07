@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--bc27d00b-7931-5997-a0e1-2bf3ab66cc0e", "name": "Chartjs Chart.js 3.0.0 Beta 3 for Node.js", "cpe": "cpe:2.3:a:chartjs:chart.js:3.0.0:beta3:*:*:*:node.js:*:*", "languages": ["en_US"], "vendor": "chartjs", "version": "3.0.0"}

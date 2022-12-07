@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--a4a0a59b-5a1e-51a6-95ec-e840b1af4c65", "name": "Check Point Endpoint Security E83.20 for Windows", "cpe": "cpe:2.3:a:checkpoint:endpoint_security:e83.20:*:*:*:*:windows:*:*", "languages": ["en_US"], "vendor": "checkpoint", "version": "e83.20"}

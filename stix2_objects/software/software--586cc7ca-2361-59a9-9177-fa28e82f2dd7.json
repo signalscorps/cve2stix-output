@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--586cc7ca-2361-59a9-9177-fa28e82f2dd7", "name": "Intel Thunderbolt DCH Driver 72 for Windows", "cpe": "cpe:2.3:a:intel:thunderbolt_dch_driver:72:*:*:*:*:windows:*:*", "languages": ["en_US"], "vendor": "intel", "version": "72"}

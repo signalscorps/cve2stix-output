@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--7251ef84-199a-5862-9435-41d0f36f6e08", "name": "Jenkins SQLPlus Script Runner 1.0.8 for Jenkins", "cpe": "cpe:2.3:a:jenkins:sqlplus_script_runner:1.0.8:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "1.0.8"}

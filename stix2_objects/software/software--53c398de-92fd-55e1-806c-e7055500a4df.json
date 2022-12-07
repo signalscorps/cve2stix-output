@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--53c398de-92fd-55e1-806c-e7055500a4df", "name": "Jenkins Azure Key Vault 2.0 for Jenkins", "cpe": "cpe:2.3:a:jenkins:azure_key_vault:2.0:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "2.0"}
