@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--6367b08d-382e-5f47-9b07-cd68ae375209", "name": "Jenkins Selenium 2.4 for Jenkins", "cpe": "cpe:2.3:a:jenkins:selenium:2.4:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "2.4"}

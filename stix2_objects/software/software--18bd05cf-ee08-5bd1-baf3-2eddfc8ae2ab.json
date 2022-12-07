@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--18bd05cf-ee08-5bd1-baf3-2eddfc8ae2ab", "name": "Nodejs Node.js 6.4.0 LTS Edition", "cpe": "cpe:2.3:a:nodejs:node.js:6.4.0:*:*:*:lts:*:*:*", "languages": ["en_US"], "vendor": "nodejs", "version": "6.4.0"}

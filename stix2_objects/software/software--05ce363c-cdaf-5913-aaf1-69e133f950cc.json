@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--05ce363c-cdaf-5913-aaf1-69e133f950cc", "name": "NetApp OnCommand Unified Manager 9.5 for Linux", "cpe": "cpe:2.3:a:netapp:oncommand_unified_manager:9.5:*:*:*:*:linux:*:*", "languages": ["en_US"], "vendor": "netapp", "version": "9.5"}

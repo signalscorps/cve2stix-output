@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--faf0b4fa-d66d-5643-8808-896b20a67af7", "name": "IBM Sterling Connect:Direct 4.3.0.1 for Unix", "cpe": "cpe:2.3:a:ibm:sterling_connect\\:direct:4.3.0.1:*:*:*:*:unix:*:*", "languages": ["en_US"], "vendor": "ibm", "version": "direct"}

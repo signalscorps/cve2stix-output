@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--0f0168e3-a021-50e0-a502-0eceed7653e2", "name": "Codecov Nodejs Uploader 3.6.2 for Node.js", "cpe": "cpe:2.3:a:codecov:nodejs_uploader:3.6.2:*:*:*:*:node.js:*:*", "languages": ["en_US"], "vendor": "codecov", "version": "3.6.2"}

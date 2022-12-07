@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--745624a2-153f-5776-b40f-4ae7828489e9", "name": "Docker Engine 19.03.11", "cpe": "cpe:2.3:a:docker:engine:19.03.11:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "docker", "version": "19.03.11"}

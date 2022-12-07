@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--74c08cee-8e78-5539-a46f-77e9789b0264", "name": "Mattermost Server 5.15.5", "cpe": "cpe:2.3:a:mattermost:mattermost_server:5.15.5:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "mattermost", "version": "5.15.5"}

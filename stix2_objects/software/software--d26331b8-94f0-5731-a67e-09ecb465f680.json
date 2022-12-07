@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--d26331b8-94f0-5731-a67e-09ecb465f680", "name": "Google BoringSSL", "cpe": "cpe:2.3:a:google:boringssl:-:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "google", "version": "-"}

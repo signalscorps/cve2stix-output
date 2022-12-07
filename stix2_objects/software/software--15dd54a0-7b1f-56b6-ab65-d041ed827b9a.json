@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--15dd54a0-7b1f-56b6-ab65-d041ed827b9a", "name": "Nodejs Node.js 10.10.0 LTS Edition", "cpe": "cpe:2.3:a:nodejs:node.js:10.10.0:*:*:*:lts:*:*:*", "languages": ["en_US"], "vendor": "nodejs", "version": "10.10.0"}

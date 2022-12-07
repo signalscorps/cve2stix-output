@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--5e399128-4736-5cbb-b778-c57e5229ec9c", "name": "MariaDB Connector/C 3.0.4", "cpe": "cpe:2.3:a:mariadb:connector\\/c:3.0.4:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "mariadb", "version": "3.0.4"}

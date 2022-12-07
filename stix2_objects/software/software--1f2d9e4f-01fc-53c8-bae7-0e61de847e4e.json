@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--1f2d9e4f-01fc-53c8-bae7-0e61de847e4e", "name": "NetApp OnCommand Unified Manager for Clustered Data ONTAP", "cpe": "cpe:2.3:a:netapp:oncommand_unified_manager:-:*:*:*:*:clustered_data_ontap:*:*", "languages": ["en_US"], "vendor": "netapp", "version": "-"}

@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--b75f591d-4d07-54cf-be0e-1613d8618754", "name": "Linux Kernel on X64", "cpe": "cpe:2.3:o:linux:linux_kernel:-:*:*:*:*:*:x64:*", "languages": ["en_US"], "vendor": "linux", "version": "-"}

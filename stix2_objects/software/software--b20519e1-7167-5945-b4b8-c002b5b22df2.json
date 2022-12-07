@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--b20519e1-7167-5945-b4b8-c002b5b22df2", "name": "Open Robotics Robot Operating System (ROS) 1 Noetic", "cpe": "cpe:2.3:a:openrobotics:robot_operating_system:1:noetic:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "openrobotics", "version": "1"}

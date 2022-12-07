@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--b51b0bc9-d303-5743-9e9d-11d46bcae5d0", "name": "eCryptfs-utils 64", "cpe": "cpe:2.3:a:ecryptfs:ecryptfs-utils:64:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "ecryptfs", "version": "64"}

@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--65e107d5-ba6c-5167-b22f-d1f60af043d2", "name": "Red Hat Enterprise Linux (RHCOS) 8.0 CoreOS Edition", "cpe": "cpe:2.3:o:redhat:enterprise_linux:8.0:*:*:*:coreos:*:*:*", "languages": ["en_US"], "vendor": "redhat", "version": "8.0"}

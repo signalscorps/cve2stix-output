@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--e45558e2-3f88-55f4-853c-7edec41f799b", "name": "Red Hat Kernel-RT", "cpe": "cpe:2.3:o:redhat:kernel-rt:-:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "redhat", "version": "-"}

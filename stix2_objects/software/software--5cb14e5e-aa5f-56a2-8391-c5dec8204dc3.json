@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--5cb14e5e-aa5f-56a2-8391-c5dec8204dc3", "name": "MQTT 3.1.1", "cpe": "cpe:2.3:a:mqtt:mqtt:3.1.1:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "mqtt", "version": "3.1.1"}

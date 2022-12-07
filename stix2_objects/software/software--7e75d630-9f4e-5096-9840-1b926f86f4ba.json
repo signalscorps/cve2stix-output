@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--7e75d630-9f4e-5096-9840-1b926f86f4ba", "name": "Jenkins Self-Organizing Swarm Modules 1.19 for Jenkins", "cpe": "cpe:2.3:a:jenkins:self-organizing_swarm_modules:1.19:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "1.19"}

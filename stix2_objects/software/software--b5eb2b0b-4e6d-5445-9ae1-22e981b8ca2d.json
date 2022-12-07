@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--b5eb2b0b-4e6d-5445-9ae1-22e981b8ca2d", "name": "IBM QRadar Network Packet Capture 7.3.2 Patch 1", "cpe": "cpe:2.3:a:ibm:qradar_network_packet_capture:7.3.2:patch_1:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "ibm", "version": "7.3.2"}

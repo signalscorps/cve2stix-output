@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--b9583889-3ce1-5f31-bcfe-ffbd3f684d06", "name": "SAP ERP (EA-FINSERV) 600", "cpe": "cpe:2.3:a:sap:erp_\\(ea-finserv\\):600:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "sap", "version": "600"}

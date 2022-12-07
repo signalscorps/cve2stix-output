@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--d91314e8-e7e7-5656-9775-75aa1ddfefc9", "name": "Open Robotics Robot Operating System (ROS) 2 Eloquent", "cpe": "cpe:2.3:a:openrobotics:robot_operating_system:2:eloquent:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "openrobotics", "version": "2"}

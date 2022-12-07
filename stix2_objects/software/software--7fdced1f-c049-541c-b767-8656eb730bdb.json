@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--7fdced1f-c049-541c-b767-8656eb730bdb", "name": "SAP ERP (S4CORE) 103", "cpe": "cpe:2.3:a:sap:erp_\\(s4core\\):103:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "sap", "version": "103"}

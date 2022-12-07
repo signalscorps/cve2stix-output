@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--ba6cc125-3286-525c-b129-779daf27ec8f", "name": "Mattermost Server 5.12.0 Release Candidate 5", "cpe": "cpe:2.3:a:mattermost:mattermost_server:5.12.0:rc5:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "mattermost", "version": "5.12.0"}

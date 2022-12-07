@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--6845be80-cc90-5452-87fb-83778b1c41cc", "name": "Couchbase Sync Gateway 2.7.0", "cpe": "cpe:2.3:a:couchbase:sync_gateway:2.7.0:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "couchbase", "version": "2.7.0"}

@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--eda8616a-bac1-5e4e-8fa7-ecc4f1b5c23a", "name": "Intel Trusted Execution Engine Firmware 3.1.50", "cpe": "cpe:2.3:o:intel:trusted_execution_engine_firmware:3.1.50:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "intel", "version": "3.1.50"}

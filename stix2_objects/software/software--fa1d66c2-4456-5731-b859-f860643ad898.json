@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--fa1d66c2-4456-5731-b859-f860643ad898", "name": "Kernel Selinux 5.2", "cpe": "cpe:2.3:a:kernel:selinux:5.2:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "kernel", "version": "5.2"}

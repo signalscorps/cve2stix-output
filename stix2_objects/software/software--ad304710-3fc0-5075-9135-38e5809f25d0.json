@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--ad304710-3fc0-5075-9135-38e5809f25d0", "name": "Nvidia Jetson TX1 Firmware R32.2", "cpe": "cpe:2.3:o:nvidia:jetson_tx1_firmware:r32.2:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "nvidia", "version": "r32.2"}

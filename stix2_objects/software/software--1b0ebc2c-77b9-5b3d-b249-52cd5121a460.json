@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--1b0ebc2c-77b9-5b3d-b249-52cd5121a460", "name": "Siemens SIMATIC WinCC 7.4 Service Pack 1 Update 1", "cpe": "cpe:2.3:a:siemens:simatic_wincc:7.4:sp1_update1:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "siemens", "version": "7.4"}

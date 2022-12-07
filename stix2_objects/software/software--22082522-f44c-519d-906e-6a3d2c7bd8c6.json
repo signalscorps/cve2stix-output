@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--22082522-f44c-519d-906e-6a3d2c7bd8c6", "name": "Elastic Cloud on Kubernetes (ECK) 1.1.0", "cpe": "cpe:2.3:a:elastic:elastic_cloud_on_kubernetes:1.1.0:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "elastic", "version": "1.1.0"}

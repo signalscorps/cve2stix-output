@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--5850f2a9-a142-55ce-9725-99379d3125cf", "name": "OpenBSD 5.7", "cpe": "cpe:2.3:o:openbsd:openbsd:5.7:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "openbsd", "version": "5.7"}

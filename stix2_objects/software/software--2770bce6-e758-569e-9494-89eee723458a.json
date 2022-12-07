@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--2770bce6-e758-569e-9494-89eee723458a", "name": "NetApp Oncommand Unified Manager 9.5 for Vmware Vsphere", "cpe": "cpe:2.3:a:netapp:oncommand_unified_manager:9.5:*:*:*:*:vmware_vsphere:*:*", "languages": ["en_US"], "vendor": "netapp", "version": "9.5"}

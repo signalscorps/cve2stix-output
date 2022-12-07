@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--3a3fcda5-8abe-561c-96d2-5253a6e54cd3", "name": "Jenkins Subversion Partial Release Manager for Jenkins", "cpe": "cpe:2.3:a:jenkins:subversion_partial_release_manager:-:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "-"}

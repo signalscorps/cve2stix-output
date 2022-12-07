@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--78c370c4-32e7-55a6-8e43-696b148647e7", "name": "Open Robotics Robot Operating System (ROS) 2 Foxy", "cpe": "cpe:2.3:a:openrobotics:robot_operating_system:2:foxy:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "openrobotics", "version": "2"}

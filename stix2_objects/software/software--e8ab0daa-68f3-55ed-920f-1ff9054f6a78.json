@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--e8ab0daa-68f3-55ed-920f-1ff9054f6a78", "name": "Open Robotics Robot Operating System (ROS) 2 Dashing", "cpe": "cpe:2.3:a:openrobotics:robot_operating_system:2:dashing:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "openrobotics", "version": "2"}

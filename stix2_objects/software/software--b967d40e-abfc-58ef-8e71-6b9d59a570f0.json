@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--b967d40e-abfc-58ef-8e71-6b9d59a570f0", "name": "Jenkins Play Framework 0.0.12 for Jenkins", "cpe": "cpe:2.3:a:jenkins:play_framework:0.0.12:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "0.0.12"}

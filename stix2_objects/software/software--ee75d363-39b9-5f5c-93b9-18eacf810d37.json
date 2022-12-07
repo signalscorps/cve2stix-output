@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--ee75d363-39b9-5f5c-93b9-18eacf810d37", "name": "Apache Software Foundation Spark 2.4.0 Release Candidate 2", "cpe": "cpe:2.3:a:apache:spark:2.4.0:rc2:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "apache", "version": "2.4.0"}

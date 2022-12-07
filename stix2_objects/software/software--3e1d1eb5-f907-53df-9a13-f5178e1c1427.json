@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--3e1d1eb5-f907-53df-9a13-f5178e1c1427", "name": "Jenkins ECharts API 4.4.0-4 Beta 1 for Jenkins", "cpe": "cpe:2.3:a:jenkins:echarts_api:4.4.0-4:beta1:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "4.4.0-4"}

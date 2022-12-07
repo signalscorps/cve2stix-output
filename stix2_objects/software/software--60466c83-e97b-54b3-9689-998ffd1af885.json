@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--60466c83-e97b-54b3-9689-998ffd1af885", "name": "Couchbase Server Java Sdk 2.6", "cpe": "cpe:2.3:a:couchbase:couchbase_server_java_sdk:2.6:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "couchbase", "version": "2.6"}
