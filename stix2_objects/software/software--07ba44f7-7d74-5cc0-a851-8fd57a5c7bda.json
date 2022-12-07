@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--07ba44f7-7d74-5cc0-a851-8fd57a5c7bda", "name": "Cisco Duo Authentication for Windows Logon and RDP 4.1.0", "cpe": "cpe:2.3:a:cisco:duo_authentication_for_windows_logon_and_rdp:4.1.0:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "cisco", "version": "4.1.0"}

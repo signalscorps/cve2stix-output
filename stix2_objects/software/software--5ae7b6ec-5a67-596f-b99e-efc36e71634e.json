@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--5ae7b6ec-5a67-596f-b99e-efc36e71634e", "name": "F5 BIG-IP SSL Orchestrator (SSLO) 14.1.0", "cpe": "cpe:2.3:a:f5:big-ip_ssl_orchestrator:14.1.0:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "f5", "version": "14.1.0"}

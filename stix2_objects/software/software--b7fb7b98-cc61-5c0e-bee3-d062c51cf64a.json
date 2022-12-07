@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--b7fb7b98-cc61-5c0e-bee3-d062c51cf64a", "name": "Fast CGI Project Fast CGI (FCGI) 0.71_01 for Perl", "cpe": "cpe:2.3:a:fast_cgi_project:fast_cgi:0.71_01:*:*:*:*:perl:*:*", "languages": ["en_US"], "vendor": "fast_cgi_project", "version": "0.71_01"}

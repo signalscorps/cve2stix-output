@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--78b71220-047b-59c6-8895-375ebb73fccb", "name": "gRPC 1.24.4 for -", "cpe": "cpe:2.3:a:grpc:grpc:1.24.4:*:*:*:*:-:*:*", "languages": ["en_US"], "vendor": "grpc", "version": "1.24.4"}

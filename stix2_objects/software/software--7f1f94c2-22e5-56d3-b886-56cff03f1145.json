@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--7f1f94c2-22e5-56d3-b886-56cff03f1145", "name": "Hashicorp Nomad 0.11.0 Beta 2", "cpe": "cpe:2.3:a:hashicorp:nomad:0.11.0:beta2:*:*:-:*:*:*", "languages": ["en_US"], "vendor": "hashicorp", "version": "0.11.0"}

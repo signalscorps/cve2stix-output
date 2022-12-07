@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--4c10bea7-5753-5023-b239-780524a96147", "name": "SolarWinds SFTP/SCP Server", "cpe": "cpe:2.3:a:solarwinds:sftp\\/scp_server:-:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "solarwinds", "version": "-"}

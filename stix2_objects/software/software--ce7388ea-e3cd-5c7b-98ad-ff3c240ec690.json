@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--ce7388ea-e3cd-5c7b-98ad-ff3c240ec690", "name": "PHP archive_tar 1.4.4", "cpe": "cpe:2.3:a:php:archive_tar:1.4.4:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "php", "version": "1.4.4"}

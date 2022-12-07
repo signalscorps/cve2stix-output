@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--de2dbdba-2de9-5ea3-a1e8-52aa49d74b58", "name": "NetApp SnapManager for Oracle", "cpe": "cpe:2.3:a:netapp:snapmanager:-:-:*:*:*:oracle:*:*", "languages": ["en_US"], "vendor": "netapp", "version": "-"}

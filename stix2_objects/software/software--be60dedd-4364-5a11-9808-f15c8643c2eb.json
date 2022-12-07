@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--be60dedd-4364-5a11-9808-f15c8643c2eb", "name": "Ceph ceph-ansible 3.1.0 Beta 5", "cpe": "cpe:2.3:a:ceph:ceph-ansible:3.1.0:beta5:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "ceph", "version": "3.1.0"}

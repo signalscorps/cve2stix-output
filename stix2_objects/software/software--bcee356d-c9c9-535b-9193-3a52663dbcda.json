@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--bcee356d-c9c9-535b-9193-3a52663dbcda", "name": "Intel CSI2 Host Controller", "cpe": "cpe:2.3:a:intel:csi2_host_controller:-:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "intel", "version": "-"}

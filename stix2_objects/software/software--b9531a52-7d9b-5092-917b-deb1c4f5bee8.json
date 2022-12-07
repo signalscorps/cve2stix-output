@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--b9531a52-7d9b-5092-917b-deb1c4f5bee8", "name": "Nodemailer 2.4.0 Beta 0 for Node.js", "cpe": "cpe:2.3:a:nodemailer:nodemailer:2.4.0:beta0:*:*:*:node.js:*:*", "languages": ["en_US"], "vendor": "nodemailer", "version": "2.4.0"}

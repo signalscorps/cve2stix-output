@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--39bdd97f-024e-5910-ad5e-3d0fb0c4104f", "name": "IBM Hardware Management Console (HMC) 7.3.0 Service Pack 7", "cpe": "cpe:2.3:a:ibm:hardware_management_console:7.3.0:sp7:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "ibm", "version": "7.3.0"}

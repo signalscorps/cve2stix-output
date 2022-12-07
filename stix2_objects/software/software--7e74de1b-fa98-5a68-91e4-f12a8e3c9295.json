@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--7e74de1b-fa98-5a68-91e4-f12a8e3c9295", "name": "Intel Software Guard Extensions Data Center Attestation Primitives (SGX DCAP) 1.2", "cpe": "cpe:2.3:a:intel:software_guard_extensions_data_center_attestation_primitives:1.2:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "intel", "version": "1.2"}

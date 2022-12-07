@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--c8deaaaf-7ce0-556a-98af-4950a87a2e1f", "name": "DataTables datatables.net 1.10.7 for Node.js", "cpe": "cpe:2.3:a:datatables:datatables.net:1.10.7:*:*:*:*:node.js:*:*", "languages": ["en_US"], "vendor": "datatables", "version": "1.10.7"}

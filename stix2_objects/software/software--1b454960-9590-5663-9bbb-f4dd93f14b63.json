@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--1b454960-9590-5663-9bbb-f4dd93f14b63", "name": "JupyterHub systemdspawner 0.9.7", "cpe": "cpe:2.3:a:jupyterhub:systemdspawner:0.9.7:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "jupyterhub", "version": "0.9.7"}

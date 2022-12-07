@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--3bd81bee-b68d-5c7b-8b9c-05e33956e8ec", "name": "OpenStack Blazar-dashboard 1.0.0", "cpe": "cpe:2.3:a:openstack:blazar-dashboard:1.0.0:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "openstack", "version": "1.0.0"}

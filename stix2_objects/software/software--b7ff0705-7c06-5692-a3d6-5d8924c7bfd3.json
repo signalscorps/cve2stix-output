@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--b7ff0705-7c06-5692-a3d6-5d8924c7bfd3", "name": "NVIDIA DGX-2", "cpe": "cpe:2.3:h:nvidia:dgx-2:-:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "nvidia", "version": "-"}

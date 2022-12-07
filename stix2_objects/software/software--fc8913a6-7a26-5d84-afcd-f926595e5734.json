@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--fc8913a6-7a26-5d84-afcd-f926595e5734", "name": "Docker Spiped 1.6.1", "cpe": "cpe:2.3:a:docker:spiped:1.6.1:-:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "docker", "version": "1.6.1"}

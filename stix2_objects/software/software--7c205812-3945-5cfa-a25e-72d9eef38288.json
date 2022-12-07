@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--7c205812-3945-5cfa-a25e-72d9eef38288", "name": "NLnet Labs Name Server Daemon (NSD) 4.2.2 Release Candidate 2", "cpe": "cpe:2.3:a:nlnetlabs:name_server_daemon:4.2.2:rc2:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "nlnetlabs", "version": "4.2.2"}

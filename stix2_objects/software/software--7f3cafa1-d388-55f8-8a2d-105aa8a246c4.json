@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--7f3cafa1-d388-55f8-8a2d-105aa8a246c4", "name": "Percona Server 2020-10-02 for MongoDB", "cpe": "cpe:2.3:a:percona:percona_server:2020-10-02:*:*:*:*:mongodb:*:*", "languages": ["en_US"], "vendor": "percona", "version": "2020-10-02"}

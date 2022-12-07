@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--1a4280d5-c7da-5392-ad0c-4662ecee99b7", "name": "Linux-PAM 0.78", "cpe": "cpe:2.3:a:linux-pam:linux-pam:0.78:-:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "linux-pam", "version": "0.78"}

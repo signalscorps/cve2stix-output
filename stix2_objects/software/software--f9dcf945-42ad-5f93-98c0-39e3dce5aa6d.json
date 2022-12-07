@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--f9dcf945-42ad-5f93-98c0-39e3dce5aa6d", "name": "mathjs 5.4.1 for Node.js", "cpe": "cpe:2.3:a:mathjs:mathjs:5.4.1:*:*:*:*:node.js:*:*", "languages": ["en_US"], "vendor": "mathjs", "version": "5.4.1"}

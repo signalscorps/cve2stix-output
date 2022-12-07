@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--31d0e240-2122-5124-900b-ae6296037a7a", "name": "Matomo Piwik Fpm-alpine Docker Image 3", "cpe": "cpe:2.3:a:matomo:piwik_fpm-alpine_docker_image:3:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "matomo", "version": "3"}

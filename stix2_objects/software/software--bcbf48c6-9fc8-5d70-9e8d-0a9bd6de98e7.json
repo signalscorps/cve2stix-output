@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--bcbf48c6-9fc8-5d70-9e8d-0a9bd6de98e7", "name": "Apache Software Foundation HttpClient 5.0.3", "cpe": "cpe:2.3:a:apache:httpclient:5.0.3:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "apache", "version": "5.0.3"}

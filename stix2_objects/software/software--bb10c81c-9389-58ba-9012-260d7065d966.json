@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--bb10c81c-9389-58ba-9012-260d7065d966", "name": "Envoy Proxy Envoy 1.15.3", "cpe": "cpe:2.3:a:envoyproxy:envoy:1.15.3:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "envoyproxy", "version": "1.15.3"}

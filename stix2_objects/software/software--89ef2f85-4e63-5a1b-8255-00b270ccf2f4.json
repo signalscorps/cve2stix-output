@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--89ef2f85-4e63-5a1b-8255-00b270ccf2f4", "name": "gRPC 1.1.6 for Node.js", "cpe": "cpe:2.3:a:grpc:grpc:1.1.6:*:*:*:*:node.js:*:*", "languages": ["en_US"], "vendor": "grpc", "version": "1.1.6"}

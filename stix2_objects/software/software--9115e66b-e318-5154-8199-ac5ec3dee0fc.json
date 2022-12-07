@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--9115e66b-e318-5154-8199-ac5ec3dee0fc", "name": "Microsoft Visual Studio Code 0.0.3 for TSLint", "cpe": "cpe:2.3:a:microsoft:visual_studio_code:0.0.3:*:*:*:*:tslint:*:*", "languages": ["en_US"], "vendor": "microsoft", "version": "0.0.3"}

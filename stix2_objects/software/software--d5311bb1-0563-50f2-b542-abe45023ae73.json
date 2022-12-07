@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--d5311bb1-0563-50f2-b542-abe45023ae73", "name": "IBM MQ 9.2.0 Continuous Delivery Edition", "cpe": "cpe:2.3:a:ibm:mq:9.2.0:*:*:*:continuous_delivery:*:*:*", "languages": ["en_US"], "vendor": "ibm", "version": "9.2.0"}

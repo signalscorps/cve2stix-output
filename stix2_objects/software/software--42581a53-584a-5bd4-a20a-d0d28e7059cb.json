@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--42581a53-584a-5bd4-a20a-d0d28e7059cb", "name": "Docker Storm Docker Image 1.0.6", "cpe": "cpe:2.3:a:docker:storm_docker_image:1.0.6:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "docker", "version": "1.0.6"}

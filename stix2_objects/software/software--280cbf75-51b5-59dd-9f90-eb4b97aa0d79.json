@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--280cbf75-51b5-59dd-9f90-eb4b97aa0d79", "name": "Docker Notary Docker Image 0.2.0", "cpe": "cpe:2.3:a:docker:notary_docker_image:0.2.0:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "docker", "version": "0.2.0"}

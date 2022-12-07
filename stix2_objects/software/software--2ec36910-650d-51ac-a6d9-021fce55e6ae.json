@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--2ec36910-650d-51ac-a6d9-021fce55e6ae", "name": "Red Hat OpenShift Virtualization 1", "cpe": "cpe:2.3:a:redhat:openshift_virtualization:1:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "redhat", "version": "1"}

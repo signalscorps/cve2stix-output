@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--c10d4798-5ea5-5bc7-ab4b-9a394e5e1a5a", "name": "Microsoft Network Watcher Agent for Linux", "cpe": "cpe:2.3:a:microsoft:network_watcher_agent:-:*:*:*:*:linux:*:*", "languages": ["en_US"], "vendor": "microsoft", "version": "-"}

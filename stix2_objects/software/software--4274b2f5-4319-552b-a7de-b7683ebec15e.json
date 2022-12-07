@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--4274b2f5-4319-552b-a7de-b7683ebec15e", "name": "Auth0 AD/LDAP Connector 2.16.3 for Node.js", "cpe": "cpe:2.3:a:auth0:ad\\/ldap_connector:2.16.3:*:*:*:*:node.js:*:*", "languages": ["en_US"], "vendor": "auth0", "version": "2.16.3"}

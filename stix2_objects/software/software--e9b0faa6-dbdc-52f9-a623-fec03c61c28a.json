@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--e9b0faa6-dbdc-52f9-a623-fec03c61c28a", "name": "HashiCorp go-slug 0.2.0", "cpe": "cpe:2.3:a:hashicorp:go-slug:0.2.0:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "hashicorp", "version": "0.2.0"}

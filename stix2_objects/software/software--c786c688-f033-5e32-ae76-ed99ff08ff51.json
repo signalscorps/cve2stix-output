@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--c786c688-f033-5e32-ae76-ed99ff08ff51", "name": "SAP S/4 HANA 104", "cpe": "cpe:2.3:a:sap:s\\/4_hana:104:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "sap", "version": "104"}

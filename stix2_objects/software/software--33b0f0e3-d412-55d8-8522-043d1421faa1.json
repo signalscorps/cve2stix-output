@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--33b0f0e3-d412-55d8-8522-043d1421faa1", "name": "The Linux Foundation containerd 1.3.9", "cpe": "cpe:2.3:a:linuxfoundation:containerd:1.3.9:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "linuxfoundation", "version": "1.3.9"}

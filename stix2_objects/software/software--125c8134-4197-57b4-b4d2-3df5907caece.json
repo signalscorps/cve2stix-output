@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--125c8134-4197-57b4-b4d2-3df5907caece", "name": "Znc Znc Docker Image 1.6.6-slim", "cpe": "cpe:2.3:a:znc:znc_docker_image:1.6.6-slim:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "znc", "version": "1.6.6-slim"}

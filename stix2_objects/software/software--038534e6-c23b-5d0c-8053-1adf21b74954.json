@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--038534e6-c23b-5d0c-8053-1adf21b74954", "name": "Jenkins CVS 2.16 for Jenkins", "cpe": "cpe:2.3:a:jenkins:cvs:2.16:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "2.16"}

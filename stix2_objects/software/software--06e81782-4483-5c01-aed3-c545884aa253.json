@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--06e81782-4483-5c01-aed3-c545884aa253", "name": "Hazelcast 3.11.6 Enterprise Edition", "cpe": "cpe:2.3:a:hazelcast:hazelcast:3.11.6:*:*:*:enterprise:*:*:*", "languages": ["en_US"], "vendor": "hazelcast", "version": "3.11.6"}

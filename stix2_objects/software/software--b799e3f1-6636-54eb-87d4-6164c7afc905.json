@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--b799e3f1-6636-54eb-87d4-6164c7afc905", "name": "KubeVirt 0.7.0 Alpha 0 for Kubernetes", "cpe": "cpe:2.3:a:kubevirt:kubevirt:0.7.0:alpha0:*:*:*:kubernetes:*:*", "languages": ["en_US"], "vendor": "kubevirt", "version": "0.7.0"}

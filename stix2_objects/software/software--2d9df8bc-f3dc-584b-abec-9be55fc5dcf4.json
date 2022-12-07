@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--2d9df8bc-f3dc-584b-abec-9be55fc5dcf4", "name": "Browserless Chrome for Node.js", "cpe": "cpe:2.3:a:browserless:chrome:-:*:*:*:*:node.js:*:*", "languages": ["en_US"], "vendor": "browserless", "version": "-"}

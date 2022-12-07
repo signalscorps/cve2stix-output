@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--d0204fcc-7344-52c0-9f87-567bfbd98bd7", "name": "MongoDB Ops Manager 3.4.15", "cpe": "cpe:2.3:a:mongodb:ops_manager:3.4.15:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "mongodb", "version": "3.4.15"}

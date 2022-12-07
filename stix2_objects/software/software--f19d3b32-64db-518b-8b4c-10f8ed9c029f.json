@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--f19d3b32-64db-518b-8b4c-10f8ed9c029f", "name": "Wpo365 WordPress + Azure AD / Microsoft Office 365 10.9 for WordPress", "cpe": "cpe:2.3:a:wpo365:wordpress_\\+_azure_ad_\\/_microsoft_office_365:10.9:*:*:*:*:wordpress:*:*", "languages": ["en_US"], "vendor": "wpo365", "version": "10.9"}

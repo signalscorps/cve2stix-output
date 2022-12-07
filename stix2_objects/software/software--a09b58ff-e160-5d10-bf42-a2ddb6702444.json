@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--a09b58ff-e160-5d10-bf42-a2ddb6702444", "name": "VMware Tanzu Application Service for VMs 2.6.7", "cpe": "cpe:2.3:a:vmware:tanzu_application_service_for_vms:2.6.7:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "vmware", "version": "2.6.7"}

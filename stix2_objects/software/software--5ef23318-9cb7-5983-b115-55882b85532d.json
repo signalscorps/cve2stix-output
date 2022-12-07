@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--5ef23318-9cb7-5983-b115-55882b85532d", "name": "IBM Hardware Management Console (HMC) 8.1.0 Service Pack 2", "cpe": "cpe:2.3:a:ibm:hardware_management_console:8.1.0:sp2:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "ibm", "version": "8.1.0"}

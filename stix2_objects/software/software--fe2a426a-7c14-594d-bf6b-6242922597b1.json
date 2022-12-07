@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--fe2a426a-7c14-594d-bf6b-6242922597b1", "name": "Palo Alto Networks Cortex XDR Agent 7.0.3", "cpe": "cpe:2.3:a:paloaltonetworks:cortex_xdr_agent:7.0.3:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "paloaltonetworks", "version": "7.0.3"}

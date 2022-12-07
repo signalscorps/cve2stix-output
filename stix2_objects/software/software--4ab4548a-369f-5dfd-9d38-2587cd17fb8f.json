@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--4ab4548a-369f-5dfd-9d38-2587cd17fb8f", "name": "OpenSMTPD 6.8.0 Patch 1", "cpe": "cpe:2.3:a:opensmtpd:opensmtpd:6.8.0:patch1:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "opensmtpd", "version": "6.8.0"}

@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--9c228695-f5c3-55cd-a95a-85f7a85fb8cc", "name": "Microsoft Visual Studio Code 1.51 for Remote-SSH", "cpe": "cpe:2.3:a:microsoft:visual_studio_code:1.51:*:*:*:*:remote-ssh:*:*", "languages": ["en_US"], "vendor": "microsoft", "version": "1.51"}

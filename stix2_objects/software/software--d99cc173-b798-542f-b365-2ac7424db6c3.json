@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--d99cc173-b798-542f-b365-2ac7424db6c3", "name": "Vercel Next.js 8.0.4 Canary 14 for Node.js", "cpe": "cpe:2.3:a:vercel:next.js:8.0.4:canary14:*:*:*:node.js:*:*", "languages": ["en_US"], "vendor": "vercel", "version": "8.0.4"}

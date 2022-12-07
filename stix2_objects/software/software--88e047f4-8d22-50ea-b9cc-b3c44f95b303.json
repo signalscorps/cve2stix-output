@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--88e047f4-8d22-50ea-b9cc-b3c44f95b303", "name": "NetApp E-Series SANtricity Management Plug-ins for VMware vCenter", "cpe": "cpe:2.3:a:netapp:e-series_santricity_management_plug-ins:-:*:*:*:*:vmware_vcenter:*:*", "languages": ["en_US"], "vendor": "netapp", "version": "-"}

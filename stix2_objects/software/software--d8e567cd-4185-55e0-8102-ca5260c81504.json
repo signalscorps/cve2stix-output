@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--d8e567cd-4185-55e0-8102-ca5260c81504", "name": "Vercel Next.js 7.0.2 for Node.js", "cpe": "cpe:2.3:a:vercel:next.js:7.0.2:-:*:*:*:node.js:*:*", "languages": ["en_US"], "vendor": "vercel", "version": "7.0.2"}

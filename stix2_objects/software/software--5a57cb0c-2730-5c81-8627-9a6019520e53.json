@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--5a57cb0c-2730-5c81-8627-9a6019520e53", "name": "Kubernetes 1.19.0 Release Candidate 4", "cpe": "cpe:2.3:a:kubernetes:kubernetes:1.19.0:rc4:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "kubernetes", "version": "1.19.0"}
