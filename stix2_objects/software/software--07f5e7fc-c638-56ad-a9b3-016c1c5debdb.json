@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--07f5e7fc-c638-56ad-a9b3-016c1c5debdb", "name": "Elastic APM Agent 3.0.5 for Python", "cpe": "cpe:2.3:a:elastic:apm_agent:3.0.5:*:*:*:*:python:*:*", "languages": ["en_US"], "vendor": "elastic", "version": "3.0.5"}

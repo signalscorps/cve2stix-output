@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--8b42d5ec-502a-5268-ac0b-e0db07076a4b", "name": "MediaWiki CheckUser 1.19 for MediaWiki", "cpe": "cpe:2.3:a:mediawiki:checkuser:1.19:*:*:*:*:mediawiki:*:*", "languages": ["en_US"], "vendor": "mediawiki", "version": "1.19"}

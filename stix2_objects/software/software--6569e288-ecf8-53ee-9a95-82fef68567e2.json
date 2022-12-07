@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--6569e288-ecf8-53ee-9a95-82fef68567e2", "name": "Jenkins Deploy WebLogic 3.1 for Jenkins", "cpe": "cpe:2.3:a:jenkins:deploy_weblogic:3.1:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "3.1"}

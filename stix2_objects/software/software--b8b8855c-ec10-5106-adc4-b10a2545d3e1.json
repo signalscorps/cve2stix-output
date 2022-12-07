@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--b8b8855c-ec10-5106-adc4-b10a2545d3e1", "name": "etcd 2.2.0 Alpha 0", "cpe": "cpe:2.3:a:etcd:etcd:2.2.0:alpha0:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "etcd", "version": "2.2.0"}

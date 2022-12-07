@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--f91a8203-e9c2-5e25-926b-12d70978da2a", "name": "Haml 3.0.3 for Ruby", "cpe": "cpe:2.3:a:haml:haml:3.0.3:*:*:*:*:ruby:*:*", "languages": ["en_US"], "vendor": "haml", "version": "3.0.3"}

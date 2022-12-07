@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--1050240f-26fb-5e16-a481-206ea084e8f1", "name": "Elasticsearch Packetbeat 1.0.0 Release Candidate 1", "cpe": "cpe:2.3:a:elasticsearch:packetbeat:1.0.0:rc1:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "elasticsearch", "version": "1.0.0"}

@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--8b79509c-ab88-556e-bf5f-6fdddc650bc1", "name": "IBM Websphere MQ Appliance 9.1.0.1 LTS Edition", "cpe": "cpe:2.3:a:ibm:websphere_mq_appliance:9.1.0.1:*:*:*:lts:*:*:*", "languages": ["en_US"], "vendor": "ibm", "version": "9.1.0.1"}

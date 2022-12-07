@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--6e8a3e1a-8b69-56a2-9637-eb2f01a3ae34", "name": "BEA Systems WebLogic Server 7.0 Service Pack 6 Express Edition", "cpe": "cpe:2.3:a:bea:weblogic_server:7.0:sp6:*:*:express:*:*:*", "languages": ["en_US"], "vendor": "bea", "version": "7.0"}

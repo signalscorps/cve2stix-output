@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--81057f97-ce1d-5bf5-8f22-f3c75c531bce", "name": "PouchDB 2.0.0 for Node.js", "cpe": "cpe:2.3:a:pouchdb:pouchdb:2.0.0:*:*:*:*:node.js:*:*", "languages": ["en_US"], "vendor": "pouchdb", "version": "2.0.0"}

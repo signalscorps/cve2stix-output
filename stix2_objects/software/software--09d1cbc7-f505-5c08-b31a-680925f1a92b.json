@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--09d1cbc7-f505-5c08-b31a-680925f1a92b", "name": "IBM Websphere Application Server 8.5.5.16 Hypervisor Edition", "cpe": "cpe:2.3:a:ibm:websphere_application_server:8.5.5.16:*:*:*:hypervisor:*:*:*", "languages": ["en_US"], "vendor": "ibm", "version": "8.5.5.16"}

@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--1054daba-2688-590f-ad72-7df03a60697e", "name": "Jenkins CRX Content Package Deployer 1.2 for Jenkins", "cpe": "cpe:2.3:a:jenkins:crx_content_package_deployer:1.2:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "1.2"}

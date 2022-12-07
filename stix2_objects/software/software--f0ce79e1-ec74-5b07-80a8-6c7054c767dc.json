@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--f0ce79e1-ec74-5b07-80a8-6c7054c767dc", "name": "OpenStack oslo.utils 3.26.0", "cpe": "cpe:2.3:a:openstack:oslo.utils:3.26.0:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "openstack", "version": "3.26.0"}

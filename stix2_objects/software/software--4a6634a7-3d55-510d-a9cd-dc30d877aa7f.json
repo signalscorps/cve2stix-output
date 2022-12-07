@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--4a6634a7-3d55-510d-a9cd-dc30d877aa7f", "name": "Jenkins Sonar Gerrit 1.0.6 for Jenkins", "cpe": "cpe:2.3:a:jenkins:sonar_gerrit:1.0.6:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "1.0.6"}

@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--b7f775f6-aa4b-59ab-9063-46283ad744c8", "name": "NixOS Nix 1.11", "cpe": "cpe:2.3:o:nixos:nix:1.11:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "nixos", "version": "1.11"}

@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--b25b6b25-01b3-5ac1-99da-ba3d1210234d", "name": "Jenkins Delphix 2.0.3 for Jenkins", "cpe": "cpe:2.3:a:jenkins:delphix:2.0.3:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "2.0.3"}

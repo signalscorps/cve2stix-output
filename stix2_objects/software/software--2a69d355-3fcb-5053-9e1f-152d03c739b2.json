@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--2a69d355-3fcb-5053-9e1f-152d03c739b2", "name": "Jenkins Zulip 1.0.1 for Jenkins", "cpe": "cpe:2.3:a:jenkins:zulip:1.0.1:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "1.0.1"}

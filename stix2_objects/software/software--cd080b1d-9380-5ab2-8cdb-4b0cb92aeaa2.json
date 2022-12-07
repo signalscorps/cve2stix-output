@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--cd080b1d-9380-5ab2-8cdb-4b0cb92aeaa2", "name": "VMware ESXi 6.7 670-201904204-UG", "cpe": "cpe:2.3:o:vmware:esxi:6.7:670-201904204-ug:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "vmware", "version": "6.7"}

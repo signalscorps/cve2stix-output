@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--9b07bc3d-bfcd-5d2a-bf96-6b5ba6a360c5", "name": "Jenkins Build Failure Analyzer 1.10.2 for Jenkins", "cpe": "cpe:2.3:a:jenkins:build_failure_analyzer:1.10.2:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "1.10.2"}

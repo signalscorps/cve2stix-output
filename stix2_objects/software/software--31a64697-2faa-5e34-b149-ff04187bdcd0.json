@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--31a64697-2faa-5e34-b149-ff04187bdcd0", "name": "Jenkins Fortify on Demand 2.0.5 for Jenkins", "cpe": "cpe:2.3:a:jenkins:fortify_on_demand:2.0.5:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "2.0.5"}

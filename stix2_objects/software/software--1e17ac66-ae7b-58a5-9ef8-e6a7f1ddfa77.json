@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--1e17ac66-ae7b-58a5-9ef8-e6a7f1ddfa77", "name": "Ceph", "cpe": "cpe:2.3:a:ceph:ceph:-:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "ceph", "version": "-"}

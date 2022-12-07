@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--2f4801ca-cb6f-5395-8c0f-24593dbe6969", "name": "Jenkins Global Post Script 1.0.9 for Jenkins", "cpe": "cpe:2.3:a:jenkins:global_post_script:1.0.9:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "1.0.9"}

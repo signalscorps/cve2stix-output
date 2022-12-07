@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--78e041ef-333e-5ad0-8bff-8c1033d182e7", "name": "WebRTC webrtc-native 0.0.13 for Node.js", "cpe": "cpe:2.3:a:webrtc:webrtc-native:0.0.13:*:*:*:*:node.js:*:*", "languages": ["en_US"], "vendor": "webrtc", "version": "0.0.13"}

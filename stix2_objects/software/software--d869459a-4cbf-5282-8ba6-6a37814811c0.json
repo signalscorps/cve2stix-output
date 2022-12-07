@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--d869459a-4cbf-5282-8ba6-6a37814811c0", "name": "Mailcow: Dockerized 0.3.3", "cpe": "cpe:2.3:a:mailcow:mailcow\\:_dockerized:0.3.3:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "mailcow", "version": "_dockerized"}

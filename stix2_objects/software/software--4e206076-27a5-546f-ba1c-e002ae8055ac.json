@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--4e206076-27a5-546f-ba1c-e002ae8055ac", "name": "Jenkins Oracle Cloud Infrastructure Compute Classic 1.0.0 for Jenkins", "cpe": "cpe:2.3:a:jenkins:oracle_cloud_infrastructure_compute_classic:1.0.0:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "1.0.0"}

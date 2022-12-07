@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--9b07707e-1117-5c82-8ada-38cbb8b4776b", "name": "Kubernetes Kube-state-metrics 0.1.0", "cpe": "cpe:2.3:a:kubernetes:kube-state-metrics:0.1.0:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "kubernetes", "version": "0.1.0"}

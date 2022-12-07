@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--0d36feb4-9b07-5cf2-a0d2-819bd721e100", "name": "OSGeo GDAL 1.10.1", "cpe": "cpe:2.3:a:osgeo:gdal:1.10.1:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "osgeo", "version": "1.10.1"}

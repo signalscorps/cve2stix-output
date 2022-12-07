@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--307c11b9-6e86-5695-af9a-fcdba7dc0bbc", "name": "Jupyter Notebook 4.2.3", "cpe": "cpe:2.3:a:jupyter:notebook:4.2.3:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "jupyter", "version": "4.2.3"}

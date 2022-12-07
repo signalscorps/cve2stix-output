@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--ab6d8ba6-fdb5-5c96-b448-99999650d989", "name": "Jenkins Libvirt Slaves 1.6 for Jenkins", "cpe": "cpe:2.3:a:jenkins:libvirt_slaves:1.6:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "1.6"}

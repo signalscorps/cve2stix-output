@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--1913ed7c-cc7c-5d6c-90ad-5cc002a89bd5", "name": "Jenkins LDAP email 0.1 for Jenkins", "cpe": "cpe:2.3:a:jenkins:ldap_email:0.1:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "0.1"}

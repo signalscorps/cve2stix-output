@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--51b5d5a3-152c-5656-861e-25843a875b86", "name": "Jenkins Cadence vManager 2.5.4 for Jenkins", "cpe": "cpe:2.3:a:jenkins:cadence_vmanager:2.5.4:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "2.5.4"}

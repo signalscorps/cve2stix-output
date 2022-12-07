@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--313ab6ff-eeb2-5105-b479-c0799cd080ae", "name": "Red Hat Gluster File System 3.2.6 Patch 2", "cpe": "cpe:2.3:a:redhat:gluster_file_system:3.2.6:p2:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "redhat", "version": "3.2.6"}

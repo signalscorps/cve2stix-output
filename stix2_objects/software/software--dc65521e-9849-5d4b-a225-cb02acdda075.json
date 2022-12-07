@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--dc65521e-9849-5d4b-a225-cb02acdda075", "name": "IBM QRadar Incident Forensics 7.2.8 Patch 11", "cpe": "cpe:2.3:a:ibm:qradar_incident_forensics:7.2.8:p11:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "ibm", "version": "7.2.8"}

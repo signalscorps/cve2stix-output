@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--bf7e953f-73dc-5d12-b348-6c6e1f041bac", "name": "Sonatype Nexus IQ Server 1.34", "cpe": "cpe:2.3:a:sonatype:nexus_iq_server:1.34:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "sonatype", "version": "1.34"}

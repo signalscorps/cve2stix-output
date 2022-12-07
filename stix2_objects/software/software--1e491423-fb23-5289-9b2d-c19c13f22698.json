@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--1e491423-fb23-5289-9b2d-c19c13f22698", "name": "Jenkins JIRA 2.0 for Jenkins", "cpe": "cpe:2.3:a:jenkins:jira:2.0:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "2.0"}

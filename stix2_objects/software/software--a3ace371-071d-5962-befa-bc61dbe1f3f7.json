@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--a3ace371-071d-5962-befa-bc61dbe1f3f7", "name": "Jenkins Mattermost Notification 2.3.2 for Jenkins", "cpe": "cpe:2.3:a:jenkins:mattermost_notification:2.3.2:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "2.3.2"}

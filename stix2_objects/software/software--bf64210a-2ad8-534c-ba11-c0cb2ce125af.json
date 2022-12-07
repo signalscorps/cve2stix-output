@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--bf64210a-2ad8-534c-ba11-c0cb2ce125af", "name": "EMC Isilon OneFS 8.0.1.0", "cpe": "cpe:2.3:o:emc:isilon_onefs:8.0.1.0:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "emc", "version": "8.0.1.0"}

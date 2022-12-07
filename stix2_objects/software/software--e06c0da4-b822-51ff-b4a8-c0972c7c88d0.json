@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--e06c0da4-b822-51ff-b4a8-c0972c7c88d0", "name": "Knexjs Knex 0.2.0 for Node.js", "cpe": "cpe:2.3:a:knexjs:knex:0.2.0:*:*:*:*:node.js:*:*", "languages": ["en_US"], "vendor": "knexjs", "version": "0.2.0"}

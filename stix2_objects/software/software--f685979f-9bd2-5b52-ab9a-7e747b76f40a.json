@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--f685979f-9bd2-5b52-ab9a-7e747b76f40a", "name": "Cloud Foundry CredHub CLI 0.1.0", "cpe": "cpe:2.3:a:cloudfoundry:credhub_cli:0.1.0:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "cloudfoundry", "version": "0.1.0"}

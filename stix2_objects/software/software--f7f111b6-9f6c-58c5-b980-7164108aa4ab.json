@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--f7f111b6-9f6c-58c5-b980-7164108aa4ab", "name": "Red Hat 389 Directory Server 1.3.2.3", "cpe": "cpe:2.3:o:redhat:389_directory_server:1.3.2.3:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "redhat", "version": "1.3.2.3"}

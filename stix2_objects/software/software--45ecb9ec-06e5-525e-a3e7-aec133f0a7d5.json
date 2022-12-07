@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--45ecb9ec-06e5-525e-a3e7-aec133f0a7d5", "name": "IBM Informix Dynamic Server 12.10 FC5 Enterprise Edition", "cpe": "cpe:2.3:a:ibm:informix_dynamic_server:12.10:fc5:*:*:enterprise:*:*:*", "languages": ["en_US"], "vendor": "ibm", "version": "12.10"}

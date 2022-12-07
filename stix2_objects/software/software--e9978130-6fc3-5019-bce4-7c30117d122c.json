@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--e9978130-6fc3-5019-bce4-7c30117d122c", "name": "FasterXML jackson-dataformat-xml (XmlMapper) 2.3.2", "cpe": "cpe:2.3:a:fasterxml:jackson-dataformat-xml:2.3.2:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "fasterxml", "version": "2.3.2"}

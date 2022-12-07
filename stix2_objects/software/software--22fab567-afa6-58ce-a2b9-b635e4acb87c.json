@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--22fab567-afa6-58ce-a2b9-b635e4acb87c", "name": "Jenkins Bitbucket OAuth 0.2 for Jenkins", "cpe": "cpe:2.3:a:jenkins:bitbucket_oauth:0.2:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "0.2"}

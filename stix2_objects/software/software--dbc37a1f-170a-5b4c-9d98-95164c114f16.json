@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--dbc37a1f-170a-5b4c-9d98-95164c114f16", "name": "Oracle GraalVM 19.0.2 Enterprise Edition", "cpe": "cpe:2.3:a:oracle:graalvm:19.0.2:*:*:*:enterprise:*:*:*", "languages": ["en_US"], "vendor": "oracle", "version": "19.0.2"}

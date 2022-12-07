@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--b227eb9b-e20d-5d05-afc3-f99be575700c", "name": "Jenkins Bumblebee HP ALM 4.0.6 for Jenkins", "cpe": "cpe:2.3:a:jenkins:bumblebee_hp_alm:4.0.6:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "4.0.6"}

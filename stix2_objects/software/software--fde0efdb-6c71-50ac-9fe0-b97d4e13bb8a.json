@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--fde0efdb-6c71-50ac-9fe0-b97d4e13bb8a", "name": "Jenkins ElasticBox CI 0.7.3 for Jenkins", "cpe": "cpe:2.3:a:jenkins:elasticbox_ci:0.7.3:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "0.7.3"}

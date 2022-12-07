@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--3b9a8d49-9595-5f08-9ad7-2069f1342efd", "name": "Elasticsearch Packetbeat 5.6.7", "cpe": "cpe:2.3:a:elasticsearch:packetbeat:5.6.7:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "elasticsearch", "version": "5.6.7"}

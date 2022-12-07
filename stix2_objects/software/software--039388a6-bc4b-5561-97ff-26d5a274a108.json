@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--039388a6-bc4b-5561-97ff-26d5a274a108", "name": "Red Hat Ansible Engine 2.5.0 Release Candidate 3", "cpe": "cpe:2.3:a:redhat:ansible_engine:2.5.0:rc3:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "redhat", "version": "2.5.0"}

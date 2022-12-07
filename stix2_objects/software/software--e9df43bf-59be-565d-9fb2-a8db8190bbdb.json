@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--e9df43bf-59be-565d-9fb2-a8db8190bbdb", "name": "Jenkins TAP 1.21 for Jenkins", "cpe": "cpe:2.3:a:jenkins:tap:1.21:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "1.21"}

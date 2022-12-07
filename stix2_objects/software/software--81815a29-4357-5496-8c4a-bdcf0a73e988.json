@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--81815a29-4357-5496-8c4a-bdcf0a73e988", "name": "Jupyter JupyterHub 0.9.4", "cpe": "cpe:2.3:a:jupyter:jupyterhub:0.9.4:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "jupyter", "version": "0.9.4"}

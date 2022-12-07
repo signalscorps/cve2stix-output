@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--e6bb781e-ae60-5a40-b0c1-5bf6e3bf3986", "name": "Kubernetes 1.5.1", "cpe": "cpe:2.3:a:kubernetes:kubernetes:1.5.1:-:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "kubernetes", "version": "1.5.1"}

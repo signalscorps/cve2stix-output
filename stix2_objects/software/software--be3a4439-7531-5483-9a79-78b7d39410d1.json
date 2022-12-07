@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--be3a4439-7531-5483-9a79-78b7d39410d1", "name": "Jenkins build-metrics 1.3 for Jenkins", "cpe": "cpe:2.3:a:jenkins:build-metrics:1.3:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "1.3"}

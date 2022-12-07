@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--e8dfd28f-3fe0-5ca5-8f82-0ffec17d715c", "name": "OpenStack Magnum 9.0.0.0 Release Candidate 1", "cpe": "cpe:2.3:a:openstack:magnum:9.0.0.0:rc1:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "openstack", "version": "9.0.0.0"}

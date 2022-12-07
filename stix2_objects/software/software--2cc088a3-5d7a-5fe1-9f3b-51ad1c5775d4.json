@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--2cc088a3-5d7a-5fe1-9f3b-51ad1c5775d4", "name": "Jenkins Puppet Enterprise Pipeline 1.2.1 for Jenkins", "cpe": "cpe:2.3:a:jenkins:puppet_enterprise_pipeline:1.2.1:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "1.2.1"}

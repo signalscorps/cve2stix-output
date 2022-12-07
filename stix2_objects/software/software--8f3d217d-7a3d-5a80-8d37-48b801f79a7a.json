@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--8f3d217d-7a3d-5a80-8d37-48b801f79a7a", "name": "Jenkins Dynatrace Application Monitoring 2.1.4 for Jenkins", "cpe": "cpe:2.3:a:jenkins:dynatrace_application_monitoring:2.1.4:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "2.1.4"}

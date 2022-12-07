@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--b9fe9673-bcee-57f2-8ea4-2efdb438fc16", "name": "Jenkins Google OAuth Credentials 0.5 for Jenkins", "cpe": "cpe:2.3:a:jenkins:google_oauth_credentials:0.5:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "0.5"}

@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--7b7d65da-f920-597e-a6a3-40c9402d4b37", "name": "NVIDIA GPU Driver 362.77", "cpe": "cpe:2.3:a:nvidia:gpu_driver:362.77:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "nvidia", "version": "362.77"}

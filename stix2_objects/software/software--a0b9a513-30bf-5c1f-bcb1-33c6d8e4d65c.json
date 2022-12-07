@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--a0b9a513-30bf-5c1f-bcb1-33c6d8e4d65c", "name": "OpenVPN 2.3.5", "cpe": "cpe:2.3:a:openvpn:openvpn:2.3.5:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "openvpn", "version": "2.3.5"}

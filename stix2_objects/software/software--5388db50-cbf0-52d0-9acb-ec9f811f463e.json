@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--5388db50-cbf0-52d0-9acb-ec9f811f463e", "name": "PostGIS 0.7.4 for PostgreSQL", "cpe": "cpe:2.3:a:postgis:postgis:0.7.4:*:*:*:*:postgresql:*:*", "languages": ["en_US"], "vendor": "postgis", "version": "0.7.4"}

@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--b98bb098-b02e-545d-b12a-af8b8f9f2580", "name": "Jenkins CodeScan for Jenkins", "cpe": "cpe:2.3:a:jenkins:codescan:-:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "-"}

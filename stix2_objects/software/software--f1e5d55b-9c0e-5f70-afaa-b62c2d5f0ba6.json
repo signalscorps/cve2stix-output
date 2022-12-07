@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--f1e5d55b-9c0e-5f70-afaa-b62c2d5f0ba6", "name": "SAP Crystal Reports Server 4.20 OEM Edition", "cpe": "cpe:2.3:a:sap:crystal_reports_server:4.20:*:*:*:oem:*:*:*", "languages": ["en_US"], "vendor": "sap", "version": "4.20"}

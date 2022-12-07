@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--a8b978ca-b804-5083-8102-1a229c89c6d9", "name": "MediaWiki AbuseFilter 1.31 for MediaWiki", "cpe": "cpe:2.3:a:mediawiki:abusefilter:1.31:*:*:*:*:mediawiki:*:*", "languages": ["en_US"], "vendor": "mediawiki", "version": "1.31"}

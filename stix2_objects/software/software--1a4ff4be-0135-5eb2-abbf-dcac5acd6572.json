@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--1a4ff4be-0135-5eb2-abbf-dcac5acd6572", "name": "Jenkins SourceGear Vault 1.1.1 for Jenkins", "cpe": "cpe:2.3:a:jenkins:sourcegear_vault:1.1.1:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "1.1.1"}

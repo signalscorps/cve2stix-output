@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--8e1c6147-1f9c-58af-af9e-79f4087419ac", "name": "Red Hat Gluster File System 3.1.0 Prealpha 1", "cpe": "cpe:2.3:a:redhat:gluster_file_system:3.1.0:prealpha1:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "redhat", "version": "3.1.0"}

@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--1aa147d0-50f3-560b-abd4-5b8aac3508a5", "name": "ClusterLabs Pacemaker Command Line Interface (PCS) 0.9.73", "cpe": "cpe:2.3:a:clusterlabs:pacemaker_command_line_interface:0.9.73:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "clusterlabs", "version": "0.9.73"}

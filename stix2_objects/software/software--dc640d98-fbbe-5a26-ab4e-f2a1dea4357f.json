@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--dc640d98-fbbe-5a26-ab4e-f2a1dea4357f", "name": "OpenStack puppet-swift 4.0.0", "cpe": "cpe:2.3:a:openstack:puppet-swift:4.0.0:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "openstack", "version": "4.0.0"}

@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--59fad5d9-1857-5080-8753-e553ef7f7a0a", "name": "Jenkins SOASTA CloudTest 2.18 for Jenkins", "cpe": "cpe:2.3:a:jenkins:soasta_cloudtest:2.18:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "2.18"}

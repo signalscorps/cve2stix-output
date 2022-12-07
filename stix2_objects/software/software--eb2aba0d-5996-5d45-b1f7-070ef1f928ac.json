@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--eb2aba0d-5996-5d45-b1f7-070ef1f928ac", "name": "Mapbox mapbox.js 3.2.1 for Node.js", "cpe": "cpe:2.3:a:mapbox:mapbox.js:3.2.1:*:*:*:*:node.js:*:*", "languages": ["en_US"], "vendor": "mapbox", "version": "3.2.1"}

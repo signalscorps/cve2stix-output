@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--69df1bf3-76bf-552e-918f-e6939f5d0ce1", "name": "Jenkins IBM Application Security on Cloud 1.2.1 for Jenkins", "cpe": "cpe:2.3:a:jenkins:ibm_application_security_on_cloud:1.2.1:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "1.2.1"}

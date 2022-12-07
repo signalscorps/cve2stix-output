@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--1208f607-a9a7-580f-b39e-5c73cad72de0", "name": "Jenkins Rundeck 1.2 for Jenkins", "cpe": "cpe:2.3:a:jenkins:rundeck:1.2:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "1.2"}

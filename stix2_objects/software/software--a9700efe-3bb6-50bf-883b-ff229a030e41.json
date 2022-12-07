@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--a9700efe-3bb6-50bf-883b-ff229a030e41", "name": "Jenkins Image Gallery 1.4 for Jenkins", "cpe": "cpe:2.3:a:jenkins:image_gallery:1.4:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "1.4"}

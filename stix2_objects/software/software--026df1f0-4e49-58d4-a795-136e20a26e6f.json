@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--026df1f0-4e49-58d4-a795-136e20a26e6f", "name": "Mongoosejs Mongoose 4.11.11 for Node.js", "cpe": "cpe:2.3:a:mongoosejs:mongoose:4.11.11:*:*:*:*:node.js:*:*", "languages": ["en_US"], "vendor": "mongoosejs", "version": "4.11.11"}

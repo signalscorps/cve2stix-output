@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--0f76aa2e-be08-54f3-ab9c-cf1a1166a949", "name": "Jenkins Gogs 1.0.5 for Jenkins", "cpe": "cpe:2.3:a:jenkins:gogs:1.0.5:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "1.0.5"}

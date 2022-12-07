@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--5ff4e2ac-3267-5dc8-9fe2-00b3d9766da5", "name": "HashiCorp Consul 0.7.2 - Enterprise Edition", "cpe": "cpe:2.3:a:hashicorp:consul:0.7.2:-:*:*:enterprise:*:*:*", "languages": ["en_US"], "vendor": "hashicorp", "version": "0.7.2"}

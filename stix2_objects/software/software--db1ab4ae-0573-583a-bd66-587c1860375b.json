@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--db1ab4ae-0573-583a-bd66-587c1860375b", "name": "Appium appium-chromedriver 2.0.2 for Node.js", "cpe": "cpe:2.3:a:appium:appium-chromedriver:2.0.2:*:*:*:*:node.js:*:*", "languages": ["en_US"], "vendor": "appium", "version": "2.0.2"}
