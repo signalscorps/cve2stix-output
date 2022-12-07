@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--e02886c8-5a13-53a2-b5aa-6e66506510e4", "name": "F5 Big-IP Controller 1.6.0 for Kubernetes", "cpe": "cpe:2.3:a:f5:big-ip_controller:1.6.0:*:*:*:*:kubernetes:*:*", "languages": ["en_US"], "vendor": "f5", "version": "1.6.0"}

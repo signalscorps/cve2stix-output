@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--c3c9e698-227b-5aa0-a6cc-525fc019b8f3", "name": "libssh2 0.17", "cpe": "cpe:2.3:a:libssh2:libssh2:0.17:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "libssh2", "version": "0.17"}

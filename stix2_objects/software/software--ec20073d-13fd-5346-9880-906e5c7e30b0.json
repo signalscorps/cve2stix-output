@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--ec20073d-13fd-5346-9880-906e5c7e30b0", "name": "SLF4J slf4j-jdk14 1.6.4", "cpe": "cpe:2.3:a:slf4j:slf4j-jdk14:1.6.4:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "slf4j", "version": "1.6.4"}

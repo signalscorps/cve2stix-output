@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--8b82570c-2ec5-5b26-8ae0-0764337ad3ec", "name": "Netfilter libnetfilter_queue 1.0.0", "cpe": "cpe:2.3:a:netfilter:libnetfilter_queue:1.0.0:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "netfilter", "version": "1.0.0"}

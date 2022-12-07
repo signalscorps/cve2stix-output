@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--e14ad951-74a3-537d-a5fb-ad6a496c5ab8", "name": "Apache Software Foundation Mesos 0.10.0 Beta3 for Jenkins", "cpe": "cpe:2.3:a:apache:mesos:0.10.0:beta3:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "apache", "version": "0.10.0"}

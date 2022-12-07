@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--6aa9ddc3-842e-51e1-bb99-3478e9f0ea94", "name": "Kubernetes NGINX Ingress Controller 0.9.0 Beta 1", "cpe": "cpe:2.3:a:kubernetes:nginx_ingress_controller:0.9.0:beta1:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "kubernetes", "version": "0.9.0"}

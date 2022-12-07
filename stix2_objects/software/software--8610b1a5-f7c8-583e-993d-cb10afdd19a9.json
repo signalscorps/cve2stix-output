@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--8610b1a5-f7c8-583e-993d-cb10afdd19a9", "name": "Netfilter libnetfilter_cthelper 1.0.0", "cpe": "cpe:2.3:a:netfilter:libnetfilter_cthelper:1.0.0:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "netfilter", "version": "1.0.0"}

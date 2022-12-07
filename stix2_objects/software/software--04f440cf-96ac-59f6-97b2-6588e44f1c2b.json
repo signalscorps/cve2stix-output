@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--04f440cf-96ac-59f6-97b2-6588e44f1c2b", "name": "Netfilter libnetfilter_cttimeout 1.0.0", "cpe": "cpe:2.3:a:netfilter:libnetfilter_cttimeout:1.0.0:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "netfilter", "version": "1.0.0"}

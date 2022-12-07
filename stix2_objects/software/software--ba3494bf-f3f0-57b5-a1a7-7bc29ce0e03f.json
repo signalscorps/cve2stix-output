@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--ba3494bf-f3f0-57b5-a1a7-7bc29ce0e03f", "name": "Netfilter conntrack-tools 0.9.5", "cpe": "cpe:2.3:a:netfilter:conntrack-tools:0.9.5:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "netfilter", "version": "0.9.5"}

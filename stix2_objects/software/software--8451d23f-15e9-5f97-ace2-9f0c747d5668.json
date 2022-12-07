@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--8451d23f-15e9-5f97-ace2-9f0c747d5668", "name": "Oracle Solaris 10 on SPARC", "cpe": "cpe:2.3:o:oracle:solaris:10:*:*:*:*:*:sparc:*", "languages": ["en_US"], "vendor": "oracle", "version": "10"}

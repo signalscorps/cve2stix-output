@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--8390beca-f800-570d-bd39-4b5a753a1024", "name": "IBM WebSphere Application Server 17.0.0.2 Liberty Edition", "cpe": "cpe:2.3:a:ibm:websphere_application_server:17.0.0.2:*:*:*:liberty:*:*:*", "languages": ["en_US"], "vendor": "ibm", "version": "17.0.0.2"}

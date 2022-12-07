@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--4c693a73-fdc9-5320-9939-7f2e5935cec8", "name": "Netfilter libnetfilter_conntrack 0.0.50", "cpe": "cpe:2.3:a:netfilter:libnetfilter_conntrack:0.0.50:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "netfilter", "version": "0.0.50"}

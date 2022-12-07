@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--7ff80e51-6681-5c8f-a91f-90760ac99b19", "name": "Kernel kmod 20", "cpe": "cpe:2.3:a:kernel:kmod:20:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "kernel", "version": "20"}

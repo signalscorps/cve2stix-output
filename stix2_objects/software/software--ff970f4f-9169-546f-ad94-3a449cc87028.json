@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--ff970f4f-9169-546f-ad94-3a449cc87028", "name": "Tcpdump Libpcap 0.6.2", "cpe": "cpe:2.3:a:tcpdump:libpcap:0.6.2:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "tcpdump", "version": "0.6.2"}

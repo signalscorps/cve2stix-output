@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--190d9f08-1cd5-5573-ba6c-4eb742973a32", "name": "Kernel kmod 17", "cpe": "cpe:2.3:a:kernel:kmod:17:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "kernel", "version": "17"}

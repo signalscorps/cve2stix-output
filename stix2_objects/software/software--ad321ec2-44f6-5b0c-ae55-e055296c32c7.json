@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--ad321ec2-44f6-5b0c-ae55-e055296c32c7", "name": "Netfilter libnfnetlink 0.0.12", "cpe": "cpe:2.3:a:netfilter:libnfnetlink:0.0.12:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "netfilter", "version": "0.0.12"}

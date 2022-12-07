@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--3a5d37ce-7198-5717-8585-c880a86d1dc1", "name": "Valgrind 3.12.0", "cpe": "cpe:2.3:a:valgrind:valgrind:3.12.0:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "valgrind", "version": "3.12.0"}

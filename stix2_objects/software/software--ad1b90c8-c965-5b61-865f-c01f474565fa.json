@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--ad1b90c8-c965-5b61-865f-c01f474565fa", "name": "SQLite 2.8.8", "cpe": "cpe:2.3:a:sqlite:sqlite:2.8.8:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "sqlite", "version": "2.8.8"}
