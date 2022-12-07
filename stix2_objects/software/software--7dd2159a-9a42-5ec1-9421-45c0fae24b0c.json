@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--7dd2159a-9a42-5ec1-9421-45c0fae24b0c", "name": "SUSE Linux Enterprise High Performance Computing 15 Long Term Service Pack Support (LTSS) Edition", "cpe": "cpe:2.3:o:suse:linux_enterprise_high_performance_computing:15:*:*:*:ltss:*:*:*", "languages": ["en_US"], "vendor": "suse", "version": "15"}

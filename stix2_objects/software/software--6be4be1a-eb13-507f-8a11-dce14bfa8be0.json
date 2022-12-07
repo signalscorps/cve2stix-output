@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--6be4be1a-eb13-507f-8a11-dce14bfa8be0", "name": "Joyent json 9.0.6 for Node.js", "cpe": "cpe:2.3:a:joyent:json:9.0.6:*:*:*:*:node.js:*:*", "languages": ["en_US"], "vendor": "joyent", "version": "9.0.6"}

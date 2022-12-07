@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--8bd688cd-4ad2-5fab-a40f-af890c0aed80", "name": "Siemens SIMANTIC STEP 7 (TIA Portal) 13.0 Service Pack 1", "cpe": "cpe:2.3:a:siemens:simatic_step_7_\\(tia_portal\\):13.0:sp1:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "siemens", "version": "13.0"}

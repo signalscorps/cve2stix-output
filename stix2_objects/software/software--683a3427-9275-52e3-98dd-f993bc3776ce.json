@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--683a3427-9275-52e3-98dd-f993bc3776ce", "name": "Dataiku Data Science Studio (DSS)", "cpe": "cpe:2.3:a:dataiku:data_science_studio:-:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "dataiku", "version": "-"}

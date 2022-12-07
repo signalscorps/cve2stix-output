@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--0f268fd8-dbd9-5f39-b42c-437a33b20cd1", "name": "Jenkins Validating String Parameter 2.0 for Jenkins", "cpe": "cpe:2.3:a:jenkins:validating_string_parameter:2.0:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "2.0"}

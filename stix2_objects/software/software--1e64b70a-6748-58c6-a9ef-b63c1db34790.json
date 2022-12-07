@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--1e64b70a-6748-58c6-a9ef-b63c1db34790", "name": "OpenMRS HTML Form Entry for OpenMRS", "cpe": "cpe:2.3:a:openmrs:htmlformentry:-:*:*:*:*:openmrs:*:*", "languages": ["en_US"], "vendor": "openmrs", "version": "-"}

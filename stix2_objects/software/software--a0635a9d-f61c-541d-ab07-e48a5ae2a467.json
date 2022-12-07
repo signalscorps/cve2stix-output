@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--a0635a9d-f61c-541d-ab07-e48a5ae2a467", "name": "F5 BIG-IP DDoS Hybrid Defender (DDHD) 12.1.0", "cpe": "cpe:2.3:a:f5:big-ip_ddos_hybrid_defender:12.1.0:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "f5", "version": "12.1.0"}

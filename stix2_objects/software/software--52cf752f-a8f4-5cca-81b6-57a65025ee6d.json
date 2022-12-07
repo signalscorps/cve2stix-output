@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--52cf752f-a8f4-5cca-81b6-57a65025ee6d", "name": "Samba Cifs-utils 6.3", "cpe": "cpe:2.3:a:samba:cifs-utils:6.3:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "samba", "version": "6.3"}

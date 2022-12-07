@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--8cae2bd0-0dce-5c54-95f0-ef81a2dc26e3", "name": "Gradle Maven 1.2.6 for Gradle", "cpe": "cpe:2.3:a:gradle:maven:1.2.6:*:*:*:*:gradle:*:*", "languages": ["en_US"], "vendor": "gradle", "version": "1.2.6"}

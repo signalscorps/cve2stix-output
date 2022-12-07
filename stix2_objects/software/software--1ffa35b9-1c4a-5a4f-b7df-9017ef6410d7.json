@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--1ffa35b9-1c4a-5a4f-b7df-9017ef6410d7", "name": "SonicWall Remote Access (SRA) Firmware 7.5.1.0", "cpe": "cpe:2.3:o:sonicwall:remote_access_firmware:7.5.1.0:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "sonicwall", "version": "7.5.1.0"}

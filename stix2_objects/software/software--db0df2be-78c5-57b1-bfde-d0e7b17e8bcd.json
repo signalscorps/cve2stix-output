@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--db0df2be-78c5-57b1-bfde-d0e7b17e8bcd", "name": "SUSE Linux Enterprise High Performance Computing 15 Enhanced Service Pack Overlap Support (ESPOS) Edition", "cpe": "cpe:2.3:o:suse:linux_enterprise_high_performance_computing:15:*:*:*:espos:*:*:*", "languages": ["en_US"], "vendor": "suse", "version": "15"}

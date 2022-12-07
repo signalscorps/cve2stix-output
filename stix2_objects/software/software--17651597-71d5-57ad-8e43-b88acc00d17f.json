@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--17651597-71d5-57ad-8e43-b88acc00d17f", "name": "Jenkins Klocwork Analysis 1.24.6 for Jenkins", "cpe": "cpe:2.3:a:jenkins:klocwork_analysis:1.24.6:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "1.24.6"}

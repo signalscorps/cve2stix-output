@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--f9b76f3e-5657-5228-afd1-f5701e368d15", "name": "Jenkins Team Foundation Server 1.6 for Jenkins", "cpe": "cpe:2.3:a:jenkins:team_foundation_server:1.6:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "1.6"}

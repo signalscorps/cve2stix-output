@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--b64b5eef-024c-58d1-9925-00c28651569c", "name": "Jenkins Database for Jenkins", "cpe": "cpe:2.3:a:jenkins:database:-:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "-"}

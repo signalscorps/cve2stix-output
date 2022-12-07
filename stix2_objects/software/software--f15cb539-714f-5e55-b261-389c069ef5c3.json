@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--f15cb539-714f-5e55-b261-389c069ef5c3", "name": "Linux Kernel 4.5 Release Candidate 7", "cpe": "cpe:2.3:o:linux:linux_kernel:4.5:rc7:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "linux", "version": "4.5"}

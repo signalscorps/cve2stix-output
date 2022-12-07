@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--6f44af24-20fb-59ac-aacb-b48b3ec138fe", "name": "F5 BIG-IP Advanced Web Application Firewall (WAF) 11.6.5", "cpe": "cpe:2.3:a:f5:big-ip_advanced_web_application_firewall:11.6.5:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "f5", "version": "11.6.5"}

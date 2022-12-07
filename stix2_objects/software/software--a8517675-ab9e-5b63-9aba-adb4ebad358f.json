@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--a8517675-ab9e-5b63-9aba-adb4ebad358f", "name": "VMware Tanzu GemFire for Virtual Machines 1.10.2", "cpe": "cpe:2.3:a:vmware:tanzu_gemfire_for_virtual_machines:1.10.2:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "vmware", "version": "1.10.2"}

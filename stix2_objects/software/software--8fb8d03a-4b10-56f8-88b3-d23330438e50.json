@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--8fb8d03a-4b10-56f8-88b3-d23330438e50", "name": "Puppet Agent 0.2.0", "cpe": "cpe:2.3:a:puppet:puppet_agent:0.2.0:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "puppet", "version": "0.2.0"}

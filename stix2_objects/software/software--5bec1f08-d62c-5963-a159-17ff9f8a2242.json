@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--5bec1f08-d62c-5963-a159-17ff9f8a2242", "name": "Redhat JBoss Middleware Text-only Advisories 1.0 for Middleware", "cpe": "cpe:2.3:a:redhat:jboss_middleware_text-only_advisories:1.0:*:*:*:*:middleware:*:*", "languages": ["en_US"], "vendor": "redhat", "version": "1.0"}

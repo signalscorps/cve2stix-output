@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--28601a3f-c630-57a4-8767-f3cfa76d5ff3", "name": "Jenkins ClearCase Release 0.3 for Jenkins", "cpe": "cpe:2.3:a:jenkins:clearcase_release:0.3:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "0.3"}

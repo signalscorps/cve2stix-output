@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--2fd2c0ed-423d-5d74-86a6-631fda7720bc", "name": "Siemens SIMATIC Notifier Server for Windows", "cpe": "cpe:2.3:a:siemens:simatic_notifier_server:-:*:*:*:*:windows:*:*", "languages": ["en_US"], "vendor": "siemens", "version": "-"}

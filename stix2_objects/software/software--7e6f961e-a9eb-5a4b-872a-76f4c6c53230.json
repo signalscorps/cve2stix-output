@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--7e6f961e-a9eb-5a4b-872a-76f4c6c53230", "name": "NVIDIA NVS Firmware 440", "cpe": "cpe:2.3:o:nvidia:nvs_firmware:440:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "nvidia", "version": "440"}

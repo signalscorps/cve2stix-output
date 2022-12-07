@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--38c49c97-191e-50d7-b313-b10eb52c6b07", "name": "NVIDIA NVS Firmware 450", "cpe": "cpe:2.3:o:nvidia:nvs_firmware:450:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "nvidia", "version": "450"}

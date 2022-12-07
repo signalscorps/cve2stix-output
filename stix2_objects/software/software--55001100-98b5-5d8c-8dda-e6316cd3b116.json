@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--55001100-98b5-5d8c-8dda-e6316cd3b116", "name": "Jenkins Storable Configs 1.0 for Jenkins", "cpe": "cpe:2.3:a:jenkins:storable_configs:1.0:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "1.0"}

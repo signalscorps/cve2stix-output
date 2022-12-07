@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--dba2faa2-24f7-5e63-abe9-6efb6174e4a1", "name": "TypeORM 0.1.16 for Node.js", "cpe": "cpe:2.3:a:typeorm:typeorm:0.1.16:*:*:*:*:node.js:*:*", "languages": ["en_US"], "vendor": "typeorm", "version": "0.1.16"}

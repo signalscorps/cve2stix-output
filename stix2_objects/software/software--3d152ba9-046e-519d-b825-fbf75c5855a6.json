@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--3d152ba9-046e-519d-b825-fbf75c5855a6", "name": "Jenkins Android Lint 2.1 for Jenkins", "cpe": "cpe:2.3:a:jenkins:android_lint:2.1:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "2.1"}

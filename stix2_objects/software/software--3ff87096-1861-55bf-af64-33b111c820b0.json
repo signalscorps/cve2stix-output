@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--3ff87096-1861-55bf-af64-33b111c820b0", "name": "Jenkins Coverage/Complexity Scatter Plot 1.1.3 for Jenkins", "cpe": "cpe:2.3:a:jenkins:coverage\\/complexity_scatter_plot:1.1.3:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "1.1.3"}

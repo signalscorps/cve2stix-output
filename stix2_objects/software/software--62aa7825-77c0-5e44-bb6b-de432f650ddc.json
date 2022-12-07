@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--62aa7825-77c0-5e44-bb6b-de432f650ddc", "name": "NVIDIA GeForce Firmware 450", "cpe": "cpe:2.3:o:nvidia:geforce_firmware:450:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "nvidia", "version": "450"}

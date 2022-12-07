@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--209ab07b-d1fb-5f90-a8bb-408a9c31847e", "name": "Hibernate Hibernate ORM 5.2.4", "cpe": "cpe:2.3:a:hibernate:hibernate_orm:5.2.4:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "hibernate", "version": "5.2.4"}

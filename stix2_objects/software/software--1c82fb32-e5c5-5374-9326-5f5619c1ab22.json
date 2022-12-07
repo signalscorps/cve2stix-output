@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--1c82fb32-e5c5-5374-9326-5f5619c1ab22", "name": "Pexip Reverse Proxy and TURN Server 5", "cpe": "cpe:2.3:a:pexip:reverse_proxy_and_turn_server:5:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "pexip", "version": "5"}

@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--5fab2155-e081-5d39-b3f8-33922f416702", "name": "NVIDIA NVS Firmware 418", "cpe": "cpe:2.3:o:nvidia:nvs_firmware:418:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "nvidia", "version": "418"}

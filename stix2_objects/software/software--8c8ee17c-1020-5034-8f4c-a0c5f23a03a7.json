@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--8c8ee17c-1020-5034-8f4c-a0c5f23a03a7", "name": "NVIDIA GeForce Firmware 390", "cpe": "cpe:2.3:o:nvidia:geforce_firmware:390:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "nvidia", "version": "390"}

@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--4500bacf-f9d6-5ad3-8711-9ca061907c47", "name": "SAP MaxDB ODBC Driver 7.9.09.07", "cpe": "cpe:2.3:a:sap:maxdb_odbc_driver:7.9.09.07:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "sap", "version": "7.9.09.07"}

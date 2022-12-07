@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--8efbc5a5-f847-51a0-8880-7bb842b3037e", "name": "NodeBB Blog Comments 0.0.1 for Node.js", "cpe": "cpe:2.3:a:nodebb:blog_comments:0.0.1:*:*:*:*:node.js:*:*", "languages": ["en_US"], "vendor": "nodebb", "version": "0.0.1"}

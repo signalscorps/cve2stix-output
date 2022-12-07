@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--8631790b-6952-501f-9a97-c9e6c4071a3c", "name": "Perl DBI 1.640", "cpe": "cpe:2.3:a:perl:database_interface:1.640:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "perl", "version": "1.640"}

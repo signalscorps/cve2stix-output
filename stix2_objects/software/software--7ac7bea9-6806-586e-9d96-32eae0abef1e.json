@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--7ac7bea9-6806-586e-9d96-32eae0abef1e", "name": "Jenkins Copy Data To Workspace 1.0 for Jenkins", "cpe": "cpe:2.3:a:jenkins:copy_data_to_workspace:1.0:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "1.0"}

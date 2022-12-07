@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--1aeed88c-739a-5fae-8f32-79b171b7eacc", "name": "Linux Kernel 4.5 Release Candidate 6", "cpe": "cpe:2.3:o:linux:linux_kernel:4.5:rc6:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "linux", "version": "4.5"}

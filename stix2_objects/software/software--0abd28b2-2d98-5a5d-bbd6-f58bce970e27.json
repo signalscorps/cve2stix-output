@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--0abd28b2-2d98-5a5d-bbd6-f58bce970e27", "name": "Jenkins Parameterized Remote Trigger 2.2.0 for Jenkins", "cpe": "cpe:2.3:a:jenkins:parameterized_remote_trigger:2.2.0:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "2.2.0"}

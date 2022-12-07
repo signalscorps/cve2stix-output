@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--f19bb3a9-1f0a-576f-822a-6dec2c4a707b", "name": "Jenkins SoapUI Pro Functional Testing 1.3 for Jenkins", "cpe": "cpe:2.3:a:jenkins:soapui_pro_functional_testing:1.3:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "1.3"}

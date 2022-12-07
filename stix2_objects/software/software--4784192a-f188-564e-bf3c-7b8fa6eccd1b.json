@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--4784192a-f188-564e-bf3c-7b8fa6eccd1b", "name": "Jenkins ElasTest 1.2.1 for Jenkins", "cpe": "cpe:2.3:a:jenkins:elastest:1.2.1:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "1.2.1"}

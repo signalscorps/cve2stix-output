@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--f0a6d625-6020-5568-b294-da6e2bdbbf34", "name": "Gruntjs Grunt 1.0.2 for Node.js", "cpe": "cpe:2.3:a:gruntjs:grunt:1.0.2:*:*:*:*:node.js:*:*", "languages": ["en_US"], "vendor": "gruntjs", "version": "1.0.2"}

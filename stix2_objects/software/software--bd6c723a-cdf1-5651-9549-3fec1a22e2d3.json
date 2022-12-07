@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--bd6c723a-cdf1-5651-9549-3fec1a22e2d3", "name": "SUSE Linux Enterprise Server 15 Long Term Service Pack Support (LTSS) Edition", "cpe": "cpe:2.3:o:suse:linux_enterprise_server:15:*:*:*:ltss:*:*:*", "languages": ["en_US"], "vendor": "suse", "version": "15"}

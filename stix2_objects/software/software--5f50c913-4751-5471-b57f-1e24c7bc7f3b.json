@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--5f50c913-4751-5471-b57f-1e24c7bc7f3b", "name": "Linux Kernel 5.9.0 Release Candidate 1", "cpe": "cpe:2.3:o:linux:linux_kernel:5.9.0:rc1:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "linux", "version": "5.9.0"}

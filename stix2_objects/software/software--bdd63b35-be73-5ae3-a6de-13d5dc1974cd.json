@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--bdd63b35-be73-5ae3-a6de-13d5dc1974cd", "name": "F5 BIG-IP Advanced Firewall Manager (AFM) 11.6.5.2", "cpe": "cpe:2.3:a:f5:big-ip_advanced_firewall_manager:11.6.5.2:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "f5", "version": "11.6.5.2"}

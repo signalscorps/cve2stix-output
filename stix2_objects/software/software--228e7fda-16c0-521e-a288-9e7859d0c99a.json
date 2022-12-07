@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--228e7fda-16c0-521e-a288-9e7859d0c99a", "name": "Jenkins Valgrind 0.28 for Jenkins", "cpe": "cpe:2.3:a:jenkins:valgrind:0.28:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "0.28"}
