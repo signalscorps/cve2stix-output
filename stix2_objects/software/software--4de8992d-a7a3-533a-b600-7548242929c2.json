@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--4de8992d-a7a3-533a-b600-7548242929c2", "name": "Jenkins OctopusDeploy 1.8.0 for Jenkins", "cpe": "cpe:2.3:a:jenkins:octopusdeploy:1.8.0:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "1.8.0"}

@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--8b365f60-9a31-5fc3-a30f-ea1bf1170b40", "name": "GnuPG Libgpg-error 1.8", "cpe": "cpe:2.3:a:gnupg:libgpg-error:1.8:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "gnupg", "version": "1.8"}

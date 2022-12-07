@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--a7794bad-02d6-5677-bf83-a1a9b8c6c9fc", "name": "Nodejs Node.js 4.2.3 LTS Edition", "cpe": "cpe:2.3:a:nodejs:node.js:4.2.3:*:*:*:lts:*:*:*", "languages": ["en_US"], "vendor": "nodejs", "version": "4.2.3"}

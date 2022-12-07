@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--6075b879-46e5-5f82-a910-c3c230234545", "name": "LLVM 5.0.1", "cpe": "cpe:2.3:a:llvm:llvm:5.0.1:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "llvm", "version": "5.0.1"}

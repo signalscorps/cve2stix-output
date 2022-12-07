@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--3df06180-c453-55b8-b818-c9cc8f67ef6c", "name": "GnuPG Libgpg-error 1.25", "cpe": "cpe:2.3:a:gnupg:libgpg-error:1.25:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "gnupg", "version": "1.25"}

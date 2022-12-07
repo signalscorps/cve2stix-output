@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--da296c27-f695-5345-bd67-e9080da0423c", "name": "Jenkins Script Security 1.30 for Jenkins", "cpe": "cpe:2.3:a:jenkins:script_security:1.30:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "1.30"}

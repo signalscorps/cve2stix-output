@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--ef4f2aae-327d-55fd-959a-ce6ed36e5d59", "name": "Jenkins Groovy 1.12 for Jenkins", "cpe": "cpe:2.3:a:jenkins:groovy:1.12:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "1.12"}

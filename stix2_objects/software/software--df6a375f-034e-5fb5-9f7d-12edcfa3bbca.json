@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--df6a375f-034e-5fb5-9f7d-12edcfa3bbca", "name": "Jenkins Mattermost 2.2.0 for Jenkins", "cpe": "cpe:2.3:a:jenkins:mattermost:2.2.0:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "2.2.0"}

@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--fc0bc754-3495-596b-bac8-2a746eb6b68f", "name": "Debian ifupdown 0.7 Release Candidate 1", "cpe": "cpe:2.3:a:debian:ifupdown:0.7:rc1:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "debian", "version": "0.7"}

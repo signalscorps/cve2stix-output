@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--83ebc883-c7fb-5bb8-9c2a-c82546d4cac9", "name": "Linux NFS nfs-utils 1.0.10", "cpe": "cpe:2.3:a:linux-nfs:nfs-utils:1.0.10:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "linux-nfs", "version": "1.0.10"}

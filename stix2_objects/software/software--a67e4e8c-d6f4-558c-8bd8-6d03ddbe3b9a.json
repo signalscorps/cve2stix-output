@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--a67e4e8c-d6f4-558c-8bd8-6d03ddbe3b9a", "name": "Jenkins Cloud Foundry 1.4 for Jenkins", "cpe": "cpe:2.3:a:jenkins:cloud_foundry:1.4:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "1.4"}

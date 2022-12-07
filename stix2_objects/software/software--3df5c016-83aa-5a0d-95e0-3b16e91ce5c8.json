@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--3df5c016-83aa-5a0d-95e0-3b16e91ce5c8", "name": "GnuPG Libgpg-error 1.7", "cpe": "cpe:2.3:a:gnupg:libgpg-error:1.7:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "gnupg", "version": "1.7"}

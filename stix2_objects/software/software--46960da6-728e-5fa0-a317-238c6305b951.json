@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--46960da6-728e-5fa0-a317-238c6305b951", "name": "Apache Airflow 1.2.0", "cpe": "cpe:2.3:a:apache:airflow:1.2.0:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "apache", "version": "1.2.0"}

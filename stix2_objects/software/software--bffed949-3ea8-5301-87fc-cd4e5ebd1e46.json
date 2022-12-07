@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--bffed949-3ea8-5301-87fc-cd4e5ebd1e46", "name": "SELinux Project Libsepol 2.7", "cpe": "cpe:2.3:a:selinuxproject:libsepol:2.7:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "selinuxproject", "version": "2.7"}

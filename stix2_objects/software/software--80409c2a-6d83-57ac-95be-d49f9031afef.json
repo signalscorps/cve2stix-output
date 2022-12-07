@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--80409c2a-6d83-57ac-95be-d49f9031afef", "name": "OpenSSL Project OpenSSL 1.1.1 Pre1", "cpe": "cpe:2.3:a:openssl:openssl:1.1.1:pre1:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "openssl", "version": "1.1.1"}

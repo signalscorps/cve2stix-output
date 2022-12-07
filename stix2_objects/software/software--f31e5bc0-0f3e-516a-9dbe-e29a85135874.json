@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--f31e5bc0-0f3e-516a-9dbe-e29a85135874", "name": "Helm ChartMuseum 0.2.3", "cpe": "cpe:2.3:a:helm:chartmuseum:0.2.3:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "helm", "version": "0.2.3"}
