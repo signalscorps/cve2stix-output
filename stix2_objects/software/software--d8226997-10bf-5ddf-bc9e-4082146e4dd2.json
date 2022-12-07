@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--d8226997-10bf-5ddf-bc9e-4082146e4dd2", "name": "VMware Harbor Container Registry 1.8.3 for Pivotal Cloud Foundry", "cpe": "cpe:2.3:a:vmware:harbor_container_registry:1.8.3:*:*:*:*:pivotal_cloud_foundry:*:*", "languages": ["en_US"], "vendor": "vmware", "version": "1.8.3"}

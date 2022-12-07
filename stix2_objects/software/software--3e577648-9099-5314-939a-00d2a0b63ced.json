@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--3e577648-9099-5314-939a-00d2a0b63ced", "name": "NetApp Active IQ Unified Manager for VMware vSphere", "cpe": "cpe:2.3:a:netapp:active_iq_unified_manager:-:*:*:*:*:vmware_vsphere:*:*", "languages": ["en_US"], "vendor": "netapp", "version": "-"}

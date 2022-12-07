@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--0c8076fa-3c09-500e-a622-52c013dc50fa", "name": "DPDK Data Plane Development Kit 17.11.9", "cpe": "cpe:2.3:a:dpdk:data_plane_development_kit:17.11.9:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "dpdk", "version": "17.11.9"}

@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--9884d0d4-5ca5-5115-bfd2-e9dfcf743405", "name": "Splunk Software Development Kit (SDK) 1.2 for Python", "cpe": "cpe:2.3:a:splunk:software_development_kit:1.2:*:*:*:*:python:*:*", "languages": ["en_US"], "vendor": "splunk", "version": "1.2"}

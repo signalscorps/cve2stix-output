@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--ab3b2fd6-56d8-57b1-bd5e-49752dd47ea0", "name": "Glider Labs docker-alpine 3.8", "cpe": "cpe:2.3:a:gliderlabs:docker-alpine:3.8:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "gliderlabs", "version": "3.8"}

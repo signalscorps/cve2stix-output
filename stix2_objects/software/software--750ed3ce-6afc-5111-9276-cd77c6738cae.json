@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--750ed3ce-6afc-5111-9276-cd77c6738cae", "name": "Intel Nuvoton Consumer Infrared (CIR) on NUC", "cpe": "cpe:2.3:a:intel:nuvoton_consumer_infrared:-:*:*:*:*:*:nuc:*", "languages": ["en_US"], "vendor": "intel", "version": "-"}

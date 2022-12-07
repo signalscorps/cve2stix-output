@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--5cc965e9-6c02-5838-b51c-90b318851eab", "name": "call-cc CHICKEN 4.8.2 on X64", "cpe": "cpe:2.3:a:call-cc:chicken:4.8.2:*:*:*:*:*:x64:*", "languages": ["en_US"], "vendor": "call-cc", "version": "4.8.2"}

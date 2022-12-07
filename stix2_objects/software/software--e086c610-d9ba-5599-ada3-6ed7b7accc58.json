@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--e086c610-d9ba-5599-ada3-6ed7b7accc58", "name": "LuaJIT 2.0.0 Beta 1", "cpe": "cpe:2.3:a:luajit:luajit:2.0.0:beta1:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "luajit", "version": "2.0.0"}

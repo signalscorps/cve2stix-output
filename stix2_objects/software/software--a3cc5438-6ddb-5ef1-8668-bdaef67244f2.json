@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--a3cc5438-6ddb-5ef1-8668-bdaef67244f2", "name": "Microsoft CodeQL 1.0.0 for Visual Studio Code", "cpe": "cpe:2.3:a:microsoft:codeql:1.0.0:*:*:*:*:visual_studio_code:*:*", "languages": ["en_US"], "vendor": "microsoft", "version": "1.0.0"}

@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--0186a7b5-445b-50b9-a338-e28ec8e177eb", "name": "NVIDIA GPUModeSwitch", "cpe": "cpe:2.3:a:nvidia:gpumodeswitch:-:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "nvidia", "version": "-"}

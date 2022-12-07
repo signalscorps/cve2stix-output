@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--94ca4f7f-5e86-505f-b98b-aeca085c99d5", "name": "Pivotal Software RabbitMQ 1.7.25 for Pivotal Cloud Foundry", "cpe": "cpe:2.3:a:pivotal_software:rabbitmq:1.7.25:*:*:*:*:pivotal_cloud_foundry:*:*", "languages": ["en_US"], "vendor": "pivotal_software", "version": "1.7.25"}

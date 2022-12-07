@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--e5f5dfa8-194c-5b30-b364-3c25782fd66b", "name": "NetApp E-Series SANtricity OS Controller 11.50.2 Patch 1", "cpe": "cpe:2.3:a:netapp:e-series_santricity_os_controller:11.50.2:p1:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "netapp", "version": "11.50.2"}

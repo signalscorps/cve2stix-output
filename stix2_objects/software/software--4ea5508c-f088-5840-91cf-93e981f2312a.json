@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--4ea5508c-f088-5840-91cf-93e981f2312a", "name": "Horde Native Language Support (NLS) 2.0.0 Alpha 1", "cpe": "cpe:2.3:a:horde:horde_native_language_support:2.0.0:alpha1:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "horde", "version": "2.0.0"}

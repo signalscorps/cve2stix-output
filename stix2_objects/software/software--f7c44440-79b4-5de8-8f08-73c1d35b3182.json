@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--f7c44440-79b4-5de8-8f08-73c1d35b3182", "name": "Jenkins RapidDeploy 4.1 for Jenkins", "cpe": "cpe:2.3:a:jenkins:rapiddeploy:4.1:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "4.1"}

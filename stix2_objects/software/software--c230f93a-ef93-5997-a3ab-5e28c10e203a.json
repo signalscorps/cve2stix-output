@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--c230f93a-ef93-5997-a3ab-5e28c10e203a", "name": "Oracle MySQL 5.1.37 Service Pack 1", "cpe": "cpe:2.3:a:oracle:mysql:5.1.37:sp1:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "oracle", "version": "5.1.37"}

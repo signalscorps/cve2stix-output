@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--4a91724e-3618-54b7-94af-c18f91ee0f79", "name": "Haskell hs-tls 1.2.10", "cpe": "cpe:2.3:a:haskell:hs-tls:1.2.10:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "haskell", "version": "1.2.10"}

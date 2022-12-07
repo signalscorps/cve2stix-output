@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--08b5ad5f-2178-5cf3-b6ca-0c779dc3a71b", "name": "Jenkins Pipeline Aggregator View 1.2 for Jenkins", "cpe": "cpe:2.3:a:jenkins:pipeline_aggregator_view:1.2:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "1.2"}

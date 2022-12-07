@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--2f3a24e6-2836-58d1-9cc1-fbbca7cd66eb", "name": "Yubico PAM module 2.20", "cpe": "cpe:2.3:a:yubico:pam_module:2.20:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "yubico", "version": "2.20"}

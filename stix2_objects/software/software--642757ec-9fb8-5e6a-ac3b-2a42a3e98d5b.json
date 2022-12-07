@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--642757ec-9fb8-5e6a-ac3b-2a42a3e98d5b", "name": "Intel Graphics Driver for Windows", "cpe": "cpe:2.3:a:intel:graphics_driver:-:*:*:*:*:windows:*:*", "languages": ["en_US"], "vendor": "intel", "version": "-"}

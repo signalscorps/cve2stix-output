@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--041dc413-fa51-512c-8d08-0288f70f7d5f", "name": "Kubernetes CRI-O 1.16.1", "cpe": "cpe:2.3:a:kubernetes:cri-o:1.16.1:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "kubernetes", "version": "1.16.1"}

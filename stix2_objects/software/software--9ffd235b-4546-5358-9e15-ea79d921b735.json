@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--9ffd235b-4546-5358-9e15-ea79d921b735", "name": "FreeBSD Name Server Daemon 1.1.0", "cpe": "cpe:2.3:a:freebsd:name_server_daemon:1.1.0:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "freebsd", "version": "1.1.0"}

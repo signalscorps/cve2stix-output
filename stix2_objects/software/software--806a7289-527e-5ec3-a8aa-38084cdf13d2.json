@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--806a7289-527e-5ec3-a8aa-38084cdf13d2", "name": "IBM ibm_db 0.0.3 for Node.js", "cpe": "cpe:2.3:a:ibm:ibm_db:0.0.3:*:*:*:*:node.js:*:*", "languages": ["en_US"], "vendor": "ibm", "version": "0.0.3"}

@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--153ff75a-aa43-57d6-a8b3-3d34a60d277c", "name": "Red Hat JBoss KeyCloak", "cpe": "cpe:2.3:a:redhat:jboss_keycloak:-:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "redhat", "version": "-"}

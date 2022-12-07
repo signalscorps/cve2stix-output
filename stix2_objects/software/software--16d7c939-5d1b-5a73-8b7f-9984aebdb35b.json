@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--16d7c939-5d1b-5a73-8b7f-9984aebdb35b", "name": "HAProxy proxyprotocol for Caddy", "cpe": "cpe:2.3:a:haproxy:proxyprotocol:-:*:*:*:*:caddy:*:*", "languages": ["en_US"], "vendor": "haproxy", "version": "-"}

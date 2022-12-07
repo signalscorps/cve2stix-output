@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--3b164cfe-2a38-5920-96ca-e2c4678899e5", "name": "IBM Spectrum Protect for Virtual Environments 7.1.8.5 for Hyper-V", "cpe": "cpe:2.3:a:ibm:spectrum_protect_for_virtual_environments:7.1.8.5:*:*:*:*:hyper-v:*:*", "languages": ["en_US"], "vendor": "ibm", "version": "7.1.8.5"}

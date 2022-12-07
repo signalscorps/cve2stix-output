@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--25a05b44-3ce2-5165-b605-38574d1d894e", "name": "HashiCorp Terraform 0.12.6", "cpe": "cpe:2.3:a:hashicorp:terraform:0.12.6:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "hashicorp", "version": "0.12.6"}

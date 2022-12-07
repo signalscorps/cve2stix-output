@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--3ab0484f-4d75-5935-8859-9daddf3699e7", "name": "Jenkins Sctmexecutor 1.5.1 for Jenkins", "cpe": "cpe:2.3:a:jenkins:sctmexecutor:1.5.1:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "1.5.1"}

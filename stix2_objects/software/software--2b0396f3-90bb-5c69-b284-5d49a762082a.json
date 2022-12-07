@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--2b0396f3-90bb-5c69-b284-5d49a762082a", "name": "Red Hat Enterprise Linux Telecommunications Update Service (TUS) 7.7", "cpe": "cpe:2.3:o:redhat:enterprise_linux_tus:7.7:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "redhat", "version": "7.7"}

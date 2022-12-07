@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--8e0e5bab-37e5-5c4c-8483-fd2e897d35a2", "name": "WebTorrent bittorrent-dht 1.0.0 for Node.js", "cpe": "cpe:2.3:a:webtorrent:bittorrent-dht:1.0.0:*:*:*:*:node.js:*:*", "languages": ["en_US"], "vendor": "webtorrent", "version": "1.0.0"}

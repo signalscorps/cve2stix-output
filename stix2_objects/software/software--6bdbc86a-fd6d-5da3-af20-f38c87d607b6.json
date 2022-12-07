@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--6bdbc86a-fd6d-5da3-af20-f38c87d607b6", "name": "Red Hat Jboss Application Server 7.0.1", "cpe": "cpe:2.3:a:redhat:jboss_application_server:7.0.1:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "redhat", "version": "7.0.1"}

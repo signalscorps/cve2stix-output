@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--b2c80159-65bb-5f03-b8e9-01b50e95554f", "name": "Mod Auth Openidc Project Mod Auth Openidc 2.3.3 for Apache", "cpe": "cpe:2.3:a:mod_auth_openidc_project:mod_auth_openidc:2.3.3:*:*:*:*:apache:*:*", "languages": ["en_US"], "vendor": "mod_auth_openidc_project", "version": "2.3.3"}

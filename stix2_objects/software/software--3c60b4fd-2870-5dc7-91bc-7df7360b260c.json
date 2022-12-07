@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--3c60b4fd-2870-5dc7-91bc-7df7360b260c", "name": "Microsoft Azure App Service on Azure Stack 1.5", "cpe": "cpe:2.3:a:microsoft:azure_app_service_on_azure_stack:1.5:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "microsoft", "version": "1.5"}

@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--93d99cc6-42f4-5276-a4e9-12e1d7529a1f", "name": "Jenkins Mission Control 0.9.2 for Jenkins", "cpe": "cpe:2.3:a:jenkins:mission_control:0.9.2:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "0.9.2"}

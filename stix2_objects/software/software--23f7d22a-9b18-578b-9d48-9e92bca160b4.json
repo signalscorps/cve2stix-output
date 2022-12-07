@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--23f7d22a-9b18-578b-9d48-9e92bca160b4", "name": "Horde Ldap 1.0.0 for Horde", "cpe": "cpe:2.3:a:horde:horde_ldap:1.0.0:*:*:*:*:horde:*:*", "languages": ["en_US"], "vendor": "horde", "version": "1.0.0"}

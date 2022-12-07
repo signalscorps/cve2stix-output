@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--e78a4e99-c9d0-568c-9694-298ec8990693", "name": "Apache Software Foundation SpamAssassin 3.4.1", "cpe": "cpe:2.3:a:apache:spamassassin:3.4.1:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "apache", "version": "3.4.1"}

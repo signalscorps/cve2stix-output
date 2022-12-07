@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--33d57f78-4f09-5daa-af2a-c2696e37f5de", "name": "Xen Xen 4.8.2 on ARM", "cpe": "cpe:2.3:o:xen:xen:4.8.2:*:*:*:*:*:arm:*", "languages": ["en_US"], "vendor": "xen", "version": "4.8.2"}

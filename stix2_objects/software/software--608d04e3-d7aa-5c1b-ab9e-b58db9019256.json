@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--608d04e3-d7aa-5c1b-ab9e-b58db9019256", "name": "Atlassian Jira Service Desk 3.2.2 Server Edition", "cpe": "cpe:2.3:a:atlassian:jira_service_desk:3.2.2:*:*:*:server:*:*:*", "languages": ["en_US"], "vendor": "atlassian", "version": "3.2.2"}

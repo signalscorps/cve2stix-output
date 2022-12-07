@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--0a808a82-24cd-5d5e-ad51-c78519e43dc1", "name": "Puma 1.3.0 for Ruby", "cpe": "cpe:2.3:a:puma:puma:1.3.0:*:*:*:*:ruby:*:*", "languages": ["en_US"], "vendor": "puma", "version": "1.3.0"}

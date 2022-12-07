@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--480cd261-4e21-547f-86d8-81c50c8f20a0", "name": "NetBSD on X86", "cpe": "cpe:2.3:o:netbsd:netbsd:-:*:*:*:*:*:x86:*", "languages": ["en_US"], "vendor": "netbsd", "version": "-"}

@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--f1396cb5-a92b-54f6-aac0-76661f5d5a5c", "name": "ISC BIND 9.11.5 S3 for Supported Preview", "cpe": "cpe:2.3:a:isc:bind:9.11.5:s3:*:*:*:supported_preview:*:*", "languages": ["en_US"], "vendor": "isc", "version": "9.11.5"}

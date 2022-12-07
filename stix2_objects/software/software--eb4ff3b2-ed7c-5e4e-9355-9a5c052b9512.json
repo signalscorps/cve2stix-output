@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--eb4ff3b2-ed7c-5e4e-9355-9a5c052b9512", "name": "WP-PDF PDF Embedder for WordPress", "cpe": "cpe:2.3:a:wp-pdf:pdf_embedder:-:*:*:*:*:wordpress:*:*", "languages": ["en_US"], "vendor": "wp-pdf", "version": "-"}

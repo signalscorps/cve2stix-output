@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--05d4032e-edb6-53fc-b8c2-108c3f3b9ea9", "name": "Jenkins Build Graph View 1.8 for Jenkins", "cpe": "cpe:2.3:a:jenkins:build_graph_view:1.8:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "1.8"}

@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--77523b16-06bc-5380-8bee-ae2b280b1b75", "name": "Joyent Sshpk 1.14.2 for Node.js", "cpe": "cpe:2.3:a:joyent:sshpk:1.14.2:*:*:*:*:node.js:*:*", "languages": ["en_US"], "vendor": "joyent", "version": "1.14.2"}

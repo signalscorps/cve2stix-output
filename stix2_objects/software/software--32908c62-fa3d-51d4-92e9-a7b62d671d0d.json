@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--32908c62-fa3d-51d4-92e9-a7b62d671d0d", "name": "Lawrence Livermore National Laboratory Model Specific Registers-safe (MSRs) 1.2.1", "cpe": "cpe:2.3:a:llnl:model_specific_registers-safe:1.2.1:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "llnl", "version": "1.2.1"}
