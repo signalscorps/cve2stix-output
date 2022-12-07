@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--20779f4f-edf2-5ebe-88ef-37a0d799760a", "name": "Jenkins Timestamper 1.10 for Jenkins", "cpe": "cpe:2.3:a:jenkins:timestamper:1.10:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "1.10"}

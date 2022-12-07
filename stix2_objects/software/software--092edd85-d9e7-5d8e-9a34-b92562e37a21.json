@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--092edd85-d9e7-5d8e-9a34-b92562e37a21", "name": "Influxdata InfluxDB 0.4.0 Release Candidate 3", "cpe": "cpe:2.3:a:influxdata:influxdb:0.4.0:rc3:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "influxdata", "version": "0.4.0"}

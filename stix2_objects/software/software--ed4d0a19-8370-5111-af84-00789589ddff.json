@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--ed4d0a19-8370-5111-af84-00789589ddff", "name": "Jenkins Subversion Release Manager 0.1 for Jenkins", "cpe": "cpe:2.3:a:jenkins:subversion_release_manager:0.1:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "0.1"}

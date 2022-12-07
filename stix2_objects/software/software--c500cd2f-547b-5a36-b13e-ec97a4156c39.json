@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--c500cd2f-547b-5a36-b13e-ec97a4156c39", "name": "Bitcoin Core 0.17.1 Release Candidate 1", "cpe": "cpe:2.3:a:bitcoin:bitcoin_core:0.17.1:rc1:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "bitcoin", "version": "0.17.1"}

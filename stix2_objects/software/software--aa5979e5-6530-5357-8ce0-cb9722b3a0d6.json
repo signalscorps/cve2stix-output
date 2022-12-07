@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--aa5979e5-6530-5357-8ce0-cb9722b3a0d6", "name": "Jenkins Logstash 1.0.3 for Jenkins", "cpe": "cpe:2.3:a:jenkins:logstash:1.0.3:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "1.0.3"}

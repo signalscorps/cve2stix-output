@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--b4e4cae1-fd40-55b3-b243-0ffaf0166c9b", "name": "Red Hat Keycloak Operator 8.0.1 Community Edition", "cpe": "cpe:2.3:a:redhat:keycloak_operator:8.0.1:*:*:*:community:*:*:*", "languages": ["en_US"], "vendor": "redhat", "version": "8.0.1"}

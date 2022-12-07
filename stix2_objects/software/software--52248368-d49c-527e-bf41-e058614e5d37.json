@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--52248368-d49c-527e-bf41-e058614e5d37", "name": "Jenkins DeployHub 8.0.3 for Jenkins", "cpe": "cpe:2.3:a:jenkins:deployhub:8.0.3:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "8.0.3"}

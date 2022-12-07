@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--26ab19d8-fb20-5744-8a75-3e113120b459", "name": "Anynines Postgresql 2.0.1 for Pivotal Cloud Foundry", "cpe": "cpe:2.3:a:anynines:postgresql:2.0.1:*:*:*:*:pivotal_cloud_foundry:*:*", "languages": ["en_US"], "vendor": "anynines", "version": "2.0.1"}

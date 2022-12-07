@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--1a6dc980-8fdf-5ac3-a1d6-3a564a913dd6", "name": "Red Hat Enterprise Linux 7.0 on x86", "cpe": "cpe:2.3:o:redhat:enterprise_linux:7.0:*:*:*:*:*:x86:*", "languages": ["en_US"], "vendor": "redhat", "version": "7.0"}

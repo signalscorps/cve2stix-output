@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--5be6c5f9-f8e7-5d79-a34d-c278b4d9a04d", "name": "Reveal.JS 3.2.0 for Node.js", "cpe": "cpe:2.3:a:revealjs:reveal.js:3.2.0:*:*:*:*:node.js:*:*", "languages": ["en_US"], "vendor": "revealjs", "version": "3.2.0"}

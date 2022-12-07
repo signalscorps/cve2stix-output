@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--4c294683-7e61-5ac1-9ee2-492d5b4d73bd", "name": "Jenkins OpenShift Pipeline 1.0 for Jenkins", "cpe": "cpe:2.3:a:jenkins:openshift_pipeline:1.0:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "1.0"}

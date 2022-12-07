@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--a197dfc5-59c1-503d-b1bf-975c7c53a0bb", "name": "Anynines Rabbitmq 2.1.2 for Pivotal Cloud Foundry", "cpe": "cpe:2.3:a:anynines:rabbitmq:2.1.2:*:*:*:*:pivotal_cloud_foundry:*:*", "languages": ["en_US"], "vendor": "anynines", "version": "2.1.2"}

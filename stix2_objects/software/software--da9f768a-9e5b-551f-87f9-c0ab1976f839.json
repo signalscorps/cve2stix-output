@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--da9f768a-9e5b-551f-87f9-c0ab1976f839", "name": "Open Ticket Request System (OTRS) ITSM 5.0.4", "cpe": "cpe:2.3:a:otrs:otrs_itsm:5.0.4:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "otrs", "version": "5.0.4"}

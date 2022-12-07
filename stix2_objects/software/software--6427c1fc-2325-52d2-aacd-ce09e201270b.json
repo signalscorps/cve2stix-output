@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--6427c1fc-2325-52d2-aacd-ce09e201270b", "name": "EMC RSA Authentication Manager 7.1 Service Pack 3", "cpe": "cpe:2.3:a:emc:rsa_authentication_manager:7.1:sp3:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "emc", "version": "7.1"}

@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--64fb1b60-79a6-529e-8c41-3959eb99ae76", "name": "The Linux Foundation Dojo 1.8.8 for Node.js", "cpe": "cpe:2.3:a:linuxfoundation:dojo:1.8.8:*:*:*:*:node.js:*:*", "languages": ["en_US"], "vendor": "linuxfoundation", "version": "1.8.8"}

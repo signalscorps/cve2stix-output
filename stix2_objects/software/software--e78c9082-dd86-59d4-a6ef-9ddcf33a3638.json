@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--e78c9082-dd86-59d4-a6ef-9ddcf33a3638", "name": "Jenkins Queue Cleanup 1.2 for Jenkins", "cpe": "cpe:2.3:a:jenkins:queue_cleanup:1.2:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "1.2"}

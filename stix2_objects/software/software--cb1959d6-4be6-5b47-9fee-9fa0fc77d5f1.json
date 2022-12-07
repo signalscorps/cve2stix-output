@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--cb1959d6-4be6-5b47-9fee-9fa0fc77d5f1", "name": "Red Hat Enterprise Linux 6.0 on Intel64", "cpe": "cpe:2.3:o:redhat:enterprise_linux:6.0:*:*:*:*:*:intel64:*", "languages": ["en_US"], "vendor": "redhat", "version": "6.0"}

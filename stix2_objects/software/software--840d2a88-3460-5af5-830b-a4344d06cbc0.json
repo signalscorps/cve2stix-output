@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--840d2a88-3460-5af5-830b-a4344d06cbc0", "name": "Cisco NX-OS 5.2(1)SV3(4.1a) for vSphere", "cpe": "cpe:2.3:o:cisco:nx-os:5.2\\(1\\)sv3\\(4.1a\\):*:*:*:*:vsphere:*:*", "languages": ["en_US"], "vendor": "cisco", "version": "5.2\\(1\\)sv3\\(4.1a\\)"}

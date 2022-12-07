@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--f627d98e-ed9a-5db5-8121-d938012a6483", "name": "Debian X11-common", "cpe": "cpe:2.3:a:debian:x11-common:-:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "debian", "version": "-"}

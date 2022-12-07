@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--f5ac12a8-4d17-5387-b704-cd5a6c84974d", "name": "Six Apart Movable Type 6.5.3 for AWS", "cpe": "cpe:2.3:a:sixapart:movable_type:6.5.3:*:*:*:-:aws:*:*", "languages": ["en_US"], "vendor": "sixapart", "version": "6.5.3"}

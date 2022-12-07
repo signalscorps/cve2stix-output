@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--b8e50223-ad0b-58c6-9c16-29fc5da34f80", "name": "Syntastic Project Syntastic 3.10.0 for Vim", "cpe": "cpe:2.3:a:syntastic_project:syntastic:3.10.0:*:*:*:*:vim:*:*", "languages": ["en_US"], "vendor": "syntastic_project", "version": "3.10.0"}

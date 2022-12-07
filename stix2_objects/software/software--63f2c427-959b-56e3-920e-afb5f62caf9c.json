@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--63f2c427-959b-56e3-920e-afb5f62caf9c", "name": "Jenkins Quality Gates 2.1 for Jenkins", "cpe": "cpe:2.3:a:jenkins:quality_gates:2.1:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "2.1"}

@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--c89008e2-9ad0-54d8-8f66-a654a4935e39", "name": "Siemens SIMATIC S7-300 CPU 314 IFM Firmware 3.3.17", "cpe": "cpe:2.3:o:siemens:simatic_s7-300_cpu_314_ifm_firmware:3.3.17:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "siemens", "version": "3.3.17"}

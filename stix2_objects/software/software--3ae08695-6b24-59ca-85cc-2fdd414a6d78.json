@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--3ae08695-6b24-59ca-85cc-2fdd414a6d78", "name": "Docker Desktop 2.1.0.2 for Windows", "cpe": "cpe:2.3:a:docker:desktop:2.1.0.2:*:*:*:windows:*:*:*", "languages": ["en_US"], "vendor": "docker", "version": "2.1.0.2"}

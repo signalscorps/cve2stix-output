@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--ab9944a3-c3da-59ed-a611-e23d9c3a9873", "name": "GnuPG GPGME 1.1.1", "cpe": "cpe:2.3:a:gnupg:gpgme:1.1.1:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "gnupg", "version": "1.1.1"}

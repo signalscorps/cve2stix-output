@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--8943850b-0cf4-58ff-8554-dfcff9f7707e", "name": "wftpserver Wing FTP Server 6.2.3 for Linux", "cpe": "cpe:2.3:a:wftpserver:wing_ftp_server:6.2.3:*:*:*:*:linux:*:*", "languages": ["en_US"], "vendor": "wftpserver", "version": "6.2.3"}

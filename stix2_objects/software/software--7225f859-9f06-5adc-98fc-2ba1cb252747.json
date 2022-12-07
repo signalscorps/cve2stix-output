@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--7225f859-9f06-5adc-98fc-2ba1cb252747", "name": "Ghost 1.16.0 for Node.js", "cpe": "cpe:2.3:a:ghost:ghost:1.16.0:*:*:*:*:node.js:*:*", "languages": ["en_US"], "vendor": "ghost", "version": "1.16.0"}

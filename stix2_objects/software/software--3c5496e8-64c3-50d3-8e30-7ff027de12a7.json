@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--3c5496e8-64c3-50d3-8e30-7ff027de12a7", "name": "Jenkins Cobertura 1.14 for Jenkins", "cpe": "cpe:2.3:a:jenkins:cobertura:1.14:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "1.14"}

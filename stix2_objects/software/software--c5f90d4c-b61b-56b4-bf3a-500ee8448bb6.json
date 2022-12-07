@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--c5f90d4c-b61b-56b4-bf3a-500ee8448bb6", "name": "Barracuda Load Balancer ADC", "cpe": "cpe:2.3:h:barracuda:load_balancer_adc:-:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "barracuda", "version": "-"}

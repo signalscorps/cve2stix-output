@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--5597f0c1-4ae2-51bf-8f78-b242a3083dc5", "name": "OpenSMTPD 5.4.2 Patch 1", "cpe": "cpe:2.3:a:opensmtpd:opensmtpd:5.4.2:p1:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "opensmtpd", "version": "5.4.2"}

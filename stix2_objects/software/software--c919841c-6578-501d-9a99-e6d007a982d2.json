@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--c919841c-6578-501d-9a99-e6d007a982d2", "name": "Intel Optane DC Persistent Memory Module Management (DCPM) 1.0.0.3461", "cpe": "cpe:2.3:a:intel:optane_dc_persistent_memory_module_management:1.0.0.3461:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "intel", "version": "1.0.0.3461"}

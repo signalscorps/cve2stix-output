@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--8935663a-fd51-5bb8-ab2d-110af853786f", "name": "Anynines Elasticsearch 2.0.1 for Pivotal Cloud Foundry", "cpe": "cpe:2.3:a:anynines:elasticsearch:2.0.1:*:*:*:*:pivotal_cloud_foundry:*:*", "languages": ["en_US"], "vendor": "anynines", "version": "2.0.1"}

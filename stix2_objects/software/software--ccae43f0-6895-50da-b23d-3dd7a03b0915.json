@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--ccae43f0-6895-50da-b23d-3dd7a03b0915", "name": "NetApp StorageGRID Webscale NAS Bridge", "cpe": "cpe:2.3:a:netapp:storagegrid_webscale_nas_bridge:-:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "netapp", "version": "-"}

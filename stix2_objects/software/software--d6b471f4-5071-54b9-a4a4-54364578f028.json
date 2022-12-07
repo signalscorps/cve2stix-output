@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--d6b471f4-5071-54b9-a4a4-54364578f028", "name": "Anynines Mysql 0.10.0 for Pivotal Cloud Foundry", "cpe": "cpe:2.3:a:anynines:mysql:0.10.0:*:*:*:*:pivotal_cloud_foundry:*:*", "languages": ["en_US"], "vendor": "anynines", "version": "0.10.0"}

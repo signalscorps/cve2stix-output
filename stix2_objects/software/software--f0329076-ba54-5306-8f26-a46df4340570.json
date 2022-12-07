@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--f0329076-ba54-5306-8f26-a46df4340570", "name": "Jenkins Azure Container Service 0.1.2 for Jenkins", "cpe": "cpe:2.3:a:jenkins:azure_container_service:0.1.2:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "0.1.2"}

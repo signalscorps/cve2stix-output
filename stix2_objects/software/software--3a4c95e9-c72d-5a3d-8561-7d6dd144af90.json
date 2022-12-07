@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--3a4c95e9-c72d-5a3d-8561-7d6dd144af90", "name": "Jenkins Audit Trail 2.5 for Jenkins", "cpe": "cpe:2.3:a:jenkins:audit_trail:2.5:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "2.5"}

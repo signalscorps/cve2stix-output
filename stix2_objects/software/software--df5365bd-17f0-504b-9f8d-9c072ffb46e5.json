@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--df5365bd-17f0-504b-9f8d-9c072ffb46e5", "name": "FreeBSD FreeBSD 11.3", "cpe": "cpe:2.3:o:freebsd:freebsd:11.3:-:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "freebsd", "version": "11.3"}

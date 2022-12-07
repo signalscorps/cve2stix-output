@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--b845302a-f7f7-5ebf-9e69-7a571fdc565d", "name": "Jenkins Sonar Quality Gates 1.0.3 for Jenkins", "cpe": "cpe:2.3:a:jenkins:sonar_quality_gates:1.0.3:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "1.0.3"}

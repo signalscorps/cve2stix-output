@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--2bc1033d-f190-535c-bc56-461ff92dd111", "name": "Docker Desktop Enterprise", "cpe": "cpe:2.3:a:docker:desktop:-:*:*:*:enterprise:*:*:*", "languages": ["en_US"], "vendor": "docker", "version": "-"}

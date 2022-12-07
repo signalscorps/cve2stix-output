@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--6d8d8230-cc42-568a-91c4-c9bed951d71a", "name": "Jenkins Pipeline: AWS Steps 1.5 for Jenkins", "cpe": "cpe:2.3:a:jenkins:pipeline\\:_aws_steps:1.5:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "_aws_steps"}

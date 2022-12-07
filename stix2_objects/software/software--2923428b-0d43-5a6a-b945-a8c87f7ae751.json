@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--2923428b-0d43-5a6a-b945-a8c87f7ae751", "name": "Anynines Mongodb 2.1.1 for Pivotal Cloud Foundry", "cpe": "cpe:2.3:a:anynines:mongodb:2.1.1:*:*:*:*:pivotal_cloud_foundry:*:*", "languages": ["en_US"], "vendor": "anynines", "version": "2.1.1"}

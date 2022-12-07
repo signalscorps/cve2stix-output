@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--aab6304a-19f3-5fe7-82b7-7d167b286597", "name": "wftpserver Wing FTP Server 6.2.3 for Solaris", "cpe": "cpe:2.3:a:wftpserver:wing_ftp_server:6.2.3:*:*:*:*:solaris:*:*", "languages": ["en_US"], "vendor": "wftpserver", "version": "6.2.3"}

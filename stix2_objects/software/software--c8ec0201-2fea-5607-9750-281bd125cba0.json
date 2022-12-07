@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--c8ec0201-2fea-5607-9750-281bd125cba0", "name": "Pivotal Cloud Foundry Container Runtime (CFCR) 0.26.0", "cpe": "cpe:2.3:a:pivotal:cloud_foundry_container_runtime:0.26.0:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "pivotal", "version": "0.26.0"}

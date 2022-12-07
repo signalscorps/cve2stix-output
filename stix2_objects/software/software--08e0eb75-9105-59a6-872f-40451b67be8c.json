@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--08e0eb75-9105-59a6-872f-40451b67be8c", "name": "F5 NGINX Controller 2.0.0", "cpe": "cpe:2.3:a:f5:nginx_controller:2.0.0:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "f5", "version": "2.0.0"}

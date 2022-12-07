@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--42a6a595-61a6-5abf-b967-25d06c9fc9a2", "name": "Freeradius Pam Radius 1.3.17", "cpe": "cpe:2.3:a:freeradius:pam_radius:1.3.17:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "freeradius", "version": "1.3.17"}

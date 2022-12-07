@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--b76d755e-a280-5343-b3c2-9f8037a95b31", "name": "Anynines Redis 2.1.2 for Pivotal Cloud Foundry", "cpe": "cpe:2.3:a:anynines:redis:2.1.2:*:*:*:*:pivotal_cloud_foundry:*:*", "languages": ["en_US"], "vendor": "anynines", "version": "2.1.2"}

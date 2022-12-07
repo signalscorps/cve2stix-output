@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--bad64809-77f7-5a45-b99f-9af4637aa197", "name": "Intel Xeon E5-1660 V2 Firmware", "cpe": "cpe:2.3:o:intel:xeon_e5-1660_v2_firmware:-:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "intel", "version": "-"}

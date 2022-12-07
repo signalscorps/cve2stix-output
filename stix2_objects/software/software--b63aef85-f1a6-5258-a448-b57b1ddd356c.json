@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--b63aef85-f1a6-5258-a448-b57b1ddd356c", "name": "Cisco Remote PHY", "cpe": "cpe:2.3:a:cisco:remote:phy:-:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "cisco", "version": "phy"}

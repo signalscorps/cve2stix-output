@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--96d3a2b0-aad7-5fd1-b6ad-18cfb78745e1", "name": "Appdynamics Application Performance Monitoring 4.4.135 for Pivotal Cloud Foundry", "cpe": "cpe:2.3:a:appdynamics:application_performance_monitoring:4.4.135:*:*:*:*:pivotal_cloud_foundry:*:*", "languages": ["en_US"], "vendor": "appdynamics", "version": "4.4.135"}

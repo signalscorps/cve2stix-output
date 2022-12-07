@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--b99f528d-900b-5221-8809-f0bb6bcf93e2", "name": "TIBCO Enterprise Runtime for R 1.2.1 Server Edition", "cpe": "cpe:2.3:a:tibco:enterprise_runtime_for_r:1.2.1:*:*:*:server:*:*:*", "languages": ["en_US"], "vendor": "tibco", "version": "1.2.1"}

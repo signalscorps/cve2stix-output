@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--02b858f2-e41f-51d9-931c-e4bdfb061602", "name": "R Consortium RMySQL", "cpe": "cpe:2.3:a:r-consortium:rmysql:-:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "r-consortium", "version": "-"}

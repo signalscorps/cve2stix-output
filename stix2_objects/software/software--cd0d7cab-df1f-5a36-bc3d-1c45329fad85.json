@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--cd0d7cab-df1f-5a36-bc3d-1c45329fad85", "name": "EMC RSA Authentication Manager 8.4 Patch 10", "cpe": "cpe:2.3:a:emc:rsa_authentication_manager:8.4:p10:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "emc", "version": "8.4"}

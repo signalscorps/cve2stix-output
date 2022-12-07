@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--f76e7b42-8466-5d18-93e2-aa9da7b6c7e5", "name": "Jenkins P4 1.2.4 for Jenkins", "cpe": "cpe:2.3:a:jenkins:p4:1.2.4:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "1.2.4"}

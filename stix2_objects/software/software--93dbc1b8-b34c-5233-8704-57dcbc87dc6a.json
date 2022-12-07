@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--93dbc1b8-b34c-5233-8704-57dcbc87dc6a", "name": "Docker Desktop for Edge", "cpe": "cpe:2.3:a:docker:desktop:-:*:*:*:edge:*:*:*", "languages": ["en_US"], "vendor": "docker", "version": "-"}

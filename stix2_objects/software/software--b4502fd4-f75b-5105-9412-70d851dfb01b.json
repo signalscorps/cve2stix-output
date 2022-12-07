@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--b4502fd4-f75b-5105-9412-70d851dfb01b", "name": "EMC RSA Authentication Manager 6.0", "cpe": "cpe:2.3:a:emc:rsa_authentication_manager:6.0:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "emc", "version": "6.0"}
