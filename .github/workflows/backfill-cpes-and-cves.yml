@@ -11,8 +11,8 @@ jobs:
           dates:
             #- start-date: "2007-01-01"
             #  end-date: "2019-01-01"
-#             - start-date: "2019-01-01"
-#               end-date: "2021-01-01"
+            - start-date: "2020-12-31"
+              end-date: "2021-01-01"
             - start-date: "2021-01-01"
               end-date: "2023-01-01"
           
