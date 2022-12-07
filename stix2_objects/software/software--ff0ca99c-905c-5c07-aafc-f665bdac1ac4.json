@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--ff0ca99c-905c-5c07-aafc-f665bdac1ac4", "name": "Red Hat Enterprise Linux 8.0 Advanced Virtualization Edition", "cpe": "cpe:2.3:o:redhat:enterprise_linux:8.0:*:*:*:advanced_virtualization:*:*:*", "languages": ["en_US"], "vendor": "redhat", "version": "8.0"}

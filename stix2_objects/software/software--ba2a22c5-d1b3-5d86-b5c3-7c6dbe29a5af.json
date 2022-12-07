@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--ba2a22c5-d1b3-5d86-b5c3-7c6dbe29a5af", "name": "Kata Containers Runtime 1.8.3", "cpe": "cpe:2.3:a:katacontainers:runtime:1.8.3:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "katacontainers", "version": "1.8.3"}

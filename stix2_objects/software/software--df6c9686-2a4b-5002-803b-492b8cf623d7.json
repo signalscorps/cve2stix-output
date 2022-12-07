@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--df6c9686-2a4b-5002-803b-492b8cf623d7", "name": "Symantec Endpoint Protection 11.0 Ru6-mp1 for macOS", "cpe": "cpe:2.3:a:symantec:endpoint_protection:11.0:ru6-mp1:*:*:*:macos:*:*", "languages": ["en_US"], "vendor": "symantec", "version": "11.0"}

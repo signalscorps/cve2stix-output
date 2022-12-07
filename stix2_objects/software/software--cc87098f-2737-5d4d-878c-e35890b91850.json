@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--cc87098f-2737-5d4d-878c-e35890b91850", "name": "NVIDIA Jetson TX1 R21", "cpe": "cpe:2.3:a:nvidia:jetson_tx1:r21:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "nvidia", "version": "r21"}

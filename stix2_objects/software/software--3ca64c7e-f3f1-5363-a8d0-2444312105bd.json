@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--3ca64c7e-f3f1-5363-a8d0-2444312105bd", "name": "jquery 1.12.2 for Node.js", "cpe": "cpe:2.3:a:jquery:jquery:1.12.2:*:*:*:*:node.js:*:*", "languages": ["en_US"], "vendor": "jquery", "version": "1.12.2"}

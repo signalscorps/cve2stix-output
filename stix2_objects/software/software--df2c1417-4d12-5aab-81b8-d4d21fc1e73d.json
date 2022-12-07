@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--df2c1417-4d12-5aab-81b8-d4d21fc1e73d", "name": "OpenStack Compute (Liberty) 12.0.1", "cpe": "cpe:2.3:a:openstack:compute:12.0.1:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "openstack", "version": "12.0.1"}

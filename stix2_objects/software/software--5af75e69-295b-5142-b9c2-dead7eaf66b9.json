@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--5af75e69-295b-5142-b9c2-dead7eaf66b9", "name": "OpenVPN Access Server 2.1.8", "cpe": "cpe:2.3:a:openvpn:openvpn_access_server:2.1.8:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "openvpn", "version": "2.1.8"}

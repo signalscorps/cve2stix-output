@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--0deda961-d64d-5663-acf2-8ee75cdc865d", "name": "Symantec Endpoint Protection 14.0.1 Mp1 for macOS", "cpe": "cpe:2.3:a:symantec:endpoint_protection:14.0.1:mp1:*:*:*:macos:*:*", "languages": ["en_US"], "vendor": "symantec", "version": "14.0.1"}

@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--c75a12fb-e536-5b49-98e9-5d108d7a9146", "name": "IBM Websphere Application Server 20.0.0.5 Liberty Edition", "cpe": "cpe:2.3:a:ibm:websphere_application_server:20.0.0.5:*:*:*:liberty:*:*:*", "languages": ["en_US"], "vendor": "ibm", "version": "20.0.0.5"}

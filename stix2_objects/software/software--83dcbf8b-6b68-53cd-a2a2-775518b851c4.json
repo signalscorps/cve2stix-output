@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--83dcbf8b-6b68-53cd-a2a2-775518b851c4", "name": "Knot DNS 2.5.4", "cpe": "cpe:2.3:a:knot-dns:knot_dns:2.5.4:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "knot-dns", "version": "2.5.4"}

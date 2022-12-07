@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--c671bdad-4d0c-56e0-8dee-4f8b9f665b58", "name": "Cisco Advanced Malware Protection (AMP) for Endpoints 1.10.0 for Linux", "cpe": "cpe:2.3:a:cisco:advanced_malware_protection_for_endpoints:1.10.0:*:*:*:*:linux:*:*", "languages": ["en_US"], "vendor": "cisco", "version": "1.10.0"}

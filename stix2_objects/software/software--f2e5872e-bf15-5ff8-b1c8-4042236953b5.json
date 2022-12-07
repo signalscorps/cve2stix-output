@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--f2e5872e-bf15-5ff8-b1c8-4042236953b5", "name": "SAP ERP 104", "cpe": "cpe:2.3:a:sap:s\\/4hana:104:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "sap", "version": "104"}

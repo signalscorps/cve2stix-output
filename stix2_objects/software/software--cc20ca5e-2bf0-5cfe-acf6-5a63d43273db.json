@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--cc20ca5e-2bf0-5cfe-acf6-5a63d43273db", "name": "OpenStack Ironic 4.2.0", "cpe": "cpe:2.3:a:openstack:ironic:4.2.0:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "openstack", "version": "4.2.0"}

@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--e1dc8b11-8376-525d-b758-213c2c401795", "name": "OpenShift Origin 1.4.0 Release Candidate 1", "cpe": "cpe:2.3:a:openshift:origin:1.4.0:rc1:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "openshift", "version": "1.4.0"}

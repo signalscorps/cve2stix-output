@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--d2eb1ed4-c361-5a9e-a44a-0bae759ef4c9", "name": "McAfee VirusScan Enterprise (VSE) 8.8 for Windows", "cpe": "cpe:2.3:a:mcafee:virusscan_enterprise:8.8:-:*:*:*:windows:*:*", "languages": ["en_US"], "vendor": "mcafee", "version": "8.8"}

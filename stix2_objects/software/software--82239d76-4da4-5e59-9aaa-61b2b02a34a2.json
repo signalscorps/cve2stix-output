@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--82239d76-4da4-5e59-9aaa-61b2b02a34a2", "name": "Red Hat Undertow 2.0.25 Service Pack 1", "cpe": "cpe:2.3:a:redhat:undertow:2.0.25:sp1:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "redhat", "version": "2.0.25"}

@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--a98ac043-ef9e-524f-8be8-f4a1fb126488", "name": "VMware Spring Advanced Message Queuing Protocol (AMQP) 2.2.0 M2", "cpe": "cpe:2.3:a:vmware:spring_advanced_message_queuing_protocol:2.2.0:m2:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "vmware", "version": "2.2.0"}

@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--b7d2a453-e4d4-5bdf-bc86-aed8e9bb2d11", "name": "Linux Foundation Ceph 14.2.6", "cpe": "cpe:2.3:a:linuxfoundation:ceph:14.2.6:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "linuxfoundation", "version": "14.2.6"}

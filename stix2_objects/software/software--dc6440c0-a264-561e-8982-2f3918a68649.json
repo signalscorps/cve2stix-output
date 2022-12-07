@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--dc6440c0-a264-561e-8982-2f3918a68649", "name": "Scikit-learn 0.19.2", "cpe": "cpe:2.3:a:scikit-learn:scikit-learn:0.19.2:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "scikit-learn", "version": "0.19.2"}

@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--f4e15781-00c0-5873-80ab-1f56b004b904", "name": "Jenkins Amazon Web Services Serverless Application Model 1.2.2 for Jenkins", "cpe": "cpe:2.3:a:jenkins:amazon_web_services_serverless_application_model:1.2.2:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "1.2.2"}

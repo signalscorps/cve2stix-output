@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--a7d1466c-e642-51a5-bd1a-c8e803985a22", "name": "NVIDIA Jetson TK1 R24", "cpe": "cpe:2.3:a:nvidia:jetson_tk1:r24:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "nvidia", "version": "r24"}

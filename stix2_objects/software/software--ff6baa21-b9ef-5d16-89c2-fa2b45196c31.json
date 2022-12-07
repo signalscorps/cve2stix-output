@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--ff6baa21-b9ef-5d16-89c2-fa2b45196c31", "name": "WebAssembly Binaryen 16", "cpe": "cpe:2.3:a:webassembly:binaryen:16:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "webassembly", "version": "16"}

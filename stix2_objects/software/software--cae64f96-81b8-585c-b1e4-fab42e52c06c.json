@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--cae64f96-81b8-585c-b1e4-fab42e52c06c", "name": "Sonatype Nexus Repository Manager 3.22.1", "cpe": "cpe:2.3:a:sonatype:nexus_repository_manager:3.22.1:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "sonatype", "version": "3.22.1"}

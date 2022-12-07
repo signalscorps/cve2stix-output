@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--e08e65c8-e8bf-5d95-b76c-266a715edece", "name": "Kerberos Project Kerberos 0.0.9 for Node.js", "cpe": "cpe:2.3:a:kerberos_project:kerberos:0.0.9:*:*:*:*:node.js:*:*", "languages": ["en_US"], "vendor": "kerberos_project", "version": "0.0.9"}

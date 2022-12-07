@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--16058f45-1cf4-5ccd-91cc-3a4c199106b2", "name": "Rubyonrails Actionpack Page-caching 1.1.1 for Ruby", "cpe": "cpe:2.3:a:rubyonrails:actionpack_page-caching:1.1.1:*:*:*:*:ruby:*:*", "languages": ["en_US"], "vendor": "rubyonrails", "version": "1.1.1"}

@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--e6d62f9c-c65b-5ba8-acfd-f39ae32dad68", "name": "Cloud Foundry Loggregator 102.5", "cpe": "cpe:2.3:a:cloudfoundry:loggregator:102.5:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "cloudfoundry", "version": "102.5"}

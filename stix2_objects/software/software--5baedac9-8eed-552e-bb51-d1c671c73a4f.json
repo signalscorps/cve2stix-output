@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--5baedac9-8eed-552e-bb51-d1c671c73a4f", "name": "Jenkins Copy Artifact 1.35.2 for Jenkins", "cpe": "cpe:2.3:a:jenkins:copy_artifact:1.35.2:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "1.35.2"}

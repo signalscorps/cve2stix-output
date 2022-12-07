@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--487a6770-3e5f-5ca2-a401-d32d65622368", "name": "Jenkins Parasoft Findings 10.2.2 for Jenkins", "cpe": "cpe:2.3:a:jenkins:parasoft_findings:10.2.2:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "10.2.2"}

@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--50c0a140-a56e-58ca-8acb-50528d45ab1b", "name": "QEMU 3.1.1", "cpe": "cpe:2.3:a:qemu:qemu:3.1.1:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "qemu", "version": "3.1.1"}
