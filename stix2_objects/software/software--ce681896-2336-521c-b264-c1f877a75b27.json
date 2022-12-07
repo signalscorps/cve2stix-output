@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--ce681896-2336-521c-b264-c1f877a75b27", "name": "Atlassian editor-core 125.1.0 for Node.js", "cpe": "cpe:2.3:a:atlassian:editor-core:125.1.0:*:*:*:*:node.js:*:*", "languages": ["en_US"], "vendor": "atlassian", "version": "125.1.0"}

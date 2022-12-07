@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--d7e14289-73f8-58de-815e-d9b6de92bd6a", "name": "Siemens SINAMICS S150 Firmware 5.1 Service Pack 1 Hotfix 2", "cpe": "cpe:2.3:o:siemens:sinamics_s150_firmware:5.1:sp1_hotfix2:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "siemens", "version": "5.1"}

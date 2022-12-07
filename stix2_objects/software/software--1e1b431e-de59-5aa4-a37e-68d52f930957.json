@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--1e1b431e-de59-5aa4-a37e-68d52f930957", "name": "F5 BIG-IP Advanced Firewall Manager (AFM) 12.1.2 Hotfix1", "cpe": "cpe:2.3:a:f5:big-ip_advanced_firewall_manager:12.1.2:hotfix1:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "f5", "version": "12.1.2"}

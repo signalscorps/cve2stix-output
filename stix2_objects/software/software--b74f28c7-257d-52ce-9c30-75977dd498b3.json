@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--b74f28c7-257d-52ce-9c30-75977dd498b3", "name": "Cloud Foundry Bosh System Metrics Server 0.1.0", "cpe": "cpe:2.3:a:cloud_foundry:bosh_system_metrics_server:0.1.0:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "cloud_foundry", "version": "0.1.0"}

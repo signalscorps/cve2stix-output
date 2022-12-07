@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--dce0bdb5-0d91-5203-8517-cf7f861fe600", "name": "Istio 1.7.1", "cpe": "cpe:2.3:a:istio:istio:1.7.1:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "istio", "version": "1.7.1"}

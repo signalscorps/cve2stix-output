@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--dcb79703-7146-5e1a-b5a3-1be218b7fa1b", "name": "Oracle WebLogic Server 6.1 Service Pack 3 for Internet Information Services (IIS)", "cpe": "cpe:2.3:a:oracle:weblogic_server:6.1:sp3:*:*:*:internet_information_services:*:*", "languages": ["en_US"], "vendor": "oracle", "version": "6.1"}

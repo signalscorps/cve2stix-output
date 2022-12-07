@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--1e68b0a2-bafb-5997-ab3f-9898ec40af19", "name": "Oracle WebLogic Server 8.1 Service Pack 2 for Internet Information Services (IIS)", "cpe": "cpe:2.3:a:oracle:weblogic_server:8.1:sp2:*:*:*:internet_information_services:*:*", "languages": ["en_US"], "vendor": "oracle", "version": "8.1"}

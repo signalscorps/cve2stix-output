@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--5cd55995-33f6-5067-9962-d706275b1fc8", "name": "Siemens SIMATIC S7-1500 CPU Firmware 2.0", "cpe": "cpe:2.3:o:siemens:simatic_s7-1500_cpu_firmware:2.0:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "siemens", "version": "2.0"}

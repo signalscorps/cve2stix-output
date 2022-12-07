@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--01cbaab6-0fe0-5ba9-a658-5b07aabd12e2", "name": "Jenkins Shared Objects 0.30 for Jenkins", "cpe": "cpe:2.3:a:jenkins:shared_objects:0.30:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "0.30"}

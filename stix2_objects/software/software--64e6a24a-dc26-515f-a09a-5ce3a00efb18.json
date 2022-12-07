@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--64e6a24a-dc26-515f-a09a-5ce3a00efb18", "name": "Encode Django Rest Framework 3.9.3", "cpe": "cpe:2.3:a:encode:django_rest_framework:3.9.3:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "encode", "version": "3.9.3"}

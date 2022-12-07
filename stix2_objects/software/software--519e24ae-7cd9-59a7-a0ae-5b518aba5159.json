@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--519e24ae-7cd9-59a7-a0ae-5b518aba5159", "name": "The Linux Foundation NATS.js 1.4.0 for Node.js", "cpe": "cpe:2.3:a:linuxfoundation:nats.js:1.4.0:*:*:*:*:node.js:*:*", "languages": ["en_US"], "vendor": "linuxfoundation", "version": "1.4.0"}

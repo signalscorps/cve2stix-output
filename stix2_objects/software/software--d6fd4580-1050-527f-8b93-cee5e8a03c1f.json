@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--d6fd4580-1050-527f-8b93-cee5e8a03c1f", "name": "Canonical MicroK8s 1.17", "cpe": "cpe:2.3:a:canonical:microk8s:1.17:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "canonical", "version": "1.17"}

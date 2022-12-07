@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--b5c51c13-6571-506e-936b-4a979aeae36f", "name": "F5 BIG-IP Policy Enforcement Manager (PEM) 14.1.2.2-0.0.4", "cpe": "cpe:2.3:a:f5:big-ip_policy_enforcement_manager:14.1.2.2-0.0.4:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "f5", "version": "14.1.2.2-0.0.4"}

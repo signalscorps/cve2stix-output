@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--4bb847ae-5d57-51da-a791-e68e39427c9b", "name": "F5 BIG-IP Domain Name System (DNS) 13.0.0 Hotfix1", "cpe": "cpe:2.3:a:f5:big-ip_domain_name_system:13.0.0:hotfix1:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "f5", "version": "13.0.0"}

@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--3bbafb42-400d-5f05-8a41-c464a9cd96ea", "name": "Jenkins Couchdb-statistics 0.3 for Jenkins", "cpe": "cpe:2.3:a:jenkins:couchdb-statistics:0.3:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "0.3"}

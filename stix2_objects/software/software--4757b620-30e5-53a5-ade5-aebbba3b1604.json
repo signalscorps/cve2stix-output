@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--4757b620-30e5-53a5-ade5-aebbba3b1604", "name": "Auth0 Omniauth-auth0 2.3.0 for Ruby", "cpe": "cpe:2.3:a:auth0:omniauth-auth0:2.3.0:*:*:*:*:ruby:*:*", "languages": ["en_US"], "vendor": "auth0", "version": "2.3.0"}

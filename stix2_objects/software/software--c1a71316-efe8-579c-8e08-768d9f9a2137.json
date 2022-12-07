@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--c1a71316-efe8-579c-8e08-768d9f9a2137", "name": "Jenkins SMS Notification 1.0.1 for Jenkins", "cpe": "cpe:2.3:a:jenkins:sms_notification:1.0.1:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "1.0.1"}

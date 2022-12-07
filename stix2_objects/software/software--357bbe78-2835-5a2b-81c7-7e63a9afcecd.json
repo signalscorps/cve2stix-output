@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--357bbe78-2835-5a2b-81c7-7e63a9afcecd", "name": "Oracle WebLogic Server 10.0 for Internet Information Services (IIS)", "cpe": "cpe:2.3:a:oracle:weblogic_server:10.0:-:*:*:*:internet_information_services:*:*", "languages": ["en_US"], "vendor": "oracle", "version": "10.0"}

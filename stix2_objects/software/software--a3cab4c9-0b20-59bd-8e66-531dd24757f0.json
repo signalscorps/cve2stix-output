@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--a3cab4c9-0b20-59bd-8e66-531dd24757f0", "name": "Oracle WebLogic Server 9.1 Maintenance Pack 3 for Apache", "cpe": "cpe:2.3:a:oracle:weblogic_server:9.1:maintenance_pack3:*:*:*:apache:*:*", "languages": ["en_US"], "vendor": "oracle", "version": "9.1"}

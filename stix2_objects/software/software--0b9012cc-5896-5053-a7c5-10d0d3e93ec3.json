@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--0b9012cc-5896-5053-a7c5-10d0d3e93ec3", "name": "Siemens SIMATIC S7-PLCSIM Advanced 2.0 Service Pack 1", "cpe": "cpe:2.3:a:siemens:simatic_s7-plcsim_advanced:2.0:sp1:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "siemens", "version": "2.0"}

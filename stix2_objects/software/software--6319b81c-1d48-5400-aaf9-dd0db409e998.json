@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--6319b81c-1d48-5400-aaf9-dd0db409e998", "name": "Oracle WebLogic Server 6.1 Service Pack 6 for Apache", "cpe": "cpe:2.3:a:oracle:weblogic_server:6.1:sp6:*:*:*:apache:*:*", "languages": ["en_US"], "vendor": "oracle", "version": "6.1"}

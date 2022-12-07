@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--74b47d74-041c-5fc2-9279-0f5f6bf0bb7a", "name": "Siemens SIMATIC WinAC RTX (F) Firmware 2010 Service Pack 2", "cpe": "cpe:2.3:o:siemens:simatic_winac_rtx_\\(f\\)_firmware:2010:sp2:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "siemens", "version": "2010"}

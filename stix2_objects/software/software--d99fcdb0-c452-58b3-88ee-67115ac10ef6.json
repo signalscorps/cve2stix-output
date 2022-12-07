@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--d99fcdb0-c452-58b3-88ee-67115ac10ef6", "name": "F5 BIG-IP Policy Enforcement Manager (PEM) 13.0.0 Hotfix2", "cpe": "cpe:2.3:a:f5:big-ip_policy_enforcement_manager:13.0.0:hotfix2:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "f5", "version": "13.0.0"}

@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--f9553744-3f9f-5b9b-8286-026838336140", "name": "PHP-FPM 4.4.7", "cpe": "cpe:2.3:a:php-fpm:php-fpm:4.4.7:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "php-fpm", "version": "4.4.7"}

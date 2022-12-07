@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--cf99c365-3a59-5ea6-b67b-caa165415c3d", "name": "Handlebarsjs Handlebars 1.0.7 for Node.js", "cpe": "cpe:2.3:a:handlebarsjs:handlebars:1.0.7:*:*:*:*:node.js:*:*", "languages": ["en_US"], "vendor": "handlebarsjs", "version": "1.0.7"}

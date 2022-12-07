@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--28c2fe61-6909-5715-89c3-d96bb415cda3", "name": "Oracle WebLogic Server 9.0 Maintenance Pack 3 for Internet Information Services (IIS)", "cpe": "cpe:2.3:a:oracle:weblogic_server:9.0:maintenance_pack3:*:*:*:internet_information_services:*:*", "languages": ["en_US"], "vendor": "oracle", "version": "9.0"}

@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--0da46bf0-11a4-54d5-9fb6-0bf1b31f2f4c", "name": "Oracle WebLogic Server 8.1 Service Pack 2 for Apache", "cpe": "cpe:2.3:a:oracle:weblogic_server:8.1:sp2:*:*:*:apache:*:*", "languages": ["en_US"], "vendor": "oracle", "version": "8.1"}

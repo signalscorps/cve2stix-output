@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--acf4d1ec-f149-5c79-8624-5c2b4503756d", "name": "Red Hat libnbd 1.1.8", "cpe": "cpe:2.3:a:redhat:libnbd:1.1.8:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "redhat", "version": "1.1.8"}

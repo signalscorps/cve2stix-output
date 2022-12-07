@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--906ad041-fa1c-5199-9a0c-8adb2b120fd8", "name": "Oracle WebLogic Server 7.0 Service Pack 7 for Internet Information Services (IIS)", "cpe": "cpe:2.3:a:oracle:weblogic_server:7.0:sp7:*:*:*:internet_information_services:*:*", "languages": ["en_US"], "vendor": "oracle", "version": "7.0"}
