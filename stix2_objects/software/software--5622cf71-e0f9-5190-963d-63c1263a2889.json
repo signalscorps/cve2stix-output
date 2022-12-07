@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--5622cf71-e0f9-5190-963d-63c1263a2889", "name": "NetApp VASA Provider for Clustered Data ONTAP 7.2 for vSphere", "cpe": "cpe:2.3:a:netapp:vasa_provider_for_clustered_data_ontap:7.2:*:*:*:*:vsphere:*:*", "languages": ["en_US"], "vendor": "netapp", "version": "7.2"}

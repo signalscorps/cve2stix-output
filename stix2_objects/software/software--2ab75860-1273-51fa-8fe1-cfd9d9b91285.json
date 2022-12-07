@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--2ab75860-1273-51fa-8fe1-cfd9d9b91285", "name": "Jenkins VncRecorder 1.9 for Jenkins", "cpe": "cpe:2.3:a:jenkins:vncrecorder:1.9:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "1.9"}

@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--84beea96-8de5-53af-a494-c7cfb336b1c6", "name": "NVIDIA Tesla Firmware 418", "cpe": "cpe:2.3:o:nvidia:tesla_firmware:418:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "nvidia", "version": "418"}

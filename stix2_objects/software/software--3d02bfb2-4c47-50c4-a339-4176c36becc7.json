@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--3d02bfb2-4c47-50c4-a339-4176c36becc7", "name": "Jenkins OpenID 2.3 for Jenkins", "cpe": "cpe:2.3:a:jenkins:openid:2.3:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "2.3"}

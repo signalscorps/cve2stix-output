@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--64d15a03-67b1-596d-906e-a1abbbcf1b90", "name": "IBM MQ 9.0.0.10 LTS Edition", "cpe": "cpe:2.3:a:ibm:mq:9.0.0.10:*:*:*:lts:*:*:*", "languages": ["en_US"], "vendor": "ibm", "version": "9.0.0.10"}

@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--bc2eeee1-24da-50af-bfce-6514abf44f30", "name": "Jenkins Slack Upload 1.3 for Jenkins", "cpe": "cpe:2.3:a:jenkins:slack_upload:1.3:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "1.3"}

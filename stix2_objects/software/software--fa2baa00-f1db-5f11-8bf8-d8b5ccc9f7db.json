@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--fa2baa00-f1db-5f11-8bf8-d8b5ccc9f7db", "name": "Arm Cortex-a35 Firmware", "cpe": "cpe:2.3:o:arm:cortex-a35_firmware:-:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "arm", "version": "-"}

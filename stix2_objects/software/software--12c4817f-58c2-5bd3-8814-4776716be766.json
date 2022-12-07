@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--12c4817f-58c2-5bd3-8814-4776716be766", "name": "Jupyterhub Kubespawner 0.12", "cpe": "cpe:2.3:a:jupyterhub:kubespawner:0.12:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "jupyterhub", "version": "0.12"}

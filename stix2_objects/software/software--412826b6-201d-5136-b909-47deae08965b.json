@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--412826b6-201d-5136-b909-47deae08965b", "name": "McAfee VirusScan Enterprise (VSEL) 1.9.1 for Linux", "cpe": "cpe:2.3:a:mcafee:virusscan_enterprise:1.9.1:*:*:*:*:linux:*:*", "languages": ["en_US"], "vendor": "mcafee", "version": "1.9.1"}

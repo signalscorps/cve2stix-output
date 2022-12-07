@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--efaf6f71-24f7-5f6c-88fe-57fd61194a95", "name": "Puppet puppetlabs-apache 5.0.0 for Puppet", "cpe": "cpe:2.3:a:puppet:puppetlabs-apache:5.0.0:*:*:*:*:puppet:*:*", "languages": ["en_US"], "vendor": "puppet", "version": "5.0.0"}

@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--7c6f17b4-9816-55ee-8621-7d54692b4e2e", "name": "Jenkins Gearman 0.0.4 for Jenkins", "cpe": "cpe:2.3:a:jenkins:gearman:0.0.4:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "0.0.4"}

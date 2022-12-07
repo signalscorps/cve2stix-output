@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--3864bdf8-e051-5a50-8bc6-9d6c1c8fd50e", "name": "Jenkins ZAP Pipeline 1.4.2 for Jenkins", "cpe": "cpe:2.3:a:jenkins:zap_pipeline:1.4.2:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "1.4.2"}

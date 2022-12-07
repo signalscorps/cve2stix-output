@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--14d011cc-628c-5764-a569-55474f695cc3", "name": "NVIDIA Virtual GPU Manager (vGPU) 10.1", "cpe": "cpe:2.3:a:nvidia:virtual_gpu_manager:10.1:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "nvidia", "version": "10.1"}

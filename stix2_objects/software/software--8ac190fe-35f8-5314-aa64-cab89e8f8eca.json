@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--8ac190fe-35f8-5314-aa64-cab89e8f8eca", "name": "Jenkins Slack 2.10 for Jenkins", "cpe": "cpe:2.3:a:jenkins:slack:2.10:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "2.10"}

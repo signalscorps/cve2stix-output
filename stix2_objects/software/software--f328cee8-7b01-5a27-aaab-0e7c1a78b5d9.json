@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--f328cee8-7b01-5a27-aaab-0e7c1a78b5d9", "name": "TIBCO JasperReports Server 7.1.3 for ActiveMatrix BPM", "cpe": "cpe:2.3:a:tibco:jasperreports_server:7.1.3:*:*:*:*:activematrix_bpm:*:*", "languages": ["en_US"], "vendor": "tibco", "version": "7.1.3"}

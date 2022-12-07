@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--f0847b26-d7a5-527b-9109-39db594502b4", "name": "Kubernetes Ingress-nginx 0.21.0", "cpe": "cpe:2.3:a:kubernetes:ingress-nginx:0.21.0:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "kubernetes", "version": "0.21.0"}

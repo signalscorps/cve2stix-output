@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--47c03775-ae94-5771-b1e1-705a99f68734", "name": "Auth0 express-jwt 0.5.1 for Node.js", "cpe": "cpe:2.3:a:auth0:express-jwt:0.5.1:*:*:*:*:node.js:*:*", "languages": ["en_US"], "vendor": "auth0", "version": "0.5.1"}

@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--c63e1cae-37d8-5e45-8121-df8f75e87933", "name": "A10 Networks Advanced Core Operating System (ACOS) Web Application Firewall (WAF) 4.1.1 Patch 5", "cpe": "cpe:2.3:a:a10networks:acos_web_application_firewall:4.1.1:p5:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "a10networks", "version": "4.1.1"}

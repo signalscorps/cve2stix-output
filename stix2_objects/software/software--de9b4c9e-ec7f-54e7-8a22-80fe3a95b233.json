@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--de9b4c9e-ec7f-54e7-8a22-80fe3a95b233", "name": "Jenkins Alauda Kubernetes Support 2.1.1 for Jenkins", "cpe": "cpe:2.3:a:jenkins:alauda_kubernetes_support:2.1.1:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "2.1.1"}

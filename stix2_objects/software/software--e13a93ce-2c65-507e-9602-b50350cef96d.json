@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--e13a93ce-2c65-507e-9602-b50350cef96d", "name": "NVIDIA Virtual GPU (vGPU) 10.0", "cpe": "cpe:2.3:a:nvidia:virtual_gpu:10.0:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "nvidia", "version": "10.0"}

@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--e3383e63-be2d-5363-a8bf-a8a14e65d0f6", "name": "NVIDIA Virtual GPU Manager (vGPU) 8.0", "cpe": "cpe:2.3:a:nvidia:virtual_gpu_manager:8.0:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "nvidia", "version": "8.0"}

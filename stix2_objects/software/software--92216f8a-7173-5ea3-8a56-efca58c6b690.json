@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--92216f8a-7173-5ea3-8a56-efca58c6b690", "name": "Jenkins GitHub Coverage Reporter 1.1 for Jenkins", "cpe": "cpe:2.3:a:jenkins:github_coverage_reporter:1.1:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "1.1"}

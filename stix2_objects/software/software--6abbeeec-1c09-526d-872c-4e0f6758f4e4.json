@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--6abbeeec-1c09-526d-872c-4e0f6758f4e4", "name": "SockJS Project SockJS 1.1.5 for Node.js", "cpe": "cpe:2.3:a:sockjs_project:sockjs:1.1.5:*:*:*:*:node.js:*:*", "languages": ["en_US"], "vendor": "sockjs_project", "version": "1.1.5"}

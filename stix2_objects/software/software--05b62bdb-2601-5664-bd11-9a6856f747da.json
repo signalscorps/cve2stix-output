@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--05b62bdb-2601-5664-bd11-9a6856f747da", "name": "Jenkins VncViewer 1.5 for Jenkins", "cpe": "cpe:2.3:a:jenkins:vncviewer:1.5:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "1.5"}

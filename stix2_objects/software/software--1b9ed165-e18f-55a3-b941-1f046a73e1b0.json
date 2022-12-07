@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--1b9ed165-e18f-55a3-b941-1f046a73e1b0", "name": "Prestosql Presto 325", "cpe": "cpe:2.3:a:prestosql:presto:325:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "prestosql", "version": "325"}

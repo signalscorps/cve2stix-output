@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--0b64da04-789d-58b6-86ba-ef6624c66397", "name": "NVIDIA Tesla Firmware 440", "cpe": "cpe:2.3:o:nvidia:tesla_firmware:440:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "nvidia", "version": "440"}

@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--2cdeb73c-0179-5a11-9c80-4fbd9a59daea", "name": "Cryptography 1.1.2", "cpe": "cpe:2.3:a:cryptography.io:cryptography:1.1.2:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "cryptography.io", "version": "1.1.2"}

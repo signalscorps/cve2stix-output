@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--78577f2a-1d33-55ad-a6fd-948fe77e504d", "name": "ZFS on Linux ZFS 0.6.5.10", "cpe": "cpe:2.3:a:zfsonlinux:zfs:0.6.5.10:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "zfsonlinux", "version": "0.6.5.10"}

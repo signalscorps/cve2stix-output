@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--f4a4585f-b5cd-599d-8650-0a10f4b9ca20", "name": "Arm Cortex-a53 Firmware", "cpe": "cpe:2.3:o:arm:cortex-a53_firmware:-:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "arm", "version": "-"}

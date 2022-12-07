@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--7435b1b4-e740-5d38-8517-d270ddcf068b", "name": "NVIDIA Virtual GPU Manager (vGPU) 8.4", "cpe": "cpe:2.3:a:nvidia:virtual_gpu_manager:8.4:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "nvidia", "version": "8.4"}

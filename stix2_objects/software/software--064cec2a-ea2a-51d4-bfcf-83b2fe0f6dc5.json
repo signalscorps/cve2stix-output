@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--064cec2a-ea2a-51d4-bfcf-83b2fe0f6dc5", "name": "Jenkins Sonargraph Integration 2.2.0 for Jenkins", "cpe": "cpe:2.3:a:jenkins:sonargraph_integration:2.2.0:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "2.2.0"}

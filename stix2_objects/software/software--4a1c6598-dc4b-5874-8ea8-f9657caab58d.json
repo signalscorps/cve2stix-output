@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--4a1c6598-dc4b-5874-8ea8-f9657caab58d", "name": "Jenkins Crowd Integration 1.5 for Jenkins", "cpe": "cpe:2.3:a:jenkins:crowd_integration:1.5:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "1.5"}

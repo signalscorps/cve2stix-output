@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--b10c6e3c-a83b-5531-98a7-3a588605b8b5", "name": "A10 Networks Advanced Core Operating System (ACOS) Web Application Firewall (WAF) 2.7.2", "cpe": "cpe:2.3:a:a10networks:acos_web_application_firewall:2.7.2:-:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "a10networks", "version": "2.7.2"}

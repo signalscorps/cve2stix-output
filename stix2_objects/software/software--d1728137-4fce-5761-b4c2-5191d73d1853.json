@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--d1728137-4fce-5761-b4c2-5191d73d1853", "name": "Jenkins Nomad 0.6.4 for Jenkins", "cpe": "cpe:2.3:a:jenkins:nomad:0.6.4:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "0.6.4"}

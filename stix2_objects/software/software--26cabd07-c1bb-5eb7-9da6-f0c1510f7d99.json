@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--26cabd07-c1bb-5eb7-9da6-f0c1510f7d99", "name": "Jenkins TestFairy 3.2 for Jenkins", "cpe": "cpe:2.3:a:jenkins:testfairy:3.2:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "3.2"}

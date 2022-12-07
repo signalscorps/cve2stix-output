@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--9e071a2e-55ba-526d-8f60-2e0c46077760", "name": "Golang Crypto", "cpe": "cpe:2.3:a:golang:crypto:-:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "golang", "version": "-"}

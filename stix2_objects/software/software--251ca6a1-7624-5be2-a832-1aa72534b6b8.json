@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--251ca6a1-7624-5be2-a832-1aa72534b6b8", "name": "Lua 5.4.0 Alpha", "cpe": "cpe:2.3:a:lua:lua:5.4.0:alpha:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "lua", "version": "5.4.0"}

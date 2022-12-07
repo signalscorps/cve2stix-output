@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--705d2721-061f-5f00-accb-9c654cd65d5b", "name": "Jenkins Matrix Authorization Strategy 1.0 for Jenkins", "cpe": "cpe:2.3:a:jenkins:matrix_authorization_strategy:1.0:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "1.0"}

@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--2d9ac648-5f8e-5b8d-899e-3059623bb4fa", "name": "ServiceNow Jakarta Patch 6a", "cpe": "cpe:2.3:a:servicenow:servicenow:jakarta:p6a:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "servicenow", "version": "jakarta"}

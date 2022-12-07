@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--c8328d3d-9367-5484-8ca4-48cdcf17a5d7", "name": "Jenkins Zephyr Enterprise Test Management 1.4 for Jenkins", "cpe": "cpe:2.3:a:jenkins:zephyr_enterprise_test_management:1.4:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "1.4"}

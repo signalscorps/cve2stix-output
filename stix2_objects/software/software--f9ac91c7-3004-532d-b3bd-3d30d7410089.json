@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--f9ac91c7-3004-532d-b3bd-3d30d7410089", "name": "Parallax jsPDF for Node.js", "cpe": "cpe:2.3:a:parall:jspdf:-:*:*:*:*:node.js:*:*", "languages": ["en_US"], "vendor": "parall", "version": "-"}

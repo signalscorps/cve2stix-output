@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--e53960ed-a328-5677-8062-f6b41ab4551b", "name": "NetApp HCI Storage Node Firmware", "cpe": "cpe:2.3:o:netapp:hci_storage_node_firmware:-:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "netapp", "version": "-"}

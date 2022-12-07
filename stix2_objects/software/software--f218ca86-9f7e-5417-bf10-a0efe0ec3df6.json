@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--f218ca86-9f7e-5417-bf10-a0efe0ec3df6", "name": "Stripe API 1.0.8", "cpe": "cpe:2.3:a:stripe:stripe_api:1.0.8:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "stripe", "version": "1.0.8"}

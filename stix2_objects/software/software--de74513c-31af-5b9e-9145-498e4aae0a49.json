@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--de74513c-31af-5b9e-9145-498e4aae0a49", "name": "Kubernetes Ingress-nginx 0.9.0 Beta 15", "cpe": "cpe:2.3:a:kubernetes:ingress-nginx:0.9.0:beta15:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "kubernetes", "version": "0.9.0"}

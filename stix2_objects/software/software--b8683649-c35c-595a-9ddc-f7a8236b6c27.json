@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--b8683649-c35c-595a-9ddc-f7a8236b6c27", "name": "NVIDIA Virtual GPU (vGPU) 8.2", "cpe": "cpe:2.3:a:nvidia:virtual_gpu:8.2:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "nvidia", "version": "8.2"}

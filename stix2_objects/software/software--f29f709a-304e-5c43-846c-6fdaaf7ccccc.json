@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--f29f709a-304e-5c43-846c-6fdaaf7ccccc", "name": "Jenkins Chef Sinatra 1.14 for Jenkins", "cpe": "cpe:2.3:a:jenkins:chef_sinatra:1.14:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "1.14"}

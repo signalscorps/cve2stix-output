@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--37ffa63d-b4f1-5e1a-883a-8c0d82b4c7ad", "name": "modbus tools Modbus Slave 7.2.0", "cpe": "cpe:2.3:a:modbustools:modbus_slave:7.2.0:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "modbustools", "version": "7.2.0"}

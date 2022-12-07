@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--cca726f2-49a5-5c02-a8f9-008f42b46d3a", "name": "Jenkins Zephyr for JIRA Test Management 1.2 for Jenkins", "cpe": "cpe:2.3:a:jenkins:zephyr_for_jira_test_management:1.2:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "1.2"}

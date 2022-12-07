@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--2e11b01d-3085-59bd-9a5f-9c29b796a6bc", "name": "Jenkins Deployer Framework 1.0 for Jenkins", "cpe": "cpe:2.3:a:jenkins:deployer_framework:1.0:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "1.0"}
