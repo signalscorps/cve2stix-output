@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--a7ef746a-9dcb-53f5-a067-cc7c0d39ebc2", "name": "Red Hat WildFly Core 2.0.0 Release Candidate 5", "cpe": "cpe:2.3:a:redhat:wildfly_core:2.0.0:cr5:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "redhat", "version": "2.0.0"}

@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--c5b1aedb-8e92-5939-a695-0d81a9014002", "name": "OpenStack os-vif 1.10.0", "cpe": "cpe:2.3:a:openstack:os-vif:1.10.0:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "openstack", "version": "1.10.0"}

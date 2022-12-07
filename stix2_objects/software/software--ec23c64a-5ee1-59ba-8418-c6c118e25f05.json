@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--ec23c64a-5ee1-59ba-8418-c6c118e25f05", "name": "Espressif Arduino-esp32 1.0.0 Release Candidate 1", "cpe": "cpe:2.3:a:espressif:arduino-esp32:1.0.0:rc1:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "espressif", "version": "1.0.0"}

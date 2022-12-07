@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--2eefab13-d42b-58d7-86aa-76474d49536e", "name": "MikroTik RouterOS 6.40.1 LTR Edition", "cpe": "cpe:2.3:o:mikrotik:routeros:6.40.1:*:*:*:ltr:*:*:*", "languages": ["en_US"], "vendor": "mikrotik", "version": "6.40.1"}

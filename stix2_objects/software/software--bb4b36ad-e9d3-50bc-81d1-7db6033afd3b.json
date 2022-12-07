@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--bb4b36ad-e9d3-50bc-81d1-7db6033afd3b", "name": "F5 Big-IP Edge Gateway 12.1.4.2", "cpe": "cpe:2.3:a:f5:big-ip_edge_gateway:12.1.4.2:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "f5", "version": "12.1.4.2"}

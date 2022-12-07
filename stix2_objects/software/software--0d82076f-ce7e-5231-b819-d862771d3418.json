@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--0d82076f-ce7e-5231-b819-d862771d3418", "name": "HAProxy 1.8.15", "cpe": "cpe:2.3:a:haproxy:haproxy:1.8.15:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "haproxy", "version": "1.8.15"}

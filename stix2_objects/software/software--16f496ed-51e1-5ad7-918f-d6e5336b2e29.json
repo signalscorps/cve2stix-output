@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--16f496ed-51e1-5ad7-918f-d6e5336b2e29", "name": "BorgBackup Borg 1.0.8 Release Candidate 1", "cpe": "cpe:2.3:a:borgbackup:borg:1.0.8:rc1:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "borgbackup", "version": "1.0.8"}

@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--f6b9bfbd-8f98-5b9c-b4cc-9055d0482ca5", "name": "Jenkins Embeddable Build Status 1.2 for Jenkins", "cpe": "cpe:2.3:a:jenkins:embeddable_build_status:1.2:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "1.2"}

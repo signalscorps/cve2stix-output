@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--a8bd093e-5f9a-5849-afde-79965ce1e359", "name": "Jenkins Simple Travis Pipeline Runner for Jenkins", "cpe": "cpe:2.3:a:jenkins:simple_travis_pipeline_runner:-:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "-"}

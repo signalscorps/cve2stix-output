@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--e4d0d4a1-ef6e-5376-90b4-15990b01f445", "name": "HubSpot hubl-server 1.1.1 for Node.js", "cpe": "cpe:2.3:a:hubspot:hubl-server:1.1.1:*:*:*:*:node.js:*:*", "languages": ["en_US"], "vendor": "hubspot", "version": "1.1.1"}

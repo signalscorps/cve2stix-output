@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--ba9347bd-bdc7-5c66-afaa-04d7db0eda7e", "name": "OpenStack oslo.middleware 3.36.0", "cpe": "cpe:2.3:a:openstack:oslo.middleware:3.36.0:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "openstack", "version": "3.36.0"}

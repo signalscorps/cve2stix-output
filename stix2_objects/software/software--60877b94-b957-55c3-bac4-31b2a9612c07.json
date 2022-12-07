@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--60877b94-b957-55c3-bac4-31b2a9612c07", "name": "Ruby-lang OpenSSL 2.1.0 Beta 1 for Ruby", "cpe": "cpe:2.3:a:ruby-lang:openssl:2.1.0:beta1:*:*:*:ruby:*:*", "languages": ["en_US"], "vendor": "ruby-lang", "version": "2.1.0"}

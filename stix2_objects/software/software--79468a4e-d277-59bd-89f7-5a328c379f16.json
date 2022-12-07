@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--79468a4e-d277-59bd-89f7-5a328c379f16", "name": "Joyent http-signature 0.9.2 for Node.js", "cpe": "cpe:2.3:a:joyent:http-signature:0.9.2:*:*:*:*:node.js:*:*", "languages": ["en_US"], "vendor": "joyent", "version": "0.9.2"}

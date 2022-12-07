@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--ecfe5356-85c5-5a84-8730-3f391fc1b30d", "name": "rsyslog librelp 1.2.10", "cpe": "cpe:2.3:a:rsyslog:librelp:1.2.10:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "rsyslog", "version": "1.2.10"}

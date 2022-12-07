@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--400df253-58c4-5bb0-b4f1-7ecd67b8d521", "name": "PHP ext-http 0.4.0", "cpe": "cpe:2.3:a:php:ext-http:0.4.0:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "php", "version": "0.4.0"}

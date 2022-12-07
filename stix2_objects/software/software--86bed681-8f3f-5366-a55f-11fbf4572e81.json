@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--86bed681-8f3f-5366-a55f-11fbf4572e81", "name": "Jenkins Aqua Security Severless Scanner 1.0.3 for Jenkins", "cpe": "cpe:2.3:a:jenkins:aqua_security_severless_scanner:1.0.3:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "1.0.3"}

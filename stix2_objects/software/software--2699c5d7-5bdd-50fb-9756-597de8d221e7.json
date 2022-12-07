@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--2699c5d7-5bdd-50fb-9756-597de8d221e7", "name": "Jenkins Azure Event Grid Notifier 0.1 for Jenkins", "cpe": "cpe:2.3:a:jenkins:azure_event_grid_notifier:0.1:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "0.1"}

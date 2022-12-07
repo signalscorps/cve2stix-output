@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--398f4fbb-627e-5bca-af65-b20acb4cd7ee", "name": "PostgreSQL JDBC Driver 9.3-1102", "cpe": "cpe:2.3:a:postgresql:postgresql_jdbc_driver:9.3-1102:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "postgresql", "version": "9.3-1102"}

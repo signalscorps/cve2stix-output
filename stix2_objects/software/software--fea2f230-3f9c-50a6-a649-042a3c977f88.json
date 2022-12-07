@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--fea2f230-3f9c-50a6-a649-042a3c977f88", "name": "APC UPS Daemon (apcupsd) 3.10.9", "cpe": "cpe:2.3:a:apcupsd:apcupsd:3.10.9:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "apcupsd", "version": "3.10.9"}

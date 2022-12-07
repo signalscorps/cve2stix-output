@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--a6cf8061-63cb-56b9-ba59-63ec34bc34b2", "name": "LLVM Compiler 6.0.1", "cpe": "cpe:2.3:a:llvm:compiler:6.0.1:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "llvm", "version": "6.0.1"}

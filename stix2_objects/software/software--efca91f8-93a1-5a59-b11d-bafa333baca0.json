@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--efca91f8-93a1-5a59-b11d-bafa333baca0", "name": "Jenkins Log Parser for Jenkins", "cpe": "cpe:2.3:a:jenkins:log_parser:-:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "-"}

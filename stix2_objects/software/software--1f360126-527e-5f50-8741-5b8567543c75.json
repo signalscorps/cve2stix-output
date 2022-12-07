@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--1f360126-527e-5f50-8741-5b8567543c75", "name": "GTranslate Google Language Translator 5.0.0 for WordPress", "cpe": "cpe:2.3:a:gtranslate:google_language_translator:5.0.0:*:*:*:*:wordpress:*:*", "languages": ["en_US"], "vendor": "gtranslate", "version": "5.0.0"}

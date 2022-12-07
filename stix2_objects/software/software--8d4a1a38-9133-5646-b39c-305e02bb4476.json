@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--8d4a1a38-9133-5646-b39c-305e02bb4476", "name": "Kubevirt Containerized Data Importer 0.5.0 Alpha 0", "cpe": "cpe:2.3:a:kubevirt:containerized_data_importer:0.5.0:alpha0:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "kubevirt", "version": "0.5.0"}

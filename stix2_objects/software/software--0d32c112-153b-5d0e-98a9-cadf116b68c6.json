@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--0d32c112-153b-5d0e-98a9-cadf116b68c6", "name": "Jenkins NeuVector Vulnerability Scanner 1.0 for Jenkins", "cpe": "cpe:2.3:a:jenkins:neuvector_vulnerability_scanner:1.0:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "1.0"}

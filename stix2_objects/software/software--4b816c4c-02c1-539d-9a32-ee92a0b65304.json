@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--4b816c4c-02c1-539d-9a32-ee92a0b65304", "name": "Jenkins Build Environment 1.2 for Jenkins", "cpe": "cpe:2.3:a:jenkins:build_environment:1.2:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "1.2"}

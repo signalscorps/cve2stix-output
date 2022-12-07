@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--dbe9bfb3-0a2a-522c-9b5d-bb880ce2410f", "name": "Docker 1.13.0 Community Edition", "cpe": "cpe:2.3:a:docker:docker:1.13.0:*:*:*:community:*:*:*", "languages": ["en_US"], "vendor": "docker", "version": "1.13.0"}

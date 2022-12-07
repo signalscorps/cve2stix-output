@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--d78aa979-a9df-522d-8004-8a5480823794", "name": "Bower for Node.js", "cpe": "cpe:2.3:a:bower:bower:-:*:*:*:*:node.js:*:*", "languages": ["en_US"], "vendor": "bower", "version": "-"}

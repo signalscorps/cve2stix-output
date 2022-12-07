@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--4444c816-1872-555b-9806-3871eb91a6c1", "name": "IPFS go-ipfs-dep 0.4.1 for Node.js", "cpe": "cpe:2.3:a:ipfs:go-ipfs-dep:0.4.1:*:*:*:*:node.js:*:*", "languages": ["en_US"], "vendor": "ipfs", "version": "0.4.1"}

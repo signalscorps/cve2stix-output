@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--ecffe17d-b682-5253-98eb-148544d45439", "name": "pyOpenSSL 19.0.0", "cpe": "cpe:2.3:a:pyopenssl:pyopenssl:19.0.0:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "pyopenssl", "version": "19.0.0"}

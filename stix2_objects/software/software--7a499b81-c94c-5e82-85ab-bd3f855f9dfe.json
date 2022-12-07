@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--7a499b81-c94c-5e82-85ab-bd3f855f9dfe", "name": "Jenkins GitLab Logo 1.0.0 for Jenkins", "cpe": "cpe:2.3:a:jenkins:gitlab_logo:1.0.0:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "1.0.0"}

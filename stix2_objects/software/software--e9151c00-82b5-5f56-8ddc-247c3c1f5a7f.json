@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--e9151c00-82b5-5f56-8ddc-247c3c1f5a7f", "name": "musl-libc musl 0.9.8", "cpe": "cpe:2.3:a:musl-libc:musl:0.9.8:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "musl-libc", "version": "0.9.8"}

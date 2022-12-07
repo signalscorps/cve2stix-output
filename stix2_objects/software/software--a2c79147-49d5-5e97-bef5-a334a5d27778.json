@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--a2c79147-49d5-5e97-bef5-a334a5d27778", "name": "Jenkins Beaker Builder 1.7 for Jenkins", "cpe": "cpe:2.3:a:jenkins:beaker_builder:1.7:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "1.7"}

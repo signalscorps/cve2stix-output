@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--5e6c4491-a490-5eed-b9ee-b5d364b659ac", "name": "Tcl (Tool Command Language) Tcl/Tk 8.6.4", "cpe": "cpe:2.3:a:tcl:tcl\\/tk:8.6.4:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "tcl", "version": "8.6.4"}

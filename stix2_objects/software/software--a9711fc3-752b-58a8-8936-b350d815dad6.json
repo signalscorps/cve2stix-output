@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--a9711fc3-752b-58a8-8936-b350d815dad6", "name": "Socket Engine.IO client 0.7.13 for Node.js", "cpe": "cpe:2.3:a:socket:engine.io-client:0.7.13:*:*:*:*:node.js:*:*", "languages": ["en_US"], "vendor": "socket", "version": "0.7.13"}

@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--b0ae637d-ac32-5c45-8876-8daf4eba23d4", "name": "OpenStack TripleO Heat Templates 8.0.6", "cpe": "cpe:2.3:a:openstack:tripleo_heat_templates:8.0.6:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "openstack", "version": "8.0.6"}

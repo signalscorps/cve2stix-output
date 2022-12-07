@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--0fb7a7dc-97a2-5b98-91d1-44049da0e690", "name": "ESPRESSIF Arduino ESP8266 2.5.2", "cpe": "cpe:2.3:a:espressif:arduino_esp8266:2.5.2:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "espressif", "version": "2.5.2"}

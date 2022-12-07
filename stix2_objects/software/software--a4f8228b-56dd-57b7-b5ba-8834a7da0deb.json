@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--a4f8228b-56dd-57b7-b5ba-8834a7da0deb", "name": "Dovecot Pigeonhole 0.4.10 Release Candidate 1", "cpe": "cpe:2.3:a:dovecot:pigeonhole:0.4.10:rc1:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "dovecot", "version": "0.4.10"}

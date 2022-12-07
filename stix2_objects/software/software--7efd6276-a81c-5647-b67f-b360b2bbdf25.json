@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--7efd6276-a81c-5647-b67f-b360b2bbdf25", "name": "Red Hat etcd 3.1.12", "cpe": "cpe:2.3:a:redhat:etcd:3.1.12:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "redhat", "version": "3.1.12"}

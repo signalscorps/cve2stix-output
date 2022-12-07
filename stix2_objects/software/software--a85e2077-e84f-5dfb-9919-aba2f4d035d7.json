@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--a85e2077-e84f-5dfb-9919-aba2f4d035d7", "name": "MikroTik RouterOS 5.12 LTR Edition", "cpe": "cpe:2.3:o:mikrotik:routeros:5.12:*:*:*:ltr:*:*:*", "languages": ["en_US"], "vendor": "mikrotik", "version": "5.12"}

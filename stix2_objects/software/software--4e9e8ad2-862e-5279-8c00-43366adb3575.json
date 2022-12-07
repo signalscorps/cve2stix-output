@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--4e9e8ad2-862e-5279-8c00-43366adb3575", "name": "Jenkins Aqua Security Scanner 3.0.18 for Jenkins", "cpe": "cpe:2.3:a:jenkins:aqua_security_scanner:3.0.18:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "3.0.18"}

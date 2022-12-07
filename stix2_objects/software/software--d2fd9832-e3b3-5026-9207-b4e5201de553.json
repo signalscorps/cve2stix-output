@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--d2fd9832-e3b3-5026-9207-b4e5201de553", "name": "Jenkins Call Remote Job 1.0.19 for Jenkins", "cpe": "cpe:2.3:a:jenkins:call_remote_job:1.0.19:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "1.0.19"}

@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--cf4ef918-ee1c-5e18-81f9-5f523c59ffdf", "name": "Postfix 2.9.7", "cpe": "cpe:2.3:a:postfix:postfix:2.9.7:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "postfix", "version": "2.9.7"}

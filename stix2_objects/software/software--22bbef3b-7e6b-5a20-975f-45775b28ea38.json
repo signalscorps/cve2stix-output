@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--22bbef3b-7e6b-5a20-975f-45775b28ea38", "name": "Jenkins Violation Comments to GitLab 1.21 for Jenkins", "cpe": "cpe:2.3:a:jenkins:violation_comments_to_gitlab:1.21:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "1.21"}

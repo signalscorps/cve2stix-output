@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--87d9c717-1b6d-56bb-bf23-923b28bfdb98", "name": "Aerospike 3.8.0 for Node.js", "cpe": "cpe:2.3:a:aerospike:aerospike:3.8.0:*:*:*:*:node.js:*:*", "languages": ["en_US"], "vendor": "aerospike", "version": "3.8.0"}

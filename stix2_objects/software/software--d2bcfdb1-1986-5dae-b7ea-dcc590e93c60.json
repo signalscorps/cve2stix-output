@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--d2bcfdb1-1986-5dae-b7ea-dcc590e93c60", "name": "Ping Identity UnboundID LDAP SDK 3.2.1 for Java", "cpe": "cpe:2.3:a:pingidentity:ldapsdk:3.2.1:*:*:*:*:java:*:*", "languages": ["en_US"], "vendor": "pingidentity", "version": "3.2.1"}

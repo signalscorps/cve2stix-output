@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--a5252f4b-ed21-5b42-ae29-5bb6ed23184f", "name": "Nagios Log Server 1.4.4", "cpe": "cpe:2.3:a:nagios:log_server:1.4.4:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "nagios", "version": "1.4.4"}

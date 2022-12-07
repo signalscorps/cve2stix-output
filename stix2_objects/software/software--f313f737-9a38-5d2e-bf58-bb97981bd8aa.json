@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--f313f737-9a38-5d2e-bf58-bb97981bd8aa", "name": "Jenkins z/OS Connector 2.3.1 for Jenkins", "cpe": "cpe:2.3:a:jenkins:z\\/os_connector:2.3.1:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "2.3.1"}

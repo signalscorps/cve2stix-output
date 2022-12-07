@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--030c3a24-fdb1-5995-9066-816493b6c465", "name": "Debian Advanced Package Tool (APT) 1.0.9.9", "cpe": "cpe:2.3:a:debian:advanced_package_tool:1.0.9.9:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "debian", "version": "1.0.9.9"}

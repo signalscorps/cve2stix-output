@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--6e439f75-18be-5a48-b1cf-dd91729eb9c5", "name": "Jenkins Aqua MicroScanner 1.0.6 for Jenkins", "cpe": "cpe:2.3:a:jenkins:aqua_microscanner:1.0.6:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "1.0.6"}
