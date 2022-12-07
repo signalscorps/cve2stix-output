@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--4f6e5010-5c2f-5735-98f2-336cf3171654", "name": "Jenkins Azure VM Agents 0.9.0 Patch review for Jenkins", "cpe": "cpe:2.3:a:jenkins:azure_vm_agents:0.9.0:preview:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "0.9.0"}

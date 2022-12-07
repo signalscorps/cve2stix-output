@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--0989b4af-d238-5364-a9d2-04d1da1b838f", "name": "FreeBSD 5.4 Patch 22", "cpe": "cpe:2.3:o:freebsd:freebsd:5.4:p22:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "freebsd", "version": "5.4"}

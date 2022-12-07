@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--2f26ada6-d36c-5fc2-8f6a-2d508898c4b0", "name": "Microsoft Windows Server 2003 Service Pack 1 Compute Cluster Edition on Itanium", "cpe": "cpe:2.3:o:microsoft:windows_server_2003:-:sp1:*:*:compute_cluster:*:itanium:*", "languages": ["en_US"], "vendor": "microsoft", "version": "-"}

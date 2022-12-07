@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--f880b182-4366-5fd5-8ee4-b34c9d247f88", "name": "Red Hat RESTEasy 3.5.0 Candidate Release 3", "cpe": "cpe:2.3:a:redhat:resteasy:3.5.0:cr3:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "redhat", "version": "3.5.0"}

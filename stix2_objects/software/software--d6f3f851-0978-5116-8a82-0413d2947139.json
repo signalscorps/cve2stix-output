@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--d6f3f851-0978-5116-8a82-0413d2947139", "name": "FreeBSD 4.10 Patch 23", "cpe": "cpe:2.3:o:freebsd:freebsd:4.10:p23:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "freebsd", "version": "4.10"}

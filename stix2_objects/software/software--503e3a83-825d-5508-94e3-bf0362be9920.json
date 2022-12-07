@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--503e3a83-825d-5508-94e3-bf0362be9920", "name": "Jenkins Monitoring 1.74.0 for Jenkins", "cpe": "cpe:2.3:a:jenkins:monitoring:1.74.0:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "1.74.0"}

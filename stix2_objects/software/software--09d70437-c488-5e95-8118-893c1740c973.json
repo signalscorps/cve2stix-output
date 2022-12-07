@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--09d70437-c488-5e95-8118-893c1740c973", "name": "FreeBSD 4.7 Patch 25", "cpe": "cpe:2.3:o:freebsd:freebsd:4.7:p25:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "freebsd", "version": "4.7"}

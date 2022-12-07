@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--38d123ba-9036-52bf-9bde-07db892b5c5f", "name": "FreeBSD 7.1 Patch 2", "cpe": "cpe:2.3:o:freebsd:freebsd:7.1:p2:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "freebsd", "version": "7.1"}

@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--d126be60-e867-5ddc-9660-724ad28bbe02", "name": "FreeBSD 9.3 Patch 45", "cpe": "cpe:2.3:o:freebsd:freebsd:9.3:p45:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "freebsd", "version": "9.3"}

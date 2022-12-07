@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--cb2c9573-73e3-58ad-948a-d5cb57d72963", "name": "Apache Software Foundation Thrift 0.3.0 for Node.js", "cpe": "cpe:2.3:a:apache:thrift:0.3.0:*:*:*:*:node.js:*:*", "languages": ["en_US"], "vendor": "apache", "version": "0.3.0"}

@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--b698b9af-14f9-504c-ab37-857400e631da", "name": "FreeBSD 10.3 Patch 21", "cpe": "cpe:2.3:o:freebsd:freebsd:10.3:p21:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "freebsd", "version": "10.3"}

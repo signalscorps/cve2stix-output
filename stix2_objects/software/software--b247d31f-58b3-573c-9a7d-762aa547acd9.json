@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--b247d31f-58b3-573c-9a7d-762aa547acd9", "name": "Jenkins Repository Connector 1.2.2 for Jenkins", "cpe": "cpe:2.3:a:jenkins:repository_connector:1.2.2:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "1.2.2"}

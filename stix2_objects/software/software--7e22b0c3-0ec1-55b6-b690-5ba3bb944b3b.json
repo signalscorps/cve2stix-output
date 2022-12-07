@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--7e22b0c3-0ec1-55b6-b690-5ba3bb944b3b", "name": "Jenkins Github OAuth 0.16 for Jenkins", "cpe": "cpe:2.3:a:jenkins:github_oauth:0.16:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "0.16"}

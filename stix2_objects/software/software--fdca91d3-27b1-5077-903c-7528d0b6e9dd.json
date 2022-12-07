@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--fdca91d3-27b1-5077-903c-7528d0b6e9dd", "name": "FreeBSD 8.3 Patch 2", "cpe": "cpe:2.3:o:freebsd:freebsd:8.3:p2:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "freebsd", "version": "8.3"}

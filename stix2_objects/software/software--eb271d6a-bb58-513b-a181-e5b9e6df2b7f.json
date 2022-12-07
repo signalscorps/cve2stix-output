@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--eb271d6a-bb58-513b-a181-e5b9e6df2b7f", "name": "Microsoft Windows Server 2003 R2 Service Pack 2 Datacenter Edition on Itanium", "cpe": "cpe:2.3:o:microsoft:windows_server_2003:r2:sp2:*:*:datacenter:*:itanium:*", "languages": ["en_US"], "vendor": "microsoft", "version": "r2"}

@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--cd6a2167-ed04-5bdb-85a8-51cc412c4fed", "name": "FreeBSD 7.3 Patch 8", "cpe": "cpe:2.3:o:freebsd:freebsd:7.3:p8:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "freebsd", "version": "7.3"}

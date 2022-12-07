@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--b6a88011-9481-5b7b-9f80-e36b49a165e9", "name": "FreeBSD 6.0 Patch 14", "cpe": "cpe:2.3:o:freebsd:freebsd:6.0:p14:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "freebsd", "version": "6.0"}

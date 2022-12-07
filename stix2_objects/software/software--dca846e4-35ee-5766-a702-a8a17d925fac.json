@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--dca846e4-35ee-5766-a702-a8a17d925fac", "name": "NGINX Unit 1.7.1", "cpe": "cpe:2.3:a:nginx:unit:1.7.1:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "nginx", "version": "1.7.1"}

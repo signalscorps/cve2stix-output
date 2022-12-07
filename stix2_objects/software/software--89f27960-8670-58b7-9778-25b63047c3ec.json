@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--89f27960-8670-58b7-9778-25b63047c3ec", "name": "FreeBSD 9.3 Patch 53", "cpe": "cpe:2.3:o:freebsd:freebsd:9.3:p53:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "freebsd", "version": "9.3"}

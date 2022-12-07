@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--e99e7e96-ac3a-5919-b998-2a54c7e9c605", "name": "Jenkins Email Extension 2.35.1 for Jenkins", "cpe": "cpe:2.3:a:jenkins:email_extension:2.35.1:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "2.35.1"}

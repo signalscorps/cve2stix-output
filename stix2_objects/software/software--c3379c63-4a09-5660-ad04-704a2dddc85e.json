@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--c3379c63-4a09-5660-ad04-704a2dddc85e", "name": "FreeBSD 8.3 Patch 14", "cpe": "cpe:2.3:o:freebsd:freebsd:8.3:p14:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "freebsd", "version": "8.3"}

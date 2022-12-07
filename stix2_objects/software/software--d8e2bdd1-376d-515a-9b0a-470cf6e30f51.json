@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--d8e2bdd1-376d-515a-9b0a-470cf6e30f51", "name": "Red Hat RESTEasy 3.0.19 Service Pack 4", "cpe": "cpe:2.3:a:redhat:resteasy:3.0.19:sp4:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "redhat", "version": "3.0.19"}

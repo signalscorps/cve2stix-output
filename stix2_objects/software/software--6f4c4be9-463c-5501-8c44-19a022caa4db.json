@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--6f4c4be9-463c-5501-8c44-19a022caa4db", "name": "PowerDNS Authoritative Server 4.1.1", "cpe": "cpe:2.3:a:powerdns:authoritative_server:4.1.1:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "powerdns", "version": "4.1.1"}

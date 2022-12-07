@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--f0779ee1-cde2-50c1-b33d-1441674f7504", "name": "Microsoft Windows Server 2003 Compute Cluster Edition on x64", "cpe": "cpe:2.3:o:microsoft:windows_server_2003:-:-:*:*:compute_cluster:*:x64:*", "languages": ["en_US"], "vendor": "microsoft", "version": "-"}

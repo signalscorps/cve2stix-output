@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--f646c740-d0e2-5495-84ec-aba86feb37a7", "name": "FreeBSD 8.4 Patch 35", "cpe": "cpe:2.3:o:freebsd:freebsd:8.4:p35:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "freebsd", "version": "8.4"}

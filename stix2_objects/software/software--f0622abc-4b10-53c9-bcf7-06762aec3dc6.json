@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--f0622abc-4b10-53c9-bcf7-06762aec3dc6", "name": "Red Hat OpenShift Container Platform 3.11 on x86", "cpe": "cpe:2.3:a:redhat:openshift_container_platform:3.11:*:*:*:*:*:x86:*", "languages": ["en_US"], "vendor": "redhat", "version": "3.11"}

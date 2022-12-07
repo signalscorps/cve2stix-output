@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--d2b571bb-1552-52da-b143-8bad44837540", "name": "FreeBSD 4.4 Patch 45", "cpe": "cpe:2.3:o:freebsd:freebsd:4.4:p45:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "freebsd", "version": "4.4"}

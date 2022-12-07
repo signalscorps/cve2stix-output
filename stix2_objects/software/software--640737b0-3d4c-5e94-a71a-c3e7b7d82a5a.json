@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--640737b0-3d4c-5e94-a71a-c3e7b7d82a5a", "name": "Percona Server 5.5.7 Release Candidate", "cpe": "cpe:2.3:a:percona:percona_server:5.5.7:rc:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "percona", "version": "5.5.7"}

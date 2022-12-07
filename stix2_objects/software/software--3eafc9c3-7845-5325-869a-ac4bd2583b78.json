@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--3eafc9c3-7845-5325-869a-ac4bd2583b78", "name": "NVIDIA GPU Driver 375.63", "cpe": "cpe:2.3:a:nvidia:gpu_driver:375.63:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "nvidia", "version": "375.63"}

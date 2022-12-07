@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--a8da25c4-0512-59bb-b75e-c8544a6d4bf1", "name": "Percona XtraDB Cluster 5.7.19-29.22", "cpe": "cpe:2.3:a:percona:xtradb_cluster:5.7.19-29.22:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "percona", "version": "5.7.19-29.22"}

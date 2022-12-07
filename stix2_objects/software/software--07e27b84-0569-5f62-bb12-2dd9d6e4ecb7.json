@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--07e27b84-0569-5f62-bb12-2dd9d6e4ecb7", "name": "Microsoft Windows Server 2003 R2 Service Pack 1 Enterprise Edition on Itanium", "cpe": "cpe:2.3:o:microsoft:windows_server_2003:r2:sp1:*:*:enterprise:*:itanium:*", "languages": ["en_US"], "vendor": "microsoft", "version": "r2"}

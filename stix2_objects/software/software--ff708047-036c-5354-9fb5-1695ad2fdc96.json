@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--ff708047-036c-5354-9fb5-1695ad2fdc96", "name": "Jenkins JMS Messaging 1.0.18 for Jenkins", "cpe": "cpe:2.3:a:jenkins:jms_messaging:1.0.18:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "1.0.18"}

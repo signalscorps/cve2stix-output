@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--8b9a2c45-3331-542e-bcf5-9300907943e5", "name": "GNU glibc 2.17 x86", "cpe": "cpe:2.3:a:gnu:glibc:2.17:*:*:*:*:*:x86:*", "languages": ["en_US"], "vendor": "gnu", "version": "2.17"}

@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--f28f142c-feea-5ad3-86c0-161cd5355fce", "name": "FreeBSD 4.6.2 Patch 2", "cpe": "cpe:2.3:o:freebsd:freebsd:4.6.2:p2:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "freebsd", "version": "4.6.2"}

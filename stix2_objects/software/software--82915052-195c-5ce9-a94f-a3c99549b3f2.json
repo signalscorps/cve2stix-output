@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--82915052-195c-5ce9-a94f-a3c99549b3f2", "name": "FreeBSD 7.1 Patch 10", "cpe": "cpe:2.3:o:freebsd:freebsd:7.1:p10:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "freebsd", "version": "7.1"}

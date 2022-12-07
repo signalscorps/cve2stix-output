@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--b1070eaf-0363-5557-a194-21aa516b03db", "name": "SolarWinds Log and Event Manager (LEM) 6.6", "cpe": "cpe:2.3:a:solarwinds:log_and_event_manager:6.6:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "solarwinds", "version": "6.6"}

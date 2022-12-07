@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--80e0c257-9d04-54e5-b45e-f05226c68f20", "name": "FreeBSD 7.3", "cpe": "cpe:2.3:o:freebsd:freebsd:7.3:-:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "freebsd", "version": "7.3"}

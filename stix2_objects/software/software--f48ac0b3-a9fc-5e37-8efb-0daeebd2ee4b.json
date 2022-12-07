@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--f48ac0b3-a9fc-5e37-8efb-0daeebd2ee4b", "name": "FreeBSD 5.3 Patch 32", "cpe": "cpe:2.3:o:freebsd:freebsd:5.3:p32:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "freebsd", "version": "5.3"}

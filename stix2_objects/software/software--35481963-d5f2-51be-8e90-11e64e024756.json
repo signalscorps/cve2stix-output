@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--35481963-d5f2-51be-8e90-11e64e024756", "name": "NVIDIA GPU Driver 375", "cpe": "cpe:2.3:a:nvidia:gpu_driver:375:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "nvidia", "version": "375"}

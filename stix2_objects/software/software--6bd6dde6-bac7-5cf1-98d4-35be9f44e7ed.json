@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--6bd6dde6-bac7-5cf1-98d4-35be9f44e7ed", "name": "GitLab 11.0.0 Release Candidate 13 Community Edition", "cpe": "cpe:2.3:a:gitlab:gitlab:11.0.0:rc13:*:*:community:*:*:*", "languages": ["en_US"], "vendor": "gitlab", "version": "11.0.0"}

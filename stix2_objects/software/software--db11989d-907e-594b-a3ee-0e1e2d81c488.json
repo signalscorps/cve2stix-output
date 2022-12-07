@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--db11989d-907e-594b-a3ee-0e1e2d81c488", "name": "Nodejs Node.js 8.15.1 LTS Edition", "cpe": "cpe:2.3:a:nodejs:node.js:8.15.1:*:*:*:lts:*:*:*", "languages": ["en_US"], "vendor": "nodejs", "version": "8.15.1"}

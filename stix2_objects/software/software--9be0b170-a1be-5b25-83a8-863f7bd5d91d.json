@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--9be0b170-a1be-5b25-83a8-863f7bd5d91d", "name": "FreeBSD 10.1 Patch 24", "cpe": "cpe:2.3:o:freebsd:freebsd:10.1:p24:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "freebsd", "version": "10.1"}

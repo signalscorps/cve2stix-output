@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--87e5f88e-d33a-5a13-8017-db8a67bfe323", "name": "FreeBSD 4.8 Patch 27", "cpe": "cpe:2.3:o:freebsd:freebsd:4.8:p27:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "freebsd", "version": "4.8"}

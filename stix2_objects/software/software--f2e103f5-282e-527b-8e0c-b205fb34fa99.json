@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--f2e103f5-282e-527b-8e0c-b205fb34fa99", "name": "Jenkins Azure VM Agents 0.7.3 for Jenkins", "cpe": "cpe:2.3:a:jenkins:azure_vm_agents:0.7.3:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "0.7.3"}

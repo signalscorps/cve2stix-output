@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--074b3c55-ea30-571e-b953-75d91173f3ee", "name": "FreeBSD 8.4 Patch 36", "cpe": "cpe:2.3:o:freebsd:freebsd:8.4:p36:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "freebsd", "version": "8.4"}

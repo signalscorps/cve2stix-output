@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--ba87c71a-4793-5b3a-b402-c9322da9c673", "name": "Helm 2.10.0 Release Candidate .2", "cpe": "cpe:2.3:a:helm:helm:2.10.0:rc.2:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "helm", "version": "2.10.0"}

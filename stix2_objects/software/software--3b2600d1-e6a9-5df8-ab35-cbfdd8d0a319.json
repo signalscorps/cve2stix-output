@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--3b2600d1-e6a9-5df8-ab35-cbfdd8d0a319", "name": "FreeBSD 7.4 Patch 12", "cpe": "cpe:2.3:o:freebsd:freebsd:7.4:p12:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "freebsd", "version": "7.4"}

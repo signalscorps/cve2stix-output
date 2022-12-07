@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--e9e7f670-ab30-59f9-8510-13c38561adf2", "name": "Jenkins Matrix Project 1.14 for Jenkins", "cpe": "cpe:2.3:a:jenkins:matrix_project:1.14:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "1.14"}

@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--ff12a776-5ac2-54f1-9527-6e748aba9480", "name": "FreeBSD 8.0 Release Candidate 1", "cpe": "cpe:2.3:o:freebsd:freebsd:8.0:rc1:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "freebsd", "version": "8.0"}

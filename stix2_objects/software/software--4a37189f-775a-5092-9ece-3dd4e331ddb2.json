@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--4a37189f-775a-5092-9ece-3dd4e331ddb2", "name": "FreeBSD 11.0 Patch 2", "cpe": "cpe:2.3:o:freebsd:freebsd:11.0:p2:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "freebsd", "version": "11.0"}

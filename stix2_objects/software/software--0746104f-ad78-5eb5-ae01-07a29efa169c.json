@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--0746104f-ad78-5eb5-ae01-07a29efa169c", "name": "FreeBSD 4.7 Patch 19", "cpe": "cpe:2.3:o:freebsd:freebsd:4.7:p19:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "freebsd", "version": "4.7"}

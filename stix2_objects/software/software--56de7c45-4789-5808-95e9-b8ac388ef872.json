@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--56de7c45-4789-5808-95e9-b8ac388ef872", "name": "FreeBSD 9.2 Patch 16", "cpe": "cpe:2.3:o:freebsd:freebsd:9.2:p16:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "freebsd", "version": "9.2"}

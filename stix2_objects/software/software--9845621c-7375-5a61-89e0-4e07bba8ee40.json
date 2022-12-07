@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--9845621c-7375-5a61-89e0-4e07bba8ee40", "name": "FreeBSD 4.5 Patch 34", "cpe": "cpe:2.3:o:freebsd:freebsd:4.5:p34:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "freebsd", "version": "4.5"}

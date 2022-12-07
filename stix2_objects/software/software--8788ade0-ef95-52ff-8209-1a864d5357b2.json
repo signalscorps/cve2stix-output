@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--8788ade0-ef95-52ff-8209-1a864d5357b2", "name": "FreeBSD 4.3 Patch 40", "cpe": "cpe:2.3:o:freebsd:freebsd:4.3:p40:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "freebsd", "version": "4.3"}

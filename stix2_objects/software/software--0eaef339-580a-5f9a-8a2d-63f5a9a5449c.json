@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--0eaef339-580a-5f9a-8a2d-63f5a9a5449c", "name": "Jenkins OpenId Connect Authentication 1.4 for Jenkins", "cpe": "cpe:2.3:a:jenkins:openid_connect_authentication:1.4:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "1.4"}

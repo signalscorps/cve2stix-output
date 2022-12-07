@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--1f93f5a1-8c69-5626-9e17-5cc01ab652e9", "name": "Microsoft Windows Server 2003 Service Pack 1 Datacenter Edition on x64", "cpe": "cpe:2.3:o:microsoft:windows_server_2003:-:sp1:*:*:datacenter:*:x64:*", "languages": ["en_US"], "vendor": "microsoft", "version": "-"}

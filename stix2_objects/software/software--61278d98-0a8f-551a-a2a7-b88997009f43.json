@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--61278d98-0a8f-551a-a2a7-b88997009f43", "name": "Jenkins Job DSL 1.46 for Jenkins", "cpe": "cpe:2.3:a:jenkins:job_dsl:1.46:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "1.46"}

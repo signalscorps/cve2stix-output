@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--1fe32777-15c1-58c3-9202-e34aa49a35e2", "name": "Jenkins Job Import 1.1 for Jenkins", "cpe": "cpe:2.3:a:jenkins:job_import:1.1:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "1.1"}

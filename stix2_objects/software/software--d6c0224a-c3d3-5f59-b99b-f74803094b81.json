@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--d6c0224a-c3d3-5f59-b99b-f74803094b81", "name": "Microsoft Windows Server 2003 R2 Service Pack 1 Storage Edition on Itanium", "cpe": "cpe:2.3:o:microsoft:windows_server_2003:r2:sp1:*:*:storage:*:itanium:*", "languages": ["en_US"], "vendor": "microsoft", "version": "r2"}

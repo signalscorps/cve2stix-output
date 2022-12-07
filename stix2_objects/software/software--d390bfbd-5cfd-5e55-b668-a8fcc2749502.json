@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--d390bfbd-5cfd-5e55-b668-a8fcc2749502", "name": "FreeBSD 5.0 Patch 1", "cpe": "cpe:2.3:o:freebsd:freebsd:5.0:p1:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "freebsd", "version": "5.0"}

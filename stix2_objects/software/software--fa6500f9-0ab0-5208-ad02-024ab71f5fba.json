@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--fa6500f9-0ab0-5208-ad02-024ab71f5fba", "name": "FreeBSD 6.2 Patch 7", "cpe": "cpe:2.3:o:freebsd:freebsd:6.2:p7:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "freebsd", "version": "6.2"}

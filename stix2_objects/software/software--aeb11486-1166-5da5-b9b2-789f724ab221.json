@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--aeb11486-1166-5da5-b9b2-789f724ab221", "name": "FreeBSD 3.3 Release Candidate", "cpe": "cpe:2.3:o:freebsd:freebsd:3.3:rc:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "freebsd", "version": "3.3"}

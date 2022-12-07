@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--d0613cd7-7a62-59c0-bc1f-7bdda65e4480", "name": "FreeBSD 6.0 Patch 8", "cpe": "cpe:2.3:o:freebsd:freebsd:6.0:p8:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "freebsd", "version": "6.0"}

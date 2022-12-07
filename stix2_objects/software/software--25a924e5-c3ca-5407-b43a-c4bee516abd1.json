@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--25a924e5-c3ca-5407-b43a-c4bee516abd1", "name": "FreeBSD 4.6 Patch 20", "cpe": "cpe:2.3:o:freebsd:freebsd:4.6:p20:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "freebsd", "version": "4.6"}

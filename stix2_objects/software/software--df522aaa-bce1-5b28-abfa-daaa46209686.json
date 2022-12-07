@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--df522aaa-bce1-5b28-abfa-daaa46209686", "name": "Percona Server 8.0.12-2 Release Candidate 1", "cpe": "cpe:2.3:a:percona:percona_server:8.0.12-2:rc1:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "percona", "version": "8.0.12-2"}

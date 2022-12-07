@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--76179ed3-97a9-550f-80a3-e41014c16bcd", "name": "FreeBSD 7.3 Patch 9", "cpe": "cpe:2.3:o:freebsd:freebsd:7.3:p9:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "freebsd", "version": "7.3"}

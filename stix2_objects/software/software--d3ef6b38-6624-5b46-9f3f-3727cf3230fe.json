@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--d3ef6b38-6624-5b46-9f3f-3727cf3230fe", "name": "FreeBSD 10.1 Patch 18", "cpe": "cpe:2.3:o:freebsd:freebsd:10.1:p18:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "freebsd", "version": "10.1"}

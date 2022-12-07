@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--80f64586-9efd-50bf-8c5e-4c41338cea4c", "name": "Splunk 7.0.0 Enterprise Edition", "cpe": "cpe:2.3:a:splunk:splunk:7.0.0:*:*:*:enterprise:*:*:*", "languages": ["en_US"], "vendor": "splunk", "version": "7.0.0"}

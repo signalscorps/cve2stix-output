@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--5d8486ed-348f-5151-a1cc-da35854cb5b1", "name": "Jenkins AppDynamics 1.0.4 for Jenkins", "cpe": "cpe:2.3:a:jenkins:appdynamics:1.0.4:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "1.0.4"}

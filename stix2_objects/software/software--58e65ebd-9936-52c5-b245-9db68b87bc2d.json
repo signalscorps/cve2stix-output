@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--58e65ebd-9936-52c5-b245-9db68b87bc2d", "name": "Microsoft Windows Server 2003 R2 Service Pack 1 Storage Edition on x86", "cpe": "cpe:2.3:o:microsoft:windows_server_2003:r2:sp1:*:*:storage:*:x86:*", "languages": ["en_US"], "vendor": "microsoft", "version": "r2"}

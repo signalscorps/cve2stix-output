@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--2e73d5dc-66a9-55e5-ae1d-f6e8ae5ec7d0", "name": "FreeBSD 6.4 Patch 1", "cpe": "cpe:2.3:o:freebsd:freebsd:6.4:p1:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "freebsd", "version": "6.4"}

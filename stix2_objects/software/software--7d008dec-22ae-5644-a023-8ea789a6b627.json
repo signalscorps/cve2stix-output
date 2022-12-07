@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--7d008dec-22ae-5644-a023-8ea789a6b627", "name": "FreeBSD 8.4 Patch 13", "cpe": "cpe:2.3:o:freebsd:freebsd:8.4:p13:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "freebsd", "version": "8.4"}
