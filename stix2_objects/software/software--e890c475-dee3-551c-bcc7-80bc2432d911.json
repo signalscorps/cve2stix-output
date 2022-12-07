@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--e890c475-dee3-551c-bcc7-80bc2432d911", "name": "Intel Xeon E3-1270 v5 Firmware for Windows", "cpe": "cpe:2.3:o:intel:xeon_e3-1270_v5_firmware:-:*:*:*:*:windows:*:*", "languages": ["en_US"], "vendor": "intel", "version": "-"}

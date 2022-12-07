@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--133c2572-3484-5dce-ac18-14e30ad2c4f3", "name": "VeryNginx Project VeryNginx 0.2.1 for NGINX", "cpe": "cpe:2.3:a:verynginx_project:verynginx:0.2.1:*:*:*:*:nginx:*:*", "languages": ["en_US"], "vendor": "verynginx_project", "version": "0.2.1"}

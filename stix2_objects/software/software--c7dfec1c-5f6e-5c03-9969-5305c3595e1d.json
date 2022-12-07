@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--c7dfec1c-5f6e-5c03-9969-5305c3595e1d", "name": "Tornado Web Server Tornado 3.2.0", "cpe": "cpe:2.3:a:tornadoweb:tornado:3.2.0:-:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "tornadoweb", "version": "3.2.0"}

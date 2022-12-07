@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--efac65dc-b891-5b42-8790-65723ea5d7f2", "name": "Atlassian SAML Single Sign On (SSO) 2.4.8 for Bitbucket", "cpe": "cpe:2.3:a:atlassian:saml_single_sign_on:2.4.8:*:*:*:*:bitbucket:*:*", "languages": ["en_US"], "vendor": "atlassian", "version": "2.4.8"}

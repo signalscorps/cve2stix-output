@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--ae039f56-7e50-5545-a3c6-5f723d82c0de", "name": "Boot2docker 18.05.0 Release Candidate 1 Community Edition", "cpe": "cpe:2.3:o:boot2docker:boot2docker:18.05.0:rc1:*:*:community:*:*:*", "languages": ["en_US"], "vendor": "boot2docker", "version": "18.05.0"}

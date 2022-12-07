@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--0aea1b56-1dd0-50a0-bfee-3d1972f037d9", "name": "Intel Xeon E3-1268L v5 Firmware 26.20.100.6859 for Windows", "cpe": "cpe:2.3:o:intel:xeon_e3-1268l_v5_firmware:26.20.100.6859:*:*:*:*:windows:*:*", "languages": ["en_US"], "vendor": "intel", "version": "26.20.100.6859"}

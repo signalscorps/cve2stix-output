@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--e60f8d89-494b-510e-9ec3-6391ebd340b2", "name": "Check Point Endpoint Security Clients E82.10 for Windows", "cpe": "cpe:2.3:a:checkpoint:endpoint_security_clients:e82.10:*:*:*:*:windows:*:*", "languages": ["en_US"], "vendor": "checkpoint", "version": "e82.10"}

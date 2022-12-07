@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--cde5ed5b-c63a-52c2-b7d6-a4ed4d1f1481", "name": "Intel Xeon E-2276M Firmware for Windows", "cpe": "cpe:2.3:o:intel:xeon_e-2276m_firmware:-:*:*:*:*:windows:*:*", "languages": ["en_US"], "vendor": "intel", "version": "-"}

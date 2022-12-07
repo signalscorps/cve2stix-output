@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--38f51a89-71df-57f2-b05f-66e47712eb5f", "name": "Intel Xeon E-2288G Firmware for Windows", "cpe": "cpe:2.3:o:intel:xeon_e-2288g_firmware:-:*:*:*:*:windows:*:*", "languages": ["en_US"], "vendor": "intel", "version": "-"}

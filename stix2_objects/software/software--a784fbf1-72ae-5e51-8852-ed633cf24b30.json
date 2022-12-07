@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--a784fbf1-72ae-5e51-8852-ed633cf24b30", "name": "Yandex ClickHouse 19.16.6.17", "cpe": "cpe:2.3:a:yandex:clickhouse:19.16.6.17:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "yandex", "version": "19.16.6.17"}

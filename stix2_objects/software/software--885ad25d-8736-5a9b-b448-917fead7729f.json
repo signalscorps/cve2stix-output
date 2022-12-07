@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--885ad25d-8736-5a9b-b448-917fead7729f", "name": "HTTP Authentication Library Project HTTP Authentication Library for Nim", "cpe": "cpe:2.3:a:http_authentication_library_project:http_authentication_library:-:*:*:*:*:nim:*:*", "languages": ["en_US"], "vendor": "http_authentication_library_project", "version": "-"}

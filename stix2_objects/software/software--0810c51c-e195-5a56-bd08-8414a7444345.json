@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--0810c51c-e195-5a56-bd08-8414a7444345", "name": "PHPUnit Project PHPUnit 5.3.5 for Typo3", "cpe": "cpe:2.3:a:phpunit_project:phpunit:5.3.5:*:*:*:*:typo3:*:*", "languages": ["en_US"], "vendor": "phpunit_project", "version": "5.3.5"}

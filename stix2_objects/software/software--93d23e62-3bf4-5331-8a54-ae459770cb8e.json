@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--93d23e62-3bf4-5331-8a54-ae459770cb8e", "name": "Intel Xeon E3-1240 v6 Firmware for Windows", "cpe": "cpe:2.3:o:intel:xeon_e3-1240_v6_firmware:-:*:*:*:*:windows:*:*", "languages": ["en_US"], "vendor": "intel", "version": "-"}

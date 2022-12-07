@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--ce797320-678b-50f7-b311-80c54ea71f78", "name": "Docker CS Engine 1.6.2-cs4", "cpe": "cpe:2.3:a:docker:cs_engine:1.6.2-cs4:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "docker", "version": "1.6.2-cs4"}

@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--0b3bf7c5-f1f5-514b-ac86-cb99e9330180", "name": "Atlassian SAML Single Sign On (SSO) 3.5.0 for Bamboo", "cpe": "cpe:2.3:a:atlassian:saml_single_sign_on:3.5.0:*:*:*:*:bamboo:*:*", "languages": ["en_US"], "vendor": "atlassian", "version": "3.5.0"}

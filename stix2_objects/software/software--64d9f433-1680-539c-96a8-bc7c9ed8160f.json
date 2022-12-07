@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--64d9f433-1680-539c-96a8-bc7c9ed8160f", "name": "Intel Xeon E-2278GE Firmware for Windows", "cpe": "cpe:2.3:o:intel:xeon_e-2278ge_firmware:-:*:*:*:*:windows:*:*", "languages": ["en_US"], "vendor": "intel", "version": "-"}

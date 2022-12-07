@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--5a9651b5-aaf8-5ce5-8d39-d97d2f3a2c67", "name": "Neo4j 3.4.14 Enterprise Edition", "cpe": "cpe:2.3:a:neo4j:neo4j:3.4.14:*:*:*:enterprise:*:*:*", "languages": ["en_US"], "vendor": "neo4j", "version": "3.4.14"}

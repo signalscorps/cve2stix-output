@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--d440ab55-7778-55f7-afcb-c50247b3e001", "name": "Redislabs Hiredis 0.14.0", "cpe": "cpe:2.3:a:redislabs:hiredis:0.14.0:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "redislabs", "version": "0.14.0"}

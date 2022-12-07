@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--b2416ea4-bfdb-5968-bd9d-b6455762948f", "name": "Intel Xeon E-2236 Firmware for Windows", "cpe": "cpe:2.3:o:intel:xeon_e-2236_firmware:-:*:*:*:*:windows:*:*", "languages": ["en_US"], "vendor": "intel", "version": "-"}

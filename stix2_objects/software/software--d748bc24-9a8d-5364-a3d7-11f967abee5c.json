@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--d748bc24-9a8d-5364-a3d7-11f967abee5c", "name": "Intel VTune Profiler 2018 for macOS", "cpe": "cpe:2.3:a:intel:vtune_profiler:2018:-:*:*:*:macos:*:*", "languages": ["en_US"], "vendor": "intel", "version": "2018"}

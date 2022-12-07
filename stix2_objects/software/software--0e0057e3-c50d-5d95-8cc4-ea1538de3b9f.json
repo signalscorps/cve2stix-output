@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--0e0057e3-c50d-5d95-8cc4-ea1538de3b9f", "name": "Boot2docker 1.13.0 Release Candidate 6", "cpe": "cpe:2.3:o:boot2docker:boot2docker:1.13.0:rc6:*:*:-:*:*:*", "languages": ["en_US"], "vendor": "boot2docker", "version": "1.13.0"}

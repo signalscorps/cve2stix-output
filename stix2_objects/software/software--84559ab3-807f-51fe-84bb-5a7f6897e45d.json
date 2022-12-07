@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--84559ab3-807f-51fe-84bb-5a7f6897e45d", "name": "Boot2docker 17.10.0 Community Edition", "cpe": "cpe:2.3:o:boot2docker:boot2docker:17.10.0:-:*:*:community:*:*:*", "languages": ["en_US"], "vendor": "boot2docker", "version": "17.10.0"}

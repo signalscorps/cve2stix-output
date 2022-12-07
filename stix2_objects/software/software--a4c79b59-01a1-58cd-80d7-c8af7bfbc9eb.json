@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--a4c79b59-01a1-58cd-80d7-c8af7bfbc9eb", "name": "Espressif ESP32-D0WD Firmware", "cpe": "cpe:2.3:o:espressif:esp32-d0wd_firmware:-:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "espressif", "version": "-"}

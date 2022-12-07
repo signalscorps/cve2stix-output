@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--dc7ef72d-c853-5c91-8f33-1e0d4d57588e", "name": "Cerberus FTP Server 10.0.15 Enterprise Edition", "cpe": "cpe:2.3:a:cerberusftp:ftp_server:10.0.15:*:*:*:enterprise:*:*:*", "languages": ["en_US"], "vendor": "cerberusftp", "version": "10.0.15"}

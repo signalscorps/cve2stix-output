@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--6faf27bc-94b8-5f0c-8d37-e531d8ea62c9", "name": "Intel Xeon E3-1240 v5 Firmware for Windows", "cpe": "cpe:2.3:o:intel:xeon_e3-1240_v5_firmware:-:*:*:*:*:windows:*:*", "languages": ["en_US"], "vendor": "intel", "version": "-"}

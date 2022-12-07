@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--a3cf1405-48a4-51b0-8ecb-4f6990b9edd3", "name": "Intel Xeon E3-1270 v6 Firmware 26.20.100.6859 for Windows", "cpe": "cpe:2.3:o:intel:xeon_e3-1270_v6_firmware:26.20.100.6859:*:*:*:*:windows:*:*", "languages": ["en_US"], "vendor": "intel", "version": "26.20.100.6859"}

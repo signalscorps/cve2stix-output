@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--8a45294a-b66b-5f19-8cd8-d1314f8431a6", "name": "Nodered Node-red 0.12.3 for Node.js", "cpe": "cpe:2.3:a:nodered:node-red:0.12.3:*:*:*:*:node.js:*:*", "languages": ["en_US"], "vendor": "nodered", "version": "0.12.3"}

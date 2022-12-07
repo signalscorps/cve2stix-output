@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--f83efe20-d9d4-5c73-b90c-d12d8cddfde5", "name": "Symantec Mail Security 7.5.3 for Microsoft Exchange", "cpe": "cpe:2.3:a:symantec:mail_security:7.5.3:*:*:*:*:microsoft_exchange:*:*", "languages": ["en_US"], "vendor": "symantec", "version": "7.5.3"}

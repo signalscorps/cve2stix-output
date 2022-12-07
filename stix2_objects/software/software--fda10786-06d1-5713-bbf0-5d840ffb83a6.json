@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--fda10786-06d1-5713-bbf0-5d840ffb83a6", "name": "Jenkins CloudBees 1.600 for Jenkins", "cpe": "cpe:2.3:a:jenkins:cloudbees:1.600:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "1.600"}

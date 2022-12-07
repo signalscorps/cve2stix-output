@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--e78ed273-275d-5f5c-a9aa-2def5ea750e5", "name": "IBM MQ Appliance 9.1.2 LTS Edition", "cpe": "cpe:2.3:a:ibm:mq_appliance:9.1.2:*:*:*:lts:*:*:*", "languages": ["en_US"], "vendor": "ibm", "version": "9.1.2"}

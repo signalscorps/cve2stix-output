@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--2e29ab90-23eb-5b4d-9457-1367cfb3f15a", "name": "Intel Xeon E-2278GEL Firmware for Windows", "cpe": "cpe:2.3:o:intel:xeon_e-2278gel_firmware:-:*:*:*:*:windows:*:*", "languages": ["en_US"], "vendor": "intel", "version": "-"}

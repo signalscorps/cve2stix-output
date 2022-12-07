@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--9bcf6567-a1d5-50ba-82f1-1b73c14b750a", "name": "cPanel WebHost Manager (WHM) 11.34.0", "cpe": "cpe:2.3:a:cpanel:webhost_manager:11.34.0:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "cpanel", "version": "11.34.0"}

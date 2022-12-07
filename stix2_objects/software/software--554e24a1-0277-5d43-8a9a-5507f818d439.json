@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--554e24a1-0277-5d43-8a9a-5507f818d439", "name": "Intel Xeon E3-1225 v6 Firmware for Windows", "cpe": "cpe:2.3:o:intel:xeon_e3-1225_v6_firmware:-:*:*:*:*:windows:*:*", "languages": ["en_US"], "vendor": "intel", "version": "-"}

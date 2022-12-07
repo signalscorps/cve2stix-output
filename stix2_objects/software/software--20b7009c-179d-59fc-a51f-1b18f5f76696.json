@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--20b7009c-179d-59fc-a51f-1b18f5f76696", "name": "Puppet MCollective (Marionette Collective) 2.8.3 for Puppet", "cpe": "cpe:2.3:a:puppet:mcollective:2.8.3:*:*:*:*:puppet:*:*", "languages": ["en_US"], "vendor": "puppet", "version": "2.8.3"}

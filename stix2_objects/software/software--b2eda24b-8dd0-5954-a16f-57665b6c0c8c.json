@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--b2eda24b-8dd0-5954-a16f-57665b6c0c8c", "name": "F5 BIG-IP Fraud Protection Service (FPS) 11.6.5.1", "cpe": "cpe:2.3:a:f5:big-ip_fraud_protection_service:11.6.5.1:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "f5", "version": "11.6.5.1"}

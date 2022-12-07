@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--da88ee40-fbfd-54ab-ab69-e69399308c58", "name": "Jenkins CloudBees 1.596.1 LTS Edition for Jenkins", "cpe": "cpe:2.3:a:jenkins:cloudbees:1.596.1:*:*:*:lts:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "1.596.1"}

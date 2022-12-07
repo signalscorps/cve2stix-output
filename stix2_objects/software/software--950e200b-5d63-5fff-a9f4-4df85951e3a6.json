@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--950e200b-5d63-5fff-a9f4-4df85951e3a6", "name": "Intel Xeon E3-1501M v6 Firmware 26.20.100.6859 for Windows", "cpe": "cpe:2.3:o:intel:xeon_e3-1501m_v6_firmware:26.20.100.6859:*:*:*:*:windows:*:*", "languages": ["en_US"], "vendor": "intel", "version": "26.20.100.6859"}

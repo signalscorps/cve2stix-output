@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--d99b392c-a936-58be-8c50-960f399bf0c4", "name": "Intel Xeon E-2124 Firmware for Windows", "cpe": "cpe:2.3:o:intel:xeon_e-2124_firmware:-:*:*:*:*:windows:*:*", "languages": ["en_US"], "vendor": "intel", "version": "-"}

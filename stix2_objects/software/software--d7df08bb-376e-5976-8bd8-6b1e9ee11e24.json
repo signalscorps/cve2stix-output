@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--d7df08bb-376e-5976-8bd8-6b1e9ee11e24", "name": "Intel Xeon E3-1515M v5 Firmware for Windows", "cpe": "cpe:2.3:o:intel:xeon_e3-1515m_v5_firmware:-:*:*:*:*:windows:*:*", "languages": ["en_US"], "vendor": "intel", "version": "-"}

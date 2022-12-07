@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--9bcdb4d8-71eb-5ba5-a6ba-962f9856527f", "name": "Cyrus IMAP Cyrus SASL 2.1.27", "cpe": "cpe:2.3:a:cyrusimap:cyrus-sasl:2.1.27:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "cyrusimap", "version": "2.1.27"}

@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--fbf12904-0f4a-5fc3-b6fa-e3d0b24c16c4", "name": "Intel Xeon E-2254ME Firmware for Windows", "cpe": "cpe:2.3:o:intel:xeon_e-2254me_firmware:-:*:*:*:*:windows:*:*", "languages": ["en_US"], "vendor": "intel", "version": "-"}

@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--35d2d971-57d5-5fd6-b09d-94cf1e3f3f0e", "name": "Connect2id Nimbus JOSE + JWT 6.0.2", "cpe": "cpe:2.3:a:connect2id:nimbus_jose\\+jwt:6.0.2:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "connect2id", "version": "6.0.2"}

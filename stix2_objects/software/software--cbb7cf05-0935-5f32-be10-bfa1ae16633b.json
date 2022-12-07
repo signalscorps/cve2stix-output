@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--cbb7cf05-0935-5f32-be10-bfa1ae16633b", "name": "Intel Xeon E3-1280 v5 Firmware for Windows", "cpe": "cpe:2.3:o:intel:xeon_e3-1280_v5_firmware:-:*:*:*:*:windows:*:*", "languages": ["en_US"], "vendor": "intel", "version": "-"}

@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--bd1f573c-b363-5bf0-9bd3-19a743860992", "name": "Intel Xeon E-2186G Firmware for Windows", "cpe": "cpe:2.3:o:intel:xeon_e-2186g_firmware:-:*:*:*:*:windows:*:*", "languages": ["en_US"], "vendor": "intel", "version": "-"}

@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--1496e65c-a00e-5a77-bcd4-07be9783a630", "name": "Intel Xeon E-2134 Firmware for Windows", "cpe": "cpe:2.3:o:intel:xeon_e-2134_firmware:-:*:*:*:*:windows:*:*", "languages": ["en_US"], "vendor": "intel", "version": "-"}

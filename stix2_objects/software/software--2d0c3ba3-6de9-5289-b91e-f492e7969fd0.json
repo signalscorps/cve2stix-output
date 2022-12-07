@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--2d0c3ba3-6de9-5289-b91e-f492e7969fd0", "name": "Jenkins Redgate SQL Change Automation 1.0.16 for Jenkins", "cpe": "cpe:2.3:a:jenkins:redgate_sql_change_automation:1.0.16:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "1.0.16"}

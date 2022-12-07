@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--27686b0f-0f8e-5f35-80bf-0a4f1e84a938", "name": "Intel Xeon E3-1285 v6 Firmware for Windows", "cpe": "cpe:2.3:o:intel:xeon_e3-1285_v6_firmware:-:*:*:*:*:windows:*:*", "languages": ["en_US"], "vendor": "intel", "version": "-"}

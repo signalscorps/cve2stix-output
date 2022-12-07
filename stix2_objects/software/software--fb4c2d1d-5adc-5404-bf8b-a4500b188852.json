@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--fb4c2d1d-5adc-5404-bf8b-a4500b188852", "name": "Boot2docker 18.09.8", "cpe": "cpe:2.3:o:boot2docker:boot2docker:18.09.8:*:*:*:-:*:*:*", "languages": ["en_US"], "vendor": "boot2docker", "version": "18.09.8"}

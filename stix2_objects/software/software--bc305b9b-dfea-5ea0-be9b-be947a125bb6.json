@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--bc305b9b-dfea-5ea0-be9b-be947a125bb6", "name": "Intel Xeon E-2136 Firmware for Windows", "cpe": "cpe:2.3:o:intel:xeon_e-2136_firmware:-:*:*:*:*:windows:*:*", "languages": ["en_US"], "vendor": "intel", "version": "-"}

@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--e91df4c0-ab76-5d2d-b98b-ce850ade1f62", "name": "Atlassian SAML Single Sign On (SSO) 2.0.2 for Jira", "cpe": "cpe:2.3:a:atlassian:saml_single_sign_on:2.0.2:*:*:*:*:jira:*:*", "languages": ["en_US"], "vendor": "atlassian", "version": "2.0.2"}

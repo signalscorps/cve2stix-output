@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--d5862d0f-78f1-5170-842c-64a171ff2c4a", "name": "Siemens SIMATIC S7-1200 CPU Firmware", "cpe": "cpe:2.3:o:siemens:simatic_s7-1200_cpu_firmware:-:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "siemens", "version": "-"}

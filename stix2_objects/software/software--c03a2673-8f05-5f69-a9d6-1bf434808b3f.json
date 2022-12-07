@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--c03a2673-8f05-5f69-a9d6-1bf434808b3f", "name": "Intel Xeon E3-1220 v5 Firmware 26.20.100.6859 for Windows", "cpe": "cpe:2.3:o:intel:xeon_e3-1220_v5_firmware:26.20.100.6859:*:*:*:*:windows:*:*", "languages": ["en_US"], "vendor": "intel", "version": "26.20.100.6859"}

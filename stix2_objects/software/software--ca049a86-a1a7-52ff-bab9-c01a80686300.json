@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--ca049a86-a1a7-52ff-bab9-c01a80686300", "name": "Siemens SIMATIC S7-300 CPU Firmware", "cpe": "cpe:2.3:o:siemens:simatic_s7-300_cpu_firmware:-:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "siemens", "version": "-"}

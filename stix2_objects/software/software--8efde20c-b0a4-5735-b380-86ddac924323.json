@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--8efde20c-b0a4-5735-b380-86ddac924323", "name": "Intel Xeon E3-1585L v5 Firmware for Windows", "cpe": "cpe:2.3:o:intel:xeon_e3-1585l_v5_firmware:-:*:*:*:*:windows:*:*", "languages": ["en_US"], "vendor": "intel", "version": "-"}

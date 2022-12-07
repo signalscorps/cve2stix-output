@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--bd77eb38-7740-55fd-a62a-b5a386bfe4a4", "name": "Intel Graphics Driver 4.14.154 for Linux", "cpe": "cpe:2.3:a:intel:graphics_driver:4.14.154:*:*:*:*:linux:*:*", "languages": ["en_US"], "vendor": "intel", "version": "4.14.154"}

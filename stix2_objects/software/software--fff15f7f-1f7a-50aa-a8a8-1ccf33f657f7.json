@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--fff15f7f-1f7a-50aa-a8a8-1ccf33f657f7", "name": "Intel Xeon E3-1260L v5 Firmware for Windows", "cpe": "cpe:2.3:o:intel:xeon_e3-1260l_v5_firmware:-:*:*:*:*:windows:*:*", "languages": ["en_US"], "vendor": "intel", "version": "-"}

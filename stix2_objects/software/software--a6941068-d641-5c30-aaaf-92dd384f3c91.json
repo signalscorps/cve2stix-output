@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--a6941068-d641-5c30-aaaf-92dd384f3c91", "name": "Apache Software Foundation Rust SGX SDK 0.9.1", "cpe": "cpe:2.3:a:apache:rust_sgx_sdk:0.9.1:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "apache", "version": "0.9.1"}

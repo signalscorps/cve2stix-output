@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--1f99b9e6-89eb-550e-921d-9fcdc13c9580", "name": "Intel VTune Profiler 2018 for Windows", "cpe": "cpe:2.3:a:intel:vtune_profiler:2018:-:*:*:*:windows:*:*", "languages": ["en_US"], "vendor": "intel", "version": "2018"}

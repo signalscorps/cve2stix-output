@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--f642ace8-47c7-53e4-8fb1-430082d5cb96", "name": "Eglibc 2.12", "cpe": "cpe:2.3:a:eglibc:eglibc:2.12:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "eglibc", "version": "2.12"}

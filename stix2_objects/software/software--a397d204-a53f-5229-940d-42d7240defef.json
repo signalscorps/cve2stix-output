@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--a397d204-a53f-5229-940d-42d7240defef", "name": "Intel Xeon E3-1505L v6 Firmware for Windows", "cpe": "cpe:2.3:o:intel:xeon_e3-1505l_v6_firmware:-:*:*:*:*:windows:*:*", "languages": ["en_US"], "vendor": "intel", "version": "-"}

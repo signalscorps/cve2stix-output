@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--f64ff696-ac82-5f9d-89fb-9bf6bc1a74cb", "name": "mongo-express Project mongo-express 0.33.0 for Node.js", "cpe": "cpe:2.3:a:mongo-express_project:mongo-express:0.33.0:*:*:*:*:node.js:*:*", "languages": ["en_US"], "vendor": "mongo-express_project", "version": "0.33.0"}

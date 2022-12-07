@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--cc9d6bbc-101b-520d-9359-004badbed587", "name": "Jenkins Robot Framework 1.2.3 for Jenkins", "cpe": "cpe:2.3:a:jenkins:robot_framework:1.2.3:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "1.2.3"}

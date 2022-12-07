@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--a53ef0f8-f2ff-58c2-b5e7-91f99859ae1b", "name": "Jenkins Amazon EC2 1.40 for Jenkins", "cpe": "cpe:2.3:a:jenkins:amazon_ec2:1.40:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "1.40"}

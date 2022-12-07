@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--c1ef36ea-ca74-5452-aeaf-9f25050d4b62", "name": "AWS DMS AWS XMS 2.5", "cpe": "cpe:2.3:a:aws-dms:aws_xms:2.5:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "aws-dms", "version": "2.5"}

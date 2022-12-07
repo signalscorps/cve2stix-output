@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--b059e724-f62b-5158-92a8-4e1afb025a15", "name": "Atlassian SAML Single Sign On (SSO) 3.1.5 for Confluence", "cpe": "cpe:2.3:a:atlassian:saml_single_sign_on:3.1.5:*:*:*:*:confluence:*:*", "languages": ["en_US"], "vendor": "atlassian", "version": "3.1.5"}

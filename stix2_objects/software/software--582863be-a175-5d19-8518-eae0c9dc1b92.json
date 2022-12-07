@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--582863be-a175-5d19-8518-eae0c9dc1b92", "name": "Check Point Endpoint Security Clients for Windows", "cpe": "cpe:2.3:a:checkpoint:endpoint_security_clients:-:*:*:*:*:windows:*:*", "languages": ["en_US"], "vendor": "checkpoint", "version": "-"}

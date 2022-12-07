@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--f5234b9d-17c3-525e-972c-9a04c4e832a8", "name": "Neo4j 3.4.0 Release Candidate 02 Enterprise Edition", "cpe": "cpe:2.3:a:neo4j:neo4j:3.4.0:rc02:*:*:enterprise:*:*:*", "languages": ["en_US"], "vendor": "neo4j", "version": "3.4.0"}

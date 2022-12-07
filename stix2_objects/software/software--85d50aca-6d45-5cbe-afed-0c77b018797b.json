@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--85d50aca-6d45-5cbe-afed-0c77b018797b", "name": "NTP 4.2.8 Patch 13", "cpe": "cpe:2.3:a:ntp:ntp:4.2.8:p13:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "ntp", "version": "4.2.8"}

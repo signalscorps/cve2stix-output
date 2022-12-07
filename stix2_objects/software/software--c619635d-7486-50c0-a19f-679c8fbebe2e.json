@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--c619635d-7486-50c0-a19f-679c8fbebe2e", "name": "Neo4j 3.4.0 Alpha 07 Enterprise Edition", "cpe": "cpe:2.3:a:neo4j:neo4j:3.4.0:alpha07:*:*:enterprise:*:*:*", "languages": ["en_US"], "vendor": "neo4j", "version": "3.4.0"}

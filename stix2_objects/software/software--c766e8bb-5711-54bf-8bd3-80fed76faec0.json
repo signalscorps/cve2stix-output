@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--c766e8bb-5711-54bf-8bd3-80fed76faec0", "name": "Jenkins Health Advisor by CloudBees 3.0.1 for Jenkins", "cpe": "cpe:2.3:a:jenkins:health_advisor_by_cloudbees:3.0.1:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "3.0.1"}

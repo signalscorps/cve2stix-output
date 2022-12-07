@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--b8a58108-f349-54b0-88cd-b67658dcafaa", "name": "Twitter secure_headers 3.5.1 for Ruby", "cpe": "cpe:2.3:a:twitter:secure_headers:3.5.1:*:*:*:*:ruby:*:*", "languages": ["en_US"], "vendor": "twitter", "version": "3.5.1"}

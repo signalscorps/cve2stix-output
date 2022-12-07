@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--115cfce5-c5fc-51e7-9ee5-918f717b764a", "name": "Intel Xeon E-2176G Firmware for Windows", "cpe": "cpe:2.3:o:intel:xeon_e-2176g_firmware:-:*:*:*:*:windows:*:*", "languages": ["en_US"], "vendor": "intel", "version": "-"}

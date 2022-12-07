@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--4637ffa8-73f8-5ac2-b312-d1471bfb5c45", "name": "Intel SNMP Subagent Stand-Alone for Windows", "cpe": "cpe:2.3:a:intel:snmp_subagent_stand-alone:-:*:*:*:*:windows:*:*", "languages": ["en_US"], "vendor": "intel", "version": "-"}

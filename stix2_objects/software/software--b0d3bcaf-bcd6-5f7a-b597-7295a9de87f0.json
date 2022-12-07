@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--b0d3bcaf-bcd6-5f7a-b597-7295a9de87f0", "name": "Intel Xeon E-2286M Firmware for Windows", "cpe": "cpe:2.3:o:intel:xeon_e-2286m_firmware:-:*:*:*:*:windows:*:*", "languages": ["en_US"], "vendor": "intel", "version": "-"}

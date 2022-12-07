@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--d680d977-6cef-50cd-956b-6f502b90539f", "name": "Intel Xeon E3-1558L v5 Firmware for Windows", "cpe": "cpe:2.3:o:intel:xeon_e3-1558l_v5_firmware:-:*:*:*:*:windows:*:*", "languages": ["en_US"], "vendor": "intel", "version": "-"}

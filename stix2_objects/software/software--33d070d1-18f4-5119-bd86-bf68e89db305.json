@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--33d070d1-18f4-5119-bd86-bf68e89db305", "name": "OpenID Connect 1.1.0 for Doorkeeper", "cpe": "cpe:2.3:a:openid:openid_connect:1.1.0:*:*:*:*:doorkeeper:*:*", "languages": ["en_US"], "vendor": "openid", "version": "1.1.0"}

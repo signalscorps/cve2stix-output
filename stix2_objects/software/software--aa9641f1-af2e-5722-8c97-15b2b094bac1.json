@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--aa9641f1-af2e-5722-8c97-15b2b094bac1", "name": "Intel Xeon E-2146G Firmware for Windows", "cpe": "cpe:2.3:o:intel:xeon_e-2146g_firmware:-:*:*:*:*:windows:*:*", "languages": ["en_US"], "vendor": "intel", "version": "-"}

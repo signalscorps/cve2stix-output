@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--be3a9dc0-0fd2-51c1-ae07-2bd58ed2b3b4", "name": "Symantec Endpoint Detection and Response (SEDR)", "cpe": "cpe:2.3:a:symantec:endpoint_detection_and_response:-:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "symantec", "version": "-"}

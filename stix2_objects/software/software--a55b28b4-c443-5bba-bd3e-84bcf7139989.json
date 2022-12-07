@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--a55b28b4-c443-5bba-bd3e-84bcf7139989", "name": "WP Spell Check 7.1.15 for WordPress", "cpe": "cpe:2.3:a:wpspellcheck:wpspellcheck:7.1.15:*:*:*:*:wordpress:*:*", "languages": ["en_US"], "vendor": "wpspellcheck", "version": "7.1.15"}

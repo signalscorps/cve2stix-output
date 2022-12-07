@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--9b432cdc-64e2-563a-be0d-64057d4bdde5", "name": "Intel Xeon E-2224 Firmware for Windows", "cpe": "cpe:2.3:o:intel:xeon_e-2224_firmware:-:*:*:*:*:windows:*:*", "languages": ["en_US"], "vendor": "intel", "version": "-"}

@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--1e9c7f1f-6f55-5a9e-8823-b7f82a8f5c1b", "name": "Siemens SIMATIC S7-300 CPU 312 IGM Firmware", "cpe": "cpe:2.3:o:siemens:simatic_s7-300_cpu_312_ifm_firmware:-:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "siemens", "version": "-"}

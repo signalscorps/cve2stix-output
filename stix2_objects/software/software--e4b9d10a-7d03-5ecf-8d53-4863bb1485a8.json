@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--e4b9d10a-7d03-5ecf-8d53-4863bb1485a8", "name": "Intel Xeon E3-1275 v6 Firmware for Windows", "cpe": "cpe:2.3:o:intel:xeon_e3-1275_v6_firmware:-:*:*:*:*:windows:*:*", "languages": ["en_US"], "vendor": "intel", "version": "-"}

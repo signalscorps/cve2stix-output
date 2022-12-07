@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--db4915ac-a9c6-5714-8609-f2939f18ebb1", "name": "Intel Xeon E3-1235L v5 Firmware for Windows", "cpe": "cpe:2.3:o:intel:xeon_e3-1235l_v5_firmware:-:*:*:*:*:windows:*:*", "languages": ["en_US"], "vendor": "intel", "version": "-"}

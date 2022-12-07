@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--2d4324e6-4b99-55c0-8f05-64db4f53e664", "name": "Intel VTune Profiler 2018 Update 1 for Linux", "cpe": "cpe:2.3:a:intel:vtune_profiler:2018:update_1:*:*:*:linux:*:*", "languages": ["en_US"], "vendor": "intel", "version": "2018"}

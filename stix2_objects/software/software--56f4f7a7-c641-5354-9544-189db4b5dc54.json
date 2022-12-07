@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--56f4f7a7-c641-5354-9544-189db4b5dc54", "name": "OpenBSD textproc/isearch", "cpe": "cpe:2.3:a:openbsd:textproc\\/isearch:-:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "openbsd", "version": "-"}
