@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--45c4263a-ef25-5c17-9db7-0015be0b402c", "name": "Jenkins Poll SCM 1.0 for Jenkins", "cpe": "cpe:2.3:a:jenkins:poll_scm:1.0:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "1.0"}

@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--0f60bc4d-0d81-5a5a-a9ae-6235502b87bb", "name": "OpenStack Glance 2014.1.3", "cpe": "cpe:2.3:a:openstack:glance:2014.1.3:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "openstack", "version": "2014.1.3"}

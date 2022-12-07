@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--f1535dcb-2352-5cfd-b041-444fa5c166dd", "name": "VirusTotal YARA 3.7.1", "cpe": "cpe:2.3:a:virustotal:yara:3.7.1:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "virustotal", "version": "3.7.1"}

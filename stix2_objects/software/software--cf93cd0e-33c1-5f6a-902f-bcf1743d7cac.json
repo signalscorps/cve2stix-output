@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--cf93cd0e-33c1-5f6a-902f-bcf1743d7cac", "name": "Cloud Foundry cf-release 147 Hotfixes2", "cpe": "cpe:2.3:a:cloudfoundry:cf-release:147:hotfixes2:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "cloudfoundry", "version": "147"}

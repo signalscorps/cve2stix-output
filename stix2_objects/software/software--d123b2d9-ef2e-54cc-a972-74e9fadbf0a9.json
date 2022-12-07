@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--d123b2d9-ef2e-54cc-a972-74e9fadbf0a9", "name": "Apache Software Foundation CouchDB 2.1.2 Release Candidate 5", "cpe": "cpe:2.3:a:apache:couchdb:2.1.2:rc5:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "apache", "version": "2.1.2"}

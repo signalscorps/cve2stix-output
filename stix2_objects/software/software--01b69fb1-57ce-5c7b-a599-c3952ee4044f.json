@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--01b69fb1-57ce-5c7b-a599-c3952ee4044f", "name": "Cloud Foundry CAPI-release 1.53.0", "cpe": "cpe:2.3:a:cloudfoundry:capi-release:1.53.0:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "cloudfoundry", "version": "1.53.0"}

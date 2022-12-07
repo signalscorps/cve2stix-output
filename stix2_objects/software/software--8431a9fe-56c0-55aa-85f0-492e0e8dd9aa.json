@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--8431a9fe-56c0-55aa-85f0-492e0e8dd9aa", "name": "Apache Traffic Server 8.0.1", "cpe": "cpe:2.3:a:apache:traffic_server:8.0.1:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "apache", "version": "8.0.1"}

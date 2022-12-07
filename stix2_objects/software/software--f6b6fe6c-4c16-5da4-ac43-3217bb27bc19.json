@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--f6b6fe6c-4c16-5da4-ac43-3217bb27bc19", "name": "Jenkins Credentials Binding 1.7 for Jenkins", "cpe": "cpe:2.3:a:jenkins:credentials_binding:1.7:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "1.7"}

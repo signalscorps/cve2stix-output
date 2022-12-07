@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--c22ceb70-6967-59e0-b963-e7f27ca1bf96", "name": "Apache Solr Real-Time 7.x-1.1 for Drupal", "cpe": "cpe:2.3:a:apache_solr_real-time_project:apache_solr_real-time:7.x-1.1:*:*:*:*:drupal:*:*", "languages": ["en_US"], "vendor": "apache_solr_real-time_project", "version": "7.x-1.1"}

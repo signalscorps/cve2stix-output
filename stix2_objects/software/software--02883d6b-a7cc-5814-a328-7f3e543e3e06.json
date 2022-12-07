@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--02883d6b-a7cc-5814-a328-7f3e543e3e06", "name": "Red Hat CEPH-ISCSI-CLI", "cpe": "cpe:2.3:a:redhat:ceph-iscsi-cli:-:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "redhat", "version": "-"}

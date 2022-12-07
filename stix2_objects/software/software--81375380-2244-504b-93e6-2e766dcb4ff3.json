@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--81375380-2244-504b-93e6-2e766dcb4ff3", "name": "memcached 1.4.35", "cpe": "cpe:2.3:a:memcached:memcached:1.4.35:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "memcached", "version": "1.4.35"}

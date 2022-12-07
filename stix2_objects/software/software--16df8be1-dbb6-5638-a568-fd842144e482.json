@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--16df8be1-dbb6-5638-a568-fd842144e482", "name": "Jenkins Pipeline: Input Step 2.6 for Jenkins", "cpe": "cpe:2.3:a:jenkins:pipeline\\:input_step:2.6:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "input_step"}

@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--1d0026c6-0870-5ed0-a474-f69bfeb55fe8", "name": "Jenkins Build-Publisher 1.14 for Jenkins", "cpe": "cpe:2.3:a:jenkins:build-publisher:1.14:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "1.14"}

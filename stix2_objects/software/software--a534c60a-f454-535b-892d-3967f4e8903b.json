@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--a534c60a-f454-535b-892d-3967f4e8903b", "name": "Jenkins Deploy 1.13 for Jenkins", "cpe": "cpe:2.3:a:jenkins:deploy:1.13:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "1.13"}

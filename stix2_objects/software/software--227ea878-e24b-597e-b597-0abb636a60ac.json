@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--227ea878-e24b-597e-b597-0abb636a60ac", "name": "Jenkins Static Analysis Utilities 1.17 for Jenkins", "cpe": "cpe:2.3:a:jenkins:static_analysis_utilities:1.17:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "1.17"}

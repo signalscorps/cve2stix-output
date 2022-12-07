@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--a5b40759-b2f6-542c-8f1f-f937a157e431", "name": "OpenStack Keystone 8.0.0 Release Candidate 2", "cpe": "cpe:2.3:a:openstack:keystone:8.0.0:rc2:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "openstack", "version": "8.0.0"}

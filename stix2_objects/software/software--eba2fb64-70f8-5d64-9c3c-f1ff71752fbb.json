@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--eba2fb64-70f8-5d64-9c3c-f1ff71752fbb", "name": "Apache Qpid 6.0.8 for Java", "cpe": "cpe:2.3:a:apache:qpid:6.0.8:*:*:*:*:java:*:*", "languages": ["en_US"], "vendor": "apache", "version": "6.0.8"}

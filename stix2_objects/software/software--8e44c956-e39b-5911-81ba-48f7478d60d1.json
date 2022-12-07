@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--8e44c956-e39b-5911-81ba-48f7478d60d1", "name": "Jenkins Blue Ocean 1.14.0 for Jenkins", "cpe": "cpe:2.3:a:jenkins:blue_ocean:1.14.0:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "1.14.0"}

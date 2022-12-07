@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--5aaa361d-612a-5cb8-9d7b-720e8d106799", "name": "Elastic Logstash 7.1.0", "cpe": "cpe:2.3:a:elastic:logstash:7.1.0:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "elastic", "version": "7.1.0"}

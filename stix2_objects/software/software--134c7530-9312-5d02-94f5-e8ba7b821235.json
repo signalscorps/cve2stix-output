@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--134c7530-9312-5d02-94f5-e8ba7b821235", "name": "Jenkins EC2 1.31 for Jenkins", "cpe": "cpe:2.3:a:jenkins:ec2:1.31:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "1.31"}

@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--4e01967a-cf59-5c72-9f7d-bac10805ede0", "name": "Oracle JDBC 12.1.0.1", "cpe": "cpe:2.3:a:oracle:jdbc:12.1.0.1:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "oracle", "version": "12.1.0.1"}

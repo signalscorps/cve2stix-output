@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--cb21b1f8-1f93-5f25-b9e7-9dc7066bbd7e", "name": "SQLAlchemy 0.4.0", "cpe": "cpe:2.3:a:sqlalchemy:sqlalchemy:0.4.0:-:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "sqlalchemy", "version": "0.4.0"}

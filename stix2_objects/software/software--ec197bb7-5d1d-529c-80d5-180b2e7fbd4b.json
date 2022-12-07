@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--ec197bb7-5d1d-529c-80d5-180b2e7fbd4b", "name": "OpenStack Tripleo-common", "cpe": "cpe:2.3:a:openstack:tripleo-common:-:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "openstack", "version": "-"}

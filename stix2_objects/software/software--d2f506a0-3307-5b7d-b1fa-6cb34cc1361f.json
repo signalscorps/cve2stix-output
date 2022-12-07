@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--d2f506a0-3307-5b7d-b1fa-6cb34cc1361f", "name": "Cloudera Data Science Workbench 1.0.0", "cpe": "cpe:2.3:a:cloudera:data_science_workbench:1.0.0:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "cloudera", "version": "1.0.0"}

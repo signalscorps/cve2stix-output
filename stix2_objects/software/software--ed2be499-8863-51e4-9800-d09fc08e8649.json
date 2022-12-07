@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--ed2be499-8863-51e4-9800-d09fc08e8649", "name": "Cloud Foundry cf-release 101", "cpe": "cpe:2.3:a:cloudfoundry:cf-release:101:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "cloudfoundry", "version": "101"}

@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--f900ce58-e593-5e25-b7c9-7250de8a0b78", "name": "Elastic Elasticsearch 6.0.0 Release Candidate 1", "cpe": "cpe:2.3:a:elastic:elasticsearch:6.0.0:rc1:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "elastic", "version": "6.0.0"}

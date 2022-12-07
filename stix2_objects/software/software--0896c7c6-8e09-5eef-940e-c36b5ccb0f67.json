@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--0896c7c6-8e09-5eef-940e-c36b5ccb0f67", "name": "F5 BIG-IP Local Traffic Manager (LTM) 11.5.9", "cpe": "cpe:2.3:a:f5:big-ip_local_traffic_manager:11.5.9:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "f5", "version": "11.5.9"}

@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--6ef25fcb-f100-5f3f-bb2e-21bc4f9c2693", "name": "Open vSwitch 1.9.0", "cpe": "cpe:2.3:a:openvswitch:openvswitch:1.9.0:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "openvswitch", "version": "1.9.0"}

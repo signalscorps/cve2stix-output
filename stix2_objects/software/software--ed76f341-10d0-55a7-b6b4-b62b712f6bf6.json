@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--ed76f341-10d0-55a7-b6b4-b62b712f6bf6", "name": "Oracle Database Server 18", "cpe": "cpe:2.3:a:oracle:database_server:18:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "oracle", "version": "18"}

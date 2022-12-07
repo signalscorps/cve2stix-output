@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--7561c2ee-c918-5a84-a7e7-beb5b34c4933", "name": "Cloudfoundry Java Buildpack 4.19", "cpe": "cpe:2.3:a:cloudfoundry:java_buildpack:4.19:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "cloudfoundry", "version": "4.19"}

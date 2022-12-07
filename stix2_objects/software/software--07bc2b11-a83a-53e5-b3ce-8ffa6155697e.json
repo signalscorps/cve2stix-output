@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--07bc2b11-a83a-53e5-b3ce-8ffa6155697e", "name": "Jenkins Pipeline Supporting APIs 2.16 for Jenkins", "cpe": "cpe:2.3:a:jenkins:pipeline_supporting_apis:2.16:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "2.16"}

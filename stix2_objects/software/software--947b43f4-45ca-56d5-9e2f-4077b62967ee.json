@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--947b43f4-45ca-56d5-9e2f-4077b62967ee", "name": "Atlassian HipChat 0.1.9 for Jenkins", "cpe": "cpe:2.3:a:atlassian:hipchat:0.1.9:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "atlassian", "version": "0.1.9"}

@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--ad1c62f6-ee0a-5ac3-9f6b-3d5a2d78102a", "name": "Cloud Foundry Garden-runC 0.9.2", "cpe": "cpe:2.3:a:cloudfoundry:garden-runc:0.9.2:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "cloudfoundry", "version": "0.9.2"}

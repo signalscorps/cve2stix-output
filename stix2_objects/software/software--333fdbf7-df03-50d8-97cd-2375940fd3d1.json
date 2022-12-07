@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--333fdbf7-df03-50d8-97cd-2375940fd3d1", "name": "OpenBSD LibreSSL 2.0.1", "cpe": "cpe:2.3:a:openbsd:libressl:2.0.1:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "openbsd", "version": "2.0.1"}

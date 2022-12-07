@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--0c206161-92d9-597a-947a-4e5ae860354c", "name": "Pivotal Software Gemfire For Pivotal Cloud Foundry 1.6.2", "cpe": "cpe:2.3:a:pivotal_software:gemfire:1.6.2:*:*:*:*:pivotal_cloud_foundry:*:*", "languages": ["en_US"], "vendor": "pivotal_software", "version": "1.6.2"}

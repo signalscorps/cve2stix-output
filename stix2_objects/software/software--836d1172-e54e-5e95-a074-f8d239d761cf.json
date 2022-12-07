@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--836d1172-e54e-5e95-a074-f8d239d761cf", "name": "Cloud Foundry CF-MySQL-Release 36.14.0", "cpe": "cpe:2.3:a:cloudfoundry:cf-mysql-release:36.14.0:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "cloudfoundry", "version": "36.14.0"}

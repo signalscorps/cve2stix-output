@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--6fe659a1-1e6d-503f-af8f-bc3c51f0a87b", "name": "Eficode InfluxDb 1.8.1 for Jenkins", "cpe": "cpe:2.3:a:eficode:influxdb:1.8.1:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "eficode", "version": "1.8.1"}

@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--a28cbda3-d383-5af0-ac86-0e7a116b4964", "name": "HashiCorp Packer 1.2.1", "cpe": "cpe:2.3:a:hashicorp:packer:1.2.1:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "hashicorp", "version": "1.2.1"}

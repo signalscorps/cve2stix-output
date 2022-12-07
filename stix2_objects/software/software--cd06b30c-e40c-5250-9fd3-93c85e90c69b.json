@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--cd06b30c-e40c-5250-9fd3-93c85e90c69b", "name": "PHP 5.6.9 Release Candidate 1", "cpe": "cpe:2.3:a:php:php:5.6.9:rc1:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "php", "version": "5.6.9"}

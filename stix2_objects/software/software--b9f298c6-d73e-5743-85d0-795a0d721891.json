@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--b9f298c6-d73e-5743-85d0-795a0d721891", "name": "Jenkins ElectricFlow 1.1.1 for Jenkins", "cpe": "cpe:2.3:a:jenkins:electricflow:1.1.1:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "1.1.1"}

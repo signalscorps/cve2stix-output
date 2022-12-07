@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--5b0f4869-3478-5d18-82ed-8dee80777776", "name": "Jenkins Pluggable Authentication Module (PAM Authentication) 1.4 for Jenkins", "cpe": "cpe:2.3:a:jenkins:pluggable_authentication_module:1.4:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "1.4"}

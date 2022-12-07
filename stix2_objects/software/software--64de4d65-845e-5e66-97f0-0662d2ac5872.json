@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--64de4d65-845e-5e66-97f0-0662d2ac5872", "name": "Sequelizejs Sequelize 3.30.0 for Node.js", "cpe": "cpe:2.3:a:sequelizejs:sequelize:3.30.0:*:*:*:*:node.js:*:*", "languages": ["en_US"], "vendor": "sequelizejs", "version": "3.30.0"}

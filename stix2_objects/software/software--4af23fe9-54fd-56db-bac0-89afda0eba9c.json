@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--4af23fe9-54fd-56db-bac0-89afda0eba9c", "name": "NTP 4.2.8 Patch 1-Beta2", "cpe": "cpe:2.3:a:ntp:ntp:4.2.8:p1-beta2:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "ntp", "version": "4.2.8"}

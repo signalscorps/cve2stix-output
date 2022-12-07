@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--8dae3cf3-bc50-5c78-8a59-63b8de4b6e50", "name": "Grafana piechart-panel 1.2.0 for Grafana", "cpe": "cpe:2.3:a:grafana:piechart-panel:1.2.0:*:*:*:*:grafana:*:*", "languages": ["en_US"], "vendor": "grafana", "version": "1.2.0"}

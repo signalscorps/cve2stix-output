@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--b15bf460-ab03-5610-b410-439399a2ab1c", "name": "Apache Zookeeper 3.4.11 Release Candidate 1", "cpe": "cpe:2.3:a:apache:zookeeper:3.4.11:rc1:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "apache", "version": "3.4.11"}

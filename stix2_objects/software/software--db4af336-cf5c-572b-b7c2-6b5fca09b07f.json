@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--db4af336-cf5c-572b-b7c2-6b5fca09b07f", "name": "Events Manager Project Events Manager 2.0 Release Candidate 1 for Wordpress", "cpe": "cpe:2.3:a:wp-events-plugin:events_manager:2.0:rc1:*:*:*:wordpress:*:*", "languages": ["en_US"], "vendor": "wp-events-plugin", "version": "2.0"}

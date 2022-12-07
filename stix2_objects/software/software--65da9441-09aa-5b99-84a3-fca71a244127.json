@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--65da9441-09aa-5b99-84a3-fca71a244127", "name": "Jenkins Bugzilla for Jenkins", "cpe": "cpe:2.3:a:jenkins:bugzilla:-:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "-"}

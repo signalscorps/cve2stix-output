@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--24642895-478d-5e53-a9fd-aece2c6ca996", "name": "Fedora SSSD - System Security Services Daemon 2.1", "cpe": "cpe:2.3:a:fedoraproject:sssd:2.1:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "fedoraproject", "version": "2.1"}

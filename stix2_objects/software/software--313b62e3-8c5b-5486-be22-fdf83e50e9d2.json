@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--313b62e3-8c5b-5486-be22-fdf83e50e9d2", "name": "Elastic Winlogbeat 6.4.1", "cpe": "cpe:2.3:a:elastic:winlogbeat:6.4.1:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "elastic", "version": "6.4.1"}

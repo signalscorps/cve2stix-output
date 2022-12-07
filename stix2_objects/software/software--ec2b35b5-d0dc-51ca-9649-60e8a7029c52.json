@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--ec2b35b5-d0dc-51ca-9649-60e8a7029c52", "name": "Laravel 4.2.2", "cpe": "cpe:2.3:a:laravel:laravel:4.2.2:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "laravel", "version": "4.2.2"}

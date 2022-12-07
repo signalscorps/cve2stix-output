@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--8124e256-a42c-57ca-8f17-33692cd7bc77", "name": "HashiCorp Vagrant VMware Fusion 4.0.7 for Vagrant", "cpe": "cpe:2.3:a:hashicorp:vagrant_vmware_fusion:4.0.7:*:*:*:*:vagrant:*:*", "languages": ["en_US"], "vendor": "hashicorp", "version": "4.0.7"}

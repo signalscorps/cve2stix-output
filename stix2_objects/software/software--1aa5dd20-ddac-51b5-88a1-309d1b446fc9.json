@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--1aa5dd20-ddac-51b5-88a1-309d1b446fc9", "name": "Oracle MySQL Cluster 7.4.4", "cpe": "cpe:2.3:a:oracle:mysql_cluster:7.4.4:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "oracle", "version": "7.4.4"}

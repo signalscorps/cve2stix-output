@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--eded3d48-23b8-51a0-95aa-6132c8b63a2b", "name": "mqtt-packet Project mqtt-packet 5.2.1 for Node.js", "cpe": "cpe:2.3:a:mqtt-packet_project:mqtt-packet:5.2.1:*:*:*:*:node.js:*:*", "languages": ["en_US"], "vendor": "mqtt-packet_project", "version": "5.2.1"}

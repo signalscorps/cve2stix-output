@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--7ac596d7-3d90-5228-9b04-5b7f72666430", "name": "RPM Package Manager 4.14.1", "cpe": "cpe:2.3:a:rpm:rpm:4.14.1:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "rpm", "version": "4.14.1"}

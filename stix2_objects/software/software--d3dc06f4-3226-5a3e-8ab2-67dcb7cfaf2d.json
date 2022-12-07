@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--d3dc06f4-3226-5a3e-8ab2-67dcb7cfaf2d", "name": "Jenkins Pipeline Nodes And Processes 2.19 for Jenkins", "cpe": "cpe:2.3:a:jenkins:pipeline_nodes_and_processes:2.19:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "2.19"}

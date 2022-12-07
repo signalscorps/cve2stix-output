@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--c4df820b-5a68-50e4-b955-f8804b5a6f96", "name": "SQLAlchemy 0.4.7 Patch1", "cpe": "cpe:2.3:a:sqlalchemy:sqlalchemy:0.4.7:patch1:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "sqlalchemy", "version": "0.4.7"}

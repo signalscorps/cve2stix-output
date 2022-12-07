@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--3eb2f363-d50f-5cfd-949b-330449744b8f", "name": "Red Hat Enterprise Linux Extended Update Support (EUS) 7.6", "cpe": "cpe:2.3:o:redhat:enterprise_linux_eus:7.6:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "redhat", "version": "7.6"}

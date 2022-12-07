@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--4b920ed6-ef8c-5afe-ad59-f6866e4ff9aa", "name": "Numpy 1.12.1", "cpe": "cpe:2.3:a:numpy:numpy:1.12.1:-:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "numpy", "version": "1.12.1"}
