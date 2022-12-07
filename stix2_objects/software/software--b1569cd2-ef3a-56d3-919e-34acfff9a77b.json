@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--b1569cd2-ef3a-56d3-919e-34acfff9a77b", "name": "Jenkins M2 Release 0.3.1 for Jenkins", "cpe": "cpe:2.3:a:jenkins:m2_release:0.3.1:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "0.3.1"}

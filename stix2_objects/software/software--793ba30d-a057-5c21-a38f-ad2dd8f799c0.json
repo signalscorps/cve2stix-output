@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--793ba30d-a057-5c21-a38f-ad2dd8f799c0", "name": "Jenkins GitLab OAuth 1.0.8 for Jenkins", "cpe": "cpe:2.3:a:jenkins:gitlab_oauth:1.0.8:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "1.0.8"}

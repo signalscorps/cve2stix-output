@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--d2c8f810-a349-581d-b2ec-78b87082a2d3", "name": "SAP HANA Database 2.00", "cpe": "cpe:2.3:a:sap:hana_database:2.00:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "sap", "version": "2.00"}

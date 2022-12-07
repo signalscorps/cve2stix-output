@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--3bde0968-9e64-5bde-90f0-4aacf50635c7", "name": "Auth0 jsonwebtoken 7.2.1 for Node.js", "cpe": "cpe:2.3:a:auth0:jsonwebtoken:7.2.1:*:*:*:*:node.js:*:*", "languages": ["en_US"], "vendor": "auth0", "version": "7.2.1"}

@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--740ab393-217d-5522-9a5b-a44dce3bd7a4", "name": "Cloud Foundry Container Runtime (CFCR) 0.0.3", "cpe": "cpe:2.3:a:cloudfoundry:container_runtime:0.0.3:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "cloudfoundry", "version": "0.0.3"}

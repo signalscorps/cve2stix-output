@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--4e79eaec-3913-57ea-89a2-9e5e97c8421b", "name": "Jenkins Wall Display for Jenkins", "cpe": "cpe:2.3:a:jenkins:wall_display:-:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "-"}

@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--983e06bc-4030-530c-b44f-b429d9026159", "name": "Golang Go 1.11.11", "cpe": "cpe:2.3:a:golang:go:1.11.11:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "golang", "version": "1.11.11"}

@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--0c450cce-3da4-58ab-af53-b78297664f77", "name": "Automattic Akismet for WordPress", "cpe": "cpe:2.3:a:automattic:akismet:-:*:*:*:*:wordpress:*:*", "languages": ["en_US"], "vendor": "automattic", "version": "-"}

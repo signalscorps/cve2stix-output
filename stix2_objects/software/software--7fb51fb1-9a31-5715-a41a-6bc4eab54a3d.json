@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--7fb51fb1-9a31-5715-a41a-6bc4eab54a3d", "name": "Openstack Ironic-inspector 8.2.0", "cpe": "cpe:2.3:a:openstack:ironic-inspector:8.2.0:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "openstack", "version": "8.2.0"}

@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--1dd45ebf-8e41-5eaa-be3d-9f419b4c51f1", "name": "NLTK 3.2.3", "cpe": "cpe:2.3:a:nltk:nltk:3.2.3:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "nltk", "version": "3.2.3"}

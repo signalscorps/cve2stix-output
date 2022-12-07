@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--d2f962f2-7f44-5648-8dd8-cf17a728a862", "name": "LibTomCrypt 1.09", "cpe": "cpe:2.3:a:libtom:libtomcrypt:1.09:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "libtom", "version": "1.09"}

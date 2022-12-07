@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--1bd0fa23-a315-572f-8e95-4f5f0475625c", "name": "OneLogin SAML SSO 2.4.0 for WordPress", "cpe": "cpe:2.3:a:onelogin:onelogin_saml_sso:2.4.0:*:*:*:*:wordpress:*:*", "languages": ["en_US"], "vendor": "onelogin", "version": "2.4.0"}

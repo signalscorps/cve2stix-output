@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--88193ee8-e96d-575d-8594-572c20685e11", "name": "Prometheus 1.8.0", "cpe": "cpe:2.3:a:prometheus:prometheus:1.8.0:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "prometheus", "version": "1.8.0"}

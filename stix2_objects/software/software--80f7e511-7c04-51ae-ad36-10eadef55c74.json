@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--80f7e511-7c04-51ae-ad36-10eadef55c74", "name": "Jenkins Build Pipeline 1.5.0 for Jenkins", "cpe": "cpe:2.3:a:jenkins:build_pipeline:1.5.0:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "1.5.0"}

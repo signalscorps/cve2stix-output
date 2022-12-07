@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--656681a8-55c3-5088-a754-7f1c4b2c1903", "name": "NVIDIA GPU Driver 337", "cpe": "cpe:2.3:a:nvidia:gpu_driver:337:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "nvidia", "version": "337"}

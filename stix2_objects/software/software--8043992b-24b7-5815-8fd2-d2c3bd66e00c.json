@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--8043992b-24b7-5815-8fd2-d2c3bd66e00c", "name": "NVIDIA GPU Driver 343", "cpe": "cpe:2.3:a:nvidia:gpu_driver:343:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "nvidia", "version": "343"}

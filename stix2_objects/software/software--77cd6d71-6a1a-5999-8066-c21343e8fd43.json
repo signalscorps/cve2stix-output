@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--77cd6d71-6a1a-5999-8066-c21343e8fd43", "name": "Docker 17.06.0 Release Candidate 4 Community Edition", "cpe": "cpe:2.3:a:docker:docker:17.06.0:rc4:*:*:community:*:*:*", "languages": ["en_US"], "vendor": "docker", "version": "17.06.0"}

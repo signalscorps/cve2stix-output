@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--52a93b07-42cf-5124-8619-f6603142a1a0", "name": "OWASP Dependency-Check 3.3.0", "cpe": "cpe:2.3:a:owasp:dependency-check:3.3.0:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "owasp", "version": "3.3.0"}

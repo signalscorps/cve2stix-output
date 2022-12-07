@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--a1fe83f3-b302-5106-a057-35fe87b848f3", "name": "Docker Credential Helpers 0.3.0", "cpe": "cpe:2.3:a:docker:credential_helpers:0.3.0:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "docker", "version": "0.3.0"}

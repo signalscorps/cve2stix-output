@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--7aaa77b9-bfc0-54da-a98f-e90e912cc420", "name": "Jenkins File System SCM 1.8 for Jenkins", "cpe": "cpe:2.3:a:jenkins:file_system_scm:1.8:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "1.8"}

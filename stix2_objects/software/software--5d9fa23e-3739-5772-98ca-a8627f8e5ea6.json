@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--5d9fa23e-3739-5772-98ca-a8627f8e5ea6", "name": "Fastify 1.14.1 for Node.js", "cpe": "cpe:2.3:a:fastify:fastify:1.14.1:*:*:*:*:node.js:*:*", "languages": ["en_US"], "vendor": "fastify", "version": "1.14.1"}

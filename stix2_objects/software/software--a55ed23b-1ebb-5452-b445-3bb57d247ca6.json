@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--a55ed23b-1ebb-5452-b445-3bb57d247ca6", "name": "NVIDIA GPU Driver 352", "cpe": "cpe:2.3:a:nvidia:gpu_driver:352:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "nvidia", "version": "352"}

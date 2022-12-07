@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--386efe96-f105-5894-bd89-c4ab381177a3", "name": "MySQL Project MySQL 2.4.3 for Node.js", "cpe": "cpe:2.3:a:mysql_project:mysql:2.4.3:*:*:*:*:node.js:*:*", "languages": ["en_US"], "vendor": "mysql_project", "version": "2.4.3"}

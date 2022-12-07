@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--3850c560-ae18-58b2-a152-84b7e96fd8d8", "name": "Cloud Foundry Command Line Interface (CLI) 6.29.2", "cpe": "cpe:2.3:a:cloudfoundry:command_line_interface:6.29.2:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "cloudfoundry", "version": "6.29.2"}

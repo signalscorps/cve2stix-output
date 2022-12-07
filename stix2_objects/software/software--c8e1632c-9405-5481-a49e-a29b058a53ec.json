@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--c8e1632c-9405-5481-a49e-a29b058a53ec", "name": "Jenkins JClouds 2.12 for Jenkins", "cpe": "cpe:2.3:a:jenkins:jclouds:2.12:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "2.12"}

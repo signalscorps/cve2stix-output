@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--d5e71cdf-5270-5c3f-bf2b-ce626aa5daed", "name": "OWASP Dependency-Check 5.0.0 Milestone 3", "cpe": "cpe:2.3:a:owasp:dependency-check:5.0.0:milestone3:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "owasp", "version": "5.0.0"}

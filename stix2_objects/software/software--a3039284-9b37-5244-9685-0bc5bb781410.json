@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--a3039284-9b37-5244-9685-0bc5bb781410", "name": "Jenkins Splunk 1.5.3 for Jenkins", "cpe": "cpe:2.3:a:jenkins:splunk:1.5.3:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "1.5.3"}

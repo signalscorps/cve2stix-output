@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--27d64782-5537-5f4f-b723-24b53e83a465", "name": "Interactive Brokers IB API 0.1.10 for Node.js", "cpe": "cpe:2.3:a:interactivebrokers:ibapi:0.1.10:*:*:*:*:node.js:*:*", "languages": ["en_US"], "vendor": "interactivebrokers", "version": "0.1.10"}

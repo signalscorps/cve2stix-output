@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--cb6c8304-cd31-5bb8-ae75-3b0de905cb08", "name": "SonarSource SonarQube 2.5", "cpe": "cpe:2.3:a:sonarsource:sonarqube:2.5:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "sonarsource", "version": "2.5"}

@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--88b0a76f-76c3-570e-8a30-4375ebfe8b13", "name": "NVIDIA GPU Driver 334.21", "cpe": "cpe:2.3:a:nvidia:gpu_driver:334.21:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "nvidia", "version": "334.21"}

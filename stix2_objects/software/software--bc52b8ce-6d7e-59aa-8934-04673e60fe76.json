@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--bc52b8ce-6d7e-59aa-8934-04673e60fe76", "name": "Jenkins Pipeline: Shared Groovy Libraries for Jenkins", "cpe": "cpe:2.3:a:jenkins:pipeline\\:shared_groovy_libraries:-:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "shared_groovy_libraries"}

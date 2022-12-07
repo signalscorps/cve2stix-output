@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--8382b027-2b54-59ca-bb23-9d884f8804e3", "name": "Docker 18.03.0 Release Candidate 3 Community Edition", "cpe": "cpe:2.3:a:docker:docker:18.03.0:rc3:*:*:community:*:*:*", "languages": ["en_US"], "vendor": "docker", "version": "18.03.0"}

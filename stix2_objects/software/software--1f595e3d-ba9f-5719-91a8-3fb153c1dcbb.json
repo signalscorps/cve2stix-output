@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--1f595e3d-ba9f-5719-91a8-3fb153c1dcbb", "name": "Gunicorn 0.17.1", "cpe": "cpe:2.3:a:gunicorn:gunicorn:0.17.1:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "gunicorn", "version": "0.17.1"}

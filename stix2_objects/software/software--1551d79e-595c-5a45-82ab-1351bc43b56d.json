@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--1551d79e-595c-5a45-82ab-1351bc43b56d", "name": "MongoDB 3.4.18", "cpe": "cpe:2.3:a:mongodb:mongodb:3.4.18:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "mongodb", "version": "3.4.18"}

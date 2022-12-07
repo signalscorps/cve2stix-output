@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--231abaaa-fbf8-5767-ae8f-fb0e72fffc7f", "name": "Jenkins VMware Lab Manager Slaves 0.2.6 for Jenkins", "cpe": "cpe:2.3:a:jenkins:vmware_lab_manager_slaves:0.2.6:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "0.2.6"}

@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--5e699264-9b6b-5548-a8fa-ead158880179", "name": "NVIDIA GPU Driver 349", "cpe": "cpe:2.3:a:nvidia:gpu_driver:349:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "nvidia", "version": "349"}

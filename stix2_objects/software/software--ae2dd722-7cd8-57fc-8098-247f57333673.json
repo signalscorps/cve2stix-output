@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--ae2dd722-7cd8-57fc-8098-247f57333673", "name": "Jenkins PegDown Formatter 1.1 for Jenkins", "cpe": "cpe:2.3:a:jenkins:pegdown_formatter:1.1:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "1.1"}

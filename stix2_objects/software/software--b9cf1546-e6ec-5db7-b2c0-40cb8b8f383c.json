@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--b9cf1546-e6ec-5db7-b2c0-40cb8b8f383c", "name": "OmniAuth 1.4.2 for Ruby", "cpe": "cpe:2.3:a:omniauth:omniauth:1.4.2:*:*:*:*:ruby:*:*", "languages": ["en_US"], "vendor": "omniauth", "version": "1.4.2"}

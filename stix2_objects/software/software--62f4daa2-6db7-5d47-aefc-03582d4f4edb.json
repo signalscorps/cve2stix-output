@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--62f4daa2-6db7-5d47-aefc-03582d4f4edb", "name": "OpenStack Ceilometer 2013.2 Release Candidate 2", "cpe": "cpe:2.3:a:openstack:ceilometer:2013.2:rc2:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "openstack", "version": "2013.2"}

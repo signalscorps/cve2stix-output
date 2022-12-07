@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--0d88028d-33ae-5ba6-8b60-7ef207c902f1", "name": "Elastic apm-agent-ruby 2.1.0 for Ruby", "cpe": "cpe:2.3:a:elastic:apm-agent-ruby:2.1.0:*:*:*:*:ruby:*:*", "languages": ["en_US"], "vendor": "elastic", "version": "2.1.0"}

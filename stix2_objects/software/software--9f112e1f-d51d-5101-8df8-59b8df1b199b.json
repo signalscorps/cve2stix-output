@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--9f112e1f-d51d-5101-8df8-59b8df1b199b", "name": "Socket.IO 0.8.2 for Node.js", "cpe": "cpe:2.3:a:socket:socket.io:0.8.2:*:*:*:*:node.js:*:*", "languages": ["en_US"], "vendor": "socket", "version": "0.8.2"}

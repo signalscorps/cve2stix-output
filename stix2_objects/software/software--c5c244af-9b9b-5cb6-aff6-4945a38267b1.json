@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--c5c244af-9b9b-5cb6-aff6-4945a38267b1", "name": "NVIDIA GPU Driver 337.25", "cpe": "cpe:2.3:a:nvidia:gpu_driver:337.25:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "nvidia", "version": "337.25"}

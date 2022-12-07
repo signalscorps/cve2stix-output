@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--8f503f09-560f-55c9-930f-50f66f24664e", "name": "Jenkins Mask Passwords 2.8 for Jenkins", "cpe": "cpe:2.3:a:jenkins:mask_passwords:2.8:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "2.8"}

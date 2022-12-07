@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--9dce52da-e8e5-543d-bd33-9d28333bc82c", "name": "Jenkins Codefresh Integration 1.6 for Jenkins", "cpe": "cpe:2.3:a:jenkins:codefresh_integration:1.6:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "1.6"}

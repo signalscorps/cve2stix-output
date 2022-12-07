@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--cc6cd97d-80b5-5dad-8ba2-2ef73b2a8e1c", "name": "Hasura GraphQL Engine", "cpe": "cpe:2.3:a:hasura:graphql_engine:-:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "hasura", "version": "-"}

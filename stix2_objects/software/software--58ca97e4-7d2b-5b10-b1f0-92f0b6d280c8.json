@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--58ca97e4-7d2b-5b10-b1f0-92f0b6d280c8", "name": "redis-srvr Project redis-srvr 2.8.17 Beta 5 for Node.js", "cpe": "cpe:2.3:a:redis-srvr_project:redis-srvr:2.8.17:beta5:*:*:*:node.js:*:*", "languages": ["en_US"], "vendor": "redis-srvr_project", "version": "2.8.17"}

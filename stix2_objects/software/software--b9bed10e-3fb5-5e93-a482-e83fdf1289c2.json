@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--b9bed10e-3fb5-5e93-a482-e83fdf1289c2", "name": "MemCachier memjs 0.1.0 for Node.js", "cpe": "cpe:2.3:a:memcachier:memjs:0.1.0:*:*:*:*:node.js:*:*", "languages": ["en_US"], "vendor": "memcachier", "version": "0.1.0"}
