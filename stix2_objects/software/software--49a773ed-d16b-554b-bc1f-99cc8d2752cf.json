@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--49a773ed-d16b-554b-bc1f-99cc8d2752cf", "name": "Jenkins Google Compute Engine 3.1.1 for Jenkins", "cpe": "cpe:2.3:a:jenkins:google_compute_engine:3.1.1:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "3.1.1"}

@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--7e4f364a-2236-562d-b89b-9b5a6c99ee86", "name": "Cloud Foundry cf-deployment 12.8.0", "cpe": "cpe:2.3:a:cloudfoundry:cf-deployment:12.8.0:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "cloudfoundry", "version": "12.8.0"}

@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--5db52f2c-0c6f-592d-ba57-3095406a1ad8", "name": "Micro Focus Accurev 0.4 for Jenkins", "cpe": "cpe:2.3:a:microfocus:accurev:0.4:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "microfocus", "version": "0.4"}

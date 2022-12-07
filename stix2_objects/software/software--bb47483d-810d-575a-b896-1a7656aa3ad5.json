@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--bb47483d-810d-575a-b896-1a7656aa3ad5", "name": "Phusion Passenger 4.0.0 Beta 2 for Ruby", "cpe": "cpe:2.3:a:phusion:passenger:4.0.0:beta2:*:*:*:ruby:*:*", "languages": ["en_US"], "vendor": "phusion", "version": "4.0.0"}

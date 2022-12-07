@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--976892de-7f69-532a-b325-31ec7de79f5e", "name": "VMware vSphere ESXi 6.0 Beta", "cpe": "cpe:2.3:o:vmware:vsphere_esxi:6.0:beta:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "vmware", "version": "6.0"}

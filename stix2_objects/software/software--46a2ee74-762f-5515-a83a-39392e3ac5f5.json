@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--46a2ee74-762f-5515-a83a-39392e3ac5f5", "name": "Jenkins Maven Artifact ChoiceListProvider (Nexus) 1.0.2 for Jenkins", "cpe": "cpe:2.3:a:jenkins:maven_artifact_choicelistprovider_\\(nexus\\):1.0.2:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "1.0.2"}

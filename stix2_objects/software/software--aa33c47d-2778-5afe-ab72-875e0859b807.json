@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--aa33c47d-2778-5afe-ab72-875e0859b807", "name": "Cloud Foundry NFS volume release 1.6.0", "cpe": "cpe:2.3:a:cloudfoundry:nfs_volume_release:1.6.0:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "cloudfoundry", "version": "1.6.0"}

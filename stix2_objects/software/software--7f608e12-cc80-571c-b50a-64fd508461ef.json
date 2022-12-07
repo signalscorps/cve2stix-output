@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--7f608e12-cc80-571c-b50a-64fd508461ef", "name": "HashiCorp Vault 1.0.0 Beta 2", "cpe": "cpe:2.3:a:hashicorp:vault:1.0.0:beta2:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "hashicorp", "version": "1.0.0"}

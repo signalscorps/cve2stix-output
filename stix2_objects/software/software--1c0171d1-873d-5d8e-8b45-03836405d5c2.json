@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--1c0171d1-873d-5d8e-8b45-03836405d5c2", "name": "Opendev Octavia 0.9.2 for OpenStack", "cpe": "cpe:2.3:a:opendev:octavia:0.9.2:*:*:*:*:openstack:*:*", "languages": ["en_US"], "vendor": "opendev", "version": "0.9.2"}

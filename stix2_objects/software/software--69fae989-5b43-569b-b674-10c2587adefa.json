@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--69fae989-5b43-569b-b674-10c2587adefa", "name": "VMware vSphere ESXi 6.7 Update 1", "cpe": "cpe:2.3:o:vmware:vsphere_esxi:6.7:update_1:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "vmware", "version": "6.7"}

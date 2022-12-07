@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--f65b3042-60d7-52d2-9c2c-04b5c74aa68b", "name": "Jenkins Support Core for Jenkins", "cpe": "cpe:2.3:a:jenkins:support_core:-:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "-"}

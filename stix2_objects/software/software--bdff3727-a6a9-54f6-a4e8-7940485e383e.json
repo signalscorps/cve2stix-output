@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--bdff3727-a6a9-54f6-a4e8-7940485e383e", "name": "Red Hat oVirt Engine 3.4.2 Release Candidate 1", "cpe": "cpe:2.3:a:redhat:ovirt-engine:3.4.2:rc1:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "redhat", "version": "3.4.2"}

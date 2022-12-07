@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--b85f2a52-f515-5668-ad9f-0dfb75119fb5", "name": "Red Hat Ceph Storage 3.3", "cpe": "cpe:2.3:a:redhat:ceph_storage:3.3:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "redhat", "version": "3.3"}

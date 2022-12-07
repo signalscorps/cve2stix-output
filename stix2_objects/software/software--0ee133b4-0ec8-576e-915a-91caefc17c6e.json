@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--0ee133b4-0ec8-576e-915a-91caefc17c6e", "name": "Jenkins Git Changelog 1.52 for Jenkins", "cpe": "cpe:2.3:a:jenkins:git_changelog:1.52:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "1.52"}

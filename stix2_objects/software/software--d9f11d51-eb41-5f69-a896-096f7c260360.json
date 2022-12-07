@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--d9f11d51-eb41-5f69-a896-096f7c260360", "name": "NVIDIA GPU Driver 368.69", "cpe": "cpe:2.3:a:nvidia:gpu_driver:368.69:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "nvidia", "version": "368.69"}

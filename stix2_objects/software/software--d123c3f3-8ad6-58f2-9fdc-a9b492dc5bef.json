@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--d123c3f3-8ad6-58f2-9fdc-a9b492dc5bef", "name": "PCRE 4.4", "cpe": "cpe:2.3:a:pcre:pcre:4.4:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "pcre", "version": "4.4"}

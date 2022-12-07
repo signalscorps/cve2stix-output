@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--bf63c316-4c05-505d-bb35-ebfd24edf7c4", "name": "Simple Ledger slpjs 0.11.4 for Node.js", "cpe": "cpe:2.3:a:simpleledger:slpjs:0.11.4:*:*:*:*:node.js:*:*", "languages": ["en_US"], "vendor": "simpleledger", "version": "0.11.4"}

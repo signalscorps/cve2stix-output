@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--a2b1d170-8914-5f3c-8cae-72cb71beb4c6", "name": "SAP Application Server Java 7.3", "cpe": "cpe:2.3:a:sap:application_server_java:7.3:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "sap", "version": "7.3"}

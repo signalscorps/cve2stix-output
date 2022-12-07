@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--b5c805bc-e07c-5625-b7ea-f763d9c896e4", "name": "Auth0 passport-wsfed-saml2 3.0.5", "cpe": "cpe:2.3:a:auth0:passport-wsfed-saml2:3.0.5:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "auth0", "version": "3.0.5"}

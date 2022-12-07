@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--5908a04b-eb04-553b-ab5b-74dc994d4986", "name": "PostgreSQL Postgresql-common 98", "cpe": "cpe:2.3:a:postgresql:postgresql-common:98:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "postgresql", "version": "98"}

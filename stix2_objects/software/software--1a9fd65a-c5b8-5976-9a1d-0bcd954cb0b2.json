@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--1a9fd65a-c5b8-5976-9a1d-0bcd954cb0b2", "name": "NetApp Clustered Data ONTAP 8.2.4 Patch 5", "cpe": "cpe:2.3:a:netapp:clustered_data_ontap:8.2.4:p5:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "netapp", "version": "8.2.4"}

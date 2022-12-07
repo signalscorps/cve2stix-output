@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--ae2840de-8ceb-5bac-905f-226707f1217e", "name": "NVIDIA GPU Driver 304.131", "cpe": "cpe:2.3:a:nvidia:gpu_driver:304.131:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "nvidia", "version": "304.131"}

@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--5aee91c3-2922-5014-bf9e-49fbf2db24e5", "name": "VMware ESXi 6.0 Update 3", "cpe": "cpe:2.3:o:vmware:esxi:6.0:u3:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "vmware", "version": "6.0"}

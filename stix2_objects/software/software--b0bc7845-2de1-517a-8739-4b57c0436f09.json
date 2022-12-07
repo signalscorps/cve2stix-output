@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--b0bc7845-2de1-517a-8739-4b57c0436f09", "name": "redis-store 0.3.7", "cpe": "cpe:2.3:a:redis-store:redis-store:0.3.7:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "redis-store", "version": "0.3.7"}

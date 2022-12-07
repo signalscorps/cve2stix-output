@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--6a94a2e9-41d3-5841-9626-85c4fad21ef3", "name": "node-postgres pg 0.8.0 for Node.js", "cpe": "cpe:2.3:a:node-postgres:pg:0.8.0:*:*:*:*:node.js:*:*", "languages": ["en_US"], "vendor": "node-postgres", "version": "0.8.0"}

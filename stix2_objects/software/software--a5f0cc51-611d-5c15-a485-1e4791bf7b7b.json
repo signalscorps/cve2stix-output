@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--a5f0cc51-611d-5c15-a485-1e4791bf7b7b", "name": "Haxe 1.12 for Node.js", "cpe": "cpe:2.3:a:haxe:haxe:1.12:*:*:*:*:node.js:*:*", "languages": ["en_US"], "vendor": "haxe", "version": "1.12"}

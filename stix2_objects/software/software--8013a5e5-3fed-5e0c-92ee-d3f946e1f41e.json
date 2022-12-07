@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--8013a5e5-3fed-5e0c-92ee-d3f946e1f41e", "name": "SonarSource SonarQube Scanner 2.2 for Jenkins", "cpe": "cpe:2.3:a:sonarsource:sonarqube_scanner:2.2:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "sonarsource", "version": "2.2"}

@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--d2c691fa-337c-5fd3-8575-5a37b9934ba3", "name": "Microsoft SQL Server 2016 Service Pack 2 on x64", "cpe": "cpe:2.3:a:microsoft:sql_server:2016:sp2:*:*:*:*:x64:*", "languages": ["en_US"], "vendor": "microsoft", "version": "2016"}

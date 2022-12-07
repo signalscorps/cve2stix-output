@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--ca5a255f-b674-57ab-954f-d282b54e337e", "name": "NVIDIA GPU Driver 358.87", "cpe": "cpe:2.3:a:nvidia:gpu_driver:358.87:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "nvidia", "version": "358.87"}

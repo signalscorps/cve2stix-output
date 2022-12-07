@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--dde29608-1e32-54bb-b529-0c805124098e", "name": "NetApp Clustered Data ONTAP 9.3 Release Candidate 1", "cpe": "cpe:2.3:a:netapp:clustered_data_ontap:9.3:rc1:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "netapp", "version": "9.3"}

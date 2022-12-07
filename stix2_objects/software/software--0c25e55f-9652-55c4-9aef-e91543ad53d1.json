@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--0c25e55f-9652-55c4-9aef-e91543ad53d1", "name": "PHP Captcha Securimage 3.6.1", "cpe": "cpe:2.3:a:phpcaptcha:securimage:3.6.1:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "phpcaptcha", "version": "3.6.1"}

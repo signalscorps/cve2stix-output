@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--a4434d54-f3ea-5f68-89e7-205f398f1179", "name": "Anchore Container Image Scanner 1.0.3 for Jenkins", "cpe": "cpe:2.3:a:anchore:container_image_scanner:1.0.3:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "anchore", "version": "1.0.3"}

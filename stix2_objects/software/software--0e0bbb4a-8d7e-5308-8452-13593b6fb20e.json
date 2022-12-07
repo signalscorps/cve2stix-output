@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--0e0bbb4a-8d7e-5308-8452-13593b6fb20e", "name": "Red Hat RHQ Mongo DB Drift Server", "cpe": "cpe:2.3:a:redhat:rhq_mongo_db_drift_server:-:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "redhat", "version": "-"}

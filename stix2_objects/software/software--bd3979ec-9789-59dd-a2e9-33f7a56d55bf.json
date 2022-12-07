@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--bd3979ec-9789-59dd-a2e9-33f7a56d55bf", "name": "Search Guard 1 for Kibana", "cpe": "cpe:2.3:a:search-guard:search_guard:1:*:*:*:*:kibana:*:*", "languages": ["en_US"], "vendor": "search-guard", "version": "1"}

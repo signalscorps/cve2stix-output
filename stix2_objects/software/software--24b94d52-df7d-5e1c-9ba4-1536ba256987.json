@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--24b94d52-df7d-5e1c-9ba4-1536ba256987", "name": "Debian Lintian 1.23.15", "cpe": "cpe:2.3:a:debian:lintian:1.23.15:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "debian", "version": "1.23.15"}

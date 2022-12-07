@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--da60738c-c29c-5555-99b5-f89180b7a0b8", "name": "Fluentd 0.10.15", "cpe": "cpe:2.3:a:fluentd:fluentd:0.10.15:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "fluentd", "version": "0.10.15"}

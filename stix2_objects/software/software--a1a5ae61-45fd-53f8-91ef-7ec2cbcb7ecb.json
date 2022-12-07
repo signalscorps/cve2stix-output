@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--a1a5ae61-45fd-53f8-91ef-7ec2cbcb7ecb", "name": "PHP gettext Project PHP gettext 1.0.7", "cpe": "cpe:2.3:a:php-gettext_project:php-gettext:1.0.7:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "php-gettext_project", "version": "1.0.7"}

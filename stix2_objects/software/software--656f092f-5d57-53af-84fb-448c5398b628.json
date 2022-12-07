@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--656f092f-5d57-53af-84fb-448c5398b628", "name": "VMware vSphere ESXi 6.0 600-201810001", "cpe": "cpe:2.3:o:vmware:vsphere_esxi:6.0:600-201810001:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "vmware", "version": "6.0"}

@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--b0f17eb0-23c8-5a05-ad9e-b8072523eae0", "name": "pfSense 2.2.6 Community Edition", "cpe": "cpe:2.3:a:pfsense:pfsense:2.2.6:*:*:*:community:*:*:*", "languages": ["en_US"], "vendor": "pfsense", "version": "2.2.6"}

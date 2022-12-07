@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--ca8326f8-a35f-5f9c-90b6-e82c4d35eb7b", "name": "Google Kubernetes Engine 0.6.2 for Jenkins", "cpe": "cpe:2.3:a:google:kubernetes_engine:0.6.2:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "google", "version": "0.6.2"}

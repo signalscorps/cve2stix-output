@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--08c5c3d8-65ff-55fa-bb5d-aae84bc1ded3", "name": "ioBroker iobroker.admin for Node.js", "cpe": "cpe:2.3:a:iobroker:iobroker.admin:-:*:*:*:*:node.js:*:*", "languages": ["en_US"], "vendor": "iobroker", "version": "-"}

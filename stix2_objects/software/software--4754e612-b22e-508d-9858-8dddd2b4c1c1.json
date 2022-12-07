@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--4754e612-b22e-508d-9858-8dddd2b4c1c1", "name": "OpenStack Cinder 11.0.0 Beta 1", "cpe": "cpe:2.3:a:openstack:cinder:11.0.0:beta1:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "openstack", "version": "11.0.0"}

@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--6b1ff857-ece7-53e6-88f0-d031d5b7ef1b", "name": "Google Cloud Messaging Notification 1.0 for Jenkins", "cpe": "cpe:2.3:a:google:cloud_messaging_notification:1.0:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "google", "version": "1.0"}
