@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--d13ce301-9a7f-5176-896b-7ad99a68fd2a", "name": "Samba Volume Service 1.0.0 for Pivotal Cloud Foundry", "cpe": "cpe:2.3:a:samba:volume_service:1.0.0:*:*:*:*:pivotal_cloud_foundry:*:*", "languages": ["en_US"], "vendor": "samba", "version": "1.0.0"}

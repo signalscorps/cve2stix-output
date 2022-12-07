@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--dc046a94-0681-5a92-805a-df542f86c61a", "name": "STMicroelectronics STM32F1", "cpe": "cpe:2.3:h:st:stm32f1:-:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "st", "version": "-"}

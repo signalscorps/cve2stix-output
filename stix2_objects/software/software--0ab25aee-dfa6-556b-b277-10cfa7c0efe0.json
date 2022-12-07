@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--0ab25aee-dfa6-556b-b277-10cfa7c0efe0", "name": "Docker 19.03.7 Community Edition", "cpe": "cpe:2.3:a:docker:docker:19.03.7:*:*:*:community:*:*:*", "languages": ["en_US"], "vendor": "docker", "version": "19.03.7"}

@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--4e129571-72ed-5075-93aa-d929e33759fc", "name": "Contrastsecurity Service Broker 1.0.4 for Pivotal Cloud Foundry", "cpe": "cpe:2.3:a:contrastsecurity:service_broker:1.0.4:*:*:*:*:pivotal_cloud_foundry:*:*", "languages": ["en_US"], "vendor": "contrastsecurity", "version": "1.0.4"}

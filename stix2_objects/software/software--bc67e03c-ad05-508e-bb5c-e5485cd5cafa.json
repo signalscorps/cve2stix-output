@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--bc67e03c-ad05-508e-bb5c-e5485cd5cafa", "name": "Siemens SIMATIC WinCC 7.5.1", "cpe": "cpe:2.3:a:siemens:simatic_wincc:7.5.1:-:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "siemens", "version": "7.5.1"}

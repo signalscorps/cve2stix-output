@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--dbb9a05b-64cd-5122-8f39-8be7f67e2b64", "name": "TIBCO Businessworks Buildpack 2.3.2 Container Edition for Pivotal Cloud Foundry", "cpe": "cpe:2.3:a:tibco:businessworks_buildpack:2.3.2:*:*:*:container:pivotal_cloud_foundry:*:*", "languages": ["en_US"], "vendor": "tibco", "version": "2.3.2"}

@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--4e266e6f-dc0c-5c41-b8a5-1c983f269d30", "name": "ICU Project International Components for Unicode 61 Release Candidate for C/C++", "cpe": "cpe:2.3:a:icu-project:international_components_for_unicode:61:rc:*:*:*:c\\/c\\+\\+:*:*", "languages": ["en_US"], "vendor": "icu-project", "version": "61"}

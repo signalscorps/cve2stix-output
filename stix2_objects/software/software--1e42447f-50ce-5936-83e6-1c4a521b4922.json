@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--1e42447f-50ce-5936-83e6-1c4a521b4922", "name": "Newrelic Service Broker 1.12.64 for Pivotal Cloud Foundry", "cpe": "cpe:2.3:a:newrelic:service_broker:1.12.64:*:*:*:*:pivotal_cloud_foundry:*:*", "languages": ["en_US"], "vendor": "newrelic", "version": "1.12.64"}

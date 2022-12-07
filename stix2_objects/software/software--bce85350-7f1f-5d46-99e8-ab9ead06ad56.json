@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--bce85350-7f1f-5d46-99e8-ab9ead06ad56", "name": "Suse Linux Enterprise Server 15 for LTSS", "cpe": "cpe:2.3:o:suse:linux_enterprise_server:15:*:*:*:*:ltss:*:*", "languages": ["en_US"], "vendor": "suse", "version": "15"}

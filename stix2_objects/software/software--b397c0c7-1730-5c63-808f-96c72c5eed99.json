@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--b397c0c7-1730-5c63-808f-96c72c5eed99", "name": "Solace Pubsub+ 2.2.1 for Pivotal Cloud Foundry", "cpe": "cpe:2.3:a:solace:pubsub\\+:2.2.1:*:*:*:*:pivotal_cloud_foundry:*:*", "languages": ["en_US"], "vendor": "solace", "version": "2.2.1"}

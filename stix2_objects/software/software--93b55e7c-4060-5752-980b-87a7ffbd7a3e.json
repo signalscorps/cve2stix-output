@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--93b55e7c-4060-5752-980b-87a7ffbd7a3e", "name": "Siemens SIMATIC S7-1500 CPU 1515-2 PN Firmware 2.5", "cpe": "cpe:2.3:o:siemens:simatic_s7-1500_cpu_1515-2_pn_firmware:2.5:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "siemens", "version": "2.5"}

@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--1ded27b9-7219-505a-805f-7341a10ca461", "name": "Wavefront Wavefront By Vmware Nozzle 1.0.0 for Pivotal Cloud Foundry", "cpe": "cpe:2.3:a:wavefront:wavefront_by_vmware_nozzle:1.0.0:*:*:*:*:pivotal_cloud_foundry:*:*", "languages": ["en_US"], "vendor": "wavefront", "version": "1.0.0"}

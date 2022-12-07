@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--d89cd069-27f9-5295-9268-81e8cd42f315", "name": "EMC Data Protection Advisor 5.7 Service Pack 1", "cpe": "cpe:2.3:a:emc:data_protection_advisor:5.7:sp1:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "emc", "version": "5.7"}

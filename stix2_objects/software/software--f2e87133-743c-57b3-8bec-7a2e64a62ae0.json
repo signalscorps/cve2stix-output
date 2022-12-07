@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--f2e87133-743c-57b3-8bec-7a2e64a62ae0", "name": "mod_auth_mellon Project mod_auth_mellon 0.6.0 for Apache", "cpe": "cpe:2.3:a:mod_auth_mellon_project:mod_auth_mellon:0.6.0:-:*:*:*:apache:*:*", "languages": ["en_US"], "vendor": "mod_auth_mellon_project", "version": "0.6.0"}

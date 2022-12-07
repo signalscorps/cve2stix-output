@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--28f5f0b5-cc9f-5392-9f87-3ffaea5331b2", "name": "Puppet Continuous Delivery 3.0.0 for Puppet Enterprise", "cpe": "cpe:2.3:a:puppet:continuous_delivery:3.0.0:*:*:*:*:puppet_enterprise:*:*", "languages": ["en_US"], "vendor": "puppet", "version": "3.0.0"}

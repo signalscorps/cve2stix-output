@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--05b706da-7b06-5687-80b3-bc3a90c72eec", "name": "Google Google Cloud Platform Service Broker 4.0.0 for Pivotal Cloud Foundry", "cpe": "cpe:2.3:a:google:google_cloud_platform_service_broker:4.0.0:*:*:*:*:pivotal_cloud_foundry:*:*", "languages": ["en_US"], "vendor": "google", "version": "4.0.0"}

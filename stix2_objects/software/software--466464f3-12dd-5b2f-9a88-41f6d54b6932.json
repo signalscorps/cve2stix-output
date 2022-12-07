@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--466464f3-12dd-5b2f-9a88-41f6d54b6932", "name": "Newrelic Nozzle 1.1.17 for Pivotal Cloud Foundry", "cpe": "cpe:2.3:a:newrelic:nozzle:1.1.17:*:*:*:*:pivotal_cloud_foundry:*:*", "languages": ["en_US"], "vendor": "newrelic", "version": "1.1.17"}

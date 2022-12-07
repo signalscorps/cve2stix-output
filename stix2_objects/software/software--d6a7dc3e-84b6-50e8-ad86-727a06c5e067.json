@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--d6a7dc3e-84b6-50e8-ad86-727a06c5e067", "name": "Splunk Nozzle 1.0.2 for Pivotal Cloud Foundry", "cpe": "cpe:2.3:a:splunk:nozzle:1.0.2:*:*:*:*:pivotal_cloud_foundry:*:*", "languages": ["en_US"], "vendor": "splunk", "version": "1.0.2"}

@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--8bda0508-3561-544e-b728-a4c1067abd6c", "name": "Palo Alto Networks VM-Series 1.0 for Azure", "cpe": "cpe:2.3:a:paloaltonetworks:vm-series:1.0:*:*:*:*:azure:*:*", "languages": ["en_US"], "vendor": "paloaltonetworks", "version": "1.0"}

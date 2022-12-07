@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--6fd48a76-5b83-5ef7-b2cb-ae78c32d9fe9", "name": "Appdynamics Platform Monitoring 4.6.103 for Pivotal Cloud Foundry", "cpe": "cpe:2.3:a:appdynamics:platform_monitoring:4.6.103:*:*:*:*:pivotal_cloud_foundry:*:*", "languages": ["en_US"], "vendor": "appdynamics", "version": "4.6.103"}

@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--541ee353-9a21-5748-be3f-06a40befbe07", "name": "Jenkins Code Coverage API 1.0.13 for Jenkins", "cpe": "cpe:2.3:a:jenkins:code_coverage_api:1.0.13:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "1.0.13"}

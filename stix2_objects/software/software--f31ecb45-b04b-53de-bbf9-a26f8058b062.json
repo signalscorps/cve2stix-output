@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--f31ecb45-b04b-53de-bbf9-a26f8058b062", "name": "Sumologic Nozzle 1.0.0 for Pivotal Cloud Foundry", "cpe": "cpe:2.3:a:sumologic:nozzle:1.0.0:*:*:*:*:pivotal_cloud_foundry:*:*", "languages": ["en_US"], "vendor": "sumologic", "version": "1.0.0"}

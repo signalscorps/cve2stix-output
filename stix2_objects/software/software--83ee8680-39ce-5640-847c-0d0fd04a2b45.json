@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--83ee8680-39ce-5640-847c-0d0fd04a2b45", "name": "Apigee Edge Service Broker 3.1.2 for Pivotal Cloud Foundry", "cpe": "cpe:2.3:a:apigee:edge_service_broker:3.1.2:*:*:*:*:pivotal_cloud_foundry:*:*", "languages": ["en_US"], "vendor": "apigee", "version": "3.1.2"}

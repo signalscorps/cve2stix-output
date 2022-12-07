@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--494c48c1-410d-5d2b-8a3e-ddd098236627", "name": "Pagerduty Service Broker 1.2.0 for Pivotal Cloud Foundry", "cpe": "cpe:2.3:a:pagerduty:service_broker:1.2.0:*:*:*:*:pivotal_cloud_foundry:*:*", "languages": ["en_US"], "vendor": "pagerduty", "version": "1.2.0"}

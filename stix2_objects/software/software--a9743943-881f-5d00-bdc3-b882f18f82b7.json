@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--a9743943-881f-5d00-bdc3-b882f18f82b7", "name": "Pivotal Cloud Foundry Command Line Interface 6.29.2", "cpe": "cpe:2.3:a:pivotal:cloud_foundry_command_line_interface:6.29.2:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "pivotal", "version": "6.29.2"}

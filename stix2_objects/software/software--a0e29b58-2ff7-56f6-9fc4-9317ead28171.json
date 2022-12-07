@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--a0e29b58-2ff7-56f6-9fc4-9317ead28171", "name": "Synopsys Seeker Iast Service Broker - for Pivotal Cloud Foundry", "cpe": "cpe:2.3:a:synopsys:seeker_iast_service_broker:-:*:*:*:*:pivotal_cloud_foundry:*:*", "languages": ["en_US"], "vendor": "synopsys", "version": "-"}

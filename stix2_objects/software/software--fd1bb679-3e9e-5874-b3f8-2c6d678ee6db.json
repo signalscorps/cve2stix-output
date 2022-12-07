@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--fd1bb679-3e9e-5874-b3f8-2c6d678ee6db", "name": "Tendermint 0.22.0 Release Candidate 1", "cpe": "cpe:2.3:a:tendermint:tendermint:0.22.0:rc1:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "tendermint", "version": "0.22.0"}

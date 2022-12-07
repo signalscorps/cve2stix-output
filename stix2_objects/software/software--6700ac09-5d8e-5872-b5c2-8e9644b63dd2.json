@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--6700ac09-5d8e-5872-b5c2-8e9644b63dd2", "name": "NVIDIA Tesla", "cpe": "cpe:2.3:h:nvidia:tesla:-:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "nvidia", "version": "-"}

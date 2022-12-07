@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--70d943c7-1cdf-50d9-8068-950e22120cca", "name": "Forgerock Service Broker - for Pivotal Cloud Foundry", "cpe": "cpe:2.3:a:forgerock:service_broker:-:*:*:*:*:pivotal_cloud_foundry:*:*", "languages": ["en_US"], "vendor": "forgerock", "version": "-"}

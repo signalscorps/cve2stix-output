@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--52cbfb04-e7b7-587a-a6b0-0c46040c9bfc", "name": "Microsoft Azure Log Analytics Nozzle - for Pivotal Cloud Foundry", "cpe": "cpe:2.3:a:microsoft:azure_log_analytics_nozzle:-:*:*:*:*:pivotal_cloud_foundry:*:*", "languages": ["en_US"], "vendor": "microsoft", "version": "-"}

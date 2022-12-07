@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--1587d102-b0ad-5249-80f9-230116682e1f", "name": "Palo Alto Networks GlobalProtect 5.1 for Linux", "cpe": "cpe:2.3:a:paloaltonetworks:globalprotect:5.1:*:*:*:*:linux:*:*", "languages": ["en_US"], "vendor": "paloaltonetworks", "version": "5.1"}

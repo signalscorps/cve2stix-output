@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--b480ca95-6861-53b9-9829-962b19582585", "name": "McAfee Endpoint Security (ENS) 10.5.4 for Windows", "cpe": "cpe:2.3:a:mcafee:endpoint_security:10.5.4:*:*:*:*:windows:*:*", "languages": ["en_US"], "vendor": "mcafee", "version": "10.5.4"}

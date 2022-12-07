@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--fb7f9373-41a0-591f-a35a-f97c8dcf4bff", "name": "Pivotal Credhub Service Broker For Pcf 1.2.0", "cpe": "cpe:2.3:a:pivotal:credhub_service_broker_for_pcf:1.2.0:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "pivotal", "version": "1.2.0"}

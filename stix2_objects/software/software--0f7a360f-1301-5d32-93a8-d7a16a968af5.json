@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--0f7a360f-1301-5d32-93a8-d7a16a968af5", "name": "Microsoft Windows Server 2012 R2 Service Pack 1 on X64", "cpe": "cpe:2.3:o:microsoft:windows_server_2012:r2:sp1:*:*:*:*:x64:*", "languages": ["en_US"], "vendor": "microsoft", "version": "r2"}

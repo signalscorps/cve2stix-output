@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--d3b19b08-02ab-55b9-ad4a-fd97bda0c969", "name": "Siemens SIMATIC WinCC 13 Service Pack 1", "cpe": "cpe:2.3:a:siemens:simatic_wincc:13:sp1:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "siemens", "version": "13"}

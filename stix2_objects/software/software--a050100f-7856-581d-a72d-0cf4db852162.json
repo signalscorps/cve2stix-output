@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--a050100f-7856-581d-a72d-0cf4db852162", "name": "Pivotal Single Sign-on 1.8.3 for Cloud Foundry", "cpe": "cpe:2.3:a:pivotal:single_sign-on:1.8.3:*:*:*:*:cloud_foundry:*:*", "languages": ["en_US"], "vendor": "pivotal", "version": "1.8.3"}

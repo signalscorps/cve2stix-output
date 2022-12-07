@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--d1d32513-b0a3-5031-979d-948b0b238c19", "name": "Datadoghq Application Monitoring 0.9.1 for Pivotal Cloud Foundry", "cpe": "cpe:2.3:a:datadoghq:application_monitoring:0.9.1:*:*:*:*:pivotal_cloud_foundry:*:*", "languages": ["en_US"], "vendor": "datadoghq", "version": "0.9.1"}

@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--8a9845d9-dab5-5efa-a6bf-8418e478b8fe", "name": "Couchbase Server 5.5.1", "cpe": "cpe:2.3:a:couchbase:couchbase_server:5.5.1:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "couchbase", "version": "5.5.1"}

@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--9878afd0-ca81-5ddc-88ea-80de089b690f", "name": "Newrelic Dotnet Extension Buildpack 1.1.0 for Pivotal Cloud Foundry", "cpe": "cpe:2.3:a:newrelic:dotnet_extension_buildpack:1.1.0:*:*:*:*:pivotal_cloud_foundry:*:*", "languages": ["en_US"], "vendor": "newrelic", "version": "1.1.0"}

@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--0edcb31a-6be3-5781-88df-437c90d9713a", "name": "Jenkins Copr 0.3 for Jenkins", "cpe": "cpe:2.3:a:jenkins:copr:0.3:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "0.3"}

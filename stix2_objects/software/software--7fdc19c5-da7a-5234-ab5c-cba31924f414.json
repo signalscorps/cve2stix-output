@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--7fdc19c5-da7a-5234-ab5c-cba31924f414", "name": "Jenkins AWSEB Deployment 0.0.2 for Jenkins", "cpe": "cpe:2.3:a:jenkins:awseb_deployment:0.0.2:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "0.0.2"}

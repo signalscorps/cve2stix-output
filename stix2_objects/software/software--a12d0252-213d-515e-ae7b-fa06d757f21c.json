@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--a12d0252-213d-515e-ae7b-fa06d757f21c", "name": "HashiCorp Sentinel 0.10.0", "cpe": "cpe:2.3:a:hashicorp:sentinel:0.10.0:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "hashicorp", "version": "0.10.0"}

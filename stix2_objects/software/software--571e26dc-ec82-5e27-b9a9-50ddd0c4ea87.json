@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--571e26dc-ec82-5e27-b9a9-50ddd0c4ea87", "name": "Samba Rsync 3.0.3 Pre 1", "cpe": "cpe:2.3:a:samba:rsync:3.0.3:pre1:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "samba", "version": "3.0.3"}

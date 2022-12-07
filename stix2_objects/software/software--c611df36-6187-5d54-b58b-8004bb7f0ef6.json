@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--c611df36-6187-5d54-b58b-8004bb7f0ef6", "name": "Yubico YubiKey One Time Password Validation Server 2.19", "cpe": "cpe:2.3:a:yubico:yubikey_one_time_password_validation_server:2.19:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "yubico", "version": "2.19"}

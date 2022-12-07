@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--c0aa1633-1db7-57c3-a6d1-133b7be2074c", "name": "Datastax Enterprise Service Broker - for Pivotal Cloud Foundry", "cpe": "cpe:2.3:a:datastax:enterprise_service_broker:-:*:*:*:*:pivotal_cloud_foundry:*:*", "languages": ["en_US"], "vendor": "datastax", "version": "-"}

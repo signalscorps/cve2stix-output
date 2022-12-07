@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--7ac7b973-c757-5bad-a278-66af16d4bb7f", "name": "Appdynamics Application Analytics 4.5.624 for Pivotal Cloud Foundry", "cpe": "cpe:2.3:a:appdynamics:application_analytics:4.5.624:*:*:*:*:pivotal_cloud_foundry:*:*", "languages": ["en_US"], "vendor": "appdynamics", "version": "4.5.624"}

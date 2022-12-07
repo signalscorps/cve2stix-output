@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--6177fc5e-2c44-5e30-ab79-6bd1dc5485eb", "name": "Snyk Service Broker 0.0.2 for Pivotal Cloud Foundry", "cpe": "cpe:2.3:a:snyk:service_broker:0.0.2:*:*:*:*:pivotal_cloud_foundry:*:*", "languages": ["en_US"], "vendor": "snyk", "version": "0.0.2"}

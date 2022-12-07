@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--ecde0bd2-ad43-53e0-a6ca-4ac225a78c5a", "name": "NVIDIA Quadro", "cpe": "cpe:2.3:h:nvidia:quadro:-:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "nvidia", "version": "-"}

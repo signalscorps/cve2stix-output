@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--7063f07f-bda8-5446-a8a6-6d5afe4abdf4", "name": "Samba Rsync 2.5.5 Release Candidate 1", "cpe": "cpe:2.3:a:samba:rsync:2.5.5:rc1:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "samba", "version": "2.5.5"}

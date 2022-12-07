@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--4ea874ec-e2a3-570b-b057-a077ec3617f5", "name": "Cyberark Conjur Service Broker 0.3.3 for Pivotal Cloud Foundry", "cpe": "cpe:2.3:a:cyberark:conjur_service_broker:0.3.3:*:*:*:*:pivotal_cloud_foundry:*:*", "languages": ["en_US"], "vendor": "cyberark", "version": "0.3.3"}

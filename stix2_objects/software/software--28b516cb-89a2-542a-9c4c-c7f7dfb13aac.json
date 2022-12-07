@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--28b516cb-89a2-542a-9c4c-c7f7dfb13aac", "name": "Bluemedora Nozzle 1.3.3 for Pivotal Cloud Foundry", "cpe": "cpe:2.3:a:bluemedora:nozzle:1.3.3:*:*:*:*:pivotal_cloud_foundry:*:*", "languages": ["en_US"], "vendor": "bluemedora", "version": "1.3.3"}

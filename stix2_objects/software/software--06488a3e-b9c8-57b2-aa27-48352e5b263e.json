@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--06488a3e-b9c8-57b2-aa27-48352e5b263e", "name": "IBM Websphere Liberty 3.11.0 for Pivotal Cloud Foundry", "cpe": "cpe:2.3:a:ibm:websphere_liberty:3.11.0:*:*:*:*:pivotal_cloud_foundry:*:*", "languages": ["en_US"], "vendor": "ibm", "version": "3.11.0"}

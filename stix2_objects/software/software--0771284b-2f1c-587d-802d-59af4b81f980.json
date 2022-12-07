@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--0771284b-2f1c-587d-802d-59af4b81f980", "name": "SAP S/4HANA 100 for Financial Products Subledger", "cpe": "cpe:2.3:a:sap:s\\/4hana:100:*:*:*:*:financial_products_subledger:*:*", "languages": ["en_US"], "vendor": "sap", "version": "100"}

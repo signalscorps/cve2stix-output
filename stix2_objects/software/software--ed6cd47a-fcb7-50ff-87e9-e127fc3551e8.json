@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--ed6cd47a-fcb7-50ff-87e9-e127fc3551e8", "name": "Jitsi Meet stable-4384-1 for Docker", "cpe": "cpe:2.3:a:jitsi:meet:stable-4384-1:*:*:*:*:docker:*:*", "languages": ["en_US"], "vendor": "jitsi", "version": "stable-4384-1"}

@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--5e26d43a-2b8b-5a4f-868a-7959b15dd4d8", "name": "Golang Package SSH 0.0.0-20200220183623-bac4c82f6975", "cpe": "cpe:2.3:a:golang:package_ssh:0.0.0-20200220183623-bac4c82f6975:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "golang", "version": "0.0.0-20200220183623-bac4c82f6975"}

@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--31b7f552-c147-5ed3-93a7-124e6f8bb327", "name": "Signalsciences Service Broker 0.0.28 for Pivotal Cloud Foundry", "cpe": "cpe:2.3:a:signalsciences:service_broker:0.0.28:*:*:*:*:pivotal_cloud_foundry:*:*", "languages": ["en_US"], "vendor": "signalsciences", "version": "0.0.28"}

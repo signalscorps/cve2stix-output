@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--cfe19eaa-49f2-564c-a2fe-aefc0a645e4f", "name": "KongHQ Docker-kong 1.2.0 Release Candidate 2 for Kong", "cpe": "cpe:2.3:a:konghq:docker-kong:1.2.0:rc2:*:*:*:kong:*:*", "languages": ["en_US"], "vendor": "konghq", "version": "1.2.0"}

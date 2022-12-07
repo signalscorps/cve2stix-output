@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--1c76be50-c8ff-5d9e-aa8a-a3dcd5c51d2a", "name": "Intel Dynamic Application Loader 14.0.0 for Converged Security Management Engine Firmware", "cpe": "cpe:2.3:a:intel:dynamic_application_loader:14.0.0:*:*:*:*:converged_security_management_engine_firmware:*:*", "languages": ["en_US"], "vendor": "intel", "version": "14.0.0"}

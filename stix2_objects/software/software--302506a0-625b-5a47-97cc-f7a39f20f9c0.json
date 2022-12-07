@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--302506a0-625b-5a47-97cc-f7a39f20f9c0", "name": "Auth0 Login by Auth0 1.2.7 for WordPress", "cpe": "cpe:2.3:a:auth0:login_by_auth0:1.2.7:*:*:*:*:wordpress:*:*", "languages": ["en_US"], "vendor": "auth0", "version": "1.2.7"}

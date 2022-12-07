@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--46ce5bec-dddf-525d-9d76-d4b66e2b771a", "name": "Jenkins Gatling 1.2.2 for Jenkins", "cpe": "cpe:2.3:a:jenkins:gatling:1.2.2:*:*:*:*:jenkins:*:*", "languages": ["en_US"], "vendor": "jenkins", "version": "1.2.2"}

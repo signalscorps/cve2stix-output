@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--2c3f9cf1-6cbe-54a9-8272-dbb97d7cafb3", "name": "McAfee Endpoint Security (ENS) 10.5.1 Hotfix 2 for Windows", "cpe": "cpe:2.3:a:mcafee:endpoint_security:10.5.1:hotfix2:*:*:*:windows:*:*", "languages": ["en_US"], "vendor": "mcafee", "version": "10.5.1"}

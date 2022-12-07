@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--dfe67917-3d84-5db7-a048-f6cdd436f9f4", "name": "Puppet Cisco IOS 0.1.0 for Puppet", "cpe": "cpe:2.3:a:puppet:cisco_ios:0.1.0:*:*:*:*:puppet:*:*", "languages": ["en_US"], "vendor": "puppet", "version": "0.1.0"}

@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--1bca2917-143f-5a65-bae0-784cdfbeb772", "name": "The Linux Foundation Argo Continuous Delivery 0.6.0 for Kubernetes", "cpe": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:0.6.0:*:*:*:*:kubernetes:*:*", "languages": ["en_US"], "vendor": "linuxfoundation", "version": "0.6.0"}

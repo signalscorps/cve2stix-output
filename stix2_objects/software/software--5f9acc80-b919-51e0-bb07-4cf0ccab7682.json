@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--5f9acc80-b919-51e0-bb07-4cf0ccab7682", "name": "Dynatrace Service Broker 1.2.3 for Pivotal Cloud Foundry", "cpe": "cpe:2.3:a:dynatrace:service_broker:1.2.3:*:*:*:*:pivotal_cloud_foundry:*:*", "languages": ["en_US"], "vendor": "dynatrace", "version": "1.2.3"}

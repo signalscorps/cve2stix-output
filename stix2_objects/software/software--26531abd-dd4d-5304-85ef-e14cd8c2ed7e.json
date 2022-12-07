@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--26531abd-dd4d-5304-85ef-e14cd8c2ed7e", "name": "Suse Linux Enterprise Server 15 for SAP", "cpe": "cpe:2.3:o:suse:linux_enterprise_server:15:*:*:*:*:sap:*:*", "languages": ["en_US"], "vendor": "suse", "version": "15"}

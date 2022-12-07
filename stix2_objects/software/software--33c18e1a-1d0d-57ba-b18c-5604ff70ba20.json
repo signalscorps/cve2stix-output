@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--33c18e1a-1d0d-57ba-b18c-5604ff70ba20", "name": "Microsoft Azure Service Broker 1.4.1 for Pivotal Cloud Foundry", "cpe": "cpe:2.3:a:microsoft:azure_service_broker:1.4.1:*:*:*:*:pivotal_cloud_foundry:*:*", "languages": ["en_US"], "vendor": "microsoft", "version": "1.4.1"}

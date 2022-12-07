@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--eef65484-da5e-5980-b96e-9de9bddfae12", "name": "Pivotal Pivotal Cloud Foundry Service Broker - for Aws", "cpe": "cpe:2.3:a:pivotal:pivotal_cloud_foundry_service_broker:-:*:*:*:*:aws:*:*", "languages": ["en_US"], "vendor": "pivotal", "version": "-"}

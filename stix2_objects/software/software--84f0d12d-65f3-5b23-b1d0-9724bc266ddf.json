@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--84f0d12d-65f3-5b23-b1d0-9724bc266ddf", "name": "Percona XtraBackup 8.0", "cpe": "cpe:2.3:a:percona:xtrabackup:8.0:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "percona", "version": "8.0"}

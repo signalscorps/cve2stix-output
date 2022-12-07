@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--c8d51be6-cbd5-5aab-ad64-266dc338138f", "name": "Symantec Data Loss Prevention (DLP) Enforce/Detection Servers 11.6.1 for Windows", "cpe": "cpe:2.3:a:symantec:data_loss_prevention_enforce\\/detection_servers:11.6.1:*:*:*:*:windows:*:*", "languages": ["en_US"], "vendor": "symantec", "version": "11.6.1"}

@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--7e32fefa-9c5f-513e-9e8c-52d58efe62bc", "name": "MongoDB Enterprise Kubernetes Operator 0.5", "cpe": "cpe:2.3:a:mongodb:mongodb_enterprise_kubernetes_operator:0.5:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "mongodb", "version": "0.5"}

@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--99449a13-c036-58c9-b571-a0d20655cc51", "name": "Yugabyte DB Enterprise 1.1.8 for Pivotal Cloud Foundry", "cpe": "cpe:2.3:a:yugabyte:db_enterprise:1.1.8:*:*:*:*:pivotal_cloud_foundry:*:*", "languages": ["en_US"], "vendor": "yugabyte", "version": "1.1.8"}
