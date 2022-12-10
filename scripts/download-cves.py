@@ -27,6 +27,7 @@ CREDENTIALS_FILE_PATH = REPO_FOLDER / "credentials.yml"
 
 STIX2_OBJECTS_FOLDER = REPO_FOLDER / "stix2_objects"
 STIX2_BUNDLES_FOLDER = REPO_FOLDER / "stix2_bundles"
+STIX2_ENRICHMENTS_FOLDER = REPO_FOLDER / "stix2_enrichments"
 
 repo = git.Repo(REPO_FOLDER)
 repo.config_writer().set_value("user", "name", "Signals Corps Bot").release()
@@ -60,6 +61,7 @@ while start_date < cve_end_date:
         end_date=end_date,
         stix2_objects_folder=STIX2_OBJECTS_FOLDER,
         stix2_bundles_folder=STIX2_BUNDLES_FOLDER,
+        stix2_enrichments_folder=STIX2_ENRICHMENTS_FOLDER,
         cve_run_mode="download",
         api_key=api_key,
     )
