@@ -43,7 +43,7 @@ jobs:
         NVD_API_KEY: ${{ secrets.NVD_API_KEY }}
     - name: Push commits to repo
       run: |
-        git push origin main
+        git push
 
   backfill-cves:
     needs: backfill-cpes
@@ -84,4 +84,4 @@ jobs:
         NVD_API_KEY: ${{ secrets.NVD_API_KEY }}
     - name: Push commits to repo
       run: |
-        git push origin main
+        git push
