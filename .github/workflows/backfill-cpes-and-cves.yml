@@ -14,7 +14,7 @@ jobs:
 #             - start-date: "2019-01-01"
 #               end-date: "2021-01-01"
             - start-date: "2021-01-01"
-              end-date: "2021-01-07"
+              end-date: "2023-01-01"
           
         fail-fast: true
         max-parallel: 1
@@ -53,9 +53,9 @@ jobs:
           python-version: ["3.7"]
           dates:
             - start-date: "2000-01-01"
-              end-date: "2000-02-01"
-#             - start-date: "2015-01-01"
-#               end-date: "2023-01-01"
+              end-date: "2015-01-01"
+            - start-date: "2015-01-01"
+              end-date: "2023-01-01"
         fail-fast: true
         max-parallel: 1
 
