@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--24ed4dc3-49f9-59fa-9d70-0710e55e54ac", "name": "SELinux Project libsemanage 2.3", "cpe": "cpe:2.3:a:selinuxproject:libsemanage:2.3:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "selinuxproject", "version": "2.3"}

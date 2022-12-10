@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--fca4e3ef-f609-5840-b781-31ea646bb525", "name": "Nokogiri 1.4.4.1 for Ruby", "cpe": "cpe:2.3:a:nokogiri:nokogiri:1.4.4.1:*:*:*:*:ruby:*:*", "languages": ["en_US"], "vendor": "nokogiri", "version": "1.4.4.1"}

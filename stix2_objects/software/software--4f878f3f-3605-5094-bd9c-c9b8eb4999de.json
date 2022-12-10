@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--4f878f3f-3605-5094-bd9c-c9b8eb4999de", "name": "chacha20 Project chacha20 0.1.0 for Rust", "cpe": "cpe:2.3:a:chacha20_project:chacha20:0.1.0:*:*:*:*:rust:*:*", "languages": ["en_US"], "vendor": "chacha20_project", "version": "0.1.0"}

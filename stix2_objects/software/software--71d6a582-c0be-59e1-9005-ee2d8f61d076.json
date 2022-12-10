@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--71d6a582-c0be-59e1-9005-ee2d8f61d076", "name": "Nokogiri 1.5.3 Release Candidate 5 for Ruby", "cpe": "cpe:2.3:a:nokogiri:nokogiri:1.5.3:rc5:*:*:*:ruby:*:*", "languages": ["en_US"], "vendor": "nokogiri", "version": "1.5.3"}

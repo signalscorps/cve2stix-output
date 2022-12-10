@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--5cd410a2-3304-5f69-8893-9b16b2e64e05", "name": "nanorand Project nanorand 0.4.3 for Rust", "cpe": "cpe:2.3:a:nanorand_project:nanorand:0.4.3:*:*:*:*:rust:*:*", "languages": ["en_US"], "vendor": "nanorand_project", "version": "0.4.3"}

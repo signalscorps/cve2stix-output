@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--5f081402-d309-5d3c-8e31-5217c19f0bef", "name": "SELinux Project policycoreutils 2.2.3", "cpe": "cpe:2.3:a:selinuxproject:policycoreutils:2.2.3:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "selinuxproject", "version": "2.2.3"}

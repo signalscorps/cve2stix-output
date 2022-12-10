@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--b984d65c-bf00-5953-95ad-8dff3ffba83c", "name": "Rocket 0.1.4 for Rust", "cpe": "cpe:2.3:a:rocket:rocket:0.1.4:*:*:*:*:rust:*:*", "languages": ["en_US"], "vendor": "rocket", "version": "0.1.4"}

@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--16ed944a-478e-53dc-88a3-c3b6cfd5a48a", "name": "SELinux Project libselinux 2.2.2", "cpe": "cpe:2.3:a:selinuxproject:libselinux:2.2.2:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "selinuxproject", "version": "2.2.2"}

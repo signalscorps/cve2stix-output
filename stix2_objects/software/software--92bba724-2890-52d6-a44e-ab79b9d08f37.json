@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--92bba724-2890-52d6-a44e-ab79b9d08f37", "name": "Tokio tokio-rustls 0.7.2 for Rust", "cpe": "cpe:2.3:a:tokio:tokio-rustls:0.7.2:*:*:*:*:rust:*:*", "languages": ["en_US"], "vendor": "tokio", "version": "0.7.2"}

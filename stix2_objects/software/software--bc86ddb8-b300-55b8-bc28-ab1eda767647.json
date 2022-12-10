@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--bc86ddb8-b300-55b8-bc28-ab1eda767647", "name": "Parse Platform parse-server 4.0.3 for Node.js", "cpe": "cpe:2.3:a:parseplatform:parse-server:4.0.3:*:*:*:*:node.js:*:*", "languages": ["en_US"], "vendor": "parseplatform", "version": "4.0.3"}

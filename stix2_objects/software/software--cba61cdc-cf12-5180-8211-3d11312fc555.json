@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--cba61cdc-cf12-5180-8211-3d11312fc555", "name": "djv Project djv (Dynamic JSON-Schema Validator) for Node.js", "cpe": "cpe:2.3:a:djv_project:djv:-:*:*:*:*:node.js:*:*", "languages": ["en_US"], "vendor": "djv_project", "version": "-"}

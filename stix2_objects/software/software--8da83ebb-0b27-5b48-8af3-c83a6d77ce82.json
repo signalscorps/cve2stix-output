@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--8da83ebb-0b27-5b48-8af3-c83a6d77ce82", "name": "Google FlatBuffers 0.4.0 for Rust", "cpe": "cpe:2.3:a:google:flatbuffers:0.4.0:*:*:*:*:rust:*:*", "languages": ["en_US"], "vendor": "google", "version": "0.4.0"}

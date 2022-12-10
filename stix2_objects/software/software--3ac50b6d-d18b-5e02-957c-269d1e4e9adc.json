@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--3ac50b6d-d18b-5e02-957c-269d1e4e9adc", "name": "Hyper HTTP 0.1.1 for Rust", "cpe": "cpe:2.3:a:hyper:http:0.1.1:*:*:*:*:rust:*:*", "languages": ["en_US"], "vendor": "hyper", "version": "0.1.1"}

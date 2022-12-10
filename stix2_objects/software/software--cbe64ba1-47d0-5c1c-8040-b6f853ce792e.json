@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--cbe64ba1-47d0-5c1c-8040-b6f853ce792e", "name": "Serde CBOR Project Serde CBOR 0.8.0", "cpe": "cpe:2.3:a:serde_cbor_project:serde_cbor:0.8.0:*:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "serde_cbor_project", "version": "0.8.0"}

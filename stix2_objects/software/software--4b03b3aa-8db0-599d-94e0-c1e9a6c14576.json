@@ -1,0 +1,1 @@
+{"type": "software", "spec_version": "2.1", "id": "software--4b03b3aa-8db0-599d-94e0-c1e9a6c14576", "name": "SELinux Project libselinux 3.1 Release Candidate 2", "cpe": "cpe:2.3:a:selinuxproject:libselinux:3.1:rc2:*:*:*:*:*:*", "languages": ["en_US"], "vendor": "selinuxproject", "version": "3.1"}
